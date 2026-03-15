@@ -1,9 +1,166 @@
 {
-  "crawledAt": "2026-03-15T16:41:04.352Z",
+  "crawledAt": "2026-03-15T20:38:18.286Z",
   "totalSources": 70,
-  "totalArticles": 133,
+  "totalArticles": 139,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "TimeCopilot: Automatic time series analysis & pipeline.",
+      "url": "https://pub.towardsai.net/timecopilot-automatic-time-series-analysis-pipeline-0cd5d5f2325d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T20:01:00.000Z",
+      "metaDescription": "How to analyse and make forecasts of your time series data with just one prompt.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.8041257237485718,
+      "crawledAt": "2026-03-15T20:37:28.320Z",
+      "id": "uxyee8",
+      "entities": [],
+      "summary": "How to analyse and make forecasts of your time series data with just one prompt. How to analyse your time-series data with one prompt.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:38:30.412Z"
+    },
+    {
+      "title": "How to Vibe with Claude Code Safely",
+      "url": "https://pub.towardsai.net/how-to-vibe-with-claude-code-safely-4686b1cd486c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T19:01:00.000Z",
+      "metaDescription": "Three proven techniques to minimize risk when coding with AI agents in production environments\nContinue reading on Towards AI »",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.8589022083356198,
+      "crawledAt": "2026-03-15T20:37:28.430Z",
+      "id": "u2osvz",
+      "entities": [],
+      "summary": " Three proven techniques to minimize risk when coding with AI agents in production environments. Three proven methods to minimize risks when coding.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:38:40.035Z"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T18:49:32.000Z",
+      "metaDescription": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8882284780115767,
+      "crawledAt": "2026-03-15T20:36:52.064Z",
+      "id": "n70dbe",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9777581691741943,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A lawyer says AI chatbots are showing up in mass suicide cases. The technology is moving faster than the safeguards, he says.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:38:49.481Z"
+    },
+    {
+      "title": "AI Is Changing How Research Gets Done. It May Also Change How Researchers Are Made.",
+      "url": "https://ai.plainenglish.io/ai-is-changing-how-research-gets-done-it-may-also-change-how-researchers-are-made-6129a9dd3af3?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T18:37:52.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.7479024911883364,
+      "crawledAt": "2026-03-15T20:37:35.624Z",
+      "id": "lcsv3y",
+      "entities": [],
+      "summary": "Discussion of AI research findings and academic papers.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:38:49.789Z"
+    },
+    {
+      "title": "Crack ML Interviews with Confidence: XGBoost",
+      "url": "https://pub.towardsai.net/crack-ml-interviews-with-confidence-xgboost-30-q-a-1668ac317c04?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T17:01:00.000Z",
+      "metaDescription": "Data Scientist & Machine Learning Interview Preparation\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.48912114080186647,
+      "crawledAt": "2026-03-15T20:37:28.714Z",
+      "id": "j6ycug",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9934378266334534,
+          "index": 12,
+          "word": "X",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9717282652854919,
+          "index": 13,
+          "word": "##GB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.988445520401001,
+          "index": 14,
+          "word": "##oos",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Data Scientist & Machine Learning Interview Preparation Preparation is part of the Machine Learning and Machine Learning Institute. The Institute of Machine Learning is based in New York City.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:39:12.726Z"
+    },
+    {
+      "title": "Generative AI vs Agentic AI: From Creating Content to Taking Action",
+      "url": "https://www.analyticsvidhya.com/blog/2026/03/generative-ai-vs-agentic-ai/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-15T16:45:22.000Z",
+      "metaDescription": "The last two years were defined by a single word: Generative AI. Tools like ChatGPT, Gemini, and Claude turned AI from a tech term to a household name. However, we are now entering the next phase of t",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8237328316161988,
+      "crawledAt": "2026-03-15T20:38:11.304Z",
+      "id": "ppbn41",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9866968989372253,
+          "index": 5,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The last two years were defined by a single word: Generative AI. But we are now entering the next phase of t-t.",
+      "language": "en",
+      "processed_at": "2026-03-15T20:39:22.387Z"
+    },
     {
       "title": "Fixing AI failure: Three changes enterprises should make now",
       "url": "https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now",
@@ -4596,21 +4753,21 @@
       "processed_at": "2026-03-15T17:05:24.119Z"
     }
   ],
-  "processedAt": "2026-03-15T17:05:24.125Z",
+  "processedAt": "2026-03-15T20:39:22.393Z",
   "categories": [
+    "infrastructure",
+    "safety-ethics",
     "ai-agents",
     "creative-ai",
     "research-paper",
     "tutorial-guide",
     "developer-tool",
     "product-launch",
-    "infrastructure",
     "industry-news",
-    "model-release",
-    "safety-ethics"
+    "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 117,
-  "dailyArticlesCount": 133,
+  "newArticlesProcessed": 6,
+  "dailyArticlesCount": 139,
   "filterDate": "2026-03-15"
 }
