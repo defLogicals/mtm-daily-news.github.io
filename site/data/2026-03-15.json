@@ -1,9 +1,479 @@
 {
-  "crawledAt": "2026-03-15T08:47:32.039Z",
+  "crawledAt": "2026-03-15T13:07:26.033Z",
   "totalSources": 70,
-  "totalArticles": 3,
+  "totalArticles": 16,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master",
+      "url": "https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T13:00:00.000Z",
+      "metaDescription": "Master six advanced causal inference methods with Python: doubly robust estimation, instrumental variables, regression discontinuity, modern difference-in-differences, heterogeneous treatment effects ",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.4798253960578222,
+      "crawledAt": "2026-03-15T13:06:11.717Z",
+      "id": "85krdm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.998884379863739,
+          "index": 2,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9733381271362305,
+          "index": 4,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9970125555992126,
+          "index": 5,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9954275488853455,
+          "index": 6,
+          "word": "##ference",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9641958475112915,
+          "index": 7,
+          "word": "Play",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9830889105796814,
+          "index": 8,
+          "word": "##book",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Master six advanced causal inference methods with Python: doubly robust estimation, instrumental variables, regression discontinuity, regression discontinueduity, modern difference-in-differences, heterogeneous treatment effects, heterogenous treatment effects.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:44.758Z"
+    },
+    {
+      "title": "The Great Compression: How AI Model Distillation Is Rewriting the Rules of the Industry",
+      "url": "https://pub.towardsai.net/the-great-compression-how-ai-model-distillation-is-rewriting-the-rules-of-the-industry-65ea8998138d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:41:38.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.6833322729897816,
+      "crawledAt": "2026-03-15T13:06:41.736Z",
+      "id": "9cqkm6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9519928693771362,
+          "index": 21,
+          "word": "Industry",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:44.891Z"
+    },
+    {
+      "title": "The .NET SDK That Makes Building AI Agents Surprisingly Simple",
+      "url": "https://pub.towardsai.net/the-net-sdk-that-makes-building-ai-agents-surprisingly-simple-5260ab2af811?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:41:17.000Z",
+      "metaDescription": "Never mind the setup for orchestration. Just ship agents that work\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9264454313376118,
+      "crawledAt": "2026-03-15T13:06:41.854Z",
+      "id": "xgo5bq",
+      "entities": [],
+      "summary": " Never mind the setup for orchestration. Never mind. Just ship agents that work. Nevermind the setup. NeverMind the setup.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:54.519Z"
+    },
+    {
+      "title": "Generative AI: How Generative AI Tools Generate New Content From User Prompts…",
+      "url": "https://pub.towardsai.net/generative-ai-how-generative-ai-tools-generate-new-contents-from-user-prompts-8f0b9d161e0f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:41:10.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.46437341091735607,
+      "crawledAt": "2026-03-15T13:06:41.936Z",
+      "id": "9a22wc",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:54.652Z"
+    },
+    {
+      "title": "Loss Landscapes: Part 2",
+      "url": "https://pub.towardsai.net/loss-landscapes-part-2-f50dc272e3b3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:40:48.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.33948945943122916,
+      "crawledAt": "2026-03-15T13:06:41.988Z",
+      "id": "kkzm6p",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:54.770Z"
+    },
+    {
+      "title": "Mission Control: An Orchestration Dashboard for OpenClaw",
+      "url": "https://pub.towardsai.net/mission-control-an-orchestration-dashboard-for-openclaw-c3454f959b15?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:39:44.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2670422483051553,
+      "crawledAt": "2026-03-15T13:06:42.121Z",
+      "id": "6a8f3a",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9325767755508423,
+          "index": 11,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9321608543395996,
+          "index": 12,
+          "word": "##law",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:07:55.010Z"
+    },
+    {
+      "title": "GenAI Hyperparameter Tuning: A Basic Guide",
+      "url": "https://pub.towardsai.net/genai-hyperparameter-tuning-a-basic-guide-cfa02132a951?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:38:32.000Z",
+      "metaDescription": "1. What Are Hyperparameters?\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2511314623984558,
+      "crawledAt": "2026-03-15T13:06:42.221Z",
+      "id": "ra2wpx",
+      "entities": [],
+      "summary": " What Are Hyperparameters? What are Hyperparameter? Read on Towards AI. Read on Twitter for more.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:08:04.058Z"
+    },
+    {
+      "title": "Claude Opus 4.6: The Architectural Shift You’re Probably Misreading",
+      "url": "https://pub.towardsai.net/claude-opus-4-6-the-architectural-shift-youre-probably-misreading-4d7b6d7db8bf?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T12:33:05.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9636112135406524,
+      "crawledAt": "2026-03-15T13:06:42.476Z",
+      "id": "lqnds4",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:08:14.461Z"
+    },
+    {
+      "title": "This Guy Used ChatGPT and AlphaFold to Save His Dying Dog from Cancer",
+      "url": "https://generativeai.pub/this-guy-uses-chatgpt-and-alphafold-to-save-his-dying-dog-from-cancer-3cce0595a887?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T11:14:54.000Z",
+      "metaDescription": "When his rescue dog was given months to live, a machine learning consultant used AI tools to design a custom cancer vaccine — and it…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4172507947843216,
+      "crawledAt": "2026-03-15T13:06:47.662Z",
+      "id": "ir8srr",
+      "entities": [],
+      "summary": " When his rescue dog was given months to live, a machine learning consultant used AI tools to design a custom cancer vaccine.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:08:35.817Z"
+    },
+    {
+      "title": "Is AI Slop Actually Creative?",
+      "url": "https://generativeai.pub/is-ai-slop-actually-creative-3d406acbd35a?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T11:05:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.48968388201054935,
+      "crawledAt": "2026-03-15T13:06:48.062Z",
+      "id": "gcfkjq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9909150004386902,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9732785820960999,
+          "index": 3,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.979302167892456,
+          "index": 4,
+          "word": "##lop",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:08:53.656Z"
+    },
+    {
+      "title": "Nvidia’s Next Chip Won’t Be Faster. It Will Be Lighter.",
+      "url": "https://generativeai.pub/nvidias-next-chip-won-t-be-faster-it-will-be-lighter-17156dab3ce8?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T11:03:58.000Z",
+      "metaDescription": "On Monday, Nvidia will change not just how fast chips compute, but how they talk to each other. Almost nobody noticed the difference yet.\nContinue reading on Generative AI »",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.4628070281695317,
+      "crawledAt": "2026-03-15T13:06:48.234Z",
+      "id": "olfw3f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9851568341255188,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9123093485832214,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8443923592567444,
+          "index": 3,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nvidia will change how fast chips compute, but how they talk to each other. Almost nobody noticed the difference yet yet.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:09:01.600Z"
+    },
+    {
+      "title": "Use Nano Banana Pro Better Than 99% of People: 5 Use Cases",
+      "url": "https://generativeai.pub/use-nano-banana-pro-better-than-99-of-people-5-use-cases-a1cc0d6e125d?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T11:02:28.000Z",
+      "metaDescription": "Its more than character consistency, accurate text generation, and better control over images.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3349924301167825,
+      "crawledAt": "2026-03-15T13:06:48.361Z",
+      "id": "w5d0g2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8437538146972656,
+          "index": 5,
+          "word": "##ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9483141303062439,
+          "index": 6,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Its more than character consistency, accurate text generation, and better control over images. Its more. than character consistent, accurate and accurate textgeneration, and more.",
+      "language": "en",
+      "processed_at": "2026-03-15T13:09:12.528Z"
+    },
+    {
+      "title": "LangGraph vs CrewAI vs AutoGen: Which Agent Framework Should You Actually Use in 2026?",
+      "url": "https://generativeai.pub/langgraph-vs-crewai-vs-autogen-which-agent-framework-should-you-actually-use-in-2026-b8b2c84f1229?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T10:58:05.000Z",
+      "metaDescription": "A practical engineering comparison of modern syntax, control flow, state, observability, and where each framework breaks down in…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.6616270587055406,
+      "crawledAt": "2026-03-15T13:06:48.714Z",
+      "id": "btlbsg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9947656989097595,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9792657494544983,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9745050668716431,
+          "index": 3,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9756790399551392,
+          "index": 4,
+          "word": "##h",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9947715997695923,
+          "index": 6,
+          "word": "Crew",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9649617671966553,
+          "index": 7,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8830161690711975,
+          "index": 8,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9899609088897705,
+          "index": 10,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9855339527130127,
+          "index": 11,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8767043352127075,
+          "index": 12,
+          "word": "##en",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A practical engineering comparison of modern syntax, control flow, state, state and observability, and where each framework breaks down in…",
+      "language": "en",
+      "processed_at": "2026-03-15T13:09:39.170Z"
+    },
     {
       "title": "Hierarchical AI Agents: The Missing Architecture for Real Work",
       "url": "https://ai.plainenglish.io/hierarchical-ai-agents-the-missing-architecture-for-real-work-b3eea3a343f0?source=rss----78d064101951---4",
@@ -95,13 +565,15 @@
       "processed_at": "2026-03-15T08:47:34.534Z"
     }
   ],
-  "processedAt": "2026-03-15T08:47:34.542Z",
+  "processedAt": "2026-03-15T13:09:39.176Z",
   "categories": [
+    "creative-ai",
     "ai-agents",
-    "infrastructure"
+    "infrastructure",
+    "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 3,
-  "dailyArticlesCount": 3,
+  "newArticlesProcessed": 13,
+  "dailyArticlesCount": 16,
   "filterDate": "2026-03-15"
 }
