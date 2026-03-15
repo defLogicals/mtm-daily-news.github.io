@@ -1,11 +1,107 @@
 {
-  "crawledAt": "2026-03-15T05:40:06.418Z",
+  "crawledAt": "2026-03-15T08:47:32.039Z",
   "totalSources": 70,
-  "totalArticles": 0,
+  "totalArticles": 3,
   "aiFilterUsed": true,
-  "articles": [],
-  "processedAt": "2026-03-15T05:40:06.712Z",
-  "processingMethod": "cached",
-  "dailyArticlesCount": 0,
+  "articles": [
+    {
+      "title": "Hierarchical AI Agents: The Missing Architecture for Real Work",
+      "url": "https://ai.plainenglish.io/hierarchical-ai-agents-the-missing-architecture-for-real-work-b3eea3a343f0?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T06:45:56.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9888008559849687,
+      "crawledAt": "2026-03-15T08:46:51.199Z",
+      "id": "6wb8mn",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T08:47:34.068Z"
+    },
+    {
+      "title": "How to Actually Build an AI Agent: Step-by-Step Guide from Goal to Testing",
+      "url": "https://ai.plainenglish.io/how-to-actually-build-an-ai-agent-step-by-step-guide-from-goal-to-testing-4b08309acc56?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T06:44:13.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.981016311606649,
+      "crawledAt": "2026-03-15T08:46:51.279Z",
+      "id": "gv1y5v",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T08:47:34.234Z"
+    },
+    {
+      "title": "Medallion Architecture in Practice in the AI Era — Beyond the Theory",
+      "url": "https://pub.towardsai.net/medallion-architecture-in-practice-in-the-ai-era-beyond-the-theory-5cb7990c2b27?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-15T06:01:00.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.7237002646549129,
+      "crawledAt": "2026-03-15T08:46:44.269Z",
+      "id": "m6by2l",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8543957471847534,
+          "index": 1,
+          "word": "Medal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9959907531738281,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.98915696144104,
+          "index": 9,
+          "word": "Era",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.918270468711853,
+          "index": 13,
+          "word": "Theory",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-15T08:47:34.534Z"
+    }
+  ],
+  "processedAt": "2026-03-15T08:47:34.542Z",
+  "categories": [
+    "ai-agents",
+    "infrastructure"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 3,
+  "dailyArticlesCount": 3,
   "filterDate": "2026-03-15"
 }
