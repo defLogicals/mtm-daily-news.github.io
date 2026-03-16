@@ -1,9 +1,589 @@
 {
-  "crawledAt": "2026-03-16T05:53:29.991Z",
+  "crawledAt": "2026-03-16T09:05:50.956Z",
   "totalSources": 70,
-  "totalArticles": 98,
+  "totalArticles": 127,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Best Open-Source Model for Character Consistency with Reference Image?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rv4e3f/best_opensource_model_for_character_consistency/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T09:04:18.000Z",
+      "metaDescription": "I am a newbie in using ComfyUI. I want to make realistic AI-generated person photo, posing in different backgrounds and outfits, using an AI-generated head close-up of that person directly looking at ",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.2859309051996444,
+      "crawledAt": "2026-03-16T09:05:16.529Z",
+      "id": "hlm355",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9681354761123657,
+          "index": 4,
+          "word": "Source",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I want to make a photo of a person using an AI-generated head-to-head photo. I want the photo to be realistic and realistic.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:06:05.068Z"
+    },
+    {
+      "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
+      "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T09:00:00.000Z",
+      "metaDescription": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.578650453639401,
+      "crawledAt": "2026-03-16T09:04:31.882Z",
+      "id": "mvr9ze",
+      "entities": [],
+      "summary": " Dozens of Telegram channels reviewed by WIRED include job listings for \"AI face models\" The women who land the jobs are likely to be used to dupe victims out of their money.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:06:16.292Z"
+    },
+    {
+      "title": "Rating AI Image Detectors I Actually Use",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rv4avc/d_rating_ai_image_detectors_i_actually_use/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:58:59.000Z",
+      "metaDescription": "Rating AI Image Detectors I Actually Use\n I started testing different AI image detectors,not just one tool, just to see how useful they are in real situations (fake news images, manipulated photos, AI",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.6037374123286127,
+      "crawledAt": "2026-03-16T09:05:01.409Z",
+      "id": "yarupa",
+      "entities": [],
+      "summary": " AI Image Detectors are not just one tool, just to see how useful they are in real situations. It's a tool that tests different AI image detectors, not just a tool, but just to show how useful.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:06:30.198Z"
+    },
+    {
+      "title": "OpenAI to Integrate Sora Video AI Directly into ChatGPT",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rv43fl/openai_to_integrate_sora_video_ai_directly_into/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:45:33.000Z",
+      "metaDescription": "submitted by    /u/the_trend_memo  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.35916609821766465,
+      "crawledAt": "2026-03-16T09:05:08.232Z",
+      "id": "hu50op",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:06:43.497Z"
+    },
+    {
+      "title": "7 Claude Code Skills Every Developer Needs in 2026",
+      "url": "https://generativeai.pub/7-claude-code-skills-every-developer-needs-in-2026-52b15ae68685?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:37:48.000Z",
+      "metaDescription": "Starting a new project? These community-built skills handle the boring parts so you can focus on building.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.32065040796335087,
+      "crawledAt": "2026-03-16T09:04:53.665Z",
+      "id": "a1pi87",
+      "entities": [],
+      "summary": " The world's best community-built skills can be used to help build a new building. The skills can also be used in the construction of a new home.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:25.005Z"
+    },
+    {
+      "title": "Open Letter to Anthropic",
+      "url": "https://generativeai.pub/open-letter-to-anthropic-0c09d04de7c5?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:35:57.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.5728105246141111,
+      "crawledAt": "2026-03-16T09:04:53.710Z",
+      "id": "xhekaa",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:25.053Z"
+    },
+    {
+      "title": "I Studied OpenClaw Memory System — Here’s What I Found",
+      "url": "https://generativeai.pub/i-studied-openclaw-memory-system-heres-what-i-found-c05c6d50def4?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:29:50.000Z",
+      "metaDescription": "Over the past year, almost all AI products have been talking about one word: memory.\nContinue reading on Generative AI »",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.489163021738345,
+      "crawledAt": "2026-03-16T09:04:53.780Z",
+      "id": "bnialp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.851023256778717,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9787182211875916,
+          "index": 6,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.981272280216217,
+          "index": 7,
+          "word": "##law",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936366081237793,
+          "index": 8,
+          "word": "Memory",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9914610385894775,
+          "index": 9,
+          "word": "System",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Over the past year, almost all AI products have been talking about one word: memory. Almost all AI product products have talked about oneword: memory.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:34.751Z"
+    },
+    {
+      "title": "Building an Autonomous Agent That Can Run Terminal Commands",
+      "url": "https://www.reddit.com/r/LangChain/comments/1rv3miq/building_an_autonomous_agent_that_can_run/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T08:15:07.000Z",
+      "metaDescription": "submitted by    /u/Mijuraaa  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2908775154039132,
+      "crawledAt": "2026-03-16T09:05:11.145Z",
+      "id": "xkup6l",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:34.907Z"
+    },
+    {
+      "title": "A little showcase of how does LTX-2.3 deal with anime-ish media.",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rv3d69/a_little_showcase_of_how_does_ltx23_deal_with/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T07:59:19.000Z",
+      "metaDescription": "She really said \\\"You actually came\\\", oh no...\n https://youtu.be/rkOmZiOjM3M\n https://youtu.be/i39L8f9JJRk\n https://youtu.be/-Z-PjyAIdm0\n https://youtu.be/7mhQ768xwi0\n Hello AI-bros. Since I was a li",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4573209395091645,
+      "crawledAt": "2026-03-16T09:05:15.214Z",
+      "id": "uvs",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9723142385482788,
+          "index": 7,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8567855358123779,
+          "index": 8,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8004794716835022,
+          "index": 9,
+          "word": "##X",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9069021344184875,
+          "index": 11,
+          "word": "2",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Z-PjyAIdm0. Since I was a li. Since he was ali, since I was an AI-bros. She really said 'You actually came'",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:48.429Z"
+    },
+    {
+      "title": "Nightingale — WhisperX powered open-source karaoke app that works with any song on your computer",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rv39yn/nightingale_whisperx_powered_opensource_karaoke/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T07:53:27.000Z",
+      "metaDescription": "Website: https://nightingale.cafe\n License: GPL-3.0\n I've been working on a karaoke app called Nightingale Karaoke. You point it at your music folder and it turns your songs into karaoke - separates v",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5787078222943397,
+      "crawledAt": "2026-03-16T09:05:08.546Z",
+      "id": "rq9pqq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9183067679405212,
+          "index": 1,
+          "word": "Nightingale",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nightingale Karaoke turns your songs into karaoke - separates v and v. You point it at your music folder and it turns your song into k Karaoke.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:58.341Z"
+    },
+    {
+      "title": "Id this too much AI vomit",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rv39n3/id_this_too_much_ai_vomit/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T07:52:52.000Z",
+      "metaDescription": "Would you click away from an image like this?\n    submitted by    /u/SimpleEmu198  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.8170167002520727,
+      "crawledAt": "2026-03-16T09:05:03.964Z",
+      "id": "5t6o7b",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:58.387Z"
+    },
+    {
+      "title": "LangGraph's human-in-the-loop has a double execution problem",
+      "url": "https://www.reddit.com/r/LangChain/comments/1rv2vs8/langgraphs_humanintheloop_has_a_double_execution/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T07:27:55.000Z",
+      "metaDescription": "submitted by    /u/raedslab  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29139719823897936,
+      "crawledAt": "2026-03-16T09:05:11.285Z",
+      "id": "gc27r6",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8492062091827393,
+          "index": 3,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8463810086250305,
+          "index": 4,
+          "word": "##h",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:07:58.509Z"
+    },
+    {
+      "title": "Help Identify this LoRA / Artist Style!",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rv2v46/help_identify_this_lora_artist_style_image_from/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T07:26:40.000Z",
+      "metaDescription": "Hi everyone!\n I'm trying to find out which LoRA (or model/artist style) was used to generate/create this image.\n Does anyone recognize this exact style or know if there's a LoRA on Civitai for it?\n Ma",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9486308754465621,
+      "crawledAt": "2026-03-16T09:05:15.737Z",
+      "id": "7qrh48",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9118099808692932,
+          "index": 6,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9314599633216858,
+          "index": 7,
+          "word": "##RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "LoRA (or model/artist style) was used to generate/create this image. Does anyone recognize this exact style or know if there's a LoRA on Civitai for it?",
+      "language": "en",
+      "processed_at": "2026-03-16T09:08:11.483Z"
+    },
+    {
+      "title": "Hacked data shines light on homeland security’s AI surveillance ambitions",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rv2qvj/hacked_data_shines_light_on_homeland_securitys_ai/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T07:18:59.000Z",
+      "metaDescription": "A massive new data leak obtained by a cyber-hacktivist and released by Distributed Denial of Secrets has exposed the DHS's massive push to expand its AI surveillance capabilities. The hacked databases",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.38415457412942133,
+      "crawledAt": "2026-03-16T09:05:08.086Z",
+      "id": "dqr2iq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9644494652748108,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A massive new data leak has exposed the DHS's push to expand its AI surveillance capabilities. The hacked databases were hacked by a cyber-hacktivist.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:08:22.438Z"
+    },
+    {
+      "title": "In 2014 the Medical Body Area Network was approved. A wireless system designed to communicate with signals inside the human body. Your body already runs on bioelectricity. Now technology can interface with it.",
+      "url": "https://www.reddit.com/r/singularity/comments/1rv2ouf/in_2014_the_medical_body_area_network_was/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T07:15:26.000Z",
+      "metaDescription": "submitted by    /u/ateam1984  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.5611056775826937,
+      "crawledAt": "2026-03-16T09:05:05.747Z",
+      "id": "imn602",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9882246851921082,
+          "index": 4,
+          "word": "Medical",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965812563896179,
+          "index": 5,
+          "word": "Body",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9909588694572449,
+          "index": 6,
+          "word": "Area",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9686862826347351,
+          "index": 7,
+          "word": "Network",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:08:22.611Z"
+    },
+    {
+      "title": "Claude vs current Chat GPT",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rv2iiv/claude_vs_current_chat_gpt/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T07:04:31.000Z",
+      "metaDescription": "I really miss 40 and 5.1. I use chatgpt for talking and venting and writing not just coding or work. 5.2, 5.3, and 5.4 are too argumentative. They assume crap you never said and then try to fact check",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29009888804828926,
+      "crawledAt": "2026-03-16T09:05:09.188Z",
+      "id": "fp0w5i",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9766600728034973,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "5.2, 5.3, and 5.4 are too argumentative. They assume crap you never said and then try to fact check. I really miss 40 and 5, but I use chatgpt for talking and venting and writing not just coding or work.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:08:38.597Z"
+    },
+    {
+      "title": "OmniCoder-9B best vibe coding model for 8 GB Card",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv24kk/omnicoder9b_best_vibe_coding_model_for_8_gb_card/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T06:41:24.000Z",
+      "metaDescription": "it is the smartest coding / tool calling cline model I ever seen \n I gave it a small request and it made a whole toolkit , it is the best one\n https://huggingface.co/Tesslate/OmniCoder-9B-GGUF\n use it",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4932818064589678,
+      "crawledAt": "2026-03-16T09:04:56.894Z",
+      "id": "xnmvuz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9927617907524109,
+          "index": 1,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9313276410102844,
+          "index": 2,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9338951110839844,
+          "index": 3,
+          "word": "##ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9836826920509338,
+          "index": 4,
+          "word": "##C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " It is the best one of the best tools to use in the world. It is a simple tool that can be used to help people with reading comprehension and vocabulary.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:08:51.224Z"
+    },
+    {
+      "title": "Triggering AI",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rv1qjt/triggering_ai/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T06:17:24.000Z",
+      "metaDescription": "There I was… sitting in my house, talking to my digital intelligence about how I’m struggling mentally.\n And the AI does exactly what it’s supposed to do. Very responsible. Very professional. It says,",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6556851892221619,
+      "crawledAt": "2026-03-16T09:05:03.634Z",
+      "id": "z816ui",
+      "entities": [],
+      "summary": " The AI does exactly what it’s supposed to do, says the author. It says, \"It says, it says, very professional. Very professional\"",
+      "language": "en",
+      "processed_at": "2026-03-16T09:09:15.774Z"
+    },
+    {
+      "title": "Best base model for accurate real-person face LoRA training?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rv1gt4/best_base_model_for_accurate_realperson_face_lora/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T06:01:20.000Z",
+      "metaDescription": "I’m trying to train a LoRA for a real person’s face and want the results to look as close to the training images as possible.\n From your experience, which base models handle face likeness the best rig",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.2701801089365051,
+      "crawledAt": "2026-03-16T09:05:16.364Z",
+      "id": "ls30ib",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8062100410461426,
+          "index": 11,
+          "word": "##RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The LoRA has trained a LoRA for a real person's face and wants the results to look as close to the training images as possible.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:09:43.273Z"
+    },
     {
       "title": "LangChain agents have a memory problem nobody talks about , here's what we found",
       "url": "https://www.reddit.com/r/LangChain/comments/1rv0yrn/langchain_agents_have_a_memory_problem_nobody/",
@@ -1574,6 +2154,328 @@
       "processed_at": "2026-03-16T06:08:48.598Z"
     },
     {
+      "title": "The Perfection Paradox: From Architect to Curator in AI-Assisted API Design",
+      "url": "https://arxiv.org/abs/2603.12475",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12475v1 Announce Type: new \nAbstract: Enterprise API design is often bottlenecked by the tension between rapid feature delivery and the rigorous maintenance of usability standards. We prese",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.47620859661047465,
+      "crawledAt": "2026-03-16T09:05:35.526Z",
+      "id": "mycin2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9912844300270081,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8469865322113037,
+          "index": 16,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.874498724937439,
+          "index": 17,
+          "word": "##sist",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8640050292015076,
+          "index": 19,
+          "word": "API",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Enterprise API design is often bottlenecked by the tension between rapid feature delivery and the rigorous maintenance of usability standards.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:10:15.989Z"
+    },
+    {
+      "title": "Design-Specification Tiling for ICL-based CAD Code Generation",
+      "url": "https://arxiv.org/abs/2603.12712",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12712v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable capabilities in code generation, yet they underperform on domain-specific tasks such as Compu",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.4024865422958985,
+      "crawledAt": "2026-03-16T09:05:36.104Z",
+      "id": "wu1rw6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.997881293296814,
+          "index": 9,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9863353371620178,
+          "index": 10,
+          "word": "##CL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Large language models have demonstrated remarkable capabilities in code generation. They underperform on domain-specific tasks such as Compu.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:10:54.291Z"
+    },
+    {
+      "title": "Teaching Agile Requirements Engineering: A Stakeholder Simulation with Generative AI",
+      "url": "https://arxiv.org/abs/2603.12925",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12925v1 Announce Type: new \nAbstract: Context: The active involvement of users and customers in agile software development remains a persistent challenge in practice. For this reason, it is",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.2831402764965562,
+      "crawledAt": "2026-03-16T09:05:36.247Z",
+      "id": "39hpf9",
+      "entities": [],
+      "summary": " The active involvement of users and customers in agile software development remains a persistent challenge. For this reason, it is a persistent problem in practice.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:11:03.336Z"
+    },
+    {
+      "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+      "url": "https://arxiv.org/abs/2603.13023",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.13023v1 Announce Type: new \nAbstract: Training capable software engineering (SWE) agents demands large-scale, executable, and verifiable environments that provide dynamic feedback loops for",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.264944941903203,
+      "crawledAt": "2026-03-16T09:05:36.393Z",
+      "id": "pkjuyu",
+      "entities": [],
+      "summary": " The new version of the software will be released in September. It will be the first time the company has released a new version.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:11:15.064Z"
+    },
+    {
+      "title": "PesTwin: a biology-informed Digital Twin for enabling precision farming",
+      "url": "https://arxiv.org/abs/2603.12294",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12294v1 Announce Type: cross \nAbstract: In a context of growing agricultural demand and new challenges related to food security and accessibility, boosting agricultural productivity is more",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2920413209186933,
+      "crawledAt": "2026-03-16T09:05:36.707Z",
+      "id": "bl8m5m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9664605259895325,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.925507128238678,
+          "index": 2,
+          "word": "##es",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.985605001449585,
+          "index": 3,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9241072535514832,
+          "index": 4,
+          "word": "##win",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9954463243484497,
+          "index": 10,
+          "word": "Digital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957473278045654,
+          "index": 11,
+          "word": "Twin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "In a context of growing agricultural demand and new challenges related to food security and accessibility, boosting agricultural productivity is more important.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:11:33.940Z"
+    },
+    {
+      "title": "Hunting CUDA Bugs at Scale with cuFuzz",
+      "url": "https://arxiv.org/abs/2603.12485",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12485v1 Announce Type: cross \nAbstract: GPUs play an increasingly important role in modern software. However, the heterogeneous host-device execution model and expanding software stacks mak",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29752026414135513,
+      "crawledAt": "2026-03-16T09:05:36.853Z",
+      "id": "votv3n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9007996320724487,
+          "index": 2,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The heterogeneous host-device execution model and expanding software stacks mak. arXiv:2603.12485v1 Announce Type: cross-party.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:11:45.925Z"
+    },
+    {
+      "title": "Streaming REST APIs for Large Financial Transaction Exports from Relational Databases",
+      "url": "https://arxiv.org/abs/2603.12566",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12566v1 Announce Type: cross \nAbstract: Financial platforms and enterprise systems frequently provide transaction export capabilities to support reporting, reconciliation, auditing, and reg",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.32698712326681467,
+      "crawledAt": "2026-03-16T09:05:36.996Z",
+      "id": "smagm4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9287106394767761,
+          "index": 16,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8060705661773682,
+          "index": 18,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9342255592346191,
+          "index": 19,
+          "word": "Database",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Financial platforms and enterprise systems frequently provide transaction export capabilities to support reporting, reconciliation, auditing, and auditing.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:11:53.864Z"
+    },
+    {
+      "title": "Feynman: Knowledge-Infused Diagramming Agent for Scalable Visual Designs",
+      "url": "https://arxiv.org/abs/2603.12597",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12597v1 Announce Type: cross \nAbstract: Visual design is an essential application of state-of-the-art multi-modal AI systems. Improving these systems requires high-quality vision-language d",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.8949237915258754,
+      "crawledAt": "2026-03-16T09:05:37.162Z",
+      "id": "zc1fhx",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9848681092262268,
+          "index": 1,
+          "word": "Fe",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Visual design is an essential application of state-of-the-art AI systems. Improving these systems requires high-quality vision-language d.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:12:04.050Z"
+    },
+    {
+      "title": "A Requirement-Based Framework for Engineering Adaptive Authentication",
+      "url": "https://arxiv.org/abs/2603.12968",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-16T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.12968v1 Announce Type: cross \nAbstract: Authentication is crucial to confirm that an individual or entity trying to perform an action is actually who or what they claim to be. In dynamic en",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.41135239736576384,
+      "crawledAt": "2026-03-16T09:05:37.758Z",
+      "id": "5bgp4m",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8215199708938599,
+          "index": 13,
+          "word": "Au",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " authentication is crucial to confirm that an individual or entity trying to perform an action is actually who or what they claim to be.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:12:15.743Z"
+    },
+    {
       "title": "Timeline in health",
       "url": "https://www.reddit.com/r/OpenAI/comments/1ruz43h/timeline_in_health/",
       "source": "r/OpenAI",
@@ -1901,6 +2803,34 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-16T02:58:40.594Z"
+    },
+    {
+      "title": "Do AI-creators not understand the process by which AI works?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1ruw175/do_aicreators_not_understand_the_process_by_which/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-16T01:26:04.000Z",
+      "metaDescription": "I admit I have no background in artificial intelligence, computing, software designing or anything of that sort. \n However I use AI a lot. I am stunned by the things it can do -- sure it can sometimes",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.48549410734704307,
+      "crawledAt": "2026-03-16T09:05:08.443Z",
+      "id": "2l4j6s",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9826812744140625,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I admit I have no background in artificial intelligence, computing, software designing or anything of that sort. However I use AI a lot. I am stunned by the things it can do -- sure it can sometimes do.",
+      "language": "en",
+      "processed_at": "2026-03-16T09:12:29.557Z"
     },
     {
       "title": "Do AI-creators not understand the process by which AI works?",
@@ -3040,11 +3970,11 @@
       "processed_at": "2026-03-16T03:07:03.989Z"
     }
   ],
-  "processedAt": "2026-03-16T06:11:34.223Z",
+  "processedAt": "2026-03-16T09:12:29.566Z",
   "categories": [
-    "creative-ai",
-    "ai-agents",
     "safety-ethics",
+    "ai-agents",
+    "creative-ai",
     "infrastructure",
     "tutorial-guide",
     "product-launch",
@@ -3053,7 +3983,7 @@
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "dailyArticlesCount": 98,
+  "newArticlesProcessed": 29,
+  "dailyArticlesCount": 127,
   "filterDate": "2026-03-16"
 }
