@@ -1,9 +1,365 @@
 {
-  "crawledAt": "2026-03-17T05:25:53.600Z",
+  "crawledAt": "2026-03-17T09:01:45.361Z",
   "totalSources": 70,
-  "totalArticles": 116,
+  "totalArticles": 131,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "What happened to all the user-submitted workflows on Openart.ai?",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rw0vpk/what_happened_to_all_the_usersubmitted_workflows/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T08:32:09.000Z",
+      "metaDescription": "It looks like the site has turned into yet another shitty paid generation platform.\n    submitted by    /u/Enshitification  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6018552114601268,
+      "crawledAt": "2026-03-17T09:00:39.352Z",
+      "id": "udzv96",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:12.301Z"
+    },
+    {
+      "title": "I built an open-source AI memory layer because LLMs keep forgetting important things",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rw0tps/i_built_an_opensource_ai_memory_layer_because/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T08:28:24.000Z",
+      "metaDescription": "I got frustrated that most AI memory systems treat every piece of information equally. Your blood type has the same priority as what you had for lunch. Contradictions pile up silently. Old but critica",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2851480939979243,
+      "crawledAt": "2026-03-17T09:00:48.928Z",
+      "id": "m2j6hz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.937242329120636,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.90345299243927,
+          "index": 11,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I got frustrated that most AI memory systems treat every piece of information equally. Your blood type has the same priority as what you had for lunch.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:22.598Z"
+    },
+    {
+      "title": "Me, trying to get a human job…",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rw0o0l/me_trying_to_get_a_human_job/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T08:17:56.000Z",
+      "metaDescription": "Sharing the memory of my first job interview 😅\n    submitted by    /u/Soggy_Barnacle7288  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.36788910510595213,
+      "crawledAt": "2026-03-17T09:00:49.067Z",
+      "id": "127k46",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:22.685Z"
+    },
+    {
+      "title": "using chatgpt as a thinking partner for decisions and it's changed how i make choices",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rw0lse/using_chatgpt_as_a_thinking_partner_for_decisions/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T08:13:41.000Z",
+      "metaDescription": "this isn't about chatgpt writing things for me. it's about chatgpt helping me think.\n i'm a small business owner and i make dozens of decisions a week that don't have obvious right answers. should i h",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4667907384201667,
+      "crawledAt": "2026-03-17T09:00:21.987Z",
+      "id": "v7lb4c",
+      "entities": [],
+      "summary": " This isn't about chatgpt writing things for me, it's about chatGpt helping me think. This isn’t about chat gpt writing. It's about chattinggpt helping us think. I make dozens of decisions a week that don't have obvious right answers.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:40.931Z"
+    },
+    {
+      "title": "THIS IS THE REALEST THING LOL",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rw097d/this_is_the_realest_thing_lol/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T07:51:21.000Z",
+      "metaDescription": "submitted by    /u/Dramatic-Shower-6608  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5990352368442726,
+      "crawledAt": "2026-03-17T09:00:21.528Z",
+      "id": "mvpnnr",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:41.023Z"
+    },
+    {
+      "title": "KAIST humanoid V0.7 can moonwalk",
+      "url": "https://www.reddit.com/r/singularity/comments/1rvzydl/kaist_humanoid_v07_can_moonwalk/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T07:32:16.000Z",
+      "metaDescription": "source: https://www.youtube.com/watch?v=9qZcTMARvpk\n    submitted by    /u/GraceToSentience  \n [link]   [comments]",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.357431720372559,
+      "crawledAt": "2026-03-17T09:00:18.058Z",
+      "id": "unf2jm",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:41.158Z"
+    },
+    {
+      "title": "OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rvzrlt/openai_to_cut_back_on_side_projects_in_push_to/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T07:20:07.000Z",
+      "metaDescription": "Are general users cooked? Will this direction actually dig them out of the hole they are in? Let’s hear your thoughts!\n    submitted by    /u/TonyHMeow  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3227607760493617,
+      "crawledAt": "2026-03-17T09:00:48.044Z",
+      "id": "2yfsdy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8595049977302551,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:41.340Z"
+    },
+    {
+      "title": "Build agents with Raw python or use frameworks like langgraph?",
+      "url": "https://www.reddit.com/r/LangChain/comments/1rvzds0/build_agents_with_raw_python_or_use_frameworks/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T06:56:38.000Z",
+      "metaDescription": "If you've built or are building a multi-agent application right now, are you using plain Python from scratch, or a framework like LangGraph, CrewAI, AutoGen, or something similar?\n I'm especially inte",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2532381611038586,
+      "crawledAt": "2026-03-17T09:00:40.028Z",
+      "id": "3ehg63",
+      "entities": [],
+      "summary": " If you've built or are building a multi-agent application right now, are you using plain Python from scratch or a framework like LangGraph, CrewAI, AutoGen, or something similar? I'm especially inte.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:02:57.624Z"
+    },
+    {
+      "title": "A petri dish of human brain cells is currently playing Doom. Should we be worried?",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rvz6t6/a_petri_dish_of_human_brain_cells_is_currently/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T06:44:25.000Z",
+      "metaDescription": "A new report from The Guardian reveals that scientists at Cortical Labs have successfully taught a petri dish containing 200.000 living human brain cells to play the 1993 video game Doom. Built on a g",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.37570603681259035,
+      "crawledAt": "2026-03-17T09:00:22.663Z",
+      "id": "yq2skd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9846294522285461,
+          "index": 12,
+          "word": "Doom",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Scientists at Cortical Labs have taught a petri dish containing 200,000 living brain cells to play the 1993 video game Doom.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:03:28.214Z"
+    },
+    {
+      "title": "Almost done building a Capterra/Product Hunt–type platform Need Ideas what features You Guys Miss in them?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1rvyeck/almost_done_building_a_capterraproduct_hunttype/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T05:57:05.000Z",
+      "metaDescription": "I’m building a product discovery and review platform, inspired by Capterra and Product Hunt, and I’m looking for feedback on features that would make it stand out. Some ideas I’m considering include a",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3339746558395888,
+      "crawledAt": "2026-03-17T09:00:49.638Z",
+      "id": "x10f5i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8219112753868103,
+          "index": 5,
+          "word": "Capt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8367305397987366,
+          "index": 6,
+          "word": "##er",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.955959141254425,
+          "index": 10,
+          "word": "Hunt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8196148872375488,
+          "index": 15,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8355370759963989,
+          "index": 20,
+          "word": "You",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9172830581665039,
+          "index": 21,
+          "word": "Guys",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I'm building a product discovery and review platform, inspired by Capterra and Product Hunt. I'm looking for feedback on features that would make it stand out. Some ideas I’m considering include a possible product discovery platform.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:03:44.527Z"
+    },
+    {
+      "title": "What kind on video benchmark is missing VLMs?",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rvxztn/r_what_kind_on_video_benchmark_is_missing_vlms/",
+      "source": "r/MachineLearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T05:33:59.000Z",
+      "metaDescription": "I am just curious searching out lots of benchmarks to evaluate VLMs for videos for instance VideoMME, MLVU, MVBench,LVBench and many more \n I am still fingering out what is missing in terms of benchma",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3157366594335598,
+      "crawledAt": "2026-03-17T09:00:23.640Z",
+      "id": "il0ifc",
+      "entities": [],
+      "summary": " I am still fingering out what is missing in terms of benchma. I am just curious searching out lots of benchmarks to evaluate VLMs for videos for instance VideoMME, MLVU, MVBench, MV Bench,LVBench and many more.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:04:02.233Z"
+    },
+    {
+      "title": "Beast Racing Concept Art to Real, Anima to Klein 9B Distilled",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvxto3/beast_racing_concept_art_to_real_anima_to_klein/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T05:24:09.000Z",
+      "metaDescription": "I find Anima to be a lot more creative when it comes to abstractness and creativity. I took the images from Anima and have Klein convert it with prompt only. No Loras. The model does a really good job",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9119757242759876,
+      "crawledAt": "2026-03-17T09:00:37.676Z",
+      "id": "fo3b6t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9834635257720947,
+          "index": 1,
+          "word": "Beast",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9594581723213196,
+          "index": 2,
+          "word": "Racing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9499660730361938,
+          "index": 3,
+          "word": "Concept",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model does a really good job. I find Anima to be a lot more creative when it comes to abstractness and creativity.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:04:13.937Z"
+    },
+    {
+      "title": "Building a Local SERP Analytics Pipeline with dbt Core and DuckDB",
+      "url": "https://python.plainenglish.io/building-a-local-serp-analytics-pipeline-with-dbt-core-and-duckdb-9904032baa53?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-17T05:22:28.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.4731689394719608,
+      "crawledAt": "2026-03-17T09:00:12.097Z",
+      "id": "tvtkbl",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:04:14.055Z"
+    },
     {
       "title": "Your AI Doesn’t Understand You — It Can’t Even See You: Why AI Is Still Blind and How LookMood Is Opening Its Eyes",
       "url": "https://www.reddit.com/r/artificial/comments/1rvx1l5/your_ai_doesnt_understand_you_it_cant_even_see/",
@@ -324,6 +680,34 @@
       "summary": " Qwen 3.5.5 4B Q8 passed every single one of its custom tests. I was genuinely i. i was genuinelyi i.",
       "language": "en",
       "processed_at": "2026-03-17T05:26:59.017Z"
+    },
+    {
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-17T04:01:00.000Z",
+      "metaDescription": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8799908729985619,
+      "crawledAt": "2026-03-17T08:59:26.134Z",
+      "id": "57lp7n",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9876807332038879,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Picsart's AI agent marketplace will launch with four agents, then add more agents each week. PicsArt's AI marketplace will launched with four Agents, then added more agents every week.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:04:28.555Z"
     },
     {
       "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
@@ -2921,6 +3305,130 @@
       "processed_at": "2026-03-17T05:44:00.655Z"
     },
     {
+      "title": "NVIDIA Launches Nemotron Coalition of Leading Global AI Labs to Advance Open Frontier Models",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvokxc/nvidia_launches_nemotron_coalition_of_leading/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-16T22:31:42.000Z",
+      "metaDescription": "Good news for Open Source models\n  \nThe NVIDIA Nemotron Coalition is a first-of-its-kind global collaboration of model builders and AI labs working to advance open, frontier-level foundation models th",
+      "category": "product-launch",
+      "difficulty": 10,
+      "confidence": 0.833428066259569,
+      "crawledAt": "2026-03-17T09:00:37.041Z",
+      "id": "uuradd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9868917465209961,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989880383014679,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8017566800117493,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9862261414527893,
+          "index": 7,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.992010235786438,
+          "index": 8,
+          "word": "##em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979447722434998,
+          "index": 9,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9947847127914429,
+          "index": 10,
+          "word": "##ron",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958534240722656,
+          "index": 11,
+          "word": "Coalition",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9845520257949829,
+          "index": 13,
+          "word": "Leading",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9936770796775818,
+          "index": 14,
+          "word": "Global",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9964871406555176,
+          "index": 15,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903953671455383,
+          "index": 16,
+          "word": "Labs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8303588032722473,
+          "index": 20,
+          "word": "Frontier",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The NVIDIA Nemotron Coalition is a first-of-its-kind global collaboration of model builders and AI labs working to advance open, frontier-level foundation models.",
+      "language": "en",
+      "processed_at": "2026-03-17T09:04:43.281Z"
+    },
+    {
       "title": "Mistral Small 4 | Mistral AI",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvohug/mistral_small_4_mistral_ai/",
       "source": "r/LocalLLaMA",
@@ -3826,21 +4334,21 @@
       "processed_at": "2026-03-17T02:48:01.387Z"
     }
   ],
-  "processedAt": "2026-03-17T05:44:11.169Z",
+  "processedAt": "2026-03-17T09:04:43.288Z",
   "categories": [
-    "ai-agents",
-    "developer-tool",
     "creative-ai",
     "infrastructure",
+    "product-launch",
+    "ai-agents",
+    "developer-tool",
     "safety-ethics",
     "research-paper",
     "model-release",
-    "product-launch",
     "tutorial-guide",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 77,
-  "dailyArticlesCount": 116,
+  "newArticlesProcessed": 15,
+  "dailyArticlesCount": 131,
   "filterDate": "2026-03-17"
 }
