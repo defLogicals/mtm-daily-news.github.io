@@ -1,9 +1,467 @@
 {
-  "crawledAt": "2026-03-18T13:27:37.803Z",
+  "crawledAt": "2026-03-18T17:10:57.639Z",
   "totalSources": 70,
-  "totalArticles": 139,
+  "totalArticles": 165,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Polly AI Assistant now generally available in LangSmith",
+      "url": "https://www.youtube.com/watch?v=S6A8ooiJ5aU",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T17:00:42.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7448859086201872,
+      "crawledAt": "2026-03-18T17:10:15.407Z",
+      "id": "adkdfi",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:10:59.903Z"
+    },
+    {
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:43:18.000Z",
+      "metaDescription": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.7882344077066297,
+      "crawledAt": "2026-03-18T17:09:20.237Z",
+      "id": "d7etaf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9986114501953125,
+          "index": 2,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9962374567985535,
+          "index": 7,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970047473907471,
+          "index": 8,
+          "word": "Works",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9895964860916138,
+          "index": 9,
+          "word": "##pace",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best features in Google Workspace.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:12.448Z"
+    },
+    {
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:30:00.000Z",
+      "metaDescription": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3521440970346704,
+      "crawledAt": "2026-03-18T17:09:20.420Z",
+      "id": "6qe54b",
+      "entities": [],
+      "summary": "Arena, formerly LM Arena, has been hosting the 2014 World Cup. The tournament will take place in the summer.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:23.163Z"
+    },
+    {
+      "title": "A station wagon is entering one of the hardest 24-hour races in the world",
+      "url": "https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T16:02:36.000Z",
+      "metaDescription": "Station wagons used to be family cars, but now they're for going fast, too.",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.2914857157095218,
+      "crawledAt": "2026-03-18T17:09:23.203Z",
+      "id": "xr0cl9",
+      "entities": [],
+      "summary": " Station wagons used to be family cars, but now they're for going fast. Now they're going fast, too.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:45.696Z"
+    },
+    {
+      "title": "Build Your First AI Agent with LangGraph: A Step-by-Step Travel Planner Example(It’s Easier Than…",
+      "url": "https://pub.towardsai.net/build-your-first-ai-agent-with-langgraph-a-step-by-step-travel-planner-example-its-easier-than-e7f06a3dd8bd?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:01:01.000Z",
+      "metaDescription": "Learn how to create autonomous AI agents using LangGraph and qwen3–32b from planning workflows and extracting information to generating…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.8653100859495332,
+      "crawledAt": "2026-03-18T17:10:00.568Z",
+      "id": "he4k6b",
+      "entities": [],
+      "summary": "Learn how to create autonomous AI agents using LangGraph and qwen3–32b from planning workflows and extracting information to generate AI agents.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:57.318Z"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:00:00.000Z",
+      "metaDescription": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.547313689582371,
+      "crawledAt": "2026-03-18T17:09:20.531Z",
+      "id": "sc5eph",
+      "entities": [],
+      "summary": " The company has raised $12 million in seed funding to build an AI operating system for enterprise. The company also has $12million in seed money to build the system.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:08.539Z"
+    },
+    {
+      "title": "Open Models, Open Runtime, Open Harness - Building your own AI agent with LangChain and Nvidia",
+      "url": "https://www.youtube.com/watch?v=BEYEWw1Mkmw",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:51:48.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.4989515055509389,
+      "crawledAt": "2026-03-18T17:10:15.501Z",
+      "id": "dzkrxq",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8479028344154358,
+          "index": 2,
+          "word": "Models",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8493345975875854,
+          "index": 19,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8809844255447388,
+          "index": 21,
+          "word": "##hai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8585044145584106,
+          "index": 22,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8424894213676453,
+          "index": 24,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8445450067520142,
+          "index": 25,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:19.774Z"
+    },
+    {
+      "title": "Peter faces a new life cycle in Spider-Man: Brand New Day trailer",
+      "url": "https://arstechnica.com/culture/2026/03/peter-faces-a-new-life-cycle-in-spider-man-brand-new-day-trailer/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T15:41:24.000Z",
+      "metaDescription": "“Sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker’s heart.”",
+      "category": "product-launch",
+      "difficulty": 7,
+      "confidence": 0.9223298342709964,
+      "crawledAt": "2026-03-18T17:09:23.337Z",
+      "id": "xwz2zo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9913641810417175,
+          "index": 1,
+          "word": "Peter",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9880341291427612,
+          "index": 8,
+          "word": "Spider",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9941675066947937,
+          "index": 9,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9951469898223877,
+          "index": 10,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9879814386367798,
+          "index": 12,
+          "word": "Brand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9967781901359558,
+          "index": 13,
+          "word": "New",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.99652099609375,
+          "index": 14,
+          "word": "Day",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"Sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart,\" says Peter Parker.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:29.763Z"
+    },
+    {
+      "title": "Mastercard keeps tabs on fraud with new foundation model",
+      "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T15:31:00.000Z",
+      "metaDescription": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digita",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.7641673229274558,
+      "crawledAt": "2026-03-18T17:09:35.191Z",
+      "id": "tjdyv5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8857107162475586,
+          "index": 1,
+          "word": "Master",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8515026569366455,
+          "index": 2,
+          "word": "##card",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:51.644Z"
+    },
+    {
+      "title": "The Rise of Local AI: Why Ollama and OpenClaw Are Changing Everything",
+      "url": "https://pub.towardsai.net/the-rise-of-local-ai-why-ollama-and-openclaw-are-changing-everything-b20d59bcf614?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:01:01.000Z",
+      "metaDescription": "Your laptop is now a private AI powerhouse. Here’s why that matters — and exactly how to build one.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2999625086833998,
+      "crawledAt": "2026-03-18T17:10:00.721Z",
+      "id": "a0eg1",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8739340901374817,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Your laptop is now a private AI powerhouse. Here’s why that matters — and how to build one.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:10.527Z"
+    },
+    {
+      "title": "The New Experience of Coding with AI",
+      "url": "https://towardsdatascience.com/the-new-experience-of-coding-with-ai/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:00:00.000Z",
+      "metaDescription": "The seduction of AI code assistants\nThe post The New Experience of Coding with AI appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9429205133316503,
+      "crawledAt": "2026-03-18T17:09:32.034Z",
+      "id": "4n8ccm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8405999541282654,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The New Experience of Coding with AI appeared first on Towards Data Science. The post also appeared on Towards data Science.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:29.617Z"
+    },
+    {
+      "title": "For effective AI, insurance needs to get its data house in order",
+      "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T14:37:00.000Z",
+      "metaDescription": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficien",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.3999522239853351,
+      "crawledAt": "2026-03-18T17:09:35.350Z",
+      "id": "2pbaoj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9837273955345154,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficien.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:41.749Z"
+    },
+    {
+      "title": "7 Readability Features for Your Next Machine Learning Model",
+      "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T14:01:29.000Z",
+      "metaDescription": "Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.3397887124379802,
+      "crawledAt": "2026-03-18T17:09:42.746Z",
+      "id": "ceorwg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8447380065917969,
+          "index": 8,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:55.017Z"
+    },
+    {
+      "title": "You’ve Been One-Hot Encoding Everything. Here’s Why That’s Costing You.",
+      "url": "https://pub.towardsai.net/youve-been-one-hot-encoding-everything-here-s-why-that-s-costing-you-d771dbb1478f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T14:01:03.000Z",
+      "metaDescription": "I spent weeks trying to figure out why my model kept underperforming on a dataset with a high-cardinality city feature. I’d preprocessed…\nContinue reading on Towards AI »",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.5979581981859534,
+      "crawledAt": "2026-03-18T17:10:00.920Z",
+      "id": "4ant03",
+      "entities": [],
+      "summary": " I spent weeks trying to figure out why my model kept underperforming on a high-cardinality city feature.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:14:06.666Z"
+    },
     {
       "title": "Claude Dispatch: Anthorpic OpenClaw Competitor!",
       "url": "https://www.youtube.com/watch?v=1_VlT1vhN04",
@@ -55,6 +513,25 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-03-18T13:27:39.835Z"
+    },
+    {
+      "title": "Anthropic Made Their OpenClaw",
+      "url": "https://www.youtube.com/watch?v=1_VlT1vhN04",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T13:15:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9415008970756243,
+      "crawledAt": "2026-03-18T17:10:17.827Z",
+      "id": "g8un1f",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:14:52.636Z"
     },
     {
       "title": "The Air-Gapped Chronicles: The Insurance Gap — Building Liability-Resistant AI Without Coverage",
@@ -2806,6 +3283,373 @@
       "processed_at": "2026-03-18T05:54:28.802Z"
     },
     {
+      "title": "SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.15622",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15622v1 Announce Type: new \nAbstract: Neural Radiance Fields (NeRF) have achieved photorealistic novel view synthesis but suffer from computational inefficiency due to dense ray sampling du",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.4453500918874711,
+      "crawledAt": "2026-03-18T17:10:35.013Z",
+      "id": "2ggcwl",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8448355793952942,
+          "index": 9,
+          "word": "Ada",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9961711168289185,
+          "index": 12,
+          "word": "Ray",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991605877876282,
+          "index": 13,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9926612973213196,
+          "index": 14,
+          "word": "##pling",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8654577732086182,
+          "index": 18,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.950106680393219,
+          "index": 22,
+          "word": "Fields",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9236584305763245,
+          "index": 25,
+          "word": "Actor",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "NeRF have achieved photorealistic novel view synthesis but suffer from computational inefficiency due to dense ray sampling.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:03.735Z"
+    },
+    {
+      "title": "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision",
+      "url": "https://arxiv.org/abs/2603.15624",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15624v1 Announce Type: new \nAbstract: This paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision (pBLV) in navigation tasks. We ev",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32592702516505473,
+      "crawledAt": "2026-03-18T17:10:35.218Z",
+      "id": "rt7b1x",
+      "entities": [],
+      "summary": " The paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:12.039Z"
+    },
+    {
+      "title": "Improving Generative Adversarial Network Generalization for Facial Expression Synthesis",
+      "url": "https://arxiv.org/abs/2603.15648",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15648v1 Announce Type: new \nAbstract: Facial expression synthesis aims to generate realistic facial expressions while preserving identity. Existing conditional generative adversarial networ",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.5468158700868169,
+      "crawledAt": "2026-03-18T17:10:35.391Z",
+      "id": "87lf70",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9688854813575745,
+          "index": 5,
+          "word": "##rative",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9401926398277283,
+          "index": 6,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9011314511299133,
+          "index": 8,
+          "word": "##aria",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9595920443534851,
+          "index": 9,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.95747309923172,
+          "index": 10,
+          "word": "Network",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9665961265563965,
+          "index": 19,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Facial expression synthesis aims to generate realistic facial expressions while preserving identity. Existing conditional generative adversarial networ.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:21.541Z"
+    },
+    {
+      "title": "Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis",
+      "url": "https://arxiv.org/abs/2603.15774",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15774v1 Announce Type: new \nAbstract: Computational methods on analyzing Whole Slide Images (WSIs) enable early diagnosis and treatments by supporting pathologists in detection and classifi",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.31555152695457217,
+      "crawledAt": "2026-03-18T17:10:36.032Z",
+      "id": "m5vddm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9311192035675049,
+          "index": 18,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Computational methods on analyzing Whole Slide Images enable early diagnosis and treatments by supporting pathologists in detection and classifi.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:55.895Z"
+    },
+    {
+      "title": "Parallelised Differentiable Straightest Geodesics for 3D Meshes",
+      "url": "https://arxiv.org/abs/2603.15780",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15780v1 Announce Type: new \nAbstract: Machine learning has been progressively generalised to operate within non-Euclidean domains, but geometrically accurate methods for learning on surface",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.39006951018813757,
+      "crawledAt": "2026-03-18T17:10:36.204Z",
+      "id": "gfkdza",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9493740797042847,
+          "index": 15,
+          "word": "Me",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Machine learning has been generalised to operate within non-Euclidean domains. It has been developed to operate in non-euclideans.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:07.092Z"
+    },
+    {
+      "title": "Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory",
+      "url": "https://arxiv.org/abs/2603.15800",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15800v1 Announce Type: new \nAbstract: Multi-modal Large Language Models (MLLMs) have achieved remarkable performance across a wide range of visual reasoning tasks, yet their vulnerability t",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.8913041626667755,
+      "crawledAt": "2026-03-18T17:10:36.405Z",
+      "id": "q6i2ww",
+      "entities": [],
+      "summary": " The new version of the language model is called \"MLLMs\" The new model is based on the language of the English language.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:18.159Z"
+    },
+    {
+      "title": "Feed-forward Gaussian Registration for Head Avatar Creation and Editing",
+      "url": "https://arxiv.org/abs/2603.15811",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15811v1 Announce Type: new \nAbstract: We present MATCH (Multi-view Avatars from Topologically Corresponding Heads), a multi-view Gaussian registration method for high-quality head avatar cr",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5121642900196399,
+      "crawledAt": "2026-03-18T17:10:36.596Z",
+      "id": "ngjtqi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9970488548278809,
+          "index": 5,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8021928071975708,
+          "index": 6,
+          "word": "##aus",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9158865213394165,
+          "index": 7,
+          "word": "##sian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new avatar is a multi-view version of the avatar's avatar. The new version is a version of this version of The Avatar.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:27.463Z"
+    },
+    {
+      "title": "ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation",
+      "url": "https://arxiv.org/abs/2603.15812",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15812v1 Announce Type: new \nAbstract: Multi-View Multi-Object Tracking (MV-MOT) aims to localize and maintain consistent identities of objects observed by multiple sensors. This task is cha",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32654725431410453,
+      "crawledAt": "2026-03-18T17:10:36.812Z",
+      "id": "mt1crj",
+      "entities": [],
+      "summary": "Multi-View Multi-Object Tracking (MV-MOT) aims to localize and maintain consistent identities of objects observed by multiple sensors.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:41.676Z"
+    },
+    {
+      "title": "Conflict-Aware Multimodal Fusion for Ambivalence and Hesitancy Recognition",
+      "url": "https://arxiv.org/abs/2603.15818",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15818v1 Announce Type: new \nAbstract: Ambivalence and hesitancy (A/H) are subtle affective states where a person shows conflicting signals through different channels -- saying one thing whi",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3761921910411765,
+      "crawledAt": "2026-03-18T17:10:37.020Z",
+      "id": "knqnqk",
+      "entities": [],
+      "summary": "Ambivalence and hesitancy are subtle affective states where a person shows conflicting signals through different channels. A/H is a sign of a person's feelings and feelings.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:54.015Z"
+    },
+    {
+      "title": "Self-supervised Disentanglement of Disease Effects from Aging in 3D Medical Shapes",
+      "url": "https://arxiv.org/abs/2603.15862",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15862v1 Announce Type: new \nAbstract: Disentangling pathological changes from physiological aging in 3D medical shapes is crucial for developing interpretable biomarkers and patient stratif",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2777478732081991,
+      "crawledAt": "2026-03-18T17:10:37.566Z",
+      "id": "6gtkv9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9666692018508911,
+          "index": 9,
+          "word": "Disease",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 3D medical shapes are crucial for developing interpretable biomarkers and patient stratifers. The 3d medical shapes of 3D are important for developing biomarkers.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:17:25.061Z"
+    },
+    {
+      "title": "EvoIQA - Explaining Image Distortions with Evolved White-Box Logic",
+      "url": "https://arxiv.org/abs/2603.15887",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15887v1 Announce Type: new \nAbstract: Traditional Image Quality Assessment (IQA) metrics typically fall into one of two extremes: rigid, hand-crafted mathematical models or \"black-box\" deep",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.43346304706865724,
+      "crawledAt": "2026-03-18T17:10:37.761Z",
+      "id": "cpxerp",
+      "entities": [],
+      "summary": " The new \"black box\" is a new look at the world's most complex images. The new look is a look at how the world looks at the image of the world.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:17:37.398Z"
+    },
+    {
       "title": "Intelligent AI Delegation: Overview",
       "url": "https://ai.plainenglish.io/intelligent-ai-delegation-overview-bc89a1acce5c?source=rss----78d064101951---4",
       "source": "AI in Plain English",
@@ -4831,20 +5675,20 @@
       "processed_at": "2026-03-18T09:05:50.580Z"
     }
   ],
-  "processedAt": "2026-03-18T13:29:31.403Z",
+  "processedAt": "2026-03-18T17:17:37.404Z",
   "categories": [
-    "safety-ethics",
-    "ai-agents",
     "creative-ai",
-    "product-launch",
-    "model-release",
-    "infrastructure",
     "developer-tool",
+    "product-launch",
+    "ai-agents",
+    "model-release",
+    "safety-ethics",
+    "infrastructure",
     "research-paper",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 10,
-  "dailyArticlesCount": 139,
+  "newArticlesProcessed": 26,
+  "dailyArticlesCount": 165,
   "filterDate": "2026-03-18"
 }

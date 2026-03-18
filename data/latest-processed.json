@@ -1,9 +1,467 @@
 {
-  "crawledAt": "2026-03-18T13:27:37.803Z",
+  "crawledAt": "2026-03-18T17:10:57.639Z",
   "totalSources": 70,
-  "totalArticles": 2023,
+  "totalArticles": 1989,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Polly AI Assistant now generally available in LangSmith",
+      "url": "https://www.youtube.com/watch?v=S6A8ooiJ5aU",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T17:00:42.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7448859086201872,
+      "crawledAt": "2026-03-18T17:10:15.407Z",
+      "id": "adkdfi",
+      "entities": [],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:10:59.903Z"
+    },
+    {
+      "title": "The Gemini-powered features in Google Workspace that are worth using",
+      "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:43:18.000Z",
+      "metaDescription": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.7882344077066297,
+      "crawledAt": "2026-03-18T17:09:20.237Z",
+      "id": "d7etaf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9986114501953125,
+          "index": 2,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9962374567985535,
+          "index": 7,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970047473907471,
+          "index": 8,
+          "word": "Works",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9895964860916138,
+          "index": 9,
+          "word": "##pace",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best features in Google Workspace.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:12.448Z"
+    },
+    {
+      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+      "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:30:00.000Z",
+      "metaDescription": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3521440970346704,
+      "crawledAt": "2026-03-18T17:09:20.420Z",
+      "id": "6qe54b",
+      "entities": [],
+      "summary": "Arena, formerly LM Arena, has been hosting the 2014 World Cup. The tournament will take place in the summer.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:23.163Z"
+    },
+    {
+      "title": "A station wagon is entering one of the hardest 24-hour races in the world",
+      "url": "https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T16:02:36.000Z",
+      "metaDescription": "Station wagons used to be family cars, but now they're for going fast, too.",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.2914857157095218,
+      "crawledAt": "2026-03-18T17:09:23.203Z",
+      "id": "xr0cl9",
+      "entities": [],
+      "summary": " Station wagons used to be family cars, but now they're for going fast. Now they're going fast, too.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:45.696Z"
+    },
+    {
+      "title": "Build Your First AI Agent with LangGraph: A Step-by-Step Travel Planner Example(It’s Easier Than…",
+      "url": "https://pub.towardsai.net/build-your-first-ai-agent-with-langgraph-a-step-by-step-travel-planner-example-its-easier-than-e7f06a3dd8bd?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:01:01.000Z",
+      "metaDescription": "Learn how to create autonomous AI agents using LangGraph and qwen3–32b from planning workflows and extracting information to generating…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.8653100859495332,
+      "crawledAt": "2026-03-18T17:10:00.568Z",
+      "id": "he4k6b",
+      "entities": [],
+      "summary": "Learn how to create autonomous AI agents using LangGraph and qwen3–32b from planning workflows and extracting information to generate AI agents.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:11:57.318Z"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T16:00:00.000Z",
+      "metaDescription": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.547313689582371,
+      "crawledAt": "2026-03-18T17:09:20.531Z",
+      "id": "sc5eph",
+      "entities": [],
+      "summary": " The company has raised $12 million in seed funding to build an AI operating system for enterprise. The company also has $12million in seed money to build the system.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:08.539Z"
+    },
+    {
+      "title": "Open Models, Open Runtime, Open Harness - Building your own AI agent with LangChain and Nvidia",
+      "url": "https://www.youtube.com/watch?v=BEYEWw1Mkmw",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:51:48.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.4989515055509389,
+      "crawledAt": "2026-03-18T17:10:15.501Z",
+      "id": "dzkrxq",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8479028344154358,
+          "index": 2,
+          "word": "Models",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8493345975875854,
+          "index": 19,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8809844255447388,
+          "index": 21,
+          "word": "##hai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8585044145584106,
+          "index": 22,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8424894213676453,
+          "index": 24,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8445450067520142,
+          "index": 25,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:19.774Z"
+    },
+    {
+      "title": "Peter faces a new life cycle in Spider-Man: Brand New Day trailer",
+      "url": "https://arstechnica.com/culture/2026/03/peter-faces-a-new-life-cycle-in-spider-man-brand-new-day-trailer/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T15:41:24.000Z",
+      "metaDescription": "“Sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker’s heart.”",
+      "category": "product-launch",
+      "difficulty": 7,
+      "confidence": 0.9223298342709964,
+      "crawledAt": "2026-03-18T17:09:23.337Z",
+      "id": "xwz2zo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9913641810417175,
+          "index": 1,
+          "word": "Peter",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9880341291427612,
+          "index": 8,
+          "word": "Spider",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9941675066947937,
+          "index": 9,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9951469898223877,
+          "index": 10,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9879814386367798,
+          "index": 12,
+          "word": "Brand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9967781901359558,
+          "index": 13,
+          "word": "New",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.99652099609375,
+          "index": 14,
+          "word": "Day",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"Sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart,\" says Peter Parker.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:29.763Z"
+    },
+    {
+      "title": "Mastercard keeps tabs on fraud with new foundation model",
+      "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T15:31:00.000Z",
+      "metaDescription": "Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images to help it address security and authenticity issues in digita",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.7641673229274558,
+      "crawledAt": "2026-03-18T17:09:35.191Z",
+      "id": "tjdyv5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8857107162475586,
+          "index": 1,
+          "word": "Master",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8515026569366455,
+          "index": 2,
+          "word": "##card",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that’s trained on transaction data rather than text or images.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:12:51.644Z"
+    },
+    {
+      "title": "The Rise of Local AI: Why Ollama and OpenClaw Are Changing Everything",
+      "url": "https://pub.towardsai.net/the-rise-of-local-ai-why-ollama-and-openclaw-are-changing-everything-b20d59bcf614?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:01:01.000Z",
+      "metaDescription": "Your laptop is now a private AI powerhouse. Here’s why that matters — and exactly how to build one.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2999625086833998,
+      "crawledAt": "2026-03-18T17:10:00.721Z",
+      "id": "a0eg1",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8739340901374817,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Your laptop is now a private AI powerhouse. Here’s why that matters — and how to build one.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:10.527Z"
+    },
+    {
+      "title": "The New Experience of Coding with AI",
+      "url": "https://towardsdatascience.com/the-new-experience-of-coding-with-ai/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T15:00:00.000Z",
+      "metaDescription": "The seduction of AI code assistants\nThe post The New Experience of Coding with AI appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9429205133316503,
+      "crawledAt": "2026-03-18T17:09:32.034Z",
+      "id": "4n8ccm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8405999541282654,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The New Experience of Coding with AI appeared first on Towards Data Science. The post also appeared on Towards data Science.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:29.617Z"
+    },
+    {
+      "title": "For effective AI, insurance needs to get its data house in order",
+      "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T14:37:00.000Z",
+      "metaDescription": "A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficien",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.3999522239853351,
+      "crawledAt": "2026-03-18T17:09:35.350Z",
+      "id": "2pbaoj",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9837273955345154,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies’ internal processes that not only affect overall efficien.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:41.749Z"
+    },
+    {
+      "title": "7 Readability Features for Your Next Machine Learning Model",
+      "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T14:01:29.000Z",
+      "metaDescription": "Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.3397887124379802,
+      "crawledAt": "2026-03-18T17:09:42.746Z",
+      "id": "ceorwg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8447380065917969,
+          "index": 8,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:13:55.017Z"
+    },
+    {
+      "title": "You’ve Been One-Hot Encoding Everything. Here’s Why That’s Costing You.",
+      "url": "https://pub.towardsai.net/youve-been-one-hot-encoding-everything-here-s-why-that-s-costing-you-d771dbb1478f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T14:01:03.000Z",
+      "metaDescription": "I spent weeks trying to figure out why my model kept underperforming on a dataset with a high-cardinality city feature. I’d preprocessed…\nContinue reading on Towards AI »",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.5979581981859534,
+      "crawledAt": "2026-03-18T17:10:00.920Z",
+      "id": "4ant03",
+      "entities": [],
+      "summary": " I spent weeks trying to figure out why my model kept underperforming on a high-cardinality city feature.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:14:06.666Z"
+    },
     {
       "title": "Claude Dispatch: Anthorpic OpenClaw Competitor!",
       "url": "https://www.youtube.com/watch?v=1_VlT1vhN04",
@@ -55,6 +513,25 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-03-18T13:27:39.835Z"
+    },
+    {
+      "title": "Anthropic Made Their OpenClaw",
+      "url": "https://www.youtube.com/watch?v=1_VlT1vhN04",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T13:15:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9415008970756243,
+      "crawledAt": "2026-03-18T17:10:17.827Z",
+      "id": "g8un1f",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:14:52.636Z"
     },
     {
       "title": "The Air-Gapped Chronicles: The Insurance Gap — Building Liability-Resistant AI Without Coverage",
@@ -2804,6 +3281,373 @@
       "summary": " The new code review requires reasoning over project structure, repository context, and file-level implementation details. Existing automated r. arXiv:2603.16107v1 Announce Type: new    code review.",
       "language": "en",
       "processed_at": "2026-03-18T05:54:28.802Z"
+    },
+    {
+      "title": "SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.15622",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15622v1 Announce Type: new \nAbstract: Neural Radiance Fields (NeRF) have achieved photorealistic novel view synthesis but suffer from computational inefficiency due to dense ray sampling du",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.4453500918874711,
+      "crawledAt": "2026-03-18T17:10:35.013Z",
+      "id": "2ggcwl",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8448355793952942,
+          "index": 9,
+          "word": "Ada",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9961711168289185,
+          "index": 12,
+          "word": "Ray",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991605877876282,
+          "index": 13,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9926612973213196,
+          "index": 14,
+          "word": "##pling",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8654577732086182,
+          "index": 18,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.950106680393219,
+          "index": 22,
+          "word": "Fields",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9236584305763245,
+          "index": 25,
+          "word": "Actor",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "NeRF have achieved photorealistic novel view synthesis but suffer from computational inefficiency due to dense ray sampling.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:03.735Z"
+    },
+    {
+      "title": "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision",
+      "url": "https://arxiv.org/abs/2603.15624",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15624v1 Announce Type: new \nAbstract: This paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision (pBLV) in navigation tasks. We ev",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32592702516505473,
+      "crawledAt": "2026-03-18T17:10:35.218Z",
+      "id": "rt7b1x",
+      "entities": [],
+      "summary": " The paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:12.039Z"
+    },
+    {
+      "title": "Improving Generative Adversarial Network Generalization for Facial Expression Synthesis",
+      "url": "https://arxiv.org/abs/2603.15648",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15648v1 Announce Type: new \nAbstract: Facial expression synthesis aims to generate realistic facial expressions while preserving identity. Existing conditional generative adversarial networ",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.5468158700868169,
+      "crawledAt": "2026-03-18T17:10:35.391Z",
+      "id": "87lf70",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9688854813575745,
+          "index": 5,
+          "word": "##rative",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9401926398277283,
+          "index": 6,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9011314511299133,
+          "index": 8,
+          "word": "##aria",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9595920443534851,
+          "index": 9,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.95747309923172,
+          "index": 10,
+          "word": "Network",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9665961265563965,
+          "index": 19,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Facial expression synthesis aims to generate realistic facial expressions while preserving identity. Existing conditional generative adversarial networ.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:21.541Z"
+    },
+    {
+      "title": "Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis",
+      "url": "https://arxiv.org/abs/2603.15774",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15774v1 Announce Type: new \nAbstract: Computational methods on analyzing Whole Slide Images (WSIs) enable early diagnosis and treatments by supporting pathologists in detection and classifi",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.31555152695457217,
+      "crawledAt": "2026-03-18T17:10:36.032Z",
+      "id": "m5vddm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9311192035675049,
+          "index": 18,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Computational methods on analyzing Whole Slide Images enable early diagnosis and treatments by supporting pathologists in detection and classifi.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:15:55.895Z"
+    },
+    {
+      "title": "Parallelised Differentiable Straightest Geodesics for 3D Meshes",
+      "url": "https://arxiv.org/abs/2603.15780",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15780v1 Announce Type: new \nAbstract: Machine learning has been progressively generalised to operate within non-Euclidean domains, but geometrically accurate methods for learning on surface",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.39006951018813757,
+      "crawledAt": "2026-03-18T17:10:36.204Z",
+      "id": "gfkdza",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9493740797042847,
+          "index": 15,
+          "word": "Me",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Machine learning has been generalised to operate within non-Euclidean domains. It has been developed to operate in non-euclideans.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:07.092Z"
+    },
+    {
+      "title": "Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory",
+      "url": "https://arxiv.org/abs/2603.15800",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15800v1 Announce Type: new \nAbstract: Multi-modal Large Language Models (MLLMs) have achieved remarkable performance across a wide range of visual reasoning tasks, yet their vulnerability t",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.8913041626667755,
+      "crawledAt": "2026-03-18T17:10:36.405Z",
+      "id": "q6i2ww",
+      "entities": [],
+      "summary": " The new version of the language model is called \"MLLMs\" The new model is based on the language of the English language.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:18.159Z"
+    },
+    {
+      "title": "Feed-forward Gaussian Registration for Head Avatar Creation and Editing",
+      "url": "https://arxiv.org/abs/2603.15811",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15811v1 Announce Type: new \nAbstract: We present MATCH (Multi-view Avatars from Topologically Corresponding Heads), a multi-view Gaussian registration method for high-quality head avatar cr",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5121642900196399,
+      "crawledAt": "2026-03-18T17:10:36.596Z",
+      "id": "ngjtqi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9970488548278809,
+          "index": 5,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8021928071975708,
+          "index": 6,
+          "word": "##aus",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9158865213394165,
+          "index": 7,
+          "word": "##sian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new avatar is a multi-view version of the avatar's avatar. The new version is a version of this version of The Avatar.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:27.463Z"
+    },
+    {
+      "title": "ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation",
+      "url": "https://arxiv.org/abs/2603.15812",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15812v1 Announce Type: new \nAbstract: Multi-View Multi-Object Tracking (MV-MOT) aims to localize and maintain consistent identities of objects observed by multiple sensors. This task is cha",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.32654725431410453,
+      "crawledAt": "2026-03-18T17:10:36.812Z",
+      "id": "mt1crj",
+      "entities": [],
+      "summary": "Multi-View Multi-Object Tracking (MV-MOT) aims to localize and maintain consistent identities of objects observed by multiple sensors.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:41.676Z"
+    },
+    {
+      "title": "Conflict-Aware Multimodal Fusion for Ambivalence and Hesitancy Recognition",
+      "url": "https://arxiv.org/abs/2603.15818",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15818v1 Announce Type: new \nAbstract: Ambivalence and hesitancy (A/H) are subtle affective states where a person shows conflicting signals through different channels -- saying one thing whi",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3761921910411765,
+      "crawledAt": "2026-03-18T17:10:37.020Z",
+      "id": "knqnqk",
+      "entities": [],
+      "summary": "Ambivalence and hesitancy are subtle affective states where a person shows conflicting signals through different channels. A/H is a sign of a person's feelings and feelings.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:16:54.015Z"
+    },
+    {
+      "title": "Self-supervised Disentanglement of Disease Effects from Aging in 3D Medical Shapes",
+      "url": "https://arxiv.org/abs/2603.15862",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15862v1 Announce Type: new \nAbstract: Disentangling pathological changes from physiological aging in 3D medical shapes is crucial for developing interpretable biomarkers and patient stratif",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2777478732081991,
+      "crawledAt": "2026-03-18T17:10:37.566Z",
+      "id": "6gtkv9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9666692018508911,
+          "index": 9,
+          "word": "Disease",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 3D medical shapes are crucial for developing interpretable biomarkers and patient stratifers. The 3d medical shapes of 3D are important for developing biomarkers.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:17:25.061Z"
+    },
+    {
+      "title": "EvoIQA - Explaining Image Distortions with Evolved White-Box Logic",
+      "url": "https://arxiv.org/abs/2603.15887",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15887v1 Announce Type: new \nAbstract: Traditional Image Quality Assessment (IQA) metrics typically fall into one of two extremes: rigid, hand-crafted mathematical models or \"black-box\" deep",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.43346304706865724,
+      "crawledAt": "2026-03-18T17:10:37.761Z",
+      "id": "cpxerp",
+      "entities": [],
+      "summary": " The new \"black box\" is a new look at the world's most complex images. The new look is a look at how the world looks at the image of the world.",
+      "language": "en",
+      "processed_at": "2026-03-18T17:17:37.398Z"
     },
     {
       "title": "Intelligent AI Delegation: Overview",
@@ -67169,2248 +68013,25 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-03-03T20:46:31.500Z"
-    },
-    {
-      "title": "LangGraph agent ignores tool schema / stuck in loop after latest update – anyone else?",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rjv6q7/langgraph_agent_ignores_tool_schema_stuck_in_loop/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:16:50.000Z",
-      "metaDescription": "Hey everyone,\n I'm building a multi-step research agent with LangGraph (v0.3.x) + Claude 3.5 Sonnet / GPT-4o-mini. The node looks roughly like:\n research_agent = create_react_agent( model=ChatOpenAI(m",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.2908927449952084,
-      "crawledAt": "2026-03-03T20:40:08.305Z",
-      "id": "6r7kym",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9749693870544434,
-          "index": 1,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9717627167701721,
-          "index": 2,
-          "word": "##G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8917459845542908,
-          "index": 3,
-          "word": "##rap",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The node looks roughly like:: research_agent, create_react_agent (model=ChatOpenAI)",
-      "language": "en",
-      "processed_at": "2026-03-03T20:46:44.318Z"
-    },
-    {
-      "title": "10 AI Myths That Mislead Developers",
-      "url": "https://ai.plainenglish.io/10-ai-myths-that-mislead-developers-777597946732?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:16:17.000Z",
-      "metaDescription": "Stop Coding With Assumptions — Start Building With Reality\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.33876516247680916,
-      "crawledAt": "2026-03-03T20:39:32.406Z",
-      "id": "bfc4r",
-      "entities": [],
-      "summary": " Stop Coding With Assumptions — Start Building With Reality. Stop Building With reality. Read on Artificial Intelligence in Plain English.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:46:53.586Z"
-    },
-    {
-      "title": "Gemini 3.1 Flash Lite: A True Workhorse Model?",
-      "url": "https://www.youtube.com/watch?v=bsoK4gYS_rw",
-      "source": "Prompt Engineering",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:13:48.000Z",
-      "metaDescription": "",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.479370069619733,
-      "crawledAt": "2026-03-03T20:40:29.754Z",
-      "id": "udxnkg",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9889423847198486,
-          "index": 6,
-          "word": "Li",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8952171206474304,
-          "index": 12,
-          "word": "##horse",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:46:53.691Z"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite: The Model You'll Actually Use...",
-      "url": "https://www.youtube.com/watch?v=bsoK4gYS_rw",
-      "source": "Prompt Engineering",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:13:48.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.514127681959489,
-      "crawledAt": "2026-03-04T08:50:06.605Z",
-      "id": "tobu6s",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8565255999565125,
-          "index": 1,
-          "word": "Gemini",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-04T08:53:28.479Z"
-    },
-    {
-      "title": "Why AI Can't Stop Using Em Dashes — And Why Nobody Can Fix It",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rjv2q4/why_ai_cant_stop_using_em_dashes_and_why_nobody/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T17:12:47.000Z",
-      "metaDescription": "Every AI writes like this — mid-thought, clause inserted, dash deployed. You've noticed it. Everyone has. Em dashes have become the single most reliable tell of AI-generated text, to the point where h",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.2919383006021649,
-      "crawledAt": "2026-03-03T20:39:49.683Z",
-      "id": "wc966o",
-      "entities": [],
-      "summary": " Em dashes have become the single most reliable tell of AI-generated text. Every AI writes like this — mid-thought, clause inserted, clause deployed.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:04.438Z"
-    },
-    {
-      "title": "Anti-AI mods told me to kill myself",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rjuy2w/antiai_mods_told_me_to_kill_myself/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:08:04.000Z",
-      "metaDescription": "Yesterday I posted a single AI generated image in one of my favorite subreddits, nothing offensive. Not only did I get banned and muted from even talking to mods, but they felt need to tell me to kill",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.61774762970932,
-      "crawledAt": "2026-03-03T20:39:59.186Z",
-      "id": "67k6ko",
-      "entities": [],
-      "summary": " Yesterday I posted a single AI generated image in one of my favorite subreddits, nothing offensive. Not only did I get banned and muted from even talking to mods, but they felt need to tell me to kill.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:16.413Z"
-    },
-    {
-      "title": "OpenClaw Was Burning Tokens. I Cut 90%. Here’s How.",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1rjuun1/openclaw_was_burning_tokens_i_cut_90_heres_how/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:04:41.000Z",
-      "metaDescription": "submitted by    /u/Front_Lavishness8886  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.26079872864353804,
-      "crawledAt": "2026-03-03T20:40:11.193Z",
-      "id": "rq2kjn",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:16.551Z"
-    },
-    {
-      "title": "EY hit 4x coding productivity by connecting AI agents to engineering standards",
-      "url": "https://venturebeat.com/orchestration/ey-hit-4x-coding-productivity-by-connecting-ai-agents-to-engineering",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T17:04:00.000Z",
-      "metaDescription": "Coding agents can generate thousands of lines of code in minutes. The problem: most of it can't be deployed. It breaks internal standards, fails compliance checks, or creates more cleanup work than it",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.8440614301658627,
-      "crawledAt": "2026-03-04T20:38:23.283Z",
-      "id": "97uq1c",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9440212845802307,
-          "index": 1,
-          "word": "E",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.966315746307373,
-          "index": 10,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Coding agents can generate thousands of lines of code in minutes. It breaks internal standards, fails compliance checks, or creates more cleanup work than it does.",
-      "language": "en",
-      "processed_at": "2026-03-04T20:44:51.254Z"
-    },
-    {
-      "title": "Do AGENTS.md/CLAUDE.md Files Help Coding Agents? A New Paper Challenges this",
-      "url": "https://pub.towardsai.net/do-agents-md-claude-md-files-help-coding-agents-a-new-paper-challenges-this-bfdcd8aca575?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:01:02.000Z",
-      "metaDescription": "Over the past year, adding an AGENTS.md or CLAUDE.md file to your coding repository has quietly become standard practice when using the…\nContinue reading on Towards AI »",
-      "category": "research-paper",
-      "difficulty": 5,
-      "confidence": 0.9669482897987342,
-      "crawledAt": "2026-03-03T20:39:27.471Z",
-      "id": "ln8n7i",
-      "entities": [],
-      "summary": " Over the past year, adding AGENTS.md or CLAUDE.md to your coding repository has quietly become standard practice.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:25.175Z"
-    },
-    {
-      "title": "Create new worlds in Project Genie with these 4 tips",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-      "source": "Google AI Blog",
-      "source_domain": "blog.google",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T17:00:00.000Z",
-      "metaDescription": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.6015155440890175,
-      "crawledAt": "2026-03-03T20:38:44.537Z",
-      "id": "pfh1ue",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9739463925361633,
-          "index": 6,
-          "word": "Project",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9950587153434753,
-          "index": 7,
-          "word": "Gen",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9954037666320801,
-          "index": 8,
-          "word": "##ie",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Google's Project Genie has been created by Google to help people create their own worlds. The project is being developed by Google's DeepMind, which has been working on the project for years.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:50.480Z"
-    },
-    {
-      "title": "7 Essential OpenClaw Skills You Need Right Now",
-      "url": "https://www.kdnuggets.com/7-essential-openclaw-skills-you-need-right-now",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T17:00:00.000Z",
-      "metaDescription": "Skills are what make OpenClaw more than a local assistant, and these are the most popular ones worth installing today.",
-      "category": "safety-ethics",
-      "difficulty": 5,
-      "confidence": 0.2564781863020492,
-      "crawledAt": "2026-03-03T20:41:00.443Z",
-      "id": "v9l4tb",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8372498750686646,
-          "index": 3,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9926542043685913,
-          "index": 4,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9743328094482422,
-          "index": 5,
-          "word": "##law",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Skills are what make OpenClaw more than a local assistant. These are the most popular ones worth installing today.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:47:57.963Z"
-    },
-    {
-      "title": "Join or host a GitHub Copilot Dev Days event near you",
-      "url": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
-      "source": "GitHub Blog",
-      "source_domain": "github.blog",
-      "source_category": "company",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:55:00.000Z",
-      "metaDescription": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding.  \nThe post Join or host a GitHub Copilot Dev",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.25827978016990205,
-      "crawledAt": "2026-03-04T02:33:39.985Z",
-      "id": "br68ym",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9947487115859985,
-          "index": 6,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.971382200717926,
-          "index": 7,
-          "word": "##it",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9910166263580322,
-          "index": 8,
-          "word": "##H",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8992214202880859,
-          "index": 9,
-          "word": "##ub",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9448913931846619,
-          "index": 10,
-          "word": "Co",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9702786207199097,
-          "index": 12,
-          "word": "##lot",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9874173998832703,
-          "index": 13,
-          "word": "Dev",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9983558058738708,
-          "index": 14,
-          "word": "Days",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events. The events help developers explore real-world, AI-assisted coding.",
-      "language": "en",
-      "processed_at": "2026-03-04T02:45:07.777Z"
-    },
-    {
-      "title": "Google releases Gemini 3.1 Flash-Lite, cost-efficient Gemini 3 series model",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjujsf/google_releases_gemini_31_flashlite_costefficient/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:53:48.000Z",
-      "metaDescription": "Gemini 3.1 Flash-Lite is rolling out in preview via the Gemini API in googleaistudio, fastest and most cost-efficient Gemini 3 series model yet now comes with dynamic thinking to scale across tasks of",
-      "category": "model-release",
-      "difficulty": 7,
-      "confidence": 0.9905984264012101,
-      "crawledAt": "2026-03-03T20:39:46.542Z",
-      "id": "6yvm8k",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9835960865020752,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9939534664154053,
-          "index": 3,
-          "word": "Gemini",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9804068207740784,
-          "index": 4,
-          "word": "3",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.99259352684021,
-          "index": 15,
-          "word": "Gemini",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9381337761878967,
-          "index": 16,
-          "word": "3",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Gemini 3.1 Flash-Lite is rolling out in preview via the Gemini API in googleaistudio. The most cost-efficient Gemini 3 series model yet now comes with dynamic thinking to scale across tasks.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:48:12.344Z"
-    },
-    {
-      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part3",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:50:49.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.32694601115182104,
-      "crawledAt": "2026-03-03T16:56:46.976Z",
-      "id": "bg62fn",
-      "entities": [],
-      "summary": "Discussion about AI-powered creative content generation and tools.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:16.977Z"
-    },
-    {
-      "title": "Why you should think twice before jumping on the AI caricature trend",
-      "url": "https://www.reddit.com/r/artificial/comments/1rjudk7/why_you_should_think_twice_before_jumping_on_the/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:47:33.000Z",
-      "metaDescription": "submitted by    /u/Haunterblademoi  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.34383343036872205,
-      "crawledAt": "2026-03-03T16:57:52.634Z",
-      "id": "59ku05",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9855597615242004,
-          "index": 10,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:17.123Z"
-    },
-    {
-      "title": "Would you be interested in a fully local AI 3D model generator ?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjuccw/would_you_be_interested_in_a_fully_local_ai_3d/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:46:19.000Z",
-      "metaDescription": "Hi everyone, \n For a while now, I’ve been developing a desktop application that can generate 3D models from either an image or a text prompt.\n I know how difficult it can be to find assets when you're",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.322470826366229,
-      "crawledAt": "2026-03-03T20:39:42.937Z",
-      "id": "71giiu",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9961541891098022,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9653978943824768,
-          "index": 10,
-          "word": "3D",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A desktop application can generate 3D models from either an image or a text prompt. It can generate models from an image and a text Prompt.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:48:22.373Z"
-    },
-    {
-      "title": "Gemini 3.1 Flash-lite",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjubbf/gemini_31_flashlite/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:45:16.000Z",
-      "metaDescription": "https://deepmind.google/models/model-cards/gemini-3-1-flash-lite/\n    submitted by    /u/CallMePyro  \n [link]   [comments]",
-      "category": "model-release",
-      "difficulty": 3,
-      "confidence": 0.3878036501456806,
-      "crawledAt": "2026-03-03T20:39:47.366Z",
-      "id": "ao4yk5",
-      "entities": [],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:48:22.454Z"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
-      "source": "DeepMind",
-      "source_domain": "deepmind.google",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:35:55.000Z",
-      "metaDescription": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7732030372404041,
-      "crawledAt": "2026-03-04T02:34:08.875Z",
-      "id": "5n9ikv",
-      "entities": [],
-      "summary": "The Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-      "language": "en",
-      "processed_at": "2026-03-04T02:45:18.477Z"
-    },
-    {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-      "source": "Google AI Blog",
-      "source_domain": "blog.google",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:34:00.000Z",
-      "metaDescription": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7732030372404041,
-      "crawledAt": "2026-03-03T16:56:51.312Z",
-      "id": "2mmp8h",
-      "entities": [],
-      "summary": "The Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:28.622Z"
-    },
-    {
-      "title": "End of an era",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjtzfv/end_of_an_era/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:33:02.000Z",
-      "metaDescription": "https://x.com/JustinLin610/status/2028865835373359513\n Junyang Lin stepped down from Qwen 💔 \n    submitted by    /u/sprinter21  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.33583620428905536,
-      "crawledAt": "2026-03-03T16:57:49.412Z",
-      "id": "isl4fz",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:28.816Z"
-    },
-    {
-      "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:23:30.000Z",
-      "metaDescription": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.6708380653148526,
-      "crawledAt": "2026-03-03T16:57:25.450Z",
-      "id": "rtdg84",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9525007009506226,
-          "index": 12,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9908755421638489,
-          "index": 13,
-          "word": "Nova",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8113855123519897,
-          "index": 16,
-          "word": "##WS",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Virtual try-on capability now available in Amazon Nova Canvas. Sample code to get started quickly and help get the best outputs.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:38.332Z"
-    },
-    {
-      "title": "What the hell are these responses from Gemini 3.1 Pro?",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjtmsf/what_the_hell_are_these_responses_from_gemini_31/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:19:47.000Z",
-      "metaDescription": "A flip switched suddenly. It responded to my prompts in a few seconds but with super weird outputs. I re-prompted the same question and got various, strange responses.\n Context: Research for dissertat",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.4098048493268828,
-      "crawledAt": "2026-03-03T16:58:00.015Z",
-      "id": "26z5y1",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9670495390892029,
-          "index": 8,
-          "word": "Gemini",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9873149394989014,
-          "index": 9,
-          "word": "3",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9968233704566956,
-          "index": 11,
-          "word": "1",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A flip switched suddenly. It responded to my prompts in a few seconds but with super weird outputs. I re-prompted the same question and got various, strange responses.",
-      "language": "en",
-      "processed_at": "2026-03-03T16:59:50.244Z"
-    },
-    {
-      "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:18:30.000Z",
-      "metaDescription": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes th",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9852055017599071,
-      "crawledAt": "2026-03-03T16:57:25.632Z",
-      "id": "wig5t7",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9987772703170776,
-          "index": 2,
-          "word": "Len",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9953833818435669,
-          "index": 3,
-          "word": "##di",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8291745781898499,
-          "index": 25,
-          "word": "Bed",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8612673878669739,
-          "index": 26,
-          "word": "##rock",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes th.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:01.379Z"
-    },
-    {
-      "title": "How Tines enhances security analysis with Amazon Quick Suite",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:15:06.000Z",
-      "metaDescription": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP ",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.7791844620833874,
-      "crawledAt": "2026-03-03T16:57:25.816Z",
-      "id": "perfz4",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9632936120033264,
-          "index": 2,
-          "word": "Tin",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8010680675506592,
-          "index": 10,
-          "word": "Quick",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Tines can securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP that uses an MCP.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:14.135Z"
-    },
-    {
-      "title": "How to get \"5D Parallelism Workshop\" from vizuara for free",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rjt9lh/how_to_get_5d_parallelism_workshop_from_vizuara/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T16:06:33.000Z",
-      "metaDescription": "submitted by    /u/Successful_Land9795  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.2974186500552558,
-      "crawledAt": "2026-03-03T16:58:17.524Z",
-      "id": "j9rmup",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8373362421989441,
-          "index": 5,
-          "word": "5",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8372480273246765,
-          "index": 8,
-          "word": "##lle",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9704379439353943,
-          "index": 9,
-          "word": "##lis",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9201497435569763,
-          "index": 10,
-          "word": "##m",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8020013570785522,
-          "index": 11,
-          "word": "Workshop",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:14.258Z"
-    },
-    {
-      "title": "Building Automatic Differentiation from Scratch",
-      "url": "https://pub.towardsai.net/building-automatic-differentiation-from-scratch-ef9801719f67?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T16:01:02.000Z",
-      "metaDescription": "The tool that helps machines learn\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2604676088489947,
-      "crawledAt": "2026-03-03T16:57:35.978Z",
-      "id": "y7resx",
-      "entities": [],
-      "summary": " The tool that helps machines learn reading on Towards AI is called Towards AI. The tool is designed to help machines learn more about reading on the internet.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:24.242Z"
-    },
-    {
-      "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
-      "url": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:58:55.000Z",
-      "metaDescription": "New Airs leave more room underneath for the rumored low-cost MacBook.",
-      "category": "model-release",
-      "difficulty": 5,
-      "confidence": 0.447569943133157,
-      "crawledAt": "2026-03-03T20:38:53.179Z",
-      "id": "bfgaeg",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9878546595573425,
-          "index": 2,
-          "word": "Mac",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.996167004108429,
-          "index": 3,
-          "word": "##B",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9880495667457581,
-          "index": 4,
-          "word": "##ook",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9959320425987244,
-          "index": 5,
-          "word": "Air",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " New Airs leave more room underneath for rumored low-cost MacBooks. New AirS leave more space underneath for the rumored low cost MacBooks.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:48:42.613Z"
-    },
-    {
-      "title": "AI Was Supposed to Save You Time. Instead It Made You Work More.",
-      "url": "https://ai.plainenglish.io/ai-was-supposed-to-save-you-time-instead-it-made-you-work-more-aed59a74fd52?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:46:36.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.9223041682249391,
-      "crawledAt": "2026-03-03T16:57:41.465Z",
-      "id": "kkc1ni",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:34.668Z"
-    },
-    {
-      "title": "Everything Else GPT-5 Quietly Removed",
-      "url": "https://ai.plainenglish.io/everything-else-gpt-5-quietly-removed-and-why-your-prompts-need-to-change-c4da2f900c12?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:46:34.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2504108359235871,
-      "crawledAt": "2026-03-03T16:57:41.522Z",
-      "id": "mqnv3t",
-      "entities": [],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:34.795Z"
-    },
-    {
-      "title": "Can I fine-tune Klein 9B Myself?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rjsnsl/can_i_finetune_klein_9b_myself/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:43:52.000Z",
-      "metaDescription": "Lately I’ve been using Klein 9B a lot. I’ve already created many LoRAs, both for characters and for actions and poses. It’s an easy model to train. However, I don’t see new fine-tuned versions coming ",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.690861623763475,
-      "crawledAt": "2026-03-03T16:58:10.854Z",
-      "id": "7wnk3b",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8140003085136414,
-          "index": 7,
-          "word": "9",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Lately I’ve been using Klein 9B a lot. I”ve already created many LoRAs, both for characters and for actions and poses. However, I don’t see new fine-tuned versions coming coming.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:50.452Z"
-    },
-    {
-      "title": "Is AI Hiding Its Full Power? With Geoffrey Hinton",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjsmbr/is_ai_hiding_its_full_power_with_geoffrey_hinton/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:42:15.000Z",
-      "metaDescription": "Very good listen, though Hinton let's his politics slip a few times\n    submitted by    /u/Bishopkilljoy  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3502888106356335,
-      "crawledAt": "2026-03-03T16:58:00.271Z",
-      "id": "otd47e",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9380999803543091,
-          "index": 2,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9995129704475403,
-          "index": 10,
-          "word": "Geoffrey",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9993032813072205,
-          "index": 11,
-          "word": "Hi",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9877234101295471,
-          "index": 12,
-          "word": "##nton",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:00:50.551Z"
-    },
-    {
-      "title": "Kokoro TTS, but it clones voices now — Introducing KokoClone",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rjsgtd/kokoro_tts_but_it_clones_voices_now_introducing/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:36:18.000Z",
-      "metaDescription": "KokoClone is live.\n It extends Kokoro TTS with zero-shot voice cloning — while keeping the speed and real-time compatibility Kokoro is known for.\n If you like Kokoro’s prosody, naturalness, and perfor",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3756615127002431,
-      "crawledAt": "2026-03-04T13:11:12.227Z",
-      "id": "m6i4dc",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9515445232391357,
-          "index": 1,
-          "word": "Ko",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9242470860481262,
-          "index": 4,
-          "word": "T",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9486528635025024,
-          "index": 19,
-          "word": "##C",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " KokoClone is live on the Kokoro website. The company is known for its speed and real-time compatibility.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:24:37.062Z"
-    },
-    {
-      "title": "Beyond the Matryoshka Doll: A Human Chef Analogy for the Agentic AI Stack",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rjs8zu/oc_beyond_the_matryoshka_doll_a_human_chef/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:27:55.000Z",
-      "metaDescription": "submitted by    /u/Illustrious_Cow2703  \n [link]   [comments]",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9592458324247788,
-      "crawledAt": "2026-03-03T16:58:17.928Z",
-      "id": "1kwi1x",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8657101988792419,
-          "index": 3,
-          "word": "Mat",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8025343418121338,
-          "index": 6,
-          "word": "##ka",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9666927456855774,
-          "index": 7,
-          "word": "Doll",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9859079718589783,
-          "index": 16,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8262521624565125,
-          "index": 17,
-          "word": "##ic",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:01:01.777Z"
-    },
-    {
-      "title": "Massive AI deals drive $189B startup funding record in February",
-      "url": "https://www.reddit.com/r/artificial/comments/1rjru59/massive_ai_deals_drive_189b_startup_funding/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:11:44.000Z",
-      "metaDescription": "Crunchbase data shows global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. They include OpenAI, which raised $110 billion, also in t",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.3124414826439687,
-      "crawledAt": "2026-03-03T16:57:52.303Z",
-      "id": "eysqh5",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.944170355796814,
-          "index": 3,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Global venture investment totaled $189 billion in February, although 83% of capital raised went to just three companies. OpenAI raised $110 billion, which raised $ 110 billion, also raised $100 billion.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:01:23.600Z"
-    },
-    {
-      "title": "A site for discovering foundational AI model papers and AI Labs",
-      "url": "https://www.reddit.com/r/mlops/comments/1rjrsh2/a_site_for_discovering_foundational_ai_model/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:10:01.000Z",
-      "metaDescription": "There are a lot of foundational-model papers coming out, and I found it hard to keep track of them across labs and modalities.\n So I built a simple site to discover foundational AI papers, organized b",
-      "category": "research-paper",
-      "difficulty": 8,
-      "confidence": 0.4660575936686835,
-      "crawledAt": "2026-03-03T16:58:27.093Z",
-      "id": "9jpox8",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9980304837226868,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9960331916809082,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9861132502555847,
-          "index": 12,
-          "word": "Labs",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " There are a lot of foundational-model papers coming out, and I found it hard to keep track of them across labs and modalities. So I built a simple site to discover foundational AI papers.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:01:37.167Z"
-    },
-    {
-      "title": "Which FLUX model to train for realistic people photos with an RTX4090?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rjrkhw/which_flux_model_to_train_for_realistic_people/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T15:01:27.000Z",
-      "metaDescription": "As the title says, with all the new FLUX models, which one is the best to train a LORA of real people? I have an RTX 4090. Any recommendations and experiences would be great! \n    submitted by    /u/f",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3747351623701585,
-      "crawledAt": "2026-03-03T16:58:11.944Z",
-      "id": "47ne1r",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9284765720367432,
-          "index": 14,
-          "word": "R",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The new FLUX models are the best to train a LORA of real people. Any recommendations and experiences would be great!",
-      "language": "en",
-      "processed_at": "2026-03-03T17:02:08.593Z"
-    },
-    {
-      "title": "TAI #194: AI Goes Macro; Job Loss Fears, Military Usage, OpenAI $110B Raise",
-      "url": "https://pub.towardsai.net/tai-194-ai-goes-macro-job-loss-fears-military-usage-openai-110b-raise-0a08af55b139?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:01:03.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5526791966928257,
-      "crawledAt": "2026-03-03T16:57:36.063Z",
-      "id": "xjmjfx",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8616316318511963,
-          "index": 10,
-          "word": "##ro",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:02:08.733Z"
-    },
-    {
-      "title": "Kokoro TTS, but it clones voices now — Introducing KokoClone",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjrjg3/kokoro_tts_but_it_clones_voices_now_introducing/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:00:29.000Z",
-      "metaDescription": "KokoClone is live.\n It extends Kokoro TTS with zero-shot voice cloning — while keeping the speed and real-time compatibility Kokoro is known for.\n If you like Kokoro’s prosody, naturalness, and perfor",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3756615127002431,
-      "crawledAt": "2026-03-03T16:57:50.218Z",
-      "id": "fgxrri",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9515445232391357,
-          "index": 1,
-          "word": "Ko",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9242470860481262,
-          "index": 4,
-          "word": "T",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9486528635025024,
-          "index": 19,
-          "word": "##C",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " KokoClone is live on the Kokoro website. The company is known for its speed and real-time compatibility.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:02:19.495Z"
-    },
-    {
-      "title": "Why You Should Stop Writing Loops in Pandas",
-      "url": "https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T15:00:00.000Z",
-      "metaDescription": "How to think in columns, write faster code, and finally use Pandas like a professional\nThe post Why You Should Stop Writing Loops in Pandas  appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2884242105829819,
-      "crawledAt": "2026-03-03T16:57:09.870Z",
-      "id": "5tjjy2",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9528675079345703,
-          "index": 10,
-          "word": "##das",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The post was written by David Frum, a former journalist and author of the book Pandas. The book is published on the website Pandas.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:02:55.034Z"
-    },
-    {
-      "title": "Anthropic just launched memory import for Claude. It proves the real problem: you shouldn't have to beg each platform to remember you.",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rjribq/anthropic_just_launched_memory_import_for_claude/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:59:17.000Z",
-      "metaDescription": "Anthropic recently introduced a feature that allows users to export their ChatGPT memories and import them into Claude. It’s an interesting step toward memory portability between AI systems.\n That sai",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.9565807270037577,
-      "crawledAt": "2026-03-03T16:57:57.804Z",
-      "id": "khzymc",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9920696020126343,
-          "index": 9,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The feature allows users to import their memories into Claude. It's an interesting step toward the future of AI systems.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:02.823Z"
-    },
-    {
-      "title": "AI becomes too good with static images so captchas step up their game.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rjrhbz/ai_becomes_too_good_with_static_images_so/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:58:05.000Z",
-      "metaDescription": "submitted by    /u/rafalmio  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.47295412691164174,
-      "crawledAt": "2026-03-03T16:58:10.313Z",
-      "id": "dp13p5",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:02.932Z"
-    },
-    {
-      "title": "This is the first time I've Googled r/ChatGPT and this is what it's description under Google is... LOL",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rjraza/this_is_the_first_time_ive_googled_rchatgpt_and/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:50:58.000Z",
-      "metaDescription": "https://preview.redd.it/nnp95s2efumg1.png?width=1115&format=png&auto=webp&s=26a73620e22b8d69477d7f826c8fc04eab6908c6\n After seeing the DoD news, I thought I'd visit this sub for the first time. I gues",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.2855849809783062,
-      "crawledAt": "2026-03-03T16:57:57.594Z",
-      "id": "jnain2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8707883358001709,
-          "index": 26,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9952345490455627,
-          "index": 31,
-          "word": "L",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:03.283Z"
-    },
-    {
-      "title": "\"Vibe Coding is a Slot Machine\" - Jeremy Howard",
-      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
-      "source": "Machine Learning Street Talk",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:50:11.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.6578287412694118,
-      "crawledAt": "2026-03-03T16:58:24.618Z",
-      "id": "cb2r23",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8203348517417908,
-          "index": 4,
-          "word": "Co",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9846476912498474,
-          "index": 10,
-          "word": "Machine",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9995957016944885,
-          "index": 13,
-          "word": "Jeremy",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9994277358055115,
-          "index": 14,
-          "word": "Howard",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:03.419Z"
-    },
-    {
-      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
-      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
-      "source": "Machine Learning Street Talk",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:50:11.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.7528647743350072,
-      "crawledAt": "2026-03-04T05:12:15.890Z",
-      "id": "g84xqp",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9675711989402771,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9577030539512634,
-          "index": 7,
-          "word": "Co",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9994151592254639,
-          "index": 11,
-          "word": "Jeremy",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9993720054626465,
-          "index": 12,
-          "word": "Howard",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T05:24:42.224Z"
-    },
-    {
-      "title": "90% of the world’s programmers when Claude goes down:",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjqr9h/90_of_the_worlds_programmers_when_claude_goes_down/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:28:53.000Z",
-      "metaDescription": "submitted by    /u/reversedu  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.46403379979009646,
-      "crawledAt": "2026-03-03T16:57:58.365Z",
-      "id": "nocj2f",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9968894124031067,
-          "index": 11,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Discussion about AI models and tools mentioned in the title.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:14.843Z"
-    },
-    {
-      "title": "Best AI security solutions 2026: Top enterprise platforms compared",
-      "url": "https://www.artificialintelligence-news.com/news/best-ai-security-solutions-2026-top-enterprise-platforms-compared/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:27:19.000Z",
-      "metaDescription": "Artificial intelligence is no longer just powering defensive cybersecurity tools, it is reshaping the entire threat landscape. AI is accelerating reconnaissance, improving the realism of phishing, aut",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.3144276563784275,
-      "crawledAt": "2026-03-03T16:57:14.736Z",
-      "id": "y8wwmu",
-      "entities": [],
-      "summary": " Artificial intelligence is no longer just powering defensive cybersecurity tools, it is reshaping the entire threat landscape. AI is accelerating reconnaissance, improving the realism of phishing, aut-aut.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:28.131Z"
-    },
-    {
-      "title": "Spec-To-Ship: Open source agent to turn markdown specs into code skeletons",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rjqp6t/spectoship_open_source_agent_to_turn_markdown/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:26:30.000Z",
-      "metaDescription": "We just open sourced a spec to ship AI Agent project!\n Repo: https://github.com/dakshjain-1616/Spec-To-Ship\n Specs are a core part of planning, but translating them into code and deployable artifacts ",
-      "category": "developer-tool",
-      "difficulty": 3,
-      "confidence": 0.7833555914444071,
-      "crawledAt": "2026-03-03T16:58:16.774Z",
-      "id": "f7viec",
-      "entities": [],
-      "summary": " The AI Agent project is a core part of planning, but translating them into code and artifacts. We just open sourced a spec to ship AI Agent.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:37.409Z"
-    },
-    {
-      "title": "The integration of AI in modern forex automation",
-      "url": "https://www.artificialintelligence-news.com/news/the-integration-of-ai-in-modern-forex-automation/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:20:17.000Z",
-      "metaDescription": "Try to think of just one area where artificial intelligence is not leaving a mark, and you’ll realise there’s almost none. And in the forex world, things have not been any different. It’s a big part o",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.45722068635163665,
-      "crawledAt": "2026-03-03T16:57:14.910Z",
-      "id": "ctatsp",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9597505331039429,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " artificial intelligence is not leaving a mark, and there's almost none. It's a big part o the forex world, and in the foreX world, things have not been any different.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:03:58.749Z"
-    },
-    {
-      "title": "Is ChatGPT Softening Its Coverage of the US Government? I Ran an Experiment.",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rjqj8q/is_chatgpt_softening_its_coverage_of_the_us/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T14:19:42.000Z",
-      "metaDescription": "I have suspected something fundamental has changed within OpenAI and ChatGPT since 5.2 came out, I noticed it would become blunt and appear defensive when you question anything about the US govt, Trum",
-      "category": "industry-news",
-      "difficulty": 5,
-      "confidence": 0.3915412539675456,
-      "crawledAt": "2026-03-03T16:58:09.082Z",
-      "id": "z4huh9",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9806992411613464,
-          "index": 2,
-          "word": "Cha",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9308276176452637,
-          "index": 4,
-          "word": "##GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8334068655967712,
-          "index": 5,
-          "word": "##T",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I have suspected something fundamental has changed since 5.2 came out. It would become blunt and appear defensive when asked about US govt.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:04:08.974Z"
-    },
-    {
-      "title": "Sabomako/Qwen3.5-122B-A10B-heretic-GGUF · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjqff6/sabomakoqwen35122ba10bhereticgguf_hugging_face/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T14:15:26.000Z",
-      "metaDescription": "submitted by    /u/AlwaysLateToThaParty  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.25607472344068616,
-      "crawledAt": "2026-03-03T16:57:51.502Z",
-      "id": "fbuozd",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9948621392250061,
-          "index": 1,
-          "word": "Sa",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.8816153407096863,
-          "index": 3,
-          "word": "##ma",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.9438759684562683,
-          "index": 4,
-          "word": "##ko",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9924571514129639,
-          "index": 6,
-          "word": "Q",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:04:09.161Z"
-    },
-    {
-      "title": "Catching an AI Red Teamer in the Wild: Using Reverse Prompt Injection as a Honeypot Detection Mechanism",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjq8w1/catching_an_ai_red_teamer_in_the_wild_using/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T14:07:48.000Z",
-      "metaDescription": "We set up an HTTP honeypot with Beelzebub (open-source) and embedded two layers of traps specifically designed to detect LLM-based agents:\n  \nFake credentials in HTML comments (only useful if you read",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.4638409032038692,
-      "crawledAt": "2026-03-03T16:57:49.833Z",
-      "id": "i4icyv",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9734717011451721,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.804864227771759,
-          "index": 23,
-          "word": "Det",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " We set up a honeypot with Beelzebub (open-source) and embedded two layers of traps specifically designed to detect LLM-based agents.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:04:33.907Z"
-    },
-    {
-      "title": "Reinforcement Learning Engineer @ Verita AI",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rjq4kf/hiring_reinforcement_learning_engineer_verita_ai/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:02:36.000Z",
-      "metaDescription": "Verita AI is building the \"Gym\" for LLM reasoning. We are moving beyond simple chat-based RLHF into complex, grounded RL environments where models must solve multi-step engineering and research proble",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.9382394846432469,
-      "crawledAt": "2026-03-03T16:58:16.936Z",
-      "id": "sqm71m",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8016971945762634,
-          "index": 8,
-          "word": "V",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8159344792366028,
-          "index": 10,
-          "word": "##ta",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9340563416481018,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Verita AI is building the \"Gym\" for LLM reasoning. We are moving beyond simple chat-based chat- based RLHF into complex, grounded RL environments.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:04:45.933Z"
-    },
-    {
-      "title": "In the League of AI’s Token Dandle-Board",
-      "url": "https://pub.towardsai.net/in-the-league-of-ais-token-dandle-board-1f21833469a2?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T14:01:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.858512383425978,
-      "crawledAt": "2026-03-03T16:57:36.128Z",
-      "id": "hmv2tn",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9938464164733887,
-          "index": 3,
-          "word": "League",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.998246431350708,
-          "index": 4,
-          "word": "of",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.997445821762085,
-          "index": 5,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.911777138710022,
-          "index": 10,
-          "word": "Dan",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9182929396629333,
-          "index": 11,
-          "word": "##dle",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:04:46.034Z"
-    },
-    {
-      "title": "OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says anyone can replicate it",
-      "url": "https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:00:00.000Z",
-      "metaDescription": "When an OpenAI finance analyst needed to compare revenue across geographies and customer cohorts last year, it took hours of work — hunting through 70,000 datasets, writing SQL queries, verifying tabl",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.38527906638507947,
-      "crawledAt": "2026-03-03T16:57:13.019Z",
-      "id": "8ky6ol",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9985681176185608,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9975342154502869,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9921978712081909,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9605966806411743,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " An OpenAI finance analyst needed to compare revenue across geographies and customer cohorts last year. It took hours of work — hunting through 70,000 datasets, writing queries, writing SQL queries, verifying tabl tabl tabloids.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:05:00.005Z"
-    },
-    {
-      "title": "What Does Python's __init__.py Do?",
-      "url": "https://realpython.com/courses/init-py/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:00:00.000Z",
-      "metaDescription": "Python’s special __init__.py file marks a directory as a regular Python package and allows you to import its modules. This file runs automatically the first time you import its containing package. You",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.2733374033347816,
-      "crawledAt": "2026-03-03T16:59:11.697Z",
-      "id": "ygowbp",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8664674758911133,
-          "index": 3,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Python’s special __init__.py file marks a directory as a regular Python package. This file runs automatically the first time you import its containing package.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:05:11.688Z"
-    },
-    {
-      "title": "OpenAI's AI data agent, built by two engineers, now serves thousands of employees — and the company says anyone can replicate it",
-      "url": "https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T14:00:00.000Z",
-      "metaDescription": "When an OpenAI finance analyst needed to compare revenue across geographies and customer cohorts last year, it took hours of work — hunting through 70,000 datasets, writing SQL queries, verifying tabl",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.8463148941081905,
-      "crawledAt": "2026-03-03T20:39:00.314Z",
-      "id": "s1mesu",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.998201847076416,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9952056407928467,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.989676296710968,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9890362024307251,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " An OpenAI finance analyst needed to compare revenue across geographies and customer cohorts last year. It took hours of work — hunting through 70,000 datasets, writing queries, writing SQL queries, verifying tabl tabl tabloids.",
-      "language": "en",
-      "processed_at": "2026-03-03T20:48:56.620Z"
-    },
-    {
-      "title": "Boundary-Metric Evaluation for Thin-Structure Segmentation under 2% Foreground Sparsity",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rjptov/r_boundarymetric_evaluation_for_thinstructure/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T13:50:08.000Z",
-      "metaDescription": "Hey! I'm currently a undergrad student graduating in May and soon starting my Masters in AI. I've wanted to write a research paper to start gaining some experience in that area and just recently finis",
-      "category": "research-paper",
-      "difficulty": 3,
-      "confidence": 0.26788812685165736,
-      "crawledAt": "2026-03-03T16:58:01.856Z",
-      "id": "u0nulj",
-      "entities": [],
-      "summary": " Aims to start gaining some experience in AI in the future. Aims for a research paper to gain some experience.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:05:19.390Z"
-    },
-    {
-      "title": "Nebius AI R&D released SWE-rebench-V2: the largest open, multilingual, executable dataset for training code agents!",
-      "url": "https://www.reddit.com/r/singularity/comments/1rjpkw6/nebius_ai_rd_released_swerebenchv2_the_largest/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T13:39:14.000Z",
-      "metaDescription": "Source: https://x.com/ibragim_bad/status/2028780950415450123?s=20\n    submitted by    /u/Fabulous_Pollution10  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 8,
-      "confidence": 0.5822151138835344,
-      "crawledAt": "2026-03-03T16:57:59.390Z",
-      "id": "bufgrl",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9975063800811768,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9454651474952698,
-          "index": 2,
-          "word": "##eb",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9739707708358765,
-          "index": 3,
-          "word": "##ius",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9855024218559265,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9978266358375549,
-          "index": 5,
-          "word": "R",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9979830980300903,
-          "index": 6,
-          "word": "&",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9975569844245911,
-          "index": 7,
-          "word": "D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9643987417221069,
-          "index": 9,
-          "word": "S",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:05:35.421Z"
-    },
-    {
-      "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-      "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-03T13:30:00.000Z",
-      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastro",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.9687038713685215,
-      "crawledAt": "2026-03-03T16:57:08.216Z",
-      "id": "pli75z",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9987056255340576,
-          "index": 17,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9967076182365417,
-          "index": 18,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9926953315734863,
-          "index": 19,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9873153567314148,
-          "index": 22,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Download is a daily dose of what's going on in the world of technology. This week's Daily Download includes the weekly Newsquiz.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:06:04.171Z"
-    },
-    {
-      "title": "Endor Labs launches free tool AURI after study finds only 10% of AI-generated code is secure",
-      "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-03T13:30:00.000Z",
-      "metaDescription": "Endor Labs, the application security startup backed by more than $208 million in venture funding, today launched AURI, a platform that embeds real-time security intelligence directly into the AI codin",
-      "category": "product-launch",
-      "difficulty": 8,
-      "confidence": 0.9535129128893886,
-      "crawledAt": "2026-03-03T16:57:13.206Z",
-      "id": "axc0zs",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9990031123161316,
-          "index": 1,
-          "word": "End",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9821130633354187,
-          "index": 2,
-          "word": "##or",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9979292154312134,
-          "index": 3,
-          "word": "Labs",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9082182049751282,
-          "index": 7,
-          "word": "AU",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9994304776191711,
-          "index": 16,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AURI embeds real-time security intelligence directly into the AI codin. The application security startup is backed by more than $208 million in venture funding.",
-      "language": "en",
-      "processed_at": "2026-03-03T17:06:14.135Z"
     }
   ],
-  "processedAt": "2026-03-18T13:29:31.399Z",
+  "processedAt": "2026-03-18T17:17:37.402Z",
   "categories": [
-    "safety-ethics",
-    "ai-agents",
     "creative-ai",
-    "product-launch",
-    "model-release",
-    "infrastructure",
     "developer-tool",
+    "product-launch",
+    "ai-agents",
+    "model-release",
+    "safety-ethics",
+    "infrastructure",
     "research-paper",
     "tutorial-guide",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 10,
-  "existingArticlesKept": 2051,
+  "newArticlesProcessed": 26,
+  "existingArticlesKept": 2023,
   "cleanupApplied": true,
-  "cleanedUpCount": 38,
+  "cleanedUpCount": 60,
   "rollingWindowDays": 15
 }
