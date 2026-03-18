@@ -1,9 +1,308 @@
 {
-  "crawledAt": "2026-03-18T09:00:07.740Z",
+  "crawledAt": "2026-03-18T13:27:37.803Z",
   "totalSources": 70,
-  "totalArticles": 129,
+  "totalArticles": 139,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Claude Dispatch: Anthorpic OpenClaw Competitor!",
+      "url": "https://www.youtube.com/watch?v=1_VlT1vhN04",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T13:15:00.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.28747062751306557,
+      "crawledAt": "2026-03-18T13:26:59.131Z",
+      "id": "if2lkh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8661625981330872,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8439915776252747,
+          "index": 6,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.815162718296051,
+          "index": 9,
+          "word": "##pic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8484955430030823,
+          "index": 11,
+          "word": "##C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:27:39.835Z"
+    },
+    {
+      "title": "The Air-Gapped Chronicles: The Insurance Gap — Building Liability-Resistant AI Without Coverage",
+      "url": "https://pub.towardsai.net/the-air-gapped-chronicles-the-insurance-gap-building-liability-resistant-ai-without-coverage-647399637099?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T13:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.6949373467675761,
+      "crawledAt": "2026-03-18T13:26:35.140Z",
+      "id": "rq9xy6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9964427351951599,
+          "index": 2,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9834283590316772,
+          "index": 3,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9974573850631714,
+          "index": 4,
+          "word": "Gap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9969944357872009,
+          "index": 5,
+          "word": "##ped",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9623497128486633,
+          "index": 6,
+          "word": "Chronicles",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:27:40.003Z"
+    },
+    {
+      "title": "From Simulation to Production: How to Build Robots With AI",
+      "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T13:00:13.000Z",
+      "metaDescription": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.47701801095064744,
+      "crawledAt": "2026-03-18T13:25:45.822Z",
+      "id": "5axaos",
+      "entities": [],
+      "summary": " The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:27:51.348Z"
+    },
+    {
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T12:38:00.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.4078850773498269,
+      "crawledAt": "2026-03-18T13:26:07.992Z",
+      "id": "i2b76w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9917294383049011,
+          "index": 6,
+          "word": "Pentagon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Pentagon is planning for AI companies to train on classifi. The Pentagon plans for AI firms to train for AI.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:28:00.487Z"
+    },
+    {
+      "title": "Multi-Agent AI Systems: Architecture Patterns for Enterprise Deployment",
+      "url": "https://pub.towardsai.net/multi-agent-ai-systems-architecture-patterns-for-enterprise-deployment-b24946527221?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T12:01:02.000Z",
+      "metaDescription": "This article breaks down the four primary architecture patterns for multi-agent AI systems.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9249347620337733,
+      "crawledAt": "2026-03-18T13:26:35.256Z",
+      "id": "2y6hht",
+      "entities": [],
+      "summary": " This article breaks down the four primary architecture patterns for multi-agent AI systems. This article includes the four main architecture patterns.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:28:09.212Z"
+    },
+    {
+      "title": "7 Ways to Reduce Hallucinations in Production LLMs",
+      "url": "https://www.kdnuggets.com/7-ways-to-reduce-hallucinations-in-production-llms",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T12:00:21.000Z",
+      "metaDescription": "Most LLM hallucination fixes fail. Here is what actually works in production.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.28909869561115575,
+      "crawledAt": "2026-03-18T13:27:36.504Z",
+      "id": "knye0b",
+      "entities": [],
+      "summary": " Most LLM hallucination fixes fail. Here is what actually works in production. Most LLm hallucination cures fail.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:28:17.074Z"
+    },
+    {
+      "title": "Enterprise AI agents keep operating from different versions of reality — Microsoft says Fabric IQ is the fix",
+      "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T12:00:00.000Z",
+      "metaDescription": "In 2026, data engineers working with multi-agent systems are hitting a familiar problem: Agents built on different platforms don’t operate from a shared understanding of the business. The result isn’t",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9303332917791117,
+      "crawledAt": "2026-03-18T13:26:14.537Z",
+      "id": "ikgghb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979510307312012,
+          "index": 12,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8585377931594849,
+          "index": 17,
+          "word": "I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In 2026, data engineers working with multi-agent systems are hitting a familiar problem. Agents built on different platforms don't operate from a shared understanding of the business.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:28:29.879Z"
+    },
+    {
+      "title": "8 Differences Between Machine Learning, Deep Learning, and AI",
+      "url": "https://ai.plainenglish.io/8-differences-between-machine-learning-deep-learning-and-ai-ca5d64c38a37?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T11:46:16.000Z",
+      "metaDescription": "Most developers mix these up — here’s the clear breakdown.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3632180204724584,
+      "crawledAt": "2026-03-18T13:26:43.780Z",
+      "id": "9dsjyb",
+      "entities": [],
+      "summary": " Most developers mix these up. Most developers make up their own. Most developers don't know what to do with the technology.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:28:57.513Z"
+    },
+    {
+      "title": "Users hate it, but age-check tech is coming. Here's how it works.",
+      "url": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T11:30:47.000Z",
+      "metaDescription": "On-device face scans and cross-platform age keys decrease privacy risks, but trust issues abound.",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.38477777965843335,
+      "crawledAt": "2026-03-18T13:26:04.216Z",
+      "id": "bppbs6",
+      "entities": [],
+      "summary": " On-device face scans and cross-platform age keys decrease privacy risks, but trust issues abound. On- device face scans, cross- platform age keys are also a risk.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:29:09.903Z"
+    },
+    {
+      "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
+      "url": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T10:00:23.000Z",
+      "metaDescription": "The iX3 SUV was very good; we think the i3 sedan will be even better.",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.9592164082416871,
+      "crawledAt": "2026-03-18T13:26:04.344Z",
+      "id": "ilxv7s",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987465739250183,
+          "index": 4,
+          "word": "BMW",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The iX3 SUV was very good; we think it will be even better. The i3 sedan will be better than the iX2 sedan.",
+      "language": "en",
+      "processed_at": "2026-03-18T13:29:19.815Z"
+    },
     {
       "title": "Built a multi-agent LangGraph system with parallel fan-out, quality-score retry loop, and a 3-provider LLM fallback route",
       "url": "https://www.reddit.com/r/LangChain/comments/1rwyjrt/built_a_multiagent_langgraph_system_with_parallel/",
@@ -4532,20 +4831,20 @@
       "processed_at": "2026-03-18T09:05:50.580Z"
     }
   ],
-  "processedAt": "2026-03-18T09:05:50.589Z",
+  "processedAt": "2026-03-18T13:29:31.403Z",
   "categories": [
-    "infrastructure",
-    "creative-ai",
-    "developer-tool",
-    "ai-agents",
-    "model-release",
     "safety-ethics",
+    "ai-agents",
+    "creative-ai",
+    "product-launch",
+    "model-release",
+    "infrastructure",
+    "developer-tool",
     "research-paper",
-    "tutorial-guide",
-    "product-launch"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 21,
-  "dailyArticlesCount": 129,
+  "newArticlesProcessed": 10,
+  "dailyArticlesCount": 139,
   "filterDate": "2026-03-18"
 }
