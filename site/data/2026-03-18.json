@@ -1,9 +1,2261 @@
 {
-  "crawledAt": "2026-03-18T02:46:14.419Z",
+  "crawledAt": "2026-03-18T05:39:35.140Z",
   "totalSources": 70,
-  "totalArticles": 43,
+  "totalArticles": 108,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How are you handling policy enforcement for agent write-actions? Looking for patterns beyond system prompt guardrails",
+      "url": "https://www.reddit.com/r/LangChain/comments/1rwv6ic/how_are_you_handling_policy_enforcement_for_agent/",
+      "source": "r/LangChain",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T05:26:56.000Z",
+      "metaDescription": "I'm building a policy enforcement layer for LLM agents (think: evaluates tool calls before they execute, returns ALLOW/DENY/repair hints). Trying to understand how others are approaching this problem ",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.5705701701537435,
+      "crawledAt": "2026-03-18T05:38:45.235Z",
+      "id": "u52q7i",
+      "entities": [],
+      "summary": " I'm building a policy enforcement layer for LLM agents. I'm trying to understand how others are approaching this problem.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:39:46.727Z"
+    },
+    {
+      "title": "Are marketing jobs truly threatened by AI?",
+      "url": "https://www.reddit.com/r/artificial/comments/1rwut6e/are_marketing_jobs_truly_threatened_by_ai/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T05:07:04.000Z",
+      "metaDescription": "Or has it created new opportunities, increased productivity, or had no influence at all. And do you expect it to in the future? \n    submitted by    /u/Jealous_Dingo_4608  \n [link]   [comments]",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.36031402446712874,
+      "crawledAt": "2026-03-18T05:38:20.248Z",
+      "id": "um9kyy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9054918885231018,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:39:46.814Z"
+    },
+    {
+      "title": "AI music finally convinced me",
+      "url": "https://www.reddit.com/r/singularity/comments/1rwusn3/ai_music_finally_convinced_me/",
+      "source": "r/singularity",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T05:06:15.000Z",
+      "metaDescription": "I've just had a turning point about my AI-art perception. Yesterday I found some awesome music, it stayed in my head all night and after waking up I went to their web-page and there it states openly t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9724870236166008,
+      "crawledAt": "2026-03-18T05:38:26.176Z",
+      "id": "uq3m7r",
+      "entities": [],
+      "summary": " I've just had a turning point about my AI-art perception. I've found some awesome music that stayed in my head all night.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:39:57.974Z"
+    },
+    {
+      "title": "Three Agents, One Mission: Building a Real-Time Fraud Detection System with XGBoost",
+      "url": "https://pub.towardsai.net/three-agents-one-mission-building-a-real-time-fraud-detection-system-with-xgboost-5cbc05c0bad0?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T05:04:12.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6665843040397823,
+      "crawledAt": "2026-03-18T05:38:07.404Z",
+      "id": "1dd33d",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9445481300354004,
+          "index": 5,
+          "word": "Mission",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9866002202033997,
+          "index": 11,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9598906636238098,
+          "index": 14,
+          "word": "Det",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9309272170066833,
+          "index": 17,
+          "word": "System",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:40:12.507Z"
+    },
+    {
+      "title": "NVIDIA NemoClaw Explained: How It Secures OpenClaw AI Agents for Enterprise Use",
+      "url": "https://pub.towardsai.net/nvidia-nemoclaw-explained-how-it-secures-openclaw-ai-agents-for-enterprise-deployment-6a606c2ddc33?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T05:03:08.000Z",
+      "metaDescription": "How NVIDIA turned OpenClaw’s powerful but risky AI agents into a secure, enterprise-ready platform.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9161311104741173,
+      "crawledAt": "2026-03-18T05:38:07.681Z",
+      "id": "xp3g8",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8719836473464966,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9866349101066589,
+          "index": 20,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9341235160827637,
+          "index": 21,
+          "word": "##law",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " How NVIDIA turned OpenClaw’s powerful but risky AI agents into a secure, enterprise-ready platform.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:40:24.506Z"
+    },
+    {
+      "title": "Agentic AI in Action — Part 14 - Building a Store Performance Monitoring Agent using LLMs and Maps",
+      "url": "https://pub.towardsai.net/building-a-store-performance-agent-using-llms-and-maps-to-identify-locations-that-need-attention-75649c07ffd0?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:58:40.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9726737058826125,
+      "crawledAt": "2026-03-18T05:38:08.029Z",
+      "id": "5bv17e",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:40:49.567Z"
+    },
+    {
+      "title": "Build a Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search",
+      "url": "https://pub.towardsai.net/build-a-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-15a6297e5f2a?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:58:15.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.3943195306946875,
+      "crawledAt": "2026-03-18T05:38:08.110Z",
+      "id": "m9cbgg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8830074667930603,
+          "index": 5,
+          "word": "Ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.821358323097229,
+          "index": 7,
+          "word": "##tics",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8916085362434387,
+          "index": 8,
+          "word": "MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8998792767524719,
+          "index": 9,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8494892716407776,
+          "index": 10,
+          "word": "Server",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9771934151649475,
+          "index": 12,
+          "word": "Type",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9854870438575745,
+          "index": 13,
+          "word": "##Script",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8681402802467346,
+          "index": 23,
+          "word": "Search",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:40:49.745Z"
+    },
+    {
+      "title": "Mathematics Is All You Need: 16-Dimensional Fiber Bundle Structure in LLM Hidden States",
+      "url": "https://www.reddit.com/r/deeplearning/comments/1rwu7m8/mathematics_is_all_you_need_16dimensional_fiber/",
+      "source": "r/deeplearning",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:35:34.000Z",
+      "metaDescription": "submitted by    /u/BiscottiDisastrous19  \n [link]   [comments]",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.41821334296202084,
+      "crawledAt": "2026-03-18T05:38:34.950Z",
+      "id": "qv1uwq",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:41:26.202Z"
+    },
+    {
+      "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
+      "url": "https://arxiv.org/abs/2603.15634",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15634v1 Announce Type: new \nAbstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational part.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29041222222290514,
+      "crawledAt": "2026-03-18T05:39:08.913Z",
+      "id": "ngjm7u",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9908703565597534,
+          "index": 13,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8773143887519836,
+          "index": 14,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Memory is critical for LLM-based agents to preserve past observations for future decision-making. factual memory serves as its foundational part.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:41:44.750Z"
+    },
+    {
+      "title": "AIDABench: AI Data Analytics Benchmark",
+      "url": "https://arxiv.org/abs/2603.15636",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15636v1 Announce Type: new \nAbstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation sta",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.4048460412797897,
+      "crawledAt": "2026-03-18T05:39:09.073Z",
+      "id": "hemw25",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9317871332168579,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9233402013778687,
+          "index": 2,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.981300950050354,
+          "index": 3,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9951076507568359,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9939205050468445,
+          "index": 8,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9920374751091003,
+          "index": 9,
+          "word": "Ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9948021769523621,
+          "index": 10,
+          "word": "##ly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.988037109375,
+          "index": 11,
+          "word": "##tics",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI-driven document analysis is becoming more prevalent in real-world applications. The new technology is being developed in the U.S.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:41:54.168Z"
+    },
+    {
+      "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
+      "url": "https://arxiv.org/abs/2603.15639",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15639v1 Announce Type: new \nAbstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current fr",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9627554783459034,
+      "crawledAt": "2026-03-18T05:39:09.262Z",
+      "id": "7nweoe",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9242867827415466,
+          "index": 8,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9890449643135071,
+          "index": 19,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989134073257446,
+          "index": 20,
+          "word": "Economic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969334602355957,
+          "index": 21,
+          "word": "Agency",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI agents are increasingly granted economic agency roles. They can manage contracts, manage budgets, negotiate contracts and negotiate contracts.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:42:02.364Z"
+    },
+    {
+      "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
+      "url": "https://arxiv.org/abs/2603.15642",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15642v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turns. ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4023604313699595,
+      "crawledAt": "2026-03-18T05:39:09.643Z",
+      "id": "4l0g7u",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8369744420051575,
+          "index": 6,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Large language model (LLM) agents are increasingly deployed in long running workflows. They must preserve user and task state across many turns.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:42:21.401Z"
+    },
+    {
+      "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
+      "url": "https://arxiv.org/abs/2603.15643",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15643v1 Announce Type: new \nAbstract: Green Stormwater Infrastructure (GSI) systems, such as permeable pavement, rain gardens, and bioretention facilities, require continuous inspection and",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.4582616732089169,
+      "crawledAt": "2026-03-18T05:39:09.841Z",
+      "id": "uy645o",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9816291928291321,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9319879412651062,
+          "index": 2,
+          "word": "##SI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8889625072479248,
+          "index": 16,
+          "word": "Green",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9237608909606934,
+          "index": 17,
+          "word": "Storm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.954649806022644,
+          "index": 18,
+          "word": "##water",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9278028607368469,
+          "index": 19,
+          "word": "Infrastructure",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Green Stormwater Infrastructure (GSI) systems require continuous inspection and continuous inspection. GSI systems include permeable pavement, rain gardens, bioretention facilities.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:42:31.392Z"
+    },
+    {
+      "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
+      "url": "https://arxiv.org/abs/2603.15658",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15658v1 Announce Type: new \nAbstract: Memory-augmented agents maintain multiple specialized stores, yet most systems retrieve from all stores for every query, increasing cost and introducin",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.3011571064902708,
+      "crawledAt": "2026-03-18T05:39:10.025Z",
+      "id": "el3mbx",
+      "entities": [],
+      "summary": " The Memory-augmented stores. arXiv. arxiv: Memory-a-maintained stores.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:42:44.329Z"
+    },
+    {
+      "title": "DynaTrust: Defending Multi-Agent Systems Against Sleeper Agents via Dynamic Trust Graphs",
+      "url": "https://arxiv.org/abs/2603.15661",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15661v1 Announce Type: new \nAbstract: Large Language Model-based Multi-Agent Systems (MAS) have demonstrated remarkable collaborative reasoning capabilities but introduce new attack surface",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.9383760283581996,
+      "crawledAt": "2026-03-18T05:39:10.202Z",
+      "id": "bcilp5",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8817929625511169,
+          "index": 3,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8408345580101013,
+          "index": 16,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2603.15661v1 Announcement: New Language Model-based Multi-Agent Systems.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:42:52.303Z"
+    },
+    {
+      "title": "QV May Be Enough: Toward the Essence of Attention in LLMs",
+      "url": "https://arxiv.org/abs/2603.15665",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15665v1 Announce Type: new \nAbstract: Starting from first principles and a linguistic perspective centered on part-of-speech (POS) and syntactic analysis, this paper explores and derives th",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5256649529819861,
+      "crawledAt": "2026-03-18T05:39:10.393Z",
+      "id": "talqfw",
+      "entities": [],
+      "summary": " This is the first time this has been published in a book about the book. The book is called \"The Book of the Book of The Book\"",
+      "language": "en",
+      "processed_at": "2026-03-18T05:43:02.946Z"
+    },
+    {
+      "title": "Compiled Memory: Not More Information, but More Precise Instructions for Language Agents",
+      "url": "https://arxiv.org/abs/2603.15666",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15666v1 Announce Type: new \nAbstract: Existing memory systems for language agents address memory management: how to retrieve and page more information within a context budget. We address a ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2577600654560593,
+      "crawledAt": "2026-03-18T05:39:10.567Z",
+      "id": "ivcnpj",
+      "entities": [],
+      "summary": "Existing memory systems for language agents address memory management. Existing memory system for languageagents address memorymanagement. We address memory systems.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:43:12.670Z"
+    },
+    {
+      "title": "A Dynamic Survey of Fuzzy, Intuitionistic Fuzzy, Neutrosophic, Plithogenic, and Extensional Sets",
+      "url": "https://arxiv.org/abs/2603.15667",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15667v1 Announce Type: new \nAbstract: Real-world phenomena often exhibit vagueness, partial truth, and incomplete information. To model such uncertainty in a mathematically rigorous way, ma",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.2861116777720658,
+      "crawledAt": "2026-03-18T05:39:10.777Z",
+      "id": "7opc3m",
+      "entities": [],
+      "summary": " The world's real-world phenomena often exhibit vagueness, partial truth, and incomplete information. To model such uncertainty in a mathematically rigorous way, ma-ma-ma.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:43:24.664Z"
+    },
+    {
+      "title": "Quantum-Secure-By-Construction : A Paradigm Shift For Post-Quantum Agentic Intelligence",
+      "url": "https://arxiv.org/abs/2603.15668",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15668v1 Announce Type: new \nAbstract: As agentic artificial intelligence systems scale across globally distributed and long lived infrastructures, secure and policy compliant communication ",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.756676366211802,
+      "crawledAt": "2026-03-18T05:39:10.954Z",
+      "id": "kxoc3s",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9277461767196655,
+          "index": 18,
+          "word": "Post",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.904067873954773,
+          "index": 20,
+          "word": "Quantum",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2603.15668v1 Announcement: As agentic artificial intelligence systems scale across globally distributed and long lived infrastructures.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:43:36.263Z"
+    },
+    {
+      "title": "Tokenization Tradeoffs in Structured EHR Foundation Models",
+      "url": "https://arxiv.org/abs/2603.15644",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15644v1 Announce Type: new \nAbstract: Foundation models for structured electronic health records (EHRs) are pretrained on longitudinal sequences of timestamped clinical events to learn adap",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.253145836988193,
+      "crawledAt": "2026-03-18T05:39:15.573Z",
+      "id": "smr4w1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.905915379524231,
+          "index": 9,
+          "word": "E",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "EHRs are pretrained on longitudinal sequences of timestamped clinical events to learn adap. arXiv:2603.15644v1.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:44:17.109Z"
+    },
+    {
+      "title": "XLinear: Frequency-Enhanced MLP with CrossFilter for Robust Long-Range Forecasting",
+      "url": "https://arxiv.org/abs/2603.15645",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15645v1 Announce Type: new \nAbstract: Time series forecasters are widely used across various domains. Among them, MLP (multi-layer perceptron)-based forecasters have been proven to be more ",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.31280461399289683,
+      "crawledAt": "2026-03-18T05:39:15.790Z",
+      "id": "8tshkb",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8668196201324463,
+          "index": 18,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MLP (multi-layer perceptron)-based forecasters have been proven to be more effective. MLP has been used in many of the world's most popular forecasters.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:44:28.015Z"
+    },
+    {
+      "title": "Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing",
+      "url": "https://arxiv.org/abs/2603.15647",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15647v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically governed by post-training alignment (e.g., RLHF or DPO), which yields a largely static policy during deploym",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.29436648544454225,
+      "crawledAt": "2026-03-18T05:39:16.170Z",
+      "id": "upfaox",
+      "entities": [],
+      "summary": " Large language models (LLMs) are typically governed by post-training alignment (e.g., RLHF or DPO), which yields a largely static policy.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:44:48.803Z"
+    },
+    {
+      "title": "How to Achieve Prototypical Birth and Death for OOD Detection?",
+      "url": "https://arxiv.org/abs/2603.15650",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15650v1 Announce Type: new \nAbstract: Out-of-Distribution (OOD) detection is crucial for the secure deployment of machine learning models, and prototype-based learning methods are among the",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.31567993747358747,
+      "crawledAt": "2026-03-18T05:39:16.355Z",
+      "id": "og8yoi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9837045073509216,
+          "index": 6,
+          "word": "Proto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9750369191169739,
+          "index": 13,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8045684695243835,
+          "index": 14,
+          "word": "##OD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Out-of-Distribution (OOD) detection is crucial for the secure deployment of machine learning models. \"Out- of-distribution\" detection is key to the secure development of machine-learning models.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:45:01.447Z"
+    },
+    {
+      "title": "A federated learning framework with knowledge graph and temporal transformer for early sepsis prediction in multi-center ICUs",
+      "url": "https://arxiv.org/abs/2603.15651",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15651v1 Announce Type: new \nAbstract: The early prediction of sepsis in intensive care unit (ICU) patients is crucial for improving survival rates. However, the development of accurate pred",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.47065675207288105,
+      "crawledAt": "2026-03-18T05:39:16.566Z",
+      "id": "tbj8p3",
+      "entities": [],
+      "summary": "Early prediction of sepsis in intensive care unit (ICU) patients is crucial for improving survival rates. Development of accurate pred pred pred is crucial to improving survival rate.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:45:12.805Z"
+    },
+    {
+      "title": "Beyond Reward Suppression: Reshaping Steganographic Communication Protocols in MARL via Dynamic Representational Circuit Breaking",
+      "url": "https://arxiv.org/abs/2603.15655",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15655v1 Announce Type: new \nAbstract: In decentralized Multi-Agent Reinforcement Learning (MARL), steganographic collusion -- where agents develop private protocols to evade monitoring -- p",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.2536424011184082,
+      "crawledAt": "2026-03-18T05:39:16.944Z",
+      "id": "b80bj0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9898895621299744,
+          "index": 11,
+          "word": "St",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9679030776023865,
+          "index": 12,
+          "word": "##egan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.982670783996582,
+          "index": 13,
+          "word": "##ographic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8847233057022095,
+          "index": 14,
+          "word": "Communication",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8319154381752014,
+          "index": 15,
+          "word": "Protocol",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "In decentralized Multi-Agent Reinforcement Learning (MARL) is a new form of collusion. The new form is called steganographic collusion.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:45:35.691Z"
+    },
+    {
+      "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
+      "url": "https://arxiv.org/abs/2603.15681",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15681v1 Announce Type: new \nAbstract: Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the 202",
+      "category": "infrastructure",
+      "difficulty": 8,
+      "confidence": 0.3743705891789401,
+      "crawledAt": "2026-03-18T05:39:17.557Z",
+      "id": "hc0quh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9513097405433655,
+          "index": 13,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9920223355293274,
+          "index": 16,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9422005414962769,
+          "index": 17,
+          "word": "##eur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9817149639129639,
+          "index": 18,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9813021421432495,
+          "index": 19,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995450973510742,
+          "index": 31,
+          "word": "Him",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992974996566772,
+          "index": 33,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Flash floods are the most destructive natural hazard in Himachal Pradesh, India, causing over 400 fatalities and $1.2 billion in losses.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:46:02.769Z"
+    },
+    {
+      "title": "Transition Flow Matching",
+      "url": "https://arxiv.org/abs/2603.15689",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15689v1 Announce Type: new \nAbstract: Mainstream flow matching methods typically focus on learning the local velocity field, which inherently requires multiple integration steps during gene",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.373651656910984,
+      "crawledAt": "2026-03-18T05:39:17.874Z",
+      "id": "aoqtnj",
+      "entities": [],
+      "summary": " The new method is based on learning the local velocity field, which requires multiple steps. The method is used to learn how to use the velocity field.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:46:23.568Z"
+    },
+    {
+      "title": "Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning",
+      "url": "https://arxiv.org/abs/2603.15708",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15708v1 Announce Type: new \nAbstract: Imbalanced data distribution remains a critical challenge in sequential learning, leading models to easily recognize frequent categories while failing ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5016525664451136,
+      "crawledAt": "2026-03-18T05:39:18.242Z",
+      "id": "wtjxkr",
+      "entities": [],
+      "summary": " The new data distribution system is designed to help students learn more about data distribution. The new system will allow students to learn more easily from the data.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:46:47.738Z"
+    },
+    {
+      "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
+      "url": "https://arxiv.org/abs/2603.15677",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15677v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly central to clinician workflows, spanning clinical decision support, medical education, and patient commun",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.2582943422876781,
+      "crawledAt": "2026-03-18T05:39:21.468Z",
+      "id": "m1x21b",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8067103028297424,
+          "index": 3,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9331348538398743,
+          "index": 14,
+          "word": "in",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8026427030563354,
+          "index": 16,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9040009379386902,
+          "index": 18,
+          "word": "Wild",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new language models are increasingly important to clinician workflows. They include decision support, medical education, and patient care.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:47:04.704Z"
+    },
+    {
+      "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+      "url": "https://arxiv.org/abs/2603.15726",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15726v1 Announce Type: new \nAbstract: We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduce M",
+      "category": "research-paper",
+      "difficulty": 8,
+      "confidence": 0.7009725041026814,
+      "crawledAt": "2026-03-18T05:39:21.676Z",
+      "id": "xt57z9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9680877923965454,
+          "index": 1,
+          "word": "Mir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9699962735176086,
+          "index": 2,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995021402835846,
+          "index": 3,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9681588411331177,
+          "index": 4,
+          "word": "##hin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9636133909225464,
+          "index": 5,
+          "word": "##ker",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MiroThinker-1.7 is a new research agent designed for complex long-horizon reasoning tasks.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:47:16.927Z"
+    },
+    {
+      "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
+      "url": "https://arxiv.org/abs/2603.15897",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15897v1 Announce Type: new \nAbstract: We describe our system for SemEval-2026 Task 5, which requires rating the plausibility of given word senses of homonyms in short stories on a 5-point L",
+      "category": "research-paper",
+      "difficulty": 3,
+      "confidence": 0.5643832831822542,
+      "crawledAt": "2026-03-18T05:39:22.119Z",
+      "id": "4bq6zk",
+      "entities": [],
+      "summary": "The new system is called SemEval-2026 Task 5. It requires rating the plausibility of given words in short stories.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:47:40.675Z"
+    },
+    {
+      "title": "Agent-based imitation dynamics can yield efficiently compressed population-level vocabularies",
+      "url": "https://arxiv.org/abs/2603.15903",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15903v1 Announce Type: new \nAbstract: Natural languages have been argued to evolve under pressure to efficiently compress meanings into words by optimizing the Information Bottleneck (IB) c",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4921641246768287,
+      "crawledAt": "2026-03-18T05:39:22.308Z",
+      "id": "j8q8az",
+      "entities": [],
+      "summary": "Natural languages have been argued to evolve under pressure to compress meanings into words. The idea is to compress words into words by optimizing the Information Bottleneck.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:47:50.609Z"
+    },
+    {
+      "title": "CTG-DB: An Ontology-Based Transformation of ClinicalTrials.gov to Enable Cross-Trial Drug Safety Analyses",
+      "url": "https://arxiv.org/abs/2603.15936",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15936v1 Announce Type: new \nAbstract: ClinicalTrials.gov (CT.gov) is the largest publicly accessible registry of clinical studies, yet its registry-oriented architecture and heterogeneous a",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.36103459300447244,
+      "crawledAt": "2026-03-18T05:39:22.527Z",
+      "id": "od3s5y",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9155504107475281,
+          "index": 25,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9889370203018188,
+          "index": 26,
+          "word": "Trial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8753534555435181,
+          "index": 27,
+          "word": "Drug",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9554098844528198,
+          "index": 28,
+          "word": "Safety",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The ClinicalTrials.gov.gov is the largest publicly accessible registry of clinical studies. The site is located in New York City.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:47:59.160Z"
+    },
+    {
+      "title": "BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+      "url": "https://arxiv.org/abs/2603.15949",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15949v1 Announce Type: new \nAbstract: Large Language Models have demonstrated strong multilingual fluency, yet fluency alone does not guarantee socially appropriate language use. In high-co",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4918133077901881,
+      "crawledAt": "2026-03-18T05:39:22.741Z",
+      "id": "uwxpwb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9448837041854858,
+          "index": 1,
+          "word": "BA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9795466661453247,
+          "index": 33,
+          "word": "Bangladeshi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Language Models have demonstrated strong multilingual fluency, yet fluency alone does not guarantee socially appropriate language use.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:48:08.458Z"
+    },
+    {
+      "title": "POLAR:A Per-User Association Test in Embedding Space",
+      "url": "https://arxiv.org/abs/2603.15950",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15950v1 Announce Type: new \nAbstract: Most intrinsic association probes operate at the word, sentence, or corpus level, obscuring author-level variation. We present POLAR (Per-user On-axis ",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.4229238640327081,
+      "crawledAt": "2026-03-18T05:39:22.934Z",
+      "id": "4t20rj",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9151391983032227,
+          "index": 10,
+          "word": "Association",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Most intrinsic association probes operate at the word, sentence, or corpus level, obscuring author-level variation. We present POLAR (Per-user On-axis On- Axis)",
+      "language": "en",
+      "processed_at": "2026-03-18T05:48:19.662Z"
+    },
+    {
+      "title": "MoLoRA: Composable Specialization via Per-Token Adapter Routing",
+      "url": "https://arxiv.org/abs/2603.15965",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15965v1 Announce Type: new \nAbstract: Multi-adapter serving systems route entire sequences to a single adapter, forcing a choice when requests span multiple domains. This assumption fails i",
+      "category": "tutorial-guide",
+      "difficulty": 4,
+      "confidence": 0.9648395180164602,
+      "crawledAt": "2026-03-18T05:39:23.292Z",
+      "id": "3hfvim",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8953081369400024,
+          "index": 1,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "This assumption fails i. arXiv:2603.1. arxiv: 2603.2.1.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:48:42.671Z"
+    },
+    {
+      "title": "Aligning Paralinguistic Understanding and Generation in Speech LLMs via Multi-Task Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.15981",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15981v1 Announce Type: new \nAbstract: Speech large language models (LLMs) observe paralinguistic cues such as prosody, emotion, and non-verbal sounds--crucial for intent understanding. Howe",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2873187317490285,
+      "crawledAt": "2026-03-18T05:39:23.673Z",
+      "id": "wcalg2",
+      "entities": [],
+      "summary": "LZ: Speech large language models observe paralinguistic cues such as prosody, emotion, and non-verbal cues.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:49:04.024Z"
+    },
+    {
+      "title": "NLP Occupational Emergence Analysis: How Occupations Form and Evolve in Real Time -- A Zero-Assumption Method Demonstrated on AI in the US Technology Workforce, 2022-2026",
+      "url": "https://arxiv.org/abs/2603.15998",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15998v1 Announce Type: new \nAbstract: Occupations form and evolve faster than classification systems can track. We propose that a genuine occupation is a self-reinforcing structure (a bipar",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.3473999710166109,
+      "crawledAt": "2026-03-18T05:39:23.913Z",
+      "id": "1ax5eb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9533838033676147,
+          "index": 1,
+          "word": "NL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8752803206443787,
+          "index": 2,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8568029403686523,
+          "index": 7,
+          "word": "Em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8957720398902893,
+          "index": 24,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8629140853881836,
+          "index": 37,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8213608860969543,
+          "index": 42,
+          "word": "Work",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " We propose that a genuine occupation is a self-reinforcing structure (a bipar) That is a bipar structure.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:49:15.958Z"
+    },
+    {
+      "title": "RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation",
+      "url": "https://arxiv.org/abs/2603.16002",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16002v1 Announce Type: new \nAbstract: Radiology report annotation is essential for clinical NLP, yet manual labeling is slow and costly. We present RadAnnotate, an LLM-based framework that ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2972807691707936,
+      "crawledAt": "2026-03-18T05:39:24.122Z",
+      "id": "o0ov45",
+      "entities": [],
+      "summary": " Radiology report annotation is essential for clinical NLP, yet manual labeling is slow and costly. We present RadAnnotate, an LLM-based framework that is based on LLM's framework.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:49:27.817Z"
+    },
+    {
+      "title": "Lessons from Real-World Deployment of a Cognition-Preserving Writing Tool: Students Actively Engage with Critical Thinking and Planning Affordances",
+      "url": "https://arxiv.org/abs/2603.15777",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15777v1 Announce Type: new \nAbstract: AI-supported writing tools show strong potential for scaffolding students' learning of argumentative writing. Prior work has demonstrated the benefits ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.83927217366015,
+      "crawledAt": "2026-03-18T05:39:13.069Z",
+      "id": "g0lm8j",
+      "entities": [],
+      "summary": "ArXiv:2603.15777v1 Announce Type: new AI-supported writing tools. For more information on the new tools, visit www. arXiv.com.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:49:58.268Z"
+    },
+    {
+      "title": "Same Performance, Hidden Bias: Evaluating Hypothesis- and Recommendation-Driven AI",
+      "url": "https://arxiv.org/abs/2603.15824",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15824v1 Announce Type: new \nAbstract: The HCI community commonly evaluates decision support systems based on whether they improve task performance or promote appropriate user reliance. In t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3035465094352152,
+      "crawledAt": "2026-03-18T05:39:13.421Z",
+      "id": "akqmpz",
+      "entities": [],
+      "summary": " The HCI community commonly evaluates decision support systems based on whether they improve task performance or promote appropriate user reliance. In t t t. arXiv:2603.15824v1 Announce Type: new type: new kind of announcement.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:50:26.379Z"
+    },
+    {
+      "title": "Interpretative Interfaces: Designing for AI-Mediated Reading Practices and the Knowledge Commons",
+      "url": "https://arxiv.org/abs/2603.15863",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15863v1 Announce Type: new \nAbstract: Explainable AI (XAI) interfaces seek to make large language models more transparent, yet explanation alone does not produce understanding. Explaining a",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.6626739600631572,
+      "crawledAt": "2026-03-18T05:39:13.605Z",
+      "id": "nypdxi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9968209862709045,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8639900088310242,
+          "index": 14,
+          "word": "Media",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8678067326545715,
+          "index": 17,
+          "word": "Practice",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9422329664230347,
+          "index": 21,
+          "word": "Knowledge",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9818183183670044,
+          "index": 22,
+          "word": "Commons",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Explaining a language model does not produce understanding. Explaining a new language model is a new way to make language models more transparent.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:50:34.690Z"
+    },
+    {
+      "title": "Machine Translation in the Wild: User Reaction to Xiaohongshu's Built-In Translation Feature",
+      "url": "https://arxiv.org/abs/2603.15922",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15922v1 Announce Type: new \nAbstract: The growing integration of machine translation into social media platforms is transforming how users interact with each other across cultural and lingu",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4103165830704229,
+      "crawledAt": "2026-03-18T05:39:13.787Z",
+      "id": "g0rk6a",
+      "entities": [],
+      "summary": " The growing integration of machine translation into social media is transforming how users interact with each other. The growing use of machine-transformed language and language is changing how people interact.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:50:46.236Z"
+    },
+    {
+      "title": "Why Avoid Generative Legal AI Systems? Hallucination, Overreliance, and their Impact on Explainability",
+      "url": "https://arxiv.org/abs/2603.15937",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15937v1 Announce Type: new \nAbstract: This article argues that the deployment of generative AI systems in legal profession requires strong restraint due to the critical risks of hallucinati",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2683730733259119,
+      "crawledAt": "2026-03-18T05:39:13.985Z",
+      "id": "t0yqnb",
+      "entities": [],
+      "summary": " The use of generative AI systems in legal profession requires strong restraint due to the risks of hallucinati. The use is a result of the use of AI in the legal profession.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:50:59.238Z"
+    },
+    {
+      "title": "Adaptive Captioning with Emotional Cues: Supporting DHH and Neurodivergent Learners in STEM",
+      "url": "https://arxiv.org/abs/2603.15977",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15977v1 Announce Type: new \nAbstract: Real-time captioning is vital for Deaf and Hard of Hearing (DHH) and neurodivergent learners (e.g., those with ADHD), yet it often omits emotional and ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3828227893893475,
+      "crawledAt": "2026-03-18T05:39:14.224Z",
+      "id": "ufj7hw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8226314783096313,
+          "index": 15,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Real-time captioning is vital for Deaf and Hard of Hearing (DHH) and neurodivergent learners.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:51:10.900Z"
+    },
+    {
+      "title": "CoDesignAI: An AI-Enabled Multi-Agent, Multi-User System for Collaborative Urban Design at the Conceptual Stage",
+      "url": "https://arxiv.org/abs/2603.16008",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16008v1 Announce Type: new \nAbstract: Public participation has become increasingly important in collaborative urban design; yet, existing processes often face challenges in achieving effici",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9237223984793939,
+      "crawledAt": "2026-03-18T05:39:14.628Z",
+      "id": "k1yl1l",
+      "entities": [],
+      "summary": "Public participation has become increasingly important in collaborative urban design. Public participation has been a key part of the design process.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:51:30.315Z"
+    },
+    {
+      "title": "Galaxy Tracer: A Topology-First 3D Interface for Interactive PCAP Exploration",
+      "url": "https://arxiv.org/abs/2603.16018",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16018v1 Announce Type: new \nAbstract: Packet analysis tools conventionally present capture data through tabular packet lists, constraining the analyst to a sequential view that obscures the",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.905306587572542,
+      "crawledAt": "2026-03-18T05:39:14.807Z",
+      "id": "bsd674",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8680944442749023,
+          "index": 2,
+          "word": "Trace",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9365331530570984,
+          "index": 10,
+          "word": "3D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new system is designed to allow the analyst to view the data through tabular packet lists. The new technology will allow the analysis of data to be more accurate.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:51:42.330Z"
+    },
+    {
+      "title": "Balancing Openness and Safety: Central and Peripheral Governance Practices in the Lesbian Subreddit Ecosystem",
+      "url": "https://arxiv.org/abs/2603.16176",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16176v1 Announce Type: new \nAbstract: Online LGBTQ+ communities face a persistent tension: remaining visible to welcome newcomers while protecting members from harassment. This challenge is",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.9718445375445206,
+      "crawledAt": "2026-03-18T05:39:15.178Z",
+      "id": "kieodi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9967894554138184,
+          "index": 21,
+          "word": "Les",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9676873087882996,
+          "index": 22,
+          "word": "##bian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8976755142211914,
+          "index": 23,
+          "word": "Sub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9166759252548218,
+          "index": 24,
+          "word": "##red",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9217535257339478,
+          "index": 25,
+          "word": "##dit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8896708488464355,
+          "index": 26,
+          "word": "E",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Online LGBTQ+ communities face a persistent tension to welcome newcomers and protect members from harassment. This challenge is a challenge to remain visible to welcome new members.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:02.151Z"
+    },
+    {
+      "title": "One Kiss: Emojis as Agents of Genre Flux in Generative Comics",
+      "url": "https://arxiv.org/abs/2603.16359",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16359v1 Announce Type: new \nAbstract: Generative AI has made visual storytelling widely accessible, yet current prompt-based interactions often force users into a trade-off between precise ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8222637783362404,
+      "crawledAt": "2026-03-18T05:39:15.357Z",
+      "id": "z4dk11",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9210224151611328,
+          "index": 4,
+          "word": "Em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8586329221725464,
+          "index": 13,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9194240570068359,
+          "index": 16,
+          "word": "Gene",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8820515871047974,
+          "index": 17,
+          "word": "##rative",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9421425461769104,
+          "index": 18,
+          "word": "Comics",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The AI has been used to make storytelling easier and more accessible to users. The new version of the software has been developed to make it easier to communicate with users.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:14.078Z"
+    },
+    {
+      "title": "Automated Self-Testing as a Quality Gate: Evidence-Driven Release Management for LLM Applications",
+      "url": "https://arxiv.org/abs/2603.15676",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15676v1 Announce Type: new \nAbstract: LLM applications are AI systems whose non-deterministic outputs and evolving model behavior make traditional testing insufficient for release governanc",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2610815372603066,
+      "crawledAt": "2026-03-18T05:39:18.448Z",
+      "id": "vyrto8",
+      "entities": [],
+      "summary": " AI systems make traditional testing insufficient for release, says the author of the book. The book will be published in 2015.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:23.861Z"
+    },
+    {
+      "title": "Loosely-Structured Software: Engineering Context, Structure, and Evolution Entropy in Runtime-Rewired Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2603.15690",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15690v1 Announce Type: new \nAbstract: As LLM-based multi-agent systems (MAS) become more autonomous, their free-form interactions increasingly dominate system behavior. However, scaling the",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3212705474688658,
+      "crawledAt": "2026-03-18T05:39:18.661Z",
+      "id": "mt6v90",
+      "entities": [],
+      "summary": "As LLM-based multi-agent systems become more autonomous, their free-form interactions increasingly dominate system behavior.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:33.260Z"
+    },
+    {
+      "title": "VibeContract: The Missing Quality Assurance Piece in Vibe Coding",
+      "url": "https://arxiv.org/abs/2603.15691",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15691v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have given rise to vibe coding, a style of software development where developers rely on AI coding assi",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28259601525939,
+      "crawledAt": "2026-03-18T05:39:18.846Z",
+      "id": "eb3alm",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9881590604782104,
+          "index": 18,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new language model is based on the language of the language. The new model is called \"Coding for the first time\"",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:42.568Z"
+    },
+    {
+      "title": "SEMAG: Self-Evolutionary Multi-Agent Code Generation",
+      "url": "https://arxiv.org/abs/2603.15707",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15707v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made significant progress in handling complex programming tasks. However, current methods rely on manual model select",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.32491256680556013,
+      "crawledAt": "2026-03-18T05:39:19.015Z",
+      "id": "h6w4w7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9367655515670776,
+          "index": 5,
+          "word": "Self",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Current methods rely on manual model select. Current methods rely upon manual model selection. Current method relies on manual models.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:52:50.385Z"
+    },
+    {
+      "title": "Human-AI Synergy in Agentic Code Review",
+      "url": "https://arxiv.org/abs/2603.15911",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15911v1 Announce Type: new \nAbstract: Code review is a critical software engineering practice where developers review code changes before integration to ensure code quality, detect defects,",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9155007842595947,
+      "crawledAt": "2026-03-18T05:39:19.765Z",
+      "id": "s2yzk1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9901158213615417,
+          "index": 8,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9976500272750854,
+          "index": 9,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.997905433177948,
+          "index": 10,
+          "word": "Code",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9956418871879578,
+          "index": 11,
+          "word": "Review",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Code review is a critical software engineering practice where developers review code changes before integration to ensure code quality, detect defects.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:53:31.414Z"
+    },
+    {
+      "title": "VIBEPASS: Can Vibe Coders Really Pass the Vibe Check?",
+      "url": "https://arxiv.org/abs/2603.15921",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.15921v1 Announce Type: new \nAbstract: As Large Language Models shift the programming toward human-guided ''vibe coding'', agentic coding tools increasingly rely on models to self-diagnose a",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.36983419164086934,
+      "crawledAt": "2026-03-18T05:39:19.956Z",
+      "id": "6c3f3j",
+      "entities": [],
+      "summary": " Large Language Models shift to human-guided 'vibe coding' in the future. \"Vibe coding\" is a new form of coding.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:53:42.148Z"
+    },
+    {
+      "title": "RepoReviewer: A Local-First Multi-Agent Architecture for Repository-Level Code Review",
+      "url": "https://arxiv.org/abs/2603.16107",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-18T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.16107v1 Announce Type: new \nAbstract: Repository-level code review requires reasoning over project structure, repository context, and file-level implementation details. Existing automated r",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.46805116979091493,
+      "crawledAt": "2026-03-18T05:39:20.654Z",
+      "id": "acxhw0",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8847417831420898,
+          "index": 23,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new code review requires reasoning over project structure, repository context, and file-level implementation details. Existing automated r. arXiv:2603.16107v1 Announce Type: new    code review.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:54:28.802Z"
+    },
+    {
+      "title": "Intelligent AI Delegation: Overview",
+      "url": "https://ai.plainenglish.io/intelligent-ai-delegation-overview-bc89a1acce5c?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:56:37.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.7631121742968318,
+      "crawledAt": "2026-03-18T05:38:14.511Z",
+      "id": "dabxwc",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9155752658843994,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:16.542Z"
+    },
+    {
+      "title": "Why Is the Narrative “AI Can Make Money for You” So Powerful?",
+      "url": "https://ai.plainenglish.io/why-is-the-narrative-ai-can-make-money-for-you-so-powerful-1f397aca1308?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:55:58.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9437670897372225,
+      "crawledAt": "2026-03-18T05:38:14.782Z",
+      "id": "ag6qkp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8570966720581055,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:24.563Z"
+    },
+    {
+      "title": "The AI That Does Research While You Sleep : Inside Karpathy’s AutoResearch Revolution",
+      "url": "https://ai.plainenglish.io/the-ai-that-does-research-while-you-sleep-inside-karpathys-autoresearch-revolution-a5a6ecb74f93?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:54:54.000Z",
+      "metaDescription": "Introduction\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 10,
+      "confidence": 0.8321467295379468,
+      "crawledAt": "2026-03-18T05:38:14.890Z",
+      "id": "ictwlf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.890416145324707,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9786311388015747,
+          "index": 10,
+          "word": "Inside",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9152482151985168,
+          "index": 11,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.843307375907898,
+          "index": 12,
+          "word": "##rp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8964242935180664,
+          "index": 13,
+          "word": "##athy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8571307063102722,
+          "index": 16,
+          "word": "Auto",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9818112254142761,
+          "index": 17,
+          "word": "##R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.932847797870636,
+          "index": 18,
+          "word": "##ese",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9646113514900208,
+          "index": 19,
+          "word": "##ar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9731844067573547,
+          "index": 20,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9801952242851257,
+          "index": 21,
+          "word": "Revolution",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Aims to learn more about Artificial Intelligence in Plain English. Read more on Artificial Intelligence. Read more about how to use the language of the language.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:34.661Z"
+    },
+    {
+      "title": "The Agentic Engineering Stack -4 Tools, One System, Nothing Else",
+      "url": "https://ai.plainenglish.io/the-agentic-engineering-stack-4-tools-one-system-nothing-else-53c933a9749a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:54:25.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.7558324707147832,
+      "crawledAt": "2026-03-18T05:38:14.960Z",
+      "id": "dv9cki",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8687074780464172,
+          "index": 5,
+          "word": "St",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8939387202262878,
+          "index": 6,
+          "word": "##ack",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9789676070213318,
+          "index": 9,
+          "word": "Too",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8367758393287659,
+          "index": 10,
+          "word": "##ls",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.83637535572052,
+          "index": 13,
+          "word": "System",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:34.772Z"
+    },
+    {
+      "title": "The Architecture of Deception: Prompt Injection & LLM Defenses",
+      "url": "https://ai.plainenglish.io/the-architecture-of-deception-prompt-injection-llm-defenses-918e42799e9d?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:54:22.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.8446902554826593,
+      "crawledAt": "2026-03-18T05:38:15.024Z",
+      "id": "gwhc2i",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:34.917Z"
+    },
+    {
+      "title": "How to Build and Ship a Real Product in 48 Hours Using AI Tools",
+      "url": "https://ai.plainenglish.io/how-to-build-and-ship-a-real-product-in-48-hours-using-ai-tools-5342b6d8f38e?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:52:35.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.32757424434151716,
+      "crawledAt": "2026-03-18T05:38:15.254Z",
+      "id": "yrvswm",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:45.719Z"
+    },
+    {
+      "title": "The Senior Engineer’s Guide to Orchestrating AI Agents in Production",
+      "url": "https://ai.plainenglish.io/the-senior-engineers-guide-to-orchestrating-ai-agents-in-production-3fea1f5529ab?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:52:20.000Z",
+      "metaDescription": "Getting an AI agent to work in a demo takes an afternoon. Getting it to work reliably in production — handling failures, maintaining state…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9633917130392201,
+      "crawledAt": "2026-03-18T05:38:15.413Z",
+      "id": "be9sed",
+      "entities": [],
+      "summary": " Getting an AI agent to work in a demo takes an afternoon. Getting an agent toWork in a demos takes a afternoon.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:55:58.672Z"
+    },
+    {
+      "title": "Agentic ReAct to ReWOO Designing Token-Efficient LLM Agents",
+      "url": "https://ai.plainenglish.io/agentic-react-to-rewoo-designing-token-efficient-llm-agents-23d2aabe17a3?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-18T02:51:50.000Z",
+      "metaDescription": "In the world of AI agents, there is a constant battle over how to make models “think” before they act. If you have ever used an AI that…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9162987614360436,
+      "crawledAt": "2026-03-18T05:38:15.586Z",
+      "id": "2r1l8a",
+      "entities": [],
+      "summary": " The world of AI agents is a constant battle over how to make models “think’s before they act.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:56:13.410Z"
+    },
     {
       "title": "Teaching My AI to See the World From Its Own Perspective",
       "url": "https://www.reddit.com/r/deeplearning/comments/1rwrog3/teaching_my_ai_to_see_the_world_from_its_own/",
@@ -121,6 +2373,25 @@
       "summary": " A knowledge base server sits on your VPS (or localhost) ingests everything you want your AI to know, and exposes it through the server.",
       "language": "en",
       "processed_at": "2026-03-18T02:46:48.889Z"
+    },
+    {
+      "title": "I gave ChatGPT persistent memory that actually works — open source",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1rwqjxd/i_gave_chatgpt_persistent_memory_that_actually/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-18T01:45:30.000Z",
+      "metaDescription": "Tired of ChatGPT forgetting everything? I built a knowledge base server that gives any AI agent persistent memory across sessions. Open source, runs on your own hardware.\n Here's what it does: you fee",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3054682441543185,
+      "crawledAt": "2026-03-18T05:38:32.298Z",
+      "id": "a5zrc8",
+      "entities": [],
+      "summary": " Tired of ChatGPT forgetting everything? I built a knowledge base server that gives any AI agent persistent memory across sessions.",
+      "language": "en",
+      "processed_at": "2026-03-18T05:56:23.845Z"
     },
     {
       "title": "We can now generate and edit 30s 1080p videos in real-time",
@@ -1645,19 +3916,20 @@
       "processed_at": "2026-03-18T02:53:59.861Z"
     }
   ],
-  "processedAt": "2026-03-18T02:54:19.989Z",
+  "processedAt": "2026-03-18T05:56:23.852Z",
   "categories": [
-    "creative-ai",
-    "research-paper",
-    "infrastructure",
+    "safety-ethics",
     "ai-agents",
+    "creative-ai",
+    "infrastructure",
+    "research-paper",
+    "tutorial-guide",
     "developer-tool",
-    "model-release",
     "product-launch",
-    "tutorial-guide"
+    "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 43,
-  "dailyArticlesCount": 43,
+  "newArticlesProcessed": 65,
+  "dailyArticlesCount": 108,
   "filterDate": "2026-03-18"
 }
