@@ -1,9 +1,784 @@
 {
-  "crawledAt": "2026-03-19T13:21:05.570Z",
+  "crawledAt": "2026-03-19T17:04:59.440Z",
   "totalSources": 70,
-  "totalArticles": 67,
+  "totalArticles": 93,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T16:45:50.000Z",
+      "metaDescription": "In this post, we explore our approach to video generation through VRAG, transforming natural language text prompts and images into grounded, high-quality videos. Through this fully automated solution,",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.7350671051233295,
+      "crawledAt": "2026-03-19T17:03:46.548Z",
+      "id": "5ksp5n",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8351314663887024,
+          "index": 10,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8701114058494568,
+          "index": 14,
+          "word": "Re",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " VRAG transforms natural language text prompts and images into grounded, high-quality videos. Through this fully automated solution, this fully- automated solution is a fully automated Solution.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:11.230Z"
+    },
+    {
+      "title": "Introducing V-RAG: revolutionizing AI-powered video production with Retrieval Augmented Generation",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T16:45:42.000Z",
+      "metaDescription": "This post introduces Video Retrieval-Augmented Generation (V-RAG), an approach to help improve video content creation. By combining retrieval augmented generation with advanced video AI models, V-RAG ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9519028966184642,
+      "crawledAt": "2026-03-19T17:03:46.713Z",
+      "id": "2y7six",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8243187665939331,
+          "index": 6,
+          "word": "RA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9900252223014832,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " V-RAG introduces Video Retrieval-Augmented Generation (V-RAG) to help improve video content creation.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:21.960Z"
+    },
+    {
+      "title": "The Basics of Vibe Engineering",
+      "url": "https://towardsdatascience.com/the-basics-of-vibe-engineering/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T16:30:00.000Z",
+      "metaDescription": "Building products without the coding part\nThe post The Basics of Vibe Engineering appeared first on Towards Data Science.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29654977339013183,
+      "crawledAt": "2026-03-19T17:03:33.999Z",
+      "id": "oqxw80",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9805608987808228,
+          "index": 5,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9750993847846985,
+          "index": 6,
+          "word": "##ibe",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.982286274433136,
+          "index": 7,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Building products without the coding part part. Building products without coding part is a form of building products.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:32.739Z"
+    },
+    {
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T16:14:00.000Z",
+      "metaDescription": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9963083109275626,
+      "crawledAt": "2026-03-19T17:03:21.795Z",
+      "id": "nxvuqk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9973133206367493,
+          "index": 1,
+          "word": "Door",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982172250747681,
+          "index": 2,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957228302955627,
+          "index": 3,
+          "word": "##ash",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Delivery couriers will be able to earn money by completing activities like filming everyday tasks. Delivery coups will also be able.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:40.536Z"
+    },
+    {
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T16:09:50.000Z",
+      "metaDescription": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. \nThe post How Squad ru",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8235940470291424,
+      "crawledAt": "2026-03-19T17:03:20.129Z",
+      "id": "68y4og",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9615665078163147,
+          "index": 2,
+          "word": "Squad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9042423367500305,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:50.183Z"
+    },
+    {
+      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+      "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T16:06:49.000Z",
+      "metaDescription": "OpenAI plans to allow sexting with ChatGPT. A human-AI interaction expert warns of a privacy nightmare.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5349636328758287,
+      "crawledAt": "2026-03-19T17:03:29.216Z",
+      "id": "mg99l7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9220136404037476,
+          "index": 1,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9033289551734924,
+          "index": 3,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8775753974914551,
+          "index": 4,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Human-AI interaction expert warns of privacy nightmare. OpenAI plans to allow sexting with ChatGPT.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:05:56.947Z"
+    },
+    {
+      "title": "LangGraph vs Temporal for AI Agents: Durable Execution Architecture Beyond For Loops",
+      "url": "https://pub.towardsai.net/langgraph-vs-temporal-for-ai-agents-durable-execution-architecture-beyond-for-loops-a1f640d35f02?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T16:01:01.000Z",
+      "metaDescription": "Learn when LangGraph plans, Temporal executes, and how checkpoints plus webhooks keep 10,000-item LLM pipelines durable.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9689658387436423,
+      "crawledAt": "2026-03-19T17:03:56.424Z",
+      "id": "at2e1d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9445156455039978,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9430380463600159,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8660210967063904,
+          "index": 3,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8916152715682983,
+          "index": 4,
+          "word": "##h",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Learn when LangGraph plans, plans, Temporal executes, and how checkpoints plus webhooks keep 10,000-item LLM pipelines durable.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:05.846Z"
+    },
+    {
+      "title": "Agentic Coding with Goose",
+      "url": "https://www.kdnuggets.com/free-agentic-coding-with-goose",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T16:00:18.000Z",
+      "metaDescription": "Goose is a free, open-source AI agent that goes beyond code suggestions to autonomously execute tasks, letting you automate development workflows directly on your machine.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.46766853762303584,
+      "crawledAt": "2026-03-19T17:04:55.065Z",
+      "id": "kwd4co",
+      "entities": [],
+      "summary": " Goose is a free, open-source AI agent that goes beyond code suggestions to autonomously execute tasks on your machine.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:14.485Z"
+    },
+    {
+      "title": "Study pinpoints when bow and arrow came to North America",
+      "url": "https://arstechnica.com/science/2026/03/study-pinpoints-when-bow-and-arrow-came-to-north-america/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T15:45:33.000Z",
+      "metaDescription": "Radiocarbon results suggest a single origin and rapid diffusion through cultural transition networks.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.36271536374682595,
+      "crawledAt": "2026-03-19T17:03:24.912Z",
+      "id": "tdx6yk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991599917411804,
+          "index": 10,
+          "word": "North",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9978924989700317,
+          "index": 11,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Radiocarbon results suggest a single origin and rapid diffusion through cultural transition networks. Radioccarbon results suggest single origin, rapid diffusion.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:32.881Z"
+    },
+    {
+      "title": "Atlassian Just Fired Its CTO for AI. Your Seniority Won’t Save You.",
+      "url": "https://generativeai.pub/atlassian-just-fired-its-cto-for-ai-your-seniority-wont-save-you-6735f8d7a262?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:26:59.000Z",
+      "metaDescription": "1,600 people lost their jobs. The CTO lost his. The only people who stayed had one thing in common.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5732482968966122,
+      "crawledAt": "2026-03-19T17:04:06.884Z",
+      "id": "q81ln4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9898990988731384,
+          "index": 1,
+          "word": "Atlas",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9850255846977234,
+          "index": 2,
+          "word": "##sian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 1,600 people lost their jobs. The CTO lost his job. The only people who stayed had one thing in common.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:40.978Z"
+    },
+    {
+      "title": "What if it all goes great? Or at least not half as bad?",
+      "url": "https://generativeai.pub/what-if-it-all-goes-great-or-at-least-not-half-as-bad-6f9aa82cfb19?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:26:55.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2814739469986829,
+      "crawledAt": "2026-03-19T17:04:06.958Z",
+      "id": "sadtqv",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:41.099Z"
+    },
+    {
+      "title": "The Machine Gets a Wallet: Why Stripe’s Bet on Agent Payments Matters More Than It Looks",
+      "url": "https://generativeai.pub/the-machine-gets-a-wallet-why-stripes-bet-on-agent-payments-matters-more-than-it-looks-e2e007a7f89f?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:21:50.000Z",
+      "metaDescription": "Stripe published a blog post on the 18th of March that most people will skim past.\nContinue reading on Generative AI »",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.3744653314112606,
+      "crawledAt": "2026-03-19T17:04:07.259Z",
+      "id": "9pexgf",
+      "entities": [],
+      "summary": " Stripe published a blog post on the 18th of March that most people will skim past. Stripe: Most people will skip past.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:57.231Z"
+    },
+    {
+      "title": "LangSmith Fleet: Agents for the whole company",
+      "url": "https://www.youtube.com/watch?v=mRNUlUdxegM",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:17:49.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.3662419671394852,
+      "crawledAt": "2026-03-19T17:04:15.799Z",
+      "id": "j5iyah",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9965758919715881,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9894315004348755,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9923809170722961,
+          "index": 3,
+          "word": "##mith",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:57.318Z"
+    },
+    {
+      "title": "Google’s AI Just Outscored Most Humans on the Test Built to Prove It Couldn’t Think",
+      "url": "https://generativeai.pub/googles-ai-just-outscored-most-humans-on-the-test-built-to-prove-it-couldn-t-think-9a05b2ac147f?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:15:59.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.31210692934337486,
+      "crawledAt": "2026-03-19T17:04:07.345Z",
+      "id": "2ujjqt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981810450553894,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:06:57.490Z"
+    },
+    {
+      "title": "Why Everyone Is Wrong About AI Brain Rot—And What’s Actually Happening to Us",
+      "url": "https://generativeai.pub/why-everyone-is-wrong-about-ai-brain-rot-and-whats-actually-happening-to-us-0cf565cd0a26?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:13:24.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.4145877013256939,
+      "crawledAt": "2026-03-19T17:04:07.536Z",
+      "id": "lfv0je",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:07:04.795Z"
+    },
+    {
+      "title": "Why Google’s Free Design Tool Threatens Figma More Than the 8% Stock Drop Suggests",
+      "url": "https://generativeai.pub/why-googles-free-design-tool-threatens-figma-more-than-the-8-stock-drop-suggests-a83e61383ead?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:13:07.000Z",
+      "metaDescription": "Google Stitch doesn’t just generate interfaces from text — it rewrites the economics of an entire profession.\nContinue reading on Generative AI »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.4980023090398319,
+      "crawledAt": "2026-03-19T17:04:07.686Z",
+      "id": "gz6ewq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9413960576057434,
+          "index": 2,
+          "word": "Google",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Google's new software is called 'Generative AI' It is designed to generate interfaces from text. It can also be used to help people understand how to use the software.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:07:14.731Z"
+    },
+    {
+      "title": "The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug",
+      "url": "https://pub.towardsai.net/junior-developer-crisis-2026-ai-debugging-87629d8fc753?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:01:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4459073362306018,
+      "crawledAt": "2026-03-19T17:03:56.576Z",
+      "id": "n1gi6p",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8119145631790161,
+          "index": 2,
+          "word": "Junior",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8409573435783386,
+          "index": 4,
+          "word": "##elo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8246303796768188,
+          "index": 5,
+          "word": "##per",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8872239589691162,
+          "index": 6,
+          "word": "Crisis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:07:15.018Z"
+    },
+    {
+      "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+      "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T15:00:00.000Z",
+      "metaDescription": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+      "category": "industry-news",
+      "difficulty": 7,
+      "confidence": 0.3284917956522289,
+      "crawledAt": "2026-03-19T17:03:21.977Z",
+      "id": "aj89w2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9810998439788818,
+          "index": 1,
+          "word": "Tech",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913482666015625,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9782142043113708,
+          "index": 3,
+          "word": "##runch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9890759587287903,
+          "index": 4,
+          "word": "Start",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9814560413360596,
+          "index": 5,
+          "word": "##up",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9480504393577576,
+          "index": 6,
+          "word": "Battle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8349024653434753,
+          "index": 7,
+          "word": "##field",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:07:26.485Z"
+    },
+    {
+      "title": "Enhanced metrics for Amazon SageMaker AI endpoints: deeper visibility for better performance",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T14:32:11.000Z",
+      "metaDescription": "SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides the granular visibility needed to monitor, troubleshoot, and improve your production en",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.8802830100850589,
+      "crawledAt": "2026-03-19T17:03:46.879Z",
+      "id": "9tdf9h",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9430965185165405,
+          "index": 8,
+          "word": "Sage",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8945549130439758,
+          "index": 10,
+          "word": "##aker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8081369400024414,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " SageMaker AI endpoints now support enhanced metrics with configurable publishing frequency. This launch provides granular visibility needed to monitor, troubleshoot, and improve your production en-points.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:07:46.155Z"
+    },
+    {
+      "title": "Signal’s Creator Is Helping Encrypt Meta AI",
+      "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T14:09:51.000Z",
+      "metaDescription": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8483561879923518,
+      "crawledAt": "2026-03-19T17:03:29.386Z",
+      "id": "wo018x",
+      "entities": [],
+      "summary": " Moxie Marlinspike says his chatbot will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:08:05.577Z"
+    },
+    {
+      "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+      "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T13:24:22.000Z",
+      "metaDescription": "Everyone's <a href=\"https://machinelearningmastery.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6114977366300736,
+      "crawledAt": "2026-03-19T17:03:45.236Z",
+      "id": "vj767a",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9755423069000244,
+          "index": 8,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9450213313102722,
+          "index": 9,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8748016953468323,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The world's most popular online learning tool, the \"machinelearningmastery\" is a popular online tool. The \"machine-learningmaster\" is an online tool that teaches people how to learn about learning.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:08:46.524Z"
+    },
     {
       "title": "Building a Real-Time Face Recognition Attendance System with OpenCV",
       "url": "https://pub.towardsai.net/building-a-real-time-face-recognition-attendance-system-with-opencv-5bd95dcdf38c?source=rss----98111c9905da---4",
@@ -31,6 +806,66 @@
       "summary": " An end-to-end computer vision project using LBPH, Tkinter, and classical techniques. The project uses LBPH and TkInter, and Classical techniques.",
       "language": "en",
       "processed_at": "2026-03-19T13:21:22.115Z"
+    },
+    {
+      "title": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T13:00:09.000Z",
+      "metaDescription": "It’s a double feature on GFN Thursday. This week, GeForce NOW offers smoother sights in virtual reality (VR) and a sprawling new land to conquer. Streaming at 90 frames per second (fps) comes to suppo",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.26560842673621976,
+      "crawledAt": "2026-03-19T17:03:07.522Z",
+      "id": "4qfiqy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8760104775428772,
+          "index": 21,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8382664322853088,
+          "index": 22,
+          "word": "##e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9905102252960205,
+          "index": 23,
+          "word": "##F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8640563488006592,
+          "index": 24,
+          "word": "##or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9490363597869873,
+          "index": 25,
+          "word": "##ce",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GeForce NOW offers smoother sights in virtual reality (VR) and a sprawling new land to conquer. Streaming at 90 frames per second (fps) comes to suppo. It's a double feature on GFN Thursday.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:08:58.050Z"
     },
     {
       "title": "Amazon brings Alexa+ to the UK",
@@ -119,6 +954,61 @@
       "summary": " Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development app. The post VibeCoding withAI: Best practices for Human AI Collaboration.",
       "language": "en",
       "processed_at": "2026-03-19T13:22:09.958Z"
+    },
+    {
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T10:51:43.000Z",
+      "metaDescription": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors an",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3685579236225567,
+      "crawledAt": "2026-03-19T17:03:30.980Z",
+      "id": "7fzeaf",
+      "entities": [],
+      "summary": " The quantum computer is built out of atoms and light. It is built at the UK's National Quantum Computing Centre.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:09:05.958Z"
+    },
+    {
+      "title": "Visa prepares payment systems for AI agent-initiated transactions",
+      "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T10:00:00.000Z",
+      "metaDescription": "Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate paym",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9647755092648947,
+      "crawledAt": "2026-03-19T17:03:37.846Z",
+      "id": "isf19v",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9885257482528687,
+          "index": 1,
+          "word": "Visa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9994110465049744,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Visa tests how AI agents can initiate paym paym payments. Visa is testing how AI agent can initiate payments.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:09:23.294Z"
     },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
@@ -223,6 +1113,58 @@
       "summary": " The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: How do we put AI agents to work without losing control of our data, our systems, and our liability?",
       "language": "en",
       "processed_at": "2026-03-19T08:54:28.998Z"
+    },
+    {
+      "title": "NVIDIA wants enterprise AI agents safer to deploy",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T08:00:00.000Z",
+      "metaDescription": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 i",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.8309293873600905,
+      "crawledAt": "2026-03-19T17:03:38.017Z",
+      "id": "js9bra",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983907341957092,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966974258422852,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9764894843101501,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8695582747459412,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: How do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 i.i.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:09:36.603Z"
     },
     {
       "title": "I Taught My Local AI to Read Everything I’ve Ever Written",
@@ -2253,6 +3195,50 @@
       "processed_at": "2026-03-19T02:49:40.252Z"
     },
     {
+      "title": "Securing Enterprise AI with Weaviate",
+      "url": "https://weaviate.io/blog/weaviate-security-enterprise",
+      "source": "Weaviate Blog",
+      "source_domain": "weaviate.io",
+      "source_category": "tools",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T00:00:00.000Z",
+      "metaDescription": "A complete guide on how to secure Weaviate enterprise deployments with OIDC, RBAC, and multi-tenant isolation.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.6093579755741158,
+      "crawledAt": "2026-03-19T17:03:59.961Z",
+      "id": "qny5hf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9423090219497681,
+          "index": 4,
+          "word": "Enterprise",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9425252676010132,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9607850313186646,
+          "index": 7,
+          "word": "We",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A complete guide on how to secure Weaviate enterprise deployments with OIDC, RBAC, and multi-tenant isolation.",
+      "language": "en",
+      "processed_at": "2026-03-19T17:09:46.074Z"
+    },
+    {
       "title": "Meta is having trouble with rogue AI agents",
       "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
       "source": "TechCrunch AI",
@@ -2533,18 +3519,20 @@
       "processed_at": "2026-03-19T05:38:07.465Z"
     }
   ],
-  "processedAt": "2026-03-19T13:23:24.068Z",
+  "processedAt": "2026-03-19T17:09:46.080Z",
   "categories": [
-    "infrastructure",
-    "creative-ai",
     "developer-tool",
+    "creative-ai",
+    "infrastructure",
+    "product-launch",
     "ai-agents",
+    "industry-news",
+    "model-release",
     "research-paper",
-    "safety-ethics",
-    "model-release"
+    "safety-ethics"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 3,
-  "dailyArticlesCount": 67,
+  "newArticlesProcessed": 26,
+  "dailyArticlesCount": 93,
   "filterDate": "2026-03-19"
 }
