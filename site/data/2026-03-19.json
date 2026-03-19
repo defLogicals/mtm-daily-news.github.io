@@ -1,9 +1,775 @@
 {
-  "crawledAt": "2026-03-19T17:04:59.440Z",
+  "crawledAt": "2026-03-19T20:48:15.312Z",
   "totalSources": 70,
-  "totalArticles": 93,
+  "totalArticles": 111,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Why enterprises are replacing generic AI with tools that know their users",
+      "url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T20:46:44.111Z",
+      "metaDescription": "The future of AI isn’t just agentic; it’s deep personalization. \nRather than simple recommender systems that correlate user behavior to identify patterns and apply those to individual workflows, large",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2634969069980137,
+      "crawledAt": "2026-03-19T20:46:44.112Z",
+      "id": "mwvqmd",
+      "entities": [],
+      "summary": " The future of AI isn’t just agentic; it’s deep personalization. Instead of simple recommender systems that correlate user behavior to identify user behavior.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:48:29.962Z"
+    },
+    {
+      "title": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
+      "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T20:31:00.000Z",
+      "metaDescription": "Cursor, a San Francisco AI coding platform from startup Anysphere valued at $29.3 billion, has launched Composer 2, a new in-house coding model now available inside its agentic AI coding environment, ",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.896282150883966,
+      "crawledAt": "2026-03-19T20:46:44.327Z",
+      "id": "ok666c",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8188565373420715,
+          "index": 9,
+          "word": "Composer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9502383470535278,
+          "index": 10,
+          "word": "2",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9521693587303162,
+          "index": 16,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9169776439666748,
+          "index": 17,
+          "word": "Opus",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9511537551879883,
+          "index": 24,
+          "word": "GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cursor, a San Francisco AI coding platform, is valued at $29.3 billion. Cursor is a new in-house coding model for the company.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:48:44.185Z"
+    },
+    {
+      "title": "GPAI Meets Agentic AI: Why Your MCP Deployment Triggers EU AI Act Obligations",
+      "url": "https://pub.towardsai.net/gpai-meets-agentic-ai-why-your-mcp-deployment-triggers-eu-ai-act-obligations-7a38e381d30f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T20:01:01.000Z",
+      "metaDescription": "If your agentic AI calls Claude or GPT through MCP, you are a downstream deployer — and the regulatory chain now extends to your…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.9745511517108294,
+      "crawledAt": "2026-03-19T20:47:10.571Z",
+      "id": "17fjmr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9871435761451721,
+          "index": 1,
+          "word": "GP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9793314933776855,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8172620534896851,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9862804412841797,
+          "index": 21,
+          "word": "EU",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.989645779132843,
+          "index": 22,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9959512948989868,
+          "index": 23,
+          "word": "Act",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " If your agentic AI calls Claude or GPT through MCP, you are a downstream deployer. The regulatory chain now extends to your… Your agenticAI calls Claude and GPT.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:48:58.995Z"
+    },
+    {
+      "title": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
+      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T19:20:00.000Z",
+      "metaDescription": "A rogue AI agent at Meta took action without approval and exposed sensitive company and user data to employees who were not authorized to access it. Meta confirmed the incident to The Information on M",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6382700230144213,
+      "crawledAt": "2026-03-19T20:46:44.497Z",
+      "id": "19n5e6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9973039627075195,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913347363471985,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9973877668380737,
+          "index": 17,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.832821786403656,
+          "index": 18,
+          "word": "##AM",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A rogue AI agent at Meta exposed sensitive company and user data to employees who were not authorized to access it. Meta confirmed the incident to The Information on M.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:07.569Z"
+    },
+    {
+      "title": "OpenAI is acquiring open source Python tool-maker Astral",
+      "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T18:44:58.000Z",
+      "metaDescription": "Codex maker says it will \"continue to support these open source projects\" after deal closes.",
+      "category": "developer-tool",
+      "difficulty": 6,
+      "confidence": 0.49455331732991376,
+      "crawledAt": "2026-03-19T20:46:36.002Z",
+      "id": "6tp2ju",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986395239830017,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950574636459351,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9918013215065002,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9855149388313293,
+          "index": 8,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9976742267608643,
+          "index": 12,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9509403705596924,
+          "index": 13,
+          "word": "##tral",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Codex maker says it will \"continue to support these open source projects\" after deal closes. Codex maker: \"We will continue to support\"",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:27.015Z"
+    },
+    {
+      "title": "I Built Postman for AI Agents — Local, Free, and Open Source",
+      "url": "https://pub.towardsai.net/i-built-postman-for-ai-agents-local-free-and-open-source-be1d7e44015c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T18:01:00.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.524041630111666,
+      "crawledAt": "2026-03-19T20:47:10.709Z",
+      "id": "u1iia1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8378052711486816,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:27.141Z"
+    },
+    {
+      "title": "Rethinking open source mentorship in the AI era",
+      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T18:00:00.000Z",
+      "metaDescription": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.\nThe post Rethinking open source mentorship i",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6597541486001526,
+      "crawledAt": "2026-03-19T20:46:34.350Z",
+      "id": "mu4sqw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9939047694206238,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The 3 Cs framework helps maintainers mentor more strategically... without burning out. As contribution volume grows, mentorship signals are harder to read.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:37.504Z"
+    },
+    {
+      "title": "Meta decides not to kill Horizon Worlds VR after all",
+      "url": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T17:50:40.000Z",
+      "metaDescription": "VR will be on life support while mobile remains the focus, though.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3983775451625972,
+      "crawledAt": "2026-03-19T20:46:36.097Z",
+      "id": "pybjdl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9508976936340332,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9535288214683533,
+          "index": 7,
+          "word": "Horizon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8618630766868591,
+          "index": 8,
+          "word": "Worlds",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " VR will be on life support while mobile remains the focus, though. VR will remain the focus while mobile will be the focus.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:54.777Z"
+    },
+    {
+      "title": "AIStudio: Major upgrade with Auth and Database",
+      "url": "https://www.youtube.com/watch?v=sTsf-k-qXs0",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T17:49:26.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.7062586589259772,
+      "crawledAt": "2026-03-19T20:47:35.523Z",
+      "id": "rtba0o",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8979443907737732,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9679850935935974,
+          "index": 3,
+          "word": "##tu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8295685052871704,
+          "index": 4,
+          "word": "##dio",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9921906590461731,
+          "index": 9,
+          "word": "Au",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9480466246604919,
+          "index": 10,
+          "word": "##th",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9811733961105347,
+          "index": 11,
+          "word": "and",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9365275502204895,
+          "index": 12,
+          "word": "Database",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:49:54.880Z"
+    },
+    {
+      "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
+      "url": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T17:45:28.000Z",
+      "metaDescription": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4614318215322143,
+      "crawledAt": "2026-03-19T20:46:36.212Z",
+      "id": "3txwlz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9466047883033752,
+          "index": 10,
+          "word": "Lemon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9381105899810791,
+          "index": 11,
+          "word": "Pound",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos. Cops asked for millions of people to watch the footage.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:04.512Z"
+    },
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T17:28:26.000Z",
+      "metaDescription": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.6013139549973208,
+      "crawledAt": "2026-03-19T20:46:36.323Z",
+      "id": "bwr9p7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9965509176254272,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9981886744499207,
+          "index": 14,
+          "word": "Android",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The \"advanced flow\" will be available before verification begins later this year. The \"Advanced flow\" is available before enforcement begins later in the year.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:14.432Z"
+    },
+    {
+      "title": "Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T17:25:44.000Z",
+      "metaDescription": "This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technical guidance to get started using this model for yo",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.4219823680609541,
+      "crawledAt": "2026-03-19T20:46:59.577Z",
+      "id": "g7c0qd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8082550168037415,
+          "index": 3,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8479866981506348,
+          "index": 4,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.888338029384613,
+          "index": 8,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8742424249649048,
+          "index": 10,
+          "word": "3",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9147530198097229,
+          "index": 13,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.96485435962677,
+          "index": 14,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9106953144073486,
+          "index": 15,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Nemotron 3 Super Model is a model for yo-yo. It is a version of the Nemoton 3 model that has been designed to be used in the future.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:28.229Z"
+    },
+    {
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T17:24:13.000Z",
+      "metaDescription": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.5446275794815371,
+      "crawledAt": "2026-03-19T20:46:31.439Z",
+      "id": "d443oc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987503290176392,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9901676774024963,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9903368949890137,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, and reduce over-enforcement.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:36.918Z"
+    },
+    {
+      "title": "Multimodal RAG + Gemini Embedding 2 + GPT-5.4 Just Revolutionized AI Forever",
+      "url": "https://pub.towardsai.net/multimodal-rag-gemini-embedding-2-gpt-5-4-just-revolutionized-ai-forever-d60ef8952c06?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T17:01:03.000Z",
+      "metaDescription": "During the weekend, I scrolled through Twitter to see what was happening in the AI community. Google has announced its first native…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.947758257161381,
+      "crawledAt": "2026-03-19T20:47:10.878Z",
+      "id": "tocpye",
+      "entities": [],
+      "summary": "Google has announced its first native native AI community. Google has announced the first native version of its new AI system.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:47.996Z"
+    },
+    {
+      "title": "Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build Agents & Replace 10+ Tools?",
+      "url": "https://www.kdnuggets.com/2026/03/abacus/abacus-ai-honest-review-and-pricing-the-ai-that-lets-you-vibe-code-build-agents-replace-10-tools",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T17:00:25.000Z",
+      "metaDescription": "A detailed Abacus AI review exploring Abacus AI features, vibe coding AI, DeepAgent, and how this AI agent platform helps build applications and automate workflows faster.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9508258402745131,
+      "crawledAt": "2026-03-19T20:48:14.070Z",
+      "id": "3kckos",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8692565560340881,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A detailed Abacus AI review explores Abacus' AI features, vibe coding AI, and how this AI platform helps build applications and automate workflows.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:50:57.403Z"
+    },
+    {
+      "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
+      "url": "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T16:50:10.000Z",
+      "metaDescription": "\"8GB unified memory is the minimum practical configuration.\"",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.31190087250815435,
+      "crawledAt": "2026-03-19T20:46:36.418Z",
+      "id": "qitoq9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9260867238044739,
+          "index": 5,
+          "word": "Para",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8704767823219299,
+          "index": 6,
+          "word": "##lle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8838176131248474,
+          "index": 7,
+          "word": "##ls",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9985545873641968,
+          "index": 10,
+          "word": "Windows",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9344991445541382,
+          "index": 12,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9767898321151733,
+          "index": 13,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.97129887342453,
+          "index": 14,
+          "word": "##ook",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9814578294754028,
+          "index": 15,
+          "word": "Neo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"8GB unified memory is the minimum practical configuration\" \"8 GB unified memory\" is the least practical configuration.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:51:06.487Z"
+    },
     {
       "title": "Use RAG for video generation using Amazon Bedrock and Amazon Nova Reel",
       "url": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
@@ -75,6 +841,58 @@
       "summary": " V-RAG introduces Video Retrieval-Augmented Generation (V-RAG) to help improve video content creation.",
       "language": "en",
       "processed_at": "2026-03-19T17:05:21.960Z"
+    },
+    {
+      "title": "Introducing LangSmith Fleet",
+      "url": "https://www.youtube.com/watch?v=t2EYd57rvQg",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T16:40:34.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.29402688245018294,
+      "crawledAt": "2026-03-19T20:47:30.167Z",
+      "id": "6t43tz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.991229772567749,
+          "index": 4,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9734440445899963,
+          "index": 5,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949144721031189,
+          "index": 6,
+          "word": "##mith",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9813751578330994,
+          "index": 7,
+          "word": "Fleet",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:51:06.554Z"
     },
     {
       "title": "The Basics of Vibe Engineering",
@@ -314,6 +1132,58 @@
       "summary": " Goose is a free, open-source AI agent that goes beyond code suggestions to autonomously execute tasks on your machine.",
       "language": "en",
       "processed_at": "2026-03-19T17:06:14.485Z"
+    },
+    {
+      "title": "Counter-Strike 2’s new reload system could upend the entire game",
+      "url": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T15:59:58.000Z",
+      "metaDescription": "Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.34747658872228393,
+      "crawledAt": "2026-03-19T20:46:36.538Z",
+      "id": "8gyi87",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.979748010635376,
+          "index": 1,
+          "word": "Counter",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9881016612052917,
+          "index": 2,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9877203106880188,
+          "index": 3,
+          "word": "Strike",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9700068831443787,
+          "index": 4,
+          "word": "2",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions. Full- magazine reloading throws out muscle memories in favor.",
+      "language": "en",
+      "processed_at": "2026-03-19T20:51:17.578Z"
     },
     {
       "title": "Study pinpoints when bow and arrow came to North America",
@@ -3519,20 +4389,20 @@
       "processed_at": "2026-03-19T05:38:07.465Z"
     }
   ],
-  "processedAt": "2026-03-19T17:09:46.080Z",
+  "processedAt": "2026-03-19T20:51:17.585Z",
   "categories": [
-    "developer-tool",
-    "creative-ai",
     "infrastructure",
-    "product-launch",
+    "creative-ai",
     "ai-agents",
+    "developer-tool",
+    "product-launch",
     "industry-news",
     "model-release",
     "research-paper",
     "safety-ethics"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 26,
-  "dailyArticlesCount": 93,
+  "newArticlesProcessed": 18,
+  "dailyArticlesCount": 111,
   "filterDate": "2026-03-19"
 }
