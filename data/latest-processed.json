@@ -1,9 +1,125 @@
 {
-  "crawledAt": "2026-03-19T08:54:04.616Z",
+  "crawledAt": "2026-03-19T13:21:05.570Z",
   "totalSources": 70,
-  "totalArticles": 1944,
+  "totalArticles": 1914,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Building a Real-Time Face Recognition Attendance System with OpenCV",
+      "url": "https://pub.towardsai.net/building-a-real-time-face-recognition-attendance-system-with-opencv-5bd95dcdf38c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T13:01:04.000Z",
+      "metaDescription": "An end-to-end computer vision project using LBPH, Tkinter, and classical techniques\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3107776863544839,
+      "crawledAt": "2026-03-19T13:19:58.187Z",
+      "id": "or6lzk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9257113933563232,
+          "index": 5,
+          "word": "Time",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " An end-to-end computer vision project using LBPH, Tkinter, and classical techniques. The project uses LBPH and TkInter, and Classical techniques.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:21:22.115Z"
+    },
+    {
+      "title": "Amazon brings Alexa+ to the UK",
+      "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T12:27:24.000Z",
+      "metaDescription": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.39720986451818274,
+      "crawledAt": "2026-03-19T13:19:19.080Z",
+      "id": "f5rdg5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8373925685882568,
+          "index": 1,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8381046652793884,
+          "index": 3,
+          "word": "Alex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8706017136573792,
+          "index": 4,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8624181151390076,
+          "index": 5,
+          "word": "+",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9991491436958313,
+          "index": 8,
+          "word": "UK",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:21:34.618Z"
+    },
+    {
+      "title": "Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development",
+      "url": "https://towardsdatascience.com/vibe-coding-with-ai-best-practices-for-human-ai-collaboration-in-software-development/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T12:00:00.000Z",
+      "metaDescription": "Accelerate coding with AI while staying in control and building reliable, production-ready software.\nThe post Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development app",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.5219500141436778,
+      "crawledAt": "2026-03-19T13:19:32.801Z",
+      "id": "8m8x83",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8620120286941528,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development app. The post VibeCoding withAI: Best practices for Human AI Collaboration.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:22:09.958Z"
+    },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
       "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
@@ -66241,1147 +66357,25 @@
       "summary": "The post Escaping the Prototype Mirage: Why Enterprise AI Stalls appeared first on Towards Data Science. The post is part of a series of posts on the site.",
       "language": "en",
       "processed_at": "2026-03-04T17:03:55.434Z"
-    },
-    {
-      "title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
-      "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T13:12:00.000Z",
-      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a ca",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3792692755588086,
-      "crawledAt": "2026-03-04T16:55:08.984Z",
-      "id": "92ho83",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9929602146148682,
-          "index": 5,
-          "word": "Earth",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9997122883796692,
-          "index": 17,
-          "word": "Iran",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Download is a daily dose of what's going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
-      "language": "en",
-      "processed_at": "2026-03-04T17:04:21.109Z"
-    },
-    {
-      "title": "Real-time AI video steering vs. render-and-wait: trading quality for speed",
-      "url": "https://www.reddit.com/r/singularity/comments/1rkkwab/realtime_ai_video_steering_vs_renderandwait/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T13:04:37.000Z",
-      "metaDescription": "I think we're hitting a turning point where fast, messy iteration beats slow, polished renders, at least for the creative process. Real-time steering tools are changing how we interact with AI video g",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4684930324581015,
-      "crawledAt": "2026-03-04T16:55:56.702Z",
-      "id": "rw6pmh",
-      "entities": [],
-      "summary": " Real-time steering tools are changing how we interact with AI video g gams. We're hitting a turning point where fast, messy iteration beats slow, polished renders.",
-      "language": "en",
-      "processed_at": "2026-03-04T17:04:32.656Z"
-    },
-    {
-      "title": "Helios: 14B Real-Time Long Video Generation Model",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rkkw6q/helios_14b_realtime_long_video_generation_model/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T13:04:30.000Z",
-      "metaDescription": "https://pku-yuangroup.github.io/Helios-Page/\n    submitted by    /u/switch2stock  \n [link]   [comments]",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.2614110342550857,
-      "crawledAt": "2026-03-04T13:11:13.616Z",
-      "id": "ksgg13",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:12:37.812Z"
-    },
-    {
-      "title": "The $12,000 Infinite Loop: How My AI Agent Bankrupted a Sandbox",
-      "url": "https://pub.towardsai.net/the-12-000-infinite-loop-how-my-ai-agent-bankrupted-a-sandbox-2fc6585b6716?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T13:01:01.000Z",
-      "metaDescription": "A forensic analysis of autonomous recursion, cloud billing shocks, and the dangerous lack of “stop” buttons in modern AI.\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9736123692193916,
-      "crawledAt": "2026-03-04T13:10:36.400Z",
-      "id": "ee2f5c",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8716002702713013,
-          "index": 7,
-          "word": "Loop",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A forensic analysis of autonomous recursion, cloud billing shocks, and the dangerous lack of ‘stop’ buttons in modern AI.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:12:53.501Z"
-    },
-    {
-      "title": "A Chinese AI lab just built an AI that writes CUDA code better than torch.compile. 40% better than Claude Opus 4.5. on the hardest benchmark.",
-      "url": "https://www.reddit.com/r/singularity/comments/1rkkolb/a_chinese_ai_lab_just_built_an_ai_that_writes/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:54:55.000Z",
-      "metaDescription": "Paper: https://cuda-agent.github.io/\n Abstract\n GPU kernel optimization is fundamental to modern deep learning but remains a specialized task requiring deep hardware expertise. Existing CUDA code gene",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.26598092274989515,
-      "crawledAt": "2026-03-04T16:55:53.992Z",
-      "id": "dyv0xz",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9996144771575928,
-          "index": 2,
-          "word": "Chinese",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9861600399017334,
-          "index": 26,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.97074955701828,
-          "index": 27,
-          "word": "Opus",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " GPU kernel optimization is fundamental to modern deep learning but remains a specialized task requiring deep hardware expertise. Existing CUDA code gene gene is not yet available.",
-      "language": "en",
-      "processed_at": "2026-03-04T17:04:43.085Z"
-    },
-    {
-      "title": "Is Flux Klein 4b supposed to be THIS badly broken?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rkkm04/is_flux_klein_4b_supposed_to_be_this_badly_broken/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:51:32.000Z",
-      "metaDescription": "Is it normal that it only has a 1/10 chance to create good anatomy? And I'm being generous. Depending on the image combo I'm trying to edit, it can go as bad as adding a 3rd leg/arm 9/10 times, making",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.5568251964762332,
-      "crawledAt": "2026-03-04T13:11:14.004Z",
-      "id": "ljvzjd",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.987677812576294,
-          "index": 2,
-          "word": "F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9633058309555054,
-          "index": 4,
-          "word": "Klein",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9851388931274414,
-          "index": 5,
-          "word": "4",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Is it normal that it only has a 1/10 chance to create good anatomy? And I'm being generous.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:13:20.944Z"
-    },
-    {
-      "title": "Automate Your Day: 11 Python Scripts You Should Try",
-      "url": "https://python.plainenglish.io/automate-your-day-11-python-scripts-you-should-try-a444a5a8b940?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:32:48.000Z",
-      "metaDescription": "Hands-on scripts to handle repetitive tasks, boost productivity, and simplify workflows.\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3695967725370817,
-      "crawledAt": "2026-03-04T13:10:45.635Z",
-      "id": "w7u3m9",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9189509153366089,
-          "index": 7,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Hands-on scripts to handle repetitive tasks, boost productivity, and simplify workflows. Hands- on scripts to handling repetitive tasks and boost productivity.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:13:31.706Z"
-    },
-    {
-      "title": "Scientists make a pocket-sized AI brain with help from monkey neurons",
-      "url": "https://www.reddit.com/r/singularity/comments/1rkk7pq/scientists_make_a_pocketsized_ai_brain_with_help/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:32:08.000Z",
-      "metaDescription": "A human brain consumes less power than a light bulb, while artificial intelligence systems guzzle electricity to do the same tasks.\n Now, scientists have created a highly efficient AI model that hints",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.32704292196284357,
-      "crawledAt": "2026-03-04T13:11:08.526Z",
-      "id": "upqh5k",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.878296971321106,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A human brain consumes less power than a light bulb, while artificial intelligence systems guzzle electricity to do the same tasks. Now, scientists have created a highly efficient AI model that hints hints that it is more efficient than a human brain.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:13:46.889Z"
-    },
-    {
-      "title": "80s Programmers vs 2020s",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rkk4go/80s_programmers_vs_2020s/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:27:32.000Z",
-      "metaDescription": "submitted by    /u/_Archetyper_  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.39530377752235407,
-      "crawledAt": "2026-03-04T16:55:51.476Z",
-      "id": "vfnjly",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T17:04:43.150Z"
-    },
-    {
-      "title": "I built an API that gives AI answers grounded in real-time web search. How can i improve it?",
-      "url": "https://www.reddit.com/r/artificial/comments/1rkk18x/i_built_an_api_that_gives_ai_answers_grounded_in/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:23:04.000Z",
-      "metaDescription": "I've been building MIAPI for the past few months — it's an API that returns AI-generated answers backed by real web sources with inline citations.\n Some stats:\n  \nAverage response time: 1.2 seconds\n P",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.32313585017290497,
-      "crawledAt": "2026-03-04T13:10:51.991Z",
-      "id": "rmq50h",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9972296357154846,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The API returns AI-generated answers backed by real web sources with inline citations. It's an API that returns AI answers backed up by real sources.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:14:15.446Z"
-    },
-    {
-      "title": "Is there an AI tool that listens to a conversation and feeds you lines through an earpiece in real time?",
-      "url": "https://www.reddit.com/r/singularity/comments/1rkjy7y/is_there_an_ai_tool_that_listens_to_a/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:18:40.000Z",
-      "metaDescription": "Basically a live prompter driven by AI, where a mic picks up what's being said around you, the AI generates what you should say next, and pipes it to your ear fast enough that you can repeat it natura",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.2969916118523765,
-      "crawledAt": "2026-03-04T13:11:08.735Z",
-      "id": "onwpu3",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9929407238960266,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AI generates what you should say next, and pipes it to your ear fast enough that you can repeat it natura.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:14:30.400Z"
-    },
-    {
-      "title": "OpenAI reportedly building GitHub rival after service disruptions",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rkjx2m/openai_reportedly_building_github_rival_after/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:16:58.000Z",
-      "metaDescription": "submitted by    /u/intelerks  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 7,
-      "confidence": 0.281766650426,
-      "crawledAt": "2026-03-04T13:11:17.390Z",
-      "id": "a8cm3m",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9987190961837769,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9968621134757996,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9633687734603882,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9779818058013916,
-          "index": 6,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9542350769042969,
-          "index": 7,
-          "word": "##it",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9933198094367981,
-          "index": 8,
-          "word": "##H",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9254118800163269,
-          "index": 9,
-          "word": "##ub",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:14:30.509Z"
-    },
-    {
-      "title": "Cognition - Headless Agent Orchestrator",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rkjpmr/cognition_headless_agent_orchestrator/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:05:51.000Z",
-      "metaDescription": "Hey yall!\n I just open sourced a project called Cognition\n https://github.com/CognicellAI/Cognition\n Cognition is a headless agent orchestrator built on Langgraph Deep Agents. Similar to how a headles",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.8814243471725798,
-      "crawledAt": "2026-03-04T13:11:21.327Z",
-      "id": "tlhzup",
-      "entities": [],
-      "summary": "CognicellAI/Cognition is a headless agent orchestrator built on Langgraph Deep Agents. Similar to how a headles headles can be used in a headling.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:14:44.194Z"
-    },
-    {
-      "title": "Self evolving agents",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1rkjp61/self_evolving_agents/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:05:13.000Z",
-      "metaDescription": "It's so frustrating when an AutoGPT run eats up tokens only to hallucinate a fake result. I think the real issue is the blackbox nature of these runs—we can't see the intermediate states where things ",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7230486795157518,
-      "crawledAt": "2026-03-04T13:11:25.320Z",
-      "id": "jm5z54",
-      "entities": [],
-      "summary": " AutoGPT runs are often run out of the blackbox. It's so frustrating that an AutoGpt run can't be done properly.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:15:07.569Z"
-    },
-    {
-      "title": "How Qwen 3.5 4B can be that good?! Really impressed!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkjna4/how_qwen_35_4b_can_be_that_good_really_impressed/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:02:26.000Z",
-      "metaDescription": "This model for incredibly fast and efficient.\n Can't believe that such a small model can give these results!\n    submitted by    /u/pacmanpill  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.8817299038529852,
-      "crawledAt": "2026-03-04T13:11:03.866Z",
-      "id": "gxplt4",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9900134801864624,
-          "index": 2,
-          "word": "Q",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:15:07.700Z"
-    },
-    {
-      "title": "Who needs data centers in space when they can float offshore?",
-      "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:00:00.000Z",
-      "metaDescription": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.49384817031075956,
-      "crawledAt": "2026-03-04T13:09:59.166Z",
-      "id": "i3b7ei",
-      "entities": [],
-      "summary": " Aikido will deploy a small data center beneath a floating wind turbine later this year. Aikid will deploy the small data centre under a floating offshore wind turbine.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:15:31.169Z"
-    },
-    {
-      "title": "Physical AI is having its moment–and everyone wants a piece of it",
-      "url": "https://www.artificialintelligence-news.com/news/physical-ai-global-race-robots-manufacturing-2026/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T12:00:00.000Z",
-      "metaDescription": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the simultaneous convergence of many. Physical AI is having that ",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.375586362402446,
-      "crawledAt": "2026-03-04T13:10:16.407Z",
-      "id": "yritxh",
-      "entities": [],
-      "summary": "There is a particular kind of momentum in the technology industry that announces itself not through a single breakthrough, but through the convergence of many.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:15:42.514Z"
-    },
-    {
-      "title": "RAG with Hybrid Search: How Does Keyword Search Work?",
-      "url": "https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T12:00:00.000Z",
-      "metaDescription": "Understanding keyword search, TF-IDF, and BM25\nThe post RAG with Hybrid Search: How Does Keyword Search Work? appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.6511864199047388,
-      "crawledAt": "2026-03-04T13:10:12.774Z",
-      "id": "x7047t",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8206074833869934,
-          "index": 4,
-          "word": "Hybrid",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8681901097297668,
-          "index": 5,
-          "word": "Search",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9932087659835815,
-          "index": 9,
-          "word": "Key",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.993975043296814,
-          "index": 10,
-          "word": "##word",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9740550518035889,
-          "index": 11,
-          "word": "Search",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Understanding keyword search, TF-IDF, and BM25. The post RAG with Hybrid Search: How Does Keyword Search Work?",
-      "language": "en",
-      "processed_at": "2026-03-04T13:15:53.196Z"
-    },
-    {
-      "title": "My experience with Studybay and why I finally tried an alternative",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rkjgso/my_experience_with_studybay_and_why_i_finally/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T11:53:01.000Z",
-      "metaDescription": "I wanted to share my experience using Studybay because I feel like a lot of the studybay reviews you see online don't really capture the actual frustration of the process. A few weeks ago, I was compl",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.25472791159041336,
-      "crawledAt": "2026-03-04T13:11:18.282Z",
-      "id": "bucq2b",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9855843186378479,
-          "index": 4,
-          "word": "Study",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9851270318031311,
-          "index": 5,
-          "word": "##bay",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A few weeks ago, I was compl. I wanted to share my experience using Studybay because I feel like a lot of the studybay reviews you see online don't really capture the actual frustration of the process.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:16:09.406Z"
-    },
-    {
-      "title": "Amazing competition.",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rkj7wc/amazing_competition/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T11:39:15.000Z",
-      "metaDescription": "I'm posting it here cuz their subreddit is heavenly censored and they delete every message they don't like, lol.\n Guess I was too quick to jump on the cancelgtp trend.\n    submitted by    /u/TreideA  ",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4908921323273785,
-      "crawledAt": "2026-03-04T13:10:55.937Z",
-      "id": "ilnsva",
-      "entities": [],
-      "summary": " I'm posting it here cuz their subreddit is heavenly censored and they delete every message they don't like. I was too quick to jump on the cancelgtp trend.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:16:25.542Z"
-    },
-    {
-      "title": "Open-sourcing our GenAI pattern library from real projects - would love any LangChain-focused contributions",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rkizrt/opensourcing_our_genai_pattern_library_from_real/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T11:26:25.000Z",
-      "metaDescription": "Sharing this with the LangChain community because we think pattern sharing is most valuable when it’s challenged and improved in public.\n At Innowhyte, we’ve been documenting GenAI patterns from real ",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.29697674549054587,
-      "crawledAt": "2026-03-04T13:11:21.524Z",
-      "id": "5ep0tm",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9626639485359192,
-          "index": 7,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9491370320320129,
-          "index": 18,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8613837361335754,
-          "index": 19,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9413228034973145,
-          "index": 21,
-          "word": "##n",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " At Innowhyte, we’ve been documenting GenAI patterns from real patterns. We think pattern sharing is most valuable when it’s challenged and improved in public.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:16:39.498Z"
-    },
-    {
-      "title": "Claude vs ChatGPT for Python Development — An Honest, Technical Comparison",
-      "url": "https://python.plainenglish.io/claude-vs-chatgpt-for-python-development-an-honest-technical-comparison-3c3778bedc41?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T11:25:36.000Z",
-      "metaDescription": "I Spent Months Shipping Real Python Code With Both. Here’s What Actually Matters.\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.6901787213259308,
-      "crawledAt": "2026-03-04T13:10:45.953Z",
-      "id": "rc5zu5",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9200052618980408,
-          "index": 1,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9897186756134033,
-          "index": 3,
-          "word": "Cha",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.8971006870269775,
-          "index": 4,
-          "word": "##t",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9610108137130737,
-          "index": 5,
-          "word": "##GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9379279017448425,
-          "index": 6,
-          "word": "##T",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Python in Plain English. Read on Python in plain English in PlainEnglish. Read on CNN.com's Real Python Code with both.com and CNN.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:16:52.744Z"
-    },
-    {
-      "title": "Wrote a detailed walkthrough on LLM inference system design with RAG, for anyone prepping for MLOps interviews",
-      "url": "https://www.reddit.com/r/mlops/comments/1rkij9r/wrote_a_detailed_walkthrough_on_llm_inference/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T11:00:55.000Z",
-      "metaDescription": "I've been writing about the DevOps-to-MLOps transition for a while now, and one question that keeps coming up is the system design side. Specifically, what actually happens when a user sends a prompt ",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.2828224166673057,
-      "crawledAt": "2026-03-04T13:11:32.799Z",
-      "id": "6n5v9t",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8773159980773926,
-          "index": 24,
-          "word": "M",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A user sends a prompt to the system design side. What actually happens when a user sends the prompt is the system system design.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:12.055Z"
-    },
-    {
-      "title": "I built a dream journal and I want to add AI generated images of what you dreamed — looking for advice on the best approach",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rkiezj/i_built_a_dream_journal_and_i_want_to_add_ai/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T10:54:12.000Z",
-      "metaDescription": "Been building a dream journal app called Somnia — the core idea is that you have 60 seconds after waking before a dream fades, so the whole app is designed around speed of capture. Dark mode, instant ",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3027335878526314,
-      "crawledAt": "2026-03-04T13:11:12.644Z",
-      "id": "x56f56",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9984321594238281,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Somnia is a dream journal app that lets you take pictures of your dreams. The app is designed around speed of capture.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:22.009Z"
-    },
-    {
-      "title": "AI agents prefer Bitcoin shaping new finance architecture",
-      "url": "https://www.artificialintelligence-news.com/news/ai-agents-prefer-bitcoin-new-finance-architecture/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T10:52:45.000Z",
-      "metaDescription": "AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how ",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9800919088255697,
-      "crawledAt": "2026-03-04T13:10:16.556Z",
-      "id": "15ybug",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.901665449142456,
-          "index": 4,
-          "word": "Bit",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9481037259101868,
-          "index": 5,
-          "word": "##co",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8351797461509705,
-          "index": 6,
-          "word": "##in",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AI agents prefer Bitcoin for digital wealth storage, forcing finance chiefs to adapt their architecture for machine autonomy. When AI systems gain economic autonomy, their internal logic dictates how they gain autonomy.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:34.553Z"
-    },
-    {
-      "title": "I’m an OpenAI fan and I’ve got my reasons. But you’ve got to respect Anthropic’s spirit of innovation here. They came up with everything useful use LLMs today for. Kudos",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rki9nj/im_an_openai_fan_and_ive_got_my_reasons_but_youve/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T10:45:15.000Z",
-      "metaDescription": "submitted by    /u/py-net  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.5095831037203759,
-      "crawledAt": "2026-03-04T13:11:15.359Z",
-      "id": "shdw4t",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9926199316978455,
-          "index": 5,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9593737125396729,
-          "index": 6,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9457098245620728,
-          "index": 7,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9141130447387695,
-          "index": 24,
-          "word": "An",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8342593312263489,
-          "index": 41,
-          "word": "LL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9879774451255798,
-          "index": 46,
-          "word": "Ku",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:34.933Z"
-    },
-    {
-      "title": "Emergence or training artifact? My AI agents independently built safety tools I never asked for. 28/170 builds over 3 weeks.",
-      "url": "https://www.reddit.com/r/artificial/comments/1rki8d4/emergence_or_training_artifact_my_ai_agents/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T10:43:12.000Z",
-      "metaDescription": "Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms, identify pain points in how developers work, design solut",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.8619492826262661,
-      "crawledAt": "2026-03-04T13:10:51.399Z",
-      "id": "vvm0nl",
-      "entities": [],
-      "summary": "Three weeks ago I stopped giving my AI agents specific tasks. Instead I gave them an open brief: scan developer forums and research platforms.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:44.244Z"
-    },
-    {
-      "title": "AI-Generated Trips, the future of psychedelic therapy or more \"AI slop\"?",
-      "url": "https://www.reddit.com/r/artificial/comments/1rkhxjk/aigenerated_trips_the_future_of_psychedelic/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T10:24:43.000Z",
-      "metaDescription": "It’s undeniable that AI has made its way into our lives abruptly. At first, many were scared as Sci-Fi movies constantly warned us of a future robotic takeover — but instead, we are currently facing a",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.8223783769396239,
-      "crawledAt": "2026-03-04T13:10:51.790Z",
-      "id": "1sz3u0",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9828313589096069,
-          "index": 1,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8948559761047363,
-          "index": 16,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " At first, Sci-Fi movies warned of a robotic takeover of our lives. But now, we're facing a robotic invasion of our own lives.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:17:54.079Z"
-    },
-    {
-      "title": "Moving LangChain agents to prod: How are you handling real-time guardrails and compliance?",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rkhb0p/moving_langchain_agents_to_prod_how_are_you/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T09:46:20.000Z",
-      "metaDescription": "Hey everyone,\n Most of us rely on LangSmith for debugging chains and tracing prompts, but as we've pushed more complex multi-agent setups into production, we hit some walls around governance. Debuggin",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.4126493088526155,
-      "crawledAt": "2026-03-04T13:11:21.852Z",
-      "id": "537869",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9770696759223938,
-          "index": 2,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9731568098068237,
-          "index": 3,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9123332500457764,
-          "index": 4,
-          "word": "##hai",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8265593647956848,
-          "index": 5,
-          "word": "##n",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Most of us rely on LangSmith for debugging chains and tracing prompts. But as we've pushed more complex multi-agent setups into production, we hit some walls around governance.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:18:05.186Z"
-    },
-    {
-      "title": "How are you guys handling security and compliance for LLM agents in prod?",
-      "url": "https://www.reddit.com/r/mlops/comments/1rkh8oa/how_are_you_guys_handling_security_and_compliance/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T09:42:14.000Z",
-      "metaDescription": "Hey r/mlops,\n As we've been pushing more autonomous agents into production, we hit a wall with standard LLM tracers. Stuff like LangChain/LangSmith is great for debugging prompts, but once agents star",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.9499054719822793,
-      "crawledAt": "2026-03-04T13:11:33.004Z",
-      "id": "e1tbe8",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9639188051223755,
-          "index": 10,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " LangChain/LangSmith is great for debugging prompts, but once agents star, it's great for agents.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:18:14.888Z"
-    },
-    {
-      "title": "Sam, what did you do?",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rkgwny/sam_what_did_you_do/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T09:20:43.000Z",
-      "metaDescription": "https://preview.redd.it/d6w90j4gxzmg1.png?width=819&format=png&auto=webp&s=1be9c502312a3e7c81b3d24d4d9a2cf44ce14ec4\n    submitted by    /u/Purple_Wear_5397  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3309337909900691,
-      "crawledAt": "2026-03-04T13:11:15.884Z",
-      "id": "gkouxv",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9642401933670044,
-          "index": 1,
-          "word": "Sam",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:18:25.457Z"
-    },
-    {
-      "title": "DeepSeek V4 coming this week?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkgodk/deepseek_v4_coming_this_week/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T09:06:23.000Z",
-      "metaDescription": "submitted by    /u/de_sonnaz  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.4122862614665866,
-      "crawledAt": "2026-03-04T13:11:04.177Z",
-      "id": "ejumb7",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8318082690238953,
-          "index": 1,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9173211455345154,
-          "index": 4,
-          "word": "V",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.844199538230896,
-          "index": 5,
-          "word": "##4",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:18:37.808Z"
-    },
-    {
-      "title": "We need feedback from everyone to build an agent",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rkgknk/we_need_feedback_from_everyone_to_build_an_agent/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T08:59:55.000Z",
-      "metaDescription": "submitted by    /u/Business-Coconut3831  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2582576851784994,
-      "crawledAt": "2026-03-04T13:11:18.801Z",
-      "id": "otfiio",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:19:02.934Z"
     }
   ],
-  "processedAt": "2026-03-19T08:54:29.235Z",
+  "processedAt": "2026-03-19T13:23:24.066Z",
   "categories": [
-    "creative-ai",
-    "ai-agents",
     "infrastructure",
+    "creative-ai",
+    "developer-tool",
+    "ai-agents",
     "research-paper",
     "safety-ethics",
     "model-release",
-    "developer-tool",
     "tutorial-guide",
     "industry-news",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
   "newArticlesProcessed": 3,
-  "existingArticlesKept": 1954,
+  "existingArticlesKept": 1944,
   "cleanupApplied": true,
-  "cleanedUpCount": 13,
+  "cleanedUpCount": 33,
   "rollingWindowDays": 15
 }

@@ -1,9 +1,125 @@
 {
-  "crawledAt": "2026-03-19T08:54:04.616Z",
+  "crawledAt": "2026-03-19T13:21:05.570Z",
   "totalSources": 70,
-  "totalArticles": 64,
+  "totalArticles": 67,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Building a Real-Time Face Recognition Attendance System with OpenCV",
+      "url": "https://pub.towardsai.net/building-a-real-time-face-recognition-attendance-system-with-opencv-5bd95dcdf38c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T13:01:04.000Z",
+      "metaDescription": "An end-to-end computer vision project using LBPH, Tkinter, and classical techniques\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3107776863544839,
+      "crawledAt": "2026-03-19T13:19:58.187Z",
+      "id": "or6lzk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9257113933563232,
+          "index": 5,
+          "word": "Time",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " An end-to-end computer vision project using LBPH, Tkinter, and classical techniques. The project uses LBPH and TkInter, and Classical techniques.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:21:22.115Z"
+    },
+    {
+      "title": "Amazon brings Alexa+ to the UK",
+      "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T12:27:24.000Z",
+      "metaDescription": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.39720986451818274,
+      "crawledAt": "2026-03-19T13:19:19.080Z",
+      "id": "f5rdg5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8373925685882568,
+          "index": 1,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8381046652793884,
+          "index": 3,
+          "word": "Alex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8706017136573792,
+          "index": 4,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8624181151390076,
+          "index": 5,
+          "word": "+",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9991491436958313,
+          "index": 8,
+          "word": "UK",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:21:34.618Z"
+    },
+    {
+      "title": "Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development",
+      "url": "https://towardsdatascience.com/vibe-coding-with-ai-best-practices-for-human-ai-collaboration-in-software-development/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T12:00:00.000Z",
+      "metaDescription": "Accelerate coding with AI while staying in control and building reliable, production-ready software.\nThe post Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development app",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.5219500141436778,
+      "crawledAt": "2026-03-19T13:19:32.801Z",
+      "id": "8m8x83",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8620120286941528,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vibe Coding with AI: Best Practices for Human-AI Collaboration in Software Development app. The post VibeCoding withAI: Best practices for Human AI Collaboration.",
+      "language": "en",
+      "processed_at": "2026-03-19T13:22:09.958Z"
+    },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
       "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
@@ -2417,18 +2533,18 @@
       "processed_at": "2026-03-19T05:38:07.465Z"
     }
   ],
-  "processedAt": "2026-03-19T08:54:29.239Z",
+  "processedAt": "2026-03-19T13:23:24.068Z",
   "categories": [
-    "creative-ai",
-    "ai-agents",
     "infrastructure",
+    "creative-ai",
+    "developer-tool",
+    "ai-agents",
     "research-paper",
     "safety-ethics",
-    "model-release",
-    "developer-tool"
+    "model-release"
   ],
   "processingMethod": "ai-powered",
   "newArticlesProcessed": 3,
-  "dailyArticlesCount": 64,
+  "dailyArticlesCount": 67,
   "filterDate": "2026-03-19"
 }
