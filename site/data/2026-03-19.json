@@ -1,9 +1,141 @@
 {
-  "crawledAt": "2026-03-19T05:26:26.596Z",
+  "crawledAt": "2026-03-19T08:54:04.616Z",
   "totalSources": 70,
-  "totalArticles": 61,
+  "totalArticles": 64,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T08:00:00.000Z",
+      "metaDescription": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8257030130013732,
+      "crawledAt": "2026-03-19T08:52:24.678Z",
+      "id": "jkyslu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9973395466804504,
+          "index": 1,
+          "word": "Multi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998008668422699,
+          "index": 2,
+          "word": "##verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956014156341553,
+          "index": 3,
+          "word": "Computing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9187875390052795,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Multiverse Computing has launched both an app that showcases the capabilities of its compressed models. The app showcases the capability of the compressed models and the capabilities.",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:16.352Z"
+    },
+    {
+      "title": "NVIDIA wants to make enterprise AI agents safe enough to actually deploy",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T08:00:00.000Z",
+      "metaDescription": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data, our systems, and our liability? Announced",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.873431828646826,
+      "crawledAt": "2026-03-19T08:52:41.366Z",
+      "id": "m67d5a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9976561069488525,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9882795810699463,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.942387044429779,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9305751919746399,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: How do we put AI agents to work without losing control of our data, our systems, and our liability?",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:28.998Z"
+    },
+    {
+      "title": "I Taught My Local AI to Read Everything I’ve Ever Written",
+      "url": "https://ai.plainenglish.io/i-taught-my-local-ai-to-read-everything-ive-ever-written-4f56c5c51049?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T07:37:20.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25973181860712996,
+      "crawledAt": "2026-03-19T08:53:08.098Z",
+      "id": "6yjzv9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.802740216255188,
+          "index": 14,
+          "word": "Written",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:29.231Z"
+    },
     {
       "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
       "url": "https://arxiv.org/abs/2603.17021",
@@ -2285,18 +2417,18 @@
       "processed_at": "2026-03-19T05:38:07.465Z"
     }
   ],
-  "processedAt": "2026-03-19T05:38:07.471Z",
+  "processedAt": "2026-03-19T08:54:29.239Z",
   "categories": [
+    "creative-ai",
     "ai-agents",
     "infrastructure",
     "research-paper",
     "safety-ethics",
-    "creative-ai",
     "model-release",
     "developer-tool"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 44,
-  "dailyArticlesCount": 61,
+  "newArticlesProcessed": 3,
+  "dailyArticlesCount": 64,
   "filterDate": "2026-03-19"
 }

@@ -1,9 +1,141 @@
 {
-  "crawledAt": "2026-03-19T05:26:26.596Z",
+  "crawledAt": "2026-03-19T08:54:04.616Z",
   "totalSources": 70,
-  "totalArticles": 1954,
+  "totalArticles": 1944,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T08:00:00.000Z",
+      "metaDescription": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8257030130013732,
+      "crawledAt": "2026-03-19T08:52:24.678Z",
+      "id": "jkyslu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9973395466804504,
+          "index": 1,
+          "word": "Multi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998008668422699,
+          "index": 2,
+          "word": "##verse",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956014156341553,
+          "index": 3,
+          "word": "Computing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9187875390052795,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Multiverse Computing has launched both an app that showcases the capabilities of its compressed models. The app showcases the capability of the compressed models and the capabilities.",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:16.352Z"
+    },
+    {
+      "title": "NVIDIA wants to make enterprise AI agents safe enough to actually deploy",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-19T08:00:00.000Z",
+      "metaDescription": "The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data, our systems, and our liability? Announced",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.873431828646826,
+      "crawledAt": "2026-03-19T08:52:41.366Z",
+      "id": "m67d5a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9976561069488525,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9882795810699463,
+          "index": 3,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.942387044429779,
+          "index": 4,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9305751919746399,
+          "index": 9,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The NVIDIA Agent Toolkit is Jensen Huang’s answer to the question enterprises keep asking: How do we put AI agents to work without losing control of our data, our systems, and our liability?",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:28.998Z"
+    },
+    {
+      "title": "I Taught My Local AI to Read Everything I’ve Ever Written",
+      "url": "https://ai.plainenglish.io/i-taught-my-local-ai-to-read-everything-ive-ever-written-4f56c5c51049?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-19T07:37:20.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25973181860712996,
+      "crawledAt": "2026-03-19T08:53:08.098Z",
+      "id": "6yjzv9",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.802740216255188,
+          "index": 14,
+          "word": "Written",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-19T08:54:29.231Z"
+    },
     {
       "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
       "url": "https://arxiv.org/abs/2603.17021",
@@ -67231,381 +67363,15 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-04T13:19:02.934Z"
-    },
-    {
-      "title": "Claude is like finally talking to an adult.",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rkfyfa/claude_is_like_finally_talking_to_an_adult/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T08:19:34.000Z",
-      "metaDescription": "I've been paying for ChatGPT for 2 years. I've always hated how it talks, so sycophantic and over the top. Tried Claude for a couple of days and it's so refreshing. It responds like a professional hum",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.2601888633705013,
-      "crawledAt": "2026-03-04T13:10:55.387Z",
-      "id": "ix65kt",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9968588352203369,
-          "index": 1,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I've always hated how it talks, so sycophantic and over the top. Tried Claude for a couple of days and it's so refreshing. It responds like a professional hum.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:19:25.549Z"
-    },
-    {
-      "title": "Prompt engineering is just clear thinking with a new name",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rkfsom/prompt_engineering_is_just_clear_thinking_with_a/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T08:09:45.000Z",
-      "metaDescription": "So I've been seeing a lot of hype around \"prompt engineering\" lately. Sounds like a big deal, right? But honestly, it feels like just clear thinking and good communication to me. Like, when people giv",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.49209065846416356,
-      "crawledAt": "2026-03-04T13:11:22.031Z",
-      "id": "coo8f1",
-      "entities": [],
-      "summary": " \"prompt engineering\" seems like just clear thinking and good communication to me, says CNN's John Sutter.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:19:36.454Z"
-    },
-    {
-      "title": "Google makes its industrial robotics AI play official–and this time, it means business",
-      "url": "https://www.artificialintelligence-news.com/news/google-industrial-robotics-ai-physical-ai-intrinsic/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T08:00:00.000Z",
-      "metaDescription": "When Google folds a moonshot into its core operations, it’s not cleaning house. It’s placing a bet. On February 25, Alphabet-owned Intrinsic–which builds AI models and software designed to make indust",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.5235416085810769,
-      "crawledAt": "2026-03-04T13:10:16.747Z",
-      "id": "d86w3o",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9976582527160645,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Google has been putting a bet on a company that makes AI models. The company is owned by Alphabet-owned Intrinsic.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:19:57.495Z"
-    },
-    {
-      "title": "It's very interesting what a $3 10-minute finetune can achieve",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkfewe/its_very_interesting_what_a_3_10minute_finetune/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T07:46:29.000Z",
-      "metaDescription": "I know literally nothing about language models and I just started playing around with them, so forgive me for being stupid.\n Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GGUF had some templating iss",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.3296604071423419,
-      "crawledAt": "2026-03-04T13:11:02.942Z",
-      "id": "34acy8",
-      "entities": [],
-      "summary": " Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GUF had some templating isses. I just started playing around with them, so forgive me for being stupid.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:14.445Z"
-    },
-    {
-      "title": "Last Week in Multimodal AI - Local Edition",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkf8mh/last_week_in_multimodal_ai_local_edition/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T07:36:01.000Z",
-      "metaDescription": "I curate a weekly multimodal AI roundup, here are the local/open-source highlights from last week:\n Qwen 3.5 Medium & Small Series — Frontier Multimodal AI on a Laptop\n  \nThe 35B-A3B MoE model uses on",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.257382366158772,
-      "crawledAt": "2026-03-04T13:11:04.961Z",
-      "id": "weasnd",
-      "entities": [],
-      "summary": " I curate a weekly roundup of the best of the world's most popular AI systems. The best of all is the best in the world, according to the U.S.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:39.783Z"
-    },
-    {
-      "title": "If china stops releasing open source models, there's a way we can stay competitive with big tech?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rkf7uj/if_china_stops_releasing_open_source_models/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T07:34:36.000Z",
-      "metaDescription": "Really after qwen news, I'm getting quite nervous about open source ai future. What's your thoughts? Glad to know it\n    submitted by    /u/Gullible-Crew-2997  \n [link]   [comments]",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.934629057864351,
-      "crawledAt": "2026-03-04T13:11:02.306Z",
-      "id": "z42hhg",
-      "entities": [],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:39.927Z"
-    },
-    {
-      "title": "SimRecon: SimReady Compositional Scene Reconstruction from Real Videos",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rkf6ia/simrecon_simready_compositional_scene/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T07:32:19.000Z",
-      "metaDescription": "Code: https://github.com/xiac20/SimRecon\n Paper: https://arxiv.org/pdf/2603.02133\n Project: https://xiac20.github.io/SimRecon/ ( video presentation)\n    submitted by    /u/AgeNo5351  \n [link]   [comme",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.8441207790723093,
-      "crawledAt": "2026-03-04T13:11:13.234Z",
-      "id": "mshgte",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:40.081Z"
-    },
-    {
-      "title": "I open-sourced a synth framework for creating physics-simulated humanoids in Unity with MuJoCo -- train them with on-device RL and interact in VR",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rkf5rn/p_i_opensourced_a_synth_framework_for_creating/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T07:31:08.000Z",
-      "metaDescription": "I've been building a system to create physics-based humanoid characters in Unity that can learn through reinforcement learning -- and you can physically interact with them in mixed reality on Quest. T",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.8986073409130096,
-      "crawledAt": "2026-03-04T13:10:58.440Z",
-      "id": "56vc9i",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8881506323814392,
-          "index": 17,
-          "word": "Unity",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Quest team is working on a system to create humanoid characters that can be interacted with by users. The team is also working on the world's most popular game show, Quest.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:53.526Z"
-    },
-    {
-      "title": "Gartner D&A 2026: The Conversations We Should Be Having This Year",
-      "url": "https://www.reddit.com/r/mlops/comments/1rkf5lz/gartner_da_2026_the_conversations_we_should_be/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T07:30:54.000Z",
-      "metaDescription": "submitted by    /u/growth_man  \n [link]   [comments]",
-      "category": "product-launch",
-      "difficulty": 6,
-      "confidence": 0.301301846774178,
-      "crawledAt": "2026-03-04T13:11:33.121Z",
-      "id": "63ufp2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8124502301216125,
-          "index": 1,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8684441447257996,
-          "index": 2,
-          "word": "##art",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8687623143196106,
-          "index": 4,
-          "word": "D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9885570406913757,
-          "index": 5,
-          "word": "&",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9579293131828308,
-          "index": 6,
-          "word": "A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:53.655Z"
-    },
-    {
-      "title": "How I Built an AI Research Agent With Python That Reads 100 Articles in Minutes",
-      "url": "https://python.plainenglish.io/how-i-built-an-ai-research-agent-with-python-that-reads-100-articles-in-minutes-e45964ad09b6?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T07:22:44.000Z",
-      "metaDescription": "Stop Reading 100 Articles — Let This Python AI Research Agent Do It for You\nContinue reading on Python in Plain English »",
-      "category": "ai-agents",
-      "difficulty": 7,
-      "confidence": 0.6795683791593036,
-      "crawledAt": "2026-03-04T08:49:53.659Z",
-      "id": "n3qt7f",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9239488244056702,
-          "index": 5,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9386587142944336,
-          "index": 6,
-          "word": "Research",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9015323519706726,
-          "index": 7,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Stop Reading 100 Articles — Let This Python AI Research Agent Do It for You. Stop Reading. Stop reading 100 Articles. Stopreading 100 Articles.",
-      "language": "en",
-      "processed_at": "2026-03-04T08:50:43.361Z"
-    },
-    {
-      "title": "What is your stack to maintain Knowledge base for your AI workflows?",
-      "url": "https://www.reddit.com/r/artificial/comments/1rkewgl/what_is_your_stack_to_maintain_knowledge_base_for/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T07:15:38.000Z",
-      "metaDescription": "I was wondering what to use to streamline all my md files from my claude code plans and the technical docs I create. How will it work in team settings?\n    submitted by    /u/confessin  \n [link]   [co",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.44539960166422976,
-      "crawledAt": "2026-03-04T13:10:52.284Z",
-      "id": "7yzlk4",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8479169011116028,
-          "index": 7,
-          "word": "Knowledge",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9685255289077759,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:20:53.987Z"
-    },
-    {
-      "title": "Any Resolution Any Geometry - A better version of depth . Models released on huggingface",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rkel24/any_resolution_any_geometry_a_better_version_of/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-04T06:56:57.000Z",
-      "metaDescription": "Project page: https://dreamaker-mrc.github.io/Any-Resolution-Any-Geometry ( nice interactive examples)\n Models: https://huggingface.co/Kingslanding/Any-Resolution-Any-Geometry/tree/main\n    submitted ",
-      "category": "model-release",
-      "difficulty": 5,
-      "confidence": 0.9569980469139018,
-      "crawledAt": "2026-03-04T13:11:10.890Z",
-      "id": "upd6p",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.875874400138855,
-          "index": 4,
-          "word": "G",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The project page is part of the \"Dreamaker-mrc.io/Any-Resolution-Any-Geometry\" project.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:21:19.819Z"
-    },
-    {
-      "title": "worth learning langchain stuff",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rkdw5m/worth_learning_langchain_stuff/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-04T06:16:35.000Z",
-      "metaDescription": "I have built no code automations and workflows and could not find worth it. I was unable to find any client and look like it is very saturated.\n Now i am thinking of learning frameworks like langchain",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.3495987870606524,
-      "crawledAt": "2026-03-04T13:11:22.195Z",
-      "id": "ml9mn8",
-      "entities": [],
-      "summary": " I was unable to find any client and look like it is very saturated. Now I am thinking of learning frameworks like langchain.",
-      "language": "en",
-      "processed_at": "2026-03-04T13:21:43.524Z"
     }
   ],
-  "processedAt": "2026-03-19T05:38:07.468Z",
+  "processedAt": "2026-03-19T08:54:29.235Z",
   "categories": [
+    "creative-ai",
     "ai-agents",
     "infrastructure",
     "research-paper",
     "safety-ethics",
-    "creative-ai",
     "model-release",
     "developer-tool",
     "tutorial-guide",
@@ -67613,9 +67379,9 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 44,
-  "existingArticlesKept": 1962,
+  "newArticlesProcessed": 3,
+  "existingArticlesKept": 1954,
   "cleanupApplied": true,
-  "cleanedUpCount": 52,
+  "cleanedUpCount": 13,
   "rollingWindowDays": 15
 }
