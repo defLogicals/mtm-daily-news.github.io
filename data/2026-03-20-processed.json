@@ -1,9 +1,368 @@
 {
-  "crawledAt": "2026-03-20T16:54:55.148Z",
+  "crawledAt": "2026-03-20T20:41:14.861Z",
   "totalSources": 70,
-  "totalArticles": 88,
+  "totalArticles": 99,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "NASA issues draft request for moving space shuttle Discovery—or Orion capsule",
+      "url": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T20:30:02.000Z",
+      "metaDescription": "The request goes beyond a one-time move to transporting all types of vehicles.",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.286622989573752,
+      "crawledAt": "2026-03-20T20:39:40.579Z",
+      "id": "mx0ydu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982859492301941,
+          "index": 1,
+          "word": "NASA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The request goes beyond a one-time move to transporting all types of vehicles. The request is for all types.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:41:26.685Z"
+    },
+    {
+      "title": "Three ways AI is learning to understand the physical world",
+      "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T20:30:00.000Z",
+      "metaDescription": "Large language models are running into limits in domains that require an understanding of the physical world — from robotics to autonomous driving to manufacturing. That constraint is pushing investor",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3088222578577029,
+      "crawledAt": "2026-03-20T20:39:47.743Z",
+      "id": "ex4i6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8307913541793823,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Large language models are running into limits in domains that require a understanding of the physical world. That constraint is pushing investor investor.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:41:37.550Z"
+    },
+    {
+      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T20:02:35.000Z",
+      "metaDescription": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.5240674681027443,
+      "crawledAt": "2026-03-20T20:39:37.652Z",
+      "id": "61xalv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9718858599662781,
+          "index": 4,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8830195665359497,
+          "index": 7,
+          "word": "GT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9746789336204529,
+          "index": 8,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.901042640209198,
+          "index": 10,
+          "word": "N",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CEO Jensen Huang took the stage at N Nvidia’s GTC conference this week in his signature leather jacket. Huang projected $1 trillion in AI chip sales through 2027, dec dec dec.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:02.834Z"
+    },
+    {
+      "title": "Crack ML Interviews with Confidence: RNN, LSTM",
+      "url": "https://pub.towardsai.net/crack-ml-interviews-with-confidence-rnn-lstm-20-q-a-35c73be90ed4?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T20:01:00.000Z",
+      "metaDescription": "Data Scientist & Machine Learning Interview Preparation\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3107136890341749,
+      "crawledAt": "2026-03-20T20:40:14.416Z",
+      "id": "p3btj3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9062983393669128,
+          "index": 12,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9139741659164429,
+          "index": 16,
+          "word": "L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Data Scientist & Machine Learning Interview Preparation Preparation is part of the Machine Learning and Machine Learning Institute. The Institute of Machine Learning is based in New York City.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:15.169Z"
+    },
+    {
+      "title": "Nvidia has an OpenClaw strategy. Do you?",
+      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T19:48:38.000Z",
+      "metaDescription": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.6860996572137662,
+      "crawledAt": "2026-03-20T20:39:37.842Z",
+      "id": "hr7qc3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9920973777770996,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9852368235588074,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9535423517227173,
+          "index": 3,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9856840372085571,
+          "index": 6,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9958834648132324,
+          "index": 7,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9931707382202148,
+          "index": 8,
+          "word": "##law",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CEO Jensen Huang took the stage at N Nvidia’s GTC conference this week in his signature leather jacket. Huang projected $1 trillion in AI chip sales through 2027, dec dec dec.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:31.829Z"
+    },
+    {
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "source": "Hugging Face Blog",
+      "source_domain": "huggingface.co",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T19:38:16.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 9,
+      "confidence": 0.29008989851902117,
+      "crawledAt": "2026-03-20T20:39:24.523Z",
+      "id": "sl9m53",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9403048753738403,
+          "index": 4,
+          "word": "Domain",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9300663471221924,
+          "index": 6,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8532243967056274,
+          "index": 7,
+          "word": "##pecific",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:31.943Z"
+    },
+    {
+      "title": "The New Economy of AI Agents: How Autonomous Software Can Earn Money for You",
+      "url": "https://ai.plainenglish.io/the-new-economy-of-ai-agents-how-autonomous-software-can-earn-money-for-you-52b1889d4558?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T19:22:36.000Z",
+      "metaDescription": "The fastest way to understand where AI is going isn’t by reading another think piece.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9886963262659526,
+      "crawledAt": "2026-03-20T20:40:22.725Z",
+      "id": "4bguad",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.861095666885376,
+          "index": 6,
+          "word": "Agents",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The fastest way to understand where AI is going is to read another think piece. The best way to read AI is to be able to understand it.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:43.030Z"
+    },
+    {
+      "title": "OpenClaw AI Agent Explained: What 250,000 Developers Know That You Don’t",
+      "url": "https://pub.towardsai.net/openclaw-ai-agent-explained-what-250-000-developers-know-that-you-dont-d55fba2c876c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T18:01:00.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.7474067412473464,
+      "crawledAt": "2026-03-20T20:40:14.497Z",
+      "id": "d5zd0o",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:42:53.107Z"
+    },
+    {
+      "title": "NASA wants to know how the launch industry's chic new rocket fuel explodes",
+      "url": "https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T17:18:02.000Z",
+      "metaDescription": "\"We put fuel in a rocket, blow it up in a remote location, and measure how big the boom is.\"",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.9821407473611009,
+      "crawledAt": "2026-03-20T20:39:41.069Z",
+      "id": "pdhn62",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985349774360657,
+          "index": 1,
+          "word": "NASA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"We put fuel in a rocket, blow it up in a remote location, and measure how big the boom is\"",
+      "language": "en",
+      "processed_at": "2026-03-20T20:43:22.921Z"
+    },
+    {
+      "title": "6 Python Projects That Improve Your Problem-Solving Skills",
+      "url": "https://python.plainenglish.io/6-python-projects-that-improve-your-problem-solving-skills-6e2caaaeb79b?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T16:55:38.000Z",
+      "metaDescription": "Learn by building useful tools\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3711812898644438,
+      "crawledAt": "2026-03-20T20:40:20.297Z",
+      "id": "tpl7m5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9610870480537415,
+          "index": 2,
+          "word": "Python",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Learn by building useful tools by building using Python in Plain English. Learn by building a useful tool for building useful skills.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:43:31.826Z"
+    },
     {
       "title": "WordPress.com now lets AI agents write and publish posts, and more",
       "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
@@ -2595,6 +2954,66 @@
       "processed_at": "2026-03-20T08:55:36.392Z"
     },
     {
+      "title": "Mistral's Small 4 consolidates reasoning, vision and coding into one model — at a fraction of the inference cost",
+      "url": "https://venturebeat.com/technology/mistrals-small-4-consolidates-reasoning-vision-and-coding-into-one-model-at",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "Enterprises that have been juggling separate models for reasoning, multimodal tasks, and agentic coding may be able to simplify their stack: Mistral’s new Small 4 brings all three into a single open-s",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.29913081727105195,
+      "crawledAt": "2026-03-20T20:39:48.182Z",
+      "id": "pgvhu8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.919276773929596,
+          "index": 1,
+          "word": "Mi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9392598867416382,
+          "index": 2,
+          "word": "##stra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.968768835067749,
+          "index": 3,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9853643774986267,
+          "index": 6,
+          "word": "Small",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9918785691261292,
+          "index": 7,
+          "word": "4",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mistral’s new Small 4 brings all three into a single open-s. Enterprises have been juggling different models for reasoning, multimodal tasks, and agentic coding.",
+      "language": "en",
+      "processed_at": "2026-03-20T20:43:55.529Z"
+    },
+    {
       "title": "How I Used Python to Create a Voice-Controlled Task Manager",
       "url": "https://python.plainenglish.io/how-i-used-python-to-create-a-voice-controlled-task-manager-3e9119cbccd8?source=rss----78073def27b8---4",
       "source": "Python in Plain English",
@@ -2927,21 +3346,21 @@
       "processed_at": "2026-03-20T02:41:33.352Z"
     }
   ],
-  "processedAt": "2026-03-20T16:58:14.417Z",
+  "processedAt": "2026-03-20T20:43:55.535Z",
   "categories": [
-    "ai-agents",
     "product-launch",
+    "creative-ai",
+    "infrastructure",
+    "ai-agents",
     "safety-ethics",
     "model-release",
     "developer-tool",
-    "creative-ai",
-    "infrastructure",
     "tutorial-guide",
     "research-paper",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 13,
-  "dailyArticlesCount": 88,
+  "newArticlesProcessed": 11,
+  "dailyArticlesCount": 99,
   "filterDate": "2026-03-20"
 }
