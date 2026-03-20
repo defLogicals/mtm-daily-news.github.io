@@ -1,9 +1,538 @@
 {
-  "crawledAt": "2026-03-20T13:14:33.811Z",
+  "crawledAt": "2026-03-20T16:54:55.148Z",
   "totalSources": 70,
-  "totalArticles": 1840,
+  "totalArticles": 1839,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "WordPress.com now lets AI agents write and publish posts, and more",
+      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T16:43:09.000Z",
+      "metaDescription": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.8105772748483154,
+      "crawledAt": "2026-03-20T16:53:14.321Z",
+      "id": "t1rrzy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985853433609009,
+          "index": 1,
+          "word": "Word",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983709454536438,
+          "index": 2,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974676966667175,
+          "index": 3,
+          "word": "##ress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9205700159072876,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965229630470276,
+          "index": 5,
+          "word": "com",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9165598154067993,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content. New AI agents could lower barrier to publishing.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:55:06.989Z"
+    },
+    {
+      "title": "The Math That’s Killing Your AI Agent",
+      "url": "https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T16:30:00.000Z",
+      "metaDescription": "An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures (and the 4-check pre-deployment framework to fix it).\nThe post The Mat",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9713142356789941,
+      "crawledAt": "2026-03-20T16:53:24.836Z",
+      "id": "sevgap",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8480427861213684,
+          "index": 7,
+          "word": "Your",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:55:18.541Z"
+    },
+    {
+      "title": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
+      "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T16:23:00.000Z",
+      "metaDescription": "Voice AI is moving faster than the tools we use to measure it. Every major AI lab — OpenAI, Google DeepMind, Anthropic, xAI — is racing to ship voice models capable of natural, real-time conversation.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.775220653495791,
+      "crawledAt": "2026-03-20T16:53:28.027Z",
+      "id": "qm1k8m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9471155405044556,
+          "index": 1,
+          "word": "Scale",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9640287756919861,
+          "index": 4,
+          "word": "Voice",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929052591323853,
+          "index": 5,
+          "word": "Show",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9903221726417542,
+          "index": 6,
+          "word": "##down",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Voice AI is moving faster than the tools we use to measure it. Every major AI lab is racing to ship voice models capable of real-time conversation.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:55:28.643Z"
+    },
+    {
+      "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T16:14:04.000Z",
+      "metaDescription": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.40112230236933705,
+      "crawledAt": "2026-03-20T16:53:14.524Z",
+      "id": "r1mu3r",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9975255727767944,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9815104603767395,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trump’s AI framework pushes federal preemption of state laws. It also shifts responsibility for child safety to parents.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:55:37.701Z"
+    },
+    {
+      "title": "Major SteamOS update adds support for Steam Machine, even more third-party hardware",
+      "url": "https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T15:36:57.000Z",
+      "metaDescription": "Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8.",
+      "category": "model-release",
+      "difficulty": 5,
+      "confidence": 0.9921280626089405,
+      "crawledAt": "2026-03-20T16:53:17.441Z",
+      "id": "3zu723",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9046441316604614,
+          "index": 3,
+          "word": "##OS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.828449547290802,
+          "index": 8,
+          "word": "Steam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8439874649047852,
+          "index": 9,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Both AMD- and Intel-based hardware is getting better support in SteamOS 3.8.8. Both AMD and Intel hardware is being improved in the software.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:55:50.222Z"
+    },
+    {
+      "title": "At Palantir’s Developer Conference, AI Is Built to Win Wars",
+      "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T15:00:00.000Z",
+      "metaDescription": "As business soars, Palantir is doubling down on a vision of AI built for battlefield advantage—and attracting customers who agree.",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.7182243593508126,
+      "crawledAt": "2026-03-20T16:53:23.012Z",
+      "id": "sx5j95",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9975009560585022,
+          "index": 2,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9890581369400024,
+          "index": 3,
+          "word": "##lant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9542120695114136,
+          "index": 4,
+          "word": "##ir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9825711250305176,
+          "index": 7,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9940698146820068,
+          "index": 8,
+          "word": "##elo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936683177947998,
+          "index": 9,
+          "word": "##per",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.994045078754425,
+          "index": 10,
+          "word": "Conference",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8785266876220703,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9819937348365784,
+          "index": 14,
+          "word": "Built",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9513551592826843,
+          "index": 17,
+          "word": "Wars",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Palantir is doubling down on a vision of AI built for battlefield advantage. It is attracting customers who agree with the idea.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:56:12.258Z"
+    },
+    {
+      "title": "Building Robust Credit Scoring Models",
+      "url": "https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T15:00:00.000Z",
+      "metaDescription": "Handling outliers and missing values in borrower data using Python.\nThe post Building Robust Credit Scoring Models (Part 3) appeared first on Towards Data Science.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28585431771450426,
+      "crawledAt": "2026-03-20T16:53:24.971Z",
+      "id": "ibk10y",
+      "entities": [],
+      "summary": " The post Building Robust Credit Scoring Models (Part 3) appeared first on Towards Data Science. Handling outliers and missing values in borrower data using Python using Python.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:56:23.213Z"
+    },
+    {
+      "title": "The US is looking at a year of chaotic weather",
+      "url": "https://arstechnica.com/science/2026/03/the-us-is-looking-at-a-year-of-chaotic-weather/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T14:38:50.000Z",
+      "metaDescription": "Massive Western heat wave, potential El Niño raise concerns about unpredictable, extreme weather.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.279603354228708,
+      "crawledAt": "2026-03-20T16:53:17.806Z",
+      "id": "ov4o5e",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991670846939087,
+          "index": 2,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Massive Western heat wave, potential El Niño raise concerns about unpredictable, extreme weather. Massive Western Heat wave, possible El Niño raises concerns about extreme weather.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:56:45.152Z"
+    },
+    {
+      "title": "Event-Driven MDM Solves Latency. It Doesn’t Solve Trust",
+      "url": "https://pub.towardsai.net/event-driven-mdm-solves-latency-it-doesnt-solve-trust-846de803b3fd?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T14:01:02.000Z",
+      "metaDescription": "Your AI agents are making decisions right now. Can you prove what data they used, which version it was, and whether that version was…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.25318057289153717,
+      "crawledAt": "2026-03-20T16:53:51.345Z",
+      "id": "l11rp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8869203329086304,
+          "index": 5,
+          "word": "MD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Your AI agents are making decisions right now. Can you prove what data they used, which version it was, and whether that version was?",
+      "language": "en",
+      "processed_at": "2026-03-20T16:57:20.677Z"
+    },
+    {
+      "title": "SynthID: What it is and How it Works",
+      "url": "https://www.kdnuggets.com/synthid-what-it-is-and-how-it-works",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T14:00:36.000Z",
+      "metaDescription": "Learn everything about SynthID, how it embeds invisible AI watermarks, and how it verifies and identifies AI-generated content across text, images, audio, and video",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7121915069972391,
+      "crawledAt": "2026-03-20T16:54:53.915Z",
+      "id": "lphlyb",
+      "entities": [],
+      "summary": " SynthID embeds invisible AI watermarks, and verifies and identifies AI-generated content across text, images, audio, and video. Learn everything about Synthid, how it embeds and identifies the content.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:57:37.250Z"
+    },
+    {
+      "title": "The Jobs AI Will Actually Replace",
+      "url": "https://ai.plainenglish.io/the-jobs-ai-will-actually-replace-5cba250b2ba7?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T13:59:29.000Z",
+      "metaDescription": "Stop worrying about ChatGPT taking your job title. The jobs quietly disappearing right now are built on routines you probably think are…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.3961790618545893,
+      "crawledAt": "2026-03-20T16:53:58.186Z",
+      "id": "27tcom",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9900350570678711,
+          "index": 2,
+          "word": "Job",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8042314648628235,
+          "index": 3,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8989135026931763,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Stop worrying about ChatGPT taking your job. Stop worrying. The jobs quietly disappearing right now are built on routines.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:57:46.188Z"
+    },
+    {
+      "title": "How to Measure AI Value",
+      "url": "https://towardsdatascience.com/how-to-measure-ai-value/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T13:30:00.000Z",
+      "metaDescription": "While efficiency is an important source of AI value, it is only part of the picture\nThe post How to Measure AI Value appeared first on Towards Data Science.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.29646265804422495,
+      "crawledAt": "2026-03-20T16:53:25.102Z",
+      "id": "9mumzi",
+      "entities": [],
+      "summary": "The post How to Measure AI Value is part of the post How To Measure AI value. The post is a part of a series of articles by Towards Data Science.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:58:00.468Z"
+    },
+    {
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T13:15:45.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.39074926214784866,
+      "crawledAt": "2026-03-20T16:53:21.147Z",
+      "id": "357zki",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981634616851807,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9926267266273499,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9580624103546143,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Download is a daily dose of what’s going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-03-20T16:58:14.408Z"
+    },
     {
       "title": "Inside Claude Cowork: How to Run Agentic AI Tasks Like a Pro",
       "url": "https://www.analyticsvidhya.com/blog/2026/03/claude-cowork/",
@@ -63811,526 +64340,25 @@
       "summary": " Andela is a co-founder of the company that created the first AI-based company. The company is based in the U.S.",
       "language": "en",
       "processed_at": "2026-03-05T18:12:32.794Z"
-    },
-    {
-      "title": "The latest AI news we announced in February",
-      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-      "source": "Google AI Blog",
-      "source_domain": "blog.google",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T16:30:00.000Z",
-      "metaDescription": "Here are Google’s latest AI updates from February 2026",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.28114290525322677,
-      "crawledAt": "2026-03-05T18:09:39.588Z",
-      "id": "spy82u",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9897065758705139,
-          "index": 3,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Google’s latest AI updates from February 2026. Here are Google�’'s latest AI update from February2026.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:13:14.654Z"
-    },
-    {
-      "title": "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline",
-      "url": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T16:20:13.000Z",
-      "metaDescription": "In this post, we walk through a multi-developer CI/CD pipeline for Amazon Lex that enables isolated development environments, automated testing, and streamlined deployments. We show you how to set up ",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.8319073260563551,
-      "crawledAt": "2026-03-05T18:10:14.932Z",
-      "id": "svj6ow",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8459044098854065,
-          "index": 10,
-          "word": "C",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Amazon Lex is a multi-developer CI/CD pipeline for Amazon Lex. It enables isolated development environments, automated testing, and streamlined deployments.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:13:25.583Z"
-    },
-    {
-      "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
-      "url": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T16:19:57.000Z",
-      "metaDescription": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make ed",
-      "category": "creative-ai",
-      "difficulty": 8,
-      "confidence": 0.27151567270719823,
-      "crawledAt": "2026-03-05T18:09:49.772Z",
-      "id": "bvtydw",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9945960640907288,
-          "index": 1,
-          "word": "Netflix",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9993677139282227,
-          "index": 3,
-          "word": "Ben",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9992047548294067,
-          "index": 4,
-          "word": "A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9911060333251953,
-          "index": 5,
-          "word": "##ffle",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9971958994865417,
-          "index": 6,
-          "word": "##ck",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9413416385650635,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9990699291229248,
-          "index": 13,
-          "word": "Inter",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9967558979988098,
-          "index": 14,
-          "word": "##P",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9521003365516663,
-          "index": 16,
-          "word": "##itive",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The company has created a model that helps production teams work with footage from their own productions to help make ed. InterPositive isn't trying to make AI actors or synthetic performances.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:13:37.966Z"
-    },
-    {
-      "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T16:15:41.000Z",
-      "metaDescription": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk through d",
-      "category": "ai-agents",
-      "difficulty": 7,
-      "confidence": 0.9783022434539308,
-      "crawledAt": "2026-03-05T18:10:15.120Z",
-      "id": "7cghud",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9930588006973267,
-          "index": 6,
-          "word": "Strand",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9853504300117493,
-          "index": 7,
-          "word": "##s",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9913331866264343,
-          "index": 8,
-          "word": "Agents",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8819642663002014,
-          "index": 10,
-          "word": "LL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.8676611185073853,
-          "index": 14,
-          "word": "Sage",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9820365905761719,
-          "index": 15,
-          "word": "##M",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " This post demonstrates how to build custom model parsers for Strands agents when working with LLMs that don't natively support the Bedrock Messages API format.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:13:49.856Z"
-    },
-    {
-      "title": "Plug into the Matrix: Connect ContextNest to Live Data and Level Up Your AI",
-      "url": "https://pub.towardsai.net/plug-into-the-matrix-connect-contextnest-to-live-data-and-level-up-your-ai-a31377efee41?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T16:01:02.000Z",
-      "metaDescription": "PromptOwl just released ContextNest as open-source software. I was one of the firsts to set it up. I’ve had it going for a day, and it…\nContinue reading on Towards AI »",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.6855265501751586,
-      "crawledAt": "2026-03-05T18:10:25.137Z",
-      "id": "1d5usn",
-      "entities": [],
-      "summary": " PromptOwl just released ContextNest as open-source software. I was one of the firsts to set up the software.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:02.368Z"
-    },
-    {
-      "title": "10 Python Concepts You Must Know Before Calling Yourself Advanced",
-      "url": "https://python.plainenglish.io/10-python-concepts-you-must-know-before-calling-yourself-advanced-8291db00eec5?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T15:17:38.000Z",
-      "metaDescription": "These separate the real devs from the pretenders.\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.6279207908576921,
-      "crawledAt": "2026-03-05T18:10:33.425Z",
-      "id": "a206lp",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8353440165519714,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9110521078109741,
-          "index": 3,
-          "word": "Concept",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The real devs from the pretenders are the real devs. The real developers are the pretender and the real developers.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:12.255Z"
-    },
-    {
-      "title": "The 8% Who Are Winning at AI — And the 5 Things They’re Doing Differently",
-      "url": "https://pub.towardsai.net/the-8-who-are-winning-at-ai-and-the-5-things-theyre-doing-differently-2ef3d8c45569?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T15:01:03.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.7094202025017781,
-      "crawledAt": "2026-03-05T18:10:25.219Z",
-      "id": "wptc29",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9235614538192749,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:12.381Z"
-    },
-    {
-      "title": "LAI #117: Why AI Alignment Might Be Geometrically Broken",
-      "url": "https://pub.towardsai.net/lai-117-why-ai-alignment-might-be-geometrically-broken-57d5d63ea317?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T15:01:02.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.401167690997368,
-      "crawledAt": "2026-03-05T18:10:25.286Z",
-      "id": "tubmqk",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:12.526Z"
-    },
-    {
-      "title": "Pandas vs. Polars: A Complete Comparison of Syntax, Speed, and Memory",
-      "url": "https://www.kdnuggets.com/pandas-vs-polars-a-complete-comparison-of-syntax-speed-and-memory",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T15:00:58.000Z",
-      "metaDescription": "Need help choosing the right Python dataframe library? This article compares Pandas and Polars to help you decide.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.5915565693383456,
-      "crawledAt": "2026-03-05T18:11:28.324Z",
-      "id": "ecoeey",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8760374188423157,
-          "index": 1,
-          "word": "Pan",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9202553033828735,
-          "index": 2,
-          "word": "##das",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Pandas and Polars are the best dataframe libraries for the Python dataframe library. This article compares Pandas to Polars.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:23.463Z"
-    },
-    {
-      "title": "Databricks built a RAG agent it says can handle every kind of enterprise search",
-      "url": "https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T15:00:00.000Z",
-      "metaDescription": "Most enterprise RAG pipelines are optimized for one search behavior. They fail silently on the others. A model trained to synthesize cross-document reports handles constraint-driven entity search poor",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.29566991396062475,
-      "crawledAt": "2026-03-05T18:09:59.538Z",
-      "id": "xq163d",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9233395457267761,
-          "index": 2,
-          "word": "##bri",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9707587957382202,
-          "index": 6,
-          "word": "RA",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Most enterprise RAG pipelines are optimized for one search behavior. They fail silently on the others. A model trained to synthesize cross-document reports handles constraint-driven entity search poor.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:14:35.451Z"
-    },
-    {
-      "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-      "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T14:28:46.000Z",
-      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.850478946741966,
-      "crawledAt": "2026-03-05T18:10:00.754Z",
-      "id": "3mi09b",
-      "entities": [],
-      "summary": " The Download is a daily dose of what’s going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:15:00.411Z"
-    },
-    {
-      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-      "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T14:16:49.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.40662107019055915,
-      "crawledAt": "2026-03-05T18:09:38.000Z",
-      "id": "lfqso2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9754825830459595,
-          "index": 17,
-          "word": "V",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:15:00.567Z"
-    },
-    {
-      "title": "A Sad Day for Open Source AI",
-      "url": "https://www.youtube.com/watch?v=TJ5okrPNmWQ",
-      "source": "Prompt Engineering",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T13:45:04.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.39007347857795815,
-      "crawledAt": "2026-03-05T18:10:50.876Z",
-      "id": "2oggn5",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9777464866638184,
-          "index": 6,
-          "word": "Source",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:15:20.491Z"
-    },
-    {
-      "title": "macOS Tahoe 26.3.1 update will \"upgrade\" your M5's CPU to new \"super\" cores",
-      "url": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T13:28:43.000Z",
-      "metaDescription": "In otherwise minor software update, macOS now uses M5's new nomenclature.",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.6181661421587795,
-      "crawledAt": "2026-03-05T18:09:52.244Z",
-      "id": "dn5ouz",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9518723487854004,
-          "index": 3,
-          "word": "Ta",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8372238874435425,
-          "index": 4,
-          "word": "##hoe",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " M5 now uses M5's new nomenclature. M5 also uses M4's new Nomenclatures.",
-      "language": "en",
-      "processed_at": "2026-03-05T18:15:30.112Z"
     }
   ],
-  "processedAt": "2026-03-20T13:17:20.481Z",
+  "processedAt": "2026-03-20T16:58:14.412Z",
   "categories": [
     "ai-agents",
-    "infrastructure",
-    "creative-ai",
+    "product-launch",
     "safety-ethics",
-    "tutorial-guide",
-    "research-paper",
-    "industry-news",
     "model-release",
     "developer-tool",
-    "product-launch"
+    "creative-ai",
+    "infrastructure",
+    "tutorial-guide",
+    "research-paper",
+    "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 11,
-  "existingArticlesKept": 1850,
+  "newArticlesProcessed": 13,
+  "existingArticlesKept": 1840,
   "cleanupApplied": true,
-  "cleanedUpCount": 21,
+  "cleanedUpCount": 14,
   "rollingWindowDays": 15
 }
