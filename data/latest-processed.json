@@ -1,9 +1,128 @@
 {
-  "crawledAt": "2026-03-20T05:19:17.987Z",
+  "crawledAt": "2026-03-20T08:52:51.633Z",
   "totalSources": 70,
-  "totalArticles": 1863,
+  "totalArticles": 1850,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Statistics: The Fundamentals",
+      "url": "https://pub.towardsai.net/statistics-the-fundamentals-d3ecbaba6e81?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T05:40:36.000Z",
+      "metaDescription": "The Core Concepts Behind Data Analysis, Machine Learning, and Scientific Discovery\nContinue reading on Towards AI »",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.41208503592153684,
+      "crawledAt": "2026-03-20T08:51:46.137Z",
+      "id": "kyk9nf",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9307276010513306,
+          "index": 5,
+          "word": "##ament",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9082875847816467,
+          "index": 6,
+          "word": "##als",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Core Concepts Behind Data Analysis, Machine Learning, and Scientific Discovery. The Core concepts behind Data Analysis and Machine Learning.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:02.077Z"
+    },
+    {
+      "title": "Google Finally Figured Out That Having the Best AI Means Nothing If Nobody Uses It",
+      "url": "https://pub.towardsai.net/google-finally-figured-out-that-having-the-best-ai-means-nothing-if-nobody-uses-it-ddf91905c084?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T05:40:14.000Z",
+      "metaDescription": "Google AI Studio just shipped the one thing every vibe coding tool is missing: the entire backend. Firebase databases, Google Auth…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.5296105482000762,
+      "crawledAt": "2026-03-20T08:51:46.295Z",
+      "id": "cgbzi3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9890727400779724,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google AI Studio just shipped the one thing every vibe coding tool is missing: the entire backend. Google Auth, Google Auth and Google Auth.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:13.346Z"
+    },
+    {
+      "title": "Visualizing How AI May Impact the Grid’s Respiratory System",
+      "url": "https://pub.towardsai.net/visualizing-how-ai-may-impact-the-grids-respiratory-system-a0b4ca500c1c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T05:38:00.000Z",
+      "metaDescription": "An overview of electrical grid data and what happens when AI datacenters plug in\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2558962728862836,
+      "crawledAt": "2026-03-20T08:51:46.561Z",
+      "id": "b4aoqe",
+      "entities": [],
+      "summary": "An overview of electrical grid data and what happens when AI datacenters plug in. An overview of the electrical grid and what happened when AI Datacenters plugged in.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:35.155Z"
+    },
+    {
+      "title": "What Is an AI Lead Qualification System?",
+      "url": "https://pub.towardsai.net/what-is-an-ai-lead-qualification-system-and-how-agencies-use-it-47cd68d44333?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T05:33:07.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.42566023443472956,
+      "crawledAt": "2026-03-20T08:51:46.785Z",
+      "id": "nl6vcl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9903292059898376,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9599415063858032,
+          "index": 5,
+          "word": "Lead",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:35.596Z"
+    },
     {
       "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
       "url": "https://arxiv.org/abs/2603.18048",
@@ -1360,6 +1479,222 @@
       "summary": " The widespread deployment of large language models calls for post-hoc methods that can adapt models to evolving safety requirements.",
       "language": "en",
       "processed_at": "2026-03-20T05:32:11.410Z"
+    },
+    {
+      "title": "Do Large Language Models Possess a Theory of Mind? A Comparative Evaluation Using the Strange Stories Paradigm",
+      "url": "https://arxiv.org/abs/2603.18007",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18007v1 Announce Type: new \nAbstract: The study explores whether current Large Language Models (LLMs) exhibit Theory of Mind (ToM) capabilities -- specifically, the ability to infer others'",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2780818328746578,
+      "crawledAt": "2026-03-20T08:52:38.114Z",
+      "id": "hpzo89",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9245177507400513,
+          "index": 10,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8488784432411194,
+          "index": 11,
+          "word": "Mind",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9196141362190247,
+          "index": 18,
+          "word": "Strange",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9822974801063538,
+          "index": 19,
+          "word": "Stories",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The study explores whether current Large Language Models (LLMs) exhibit Theory of Mind (ToM) capabilities. The study also looks at the ability to infer others' capabilities.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:47.355Z"
+    },
+    {
+      "title": "TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots",
+      "url": "https://arxiv.org/abs/2603.18008",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18008v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for mental-health support; yet prevailing evaluation methods--fluency metrics, preference tests, and",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.9885357022658771,
+      "crawledAt": "2026-03-20T08:52:38.307Z",
+      "id": "4f6l9b",
+      "entities": [],
+      "summary": " The new language models (LLMs) are increasingly used for mental-health support. Yet evaluation methods are still being used for evaluation methods.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:53:57.262Z"
+    },
+    {
+      "title": "Agentic Framework for Political Biography Extraction",
+      "url": "https://arxiv.org/abs/2603.18010",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18010v1 Announce Type: new \nAbstract: The production of large-scale political datasets typically demands extracting structured facts from vast piles of unstructured documents or web sources",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9486307781891754,
+      "crawledAt": "2026-03-20T08:52:38.695Z",
+      "id": "f55o7x",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8123062252998352,
+          "index": 3,
+          "word": "Framework",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8738223910331726,
+          "index": 6,
+          "word": "Biography",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The production of large-scale political datasets typically demands extracting structured facts from vast piles of unstructured documents or web sources.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:54:16.353Z"
+    },
+    {
+      "title": "DynaRAG: Bridging Static and Dynamic Knowledge in Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2603.18012",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18012v1 Announce Type: new \nAbstract: We present DynaRAG, a retrieval-augmented generation (RAG) framework designed to handle both static and time-sensitive information needs through dynami",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.2911565985732628,
+      "crawledAt": "2026-03-20T08:52:39.074Z",
+      "id": "non0sq",
+      "entities": [],
+      "summary": " The new generation of the technology is called DynaRAG. It is designed to handle both static and time-sensitive information.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:54:41.646Z"
+    },
+    {
+      "title": "Real-Time Trustworthiness Scoring for LLM Structured Outputs and Data Extraction",
+      "url": "https://arxiv.org/abs/2603.18014",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18014v1 Announce Type: new \nAbstract: Structured Outputs from current LLMs exhibit sporadic errors, hindering enterprise AI efforts from realizing their immense potential. We present CONSTR",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.35059073395414275,
+      "crawledAt": "2026-03-20T08:52:39.440Z",
+      "id": "mka39e",
+      "entities": [],
+      "summary": "We present CONSTR. arXiv:2603.18014v1 Announce Type: Structured Outputs from current LLMs exhibit sporadic errors.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:55:04.336Z"
+    },
+    {
+      "title": "Beyond Accuracy: An Explainability-Driven Analysis of Harmful Content Detection",
+      "url": "https://arxiv.org/abs/2603.18015",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18015v1 Announce Type: new \nAbstract: Although automated harmful content detection systems are frequently used to monitor online platforms, moderators and end users frequently cannot unders",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.270632146709458,
+      "crawledAt": "2026-03-20T08:52:39.606Z",
+      "id": "vyvwt0",
+      "entities": [],
+      "summary": " automated harmful content detection systems are frequently used to monitor online platforms. The technology is often used to detect online content.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:55:11.990Z"
+    },
+    {
+      "title": "An Agentic System for Schema Aware NL2SQL Generation",
+      "url": "https://arxiv.org/abs/2603.18018",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.18018v1 Announce Type: new \nAbstract: The natural language to SQL (NL2SQL) task plays a pivotal role in democratizing data access by enabling non-expert users to interact with relational da",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.281422427686464,
+      "crawledAt": "2026-03-20T08:52:39.980Z",
+      "id": "vk3e51",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9063199758529663,
+          "index": 6,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8804160356521606,
+          "index": 7,
+          "word": "##hem",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9680701494216919,
+          "index": 12,
+          "word": "##2",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9563363194465637,
+          "index": 14,
+          "word": "##QL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The natural language to SQL (NL2SQL) task plays a pivotal role in democratizing data access. The task will allow non-expert users to interact with relational data.",
+      "language": "en",
+      "processed_at": "2026-03-20T08:55:36.392Z"
     },
     {
       "title": "How I Used Python to Create a Voice-Controlled Task Manager",
@@ -64248,778 +64583,9 @@
       "summary": "Lora's save points have been reduced by a lower learning rate. The last save point was easy with the team's decision to save points.",
       "language": "en",
       "processed_at": "2026-03-05T13:20:44.927Z"
-    },
-    {
-      "title": "Writing examples of Galapagos, the rumoured 5.4 minimal/low",
-      "url": "https://www.reddit.com/r/singularity/comments/1rlbv8z/writing_examples_of_galapagos_the_rumoured_54/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T08:06:05.000Z",
-      "metaDescription": "P1: Write a poem about an Unsused pen. \n P2: Explain entropy beautifully. \n prompt: Write a horror thrilling story\n > \n The Call at 2:17\n At 2:17 a.m., Nora’s screen flashed with an incoming emergency",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.29535968474750096,
-      "crawledAt": "2026-03-05T13:14:40.752Z",
-      "id": "i6uxz3",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.8581734895706177,
-          "index": 4,
-          "word": "Gala",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.860341489315033,
-          "index": 5,
-          "word": "##pa",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Call at 2:17 a.m. Nora’s screen flashed with an incoming emergency emergency emergency.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:21:07.225Z"
-    },
-    {
-      "title": "Beyond the pilot: Dyna.Ai raises eight-figure Series A to put agentic AI in financial services to work",
-      "url": "https://www.artificialintelligence-news.com/news/dyna-ai-series-a-agentic-ai-financial-services/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T08:00:00.000Z",
-      "metaDescription": "The financial services industry has a pilot problem. Institutions pour resources into AI proofs-of-concept, generate impressive dashboards, and then quietly watch momentum stall before anything reache",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9016619803177147,
-      "crawledAt": "2026-03-05T08:53:29.995Z",
-      "id": "vf7bkn",
-      "entities": [],
-      "summary": " The financial services industry has a pilot problem. Institutions pour resources into AI proofs-of-concept, generate impressive dashboards.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:55:07.830Z"
-    },
-    {
-      "title": "Do your LangChain agents deal with money?",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rlbqxa/do_your_langchain_agents_deal_with_money/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:59:01.000Z",
-      "metaDescription": "Just curious - has anyone got their LangChain agents executing \n actual payments or transactions?\n What does that setup look like for you?\n Drop a comment if you're doing this!\n    submitted by    /u/",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.5561738854659664,
-      "crawledAt": "2026-03-05T13:14:58.689Z",
-      "id": "dgw16i",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9760357141494751,
-          "index": 3,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9626602530479431,
-          "index": 4,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9151412844657898,
-          "index": 5,
-          "word": "##hai",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9145479798316956,
-          "index": 6,
-          "word": "##n",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " LangChain agents execute actual payments or transactions. What does that setup look like for you? Drop a comment if you're doing this!",
-      "language": "en",
-      "processed_at": "2026-03-05T13:21:16.395Z"
-    },
-    {
-      "title": "What’s Next For AI Anime Image Generators?",
-      "url": "https://generativeai.pub/whats-next-for-ai-anime-image-generators-d90b93cf73d4?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:38:45.000Z",
-      "metaDescription": "The current state, limitations, and where anime-style AI tools are headed.\nContinue reading on Generative AI »",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.8519177820295158,
-      "crawledAt": "2026-03-05T08:53:59.328Z",
-      "id": "r8w9s1",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9034937620162964,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9508376717567444,
-          "index": 7,
-          "word": "An",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9084079265594482,
-          "index": 8,
-          "word": "##ime",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8670995235443115,
-          "index": 9,
-          "word": "Image",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The current state, limitations, and where anime-style AI tools are headed. The currentState, limitations and where the current state and limitations are headed.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:55:19.476Z"
-    },
-    {
-      "title": "4 Sessions, One GoLisp Interpreter — Human-AI Pair Programming Up Close",
-      "url": "https://generativeai.pub/4-sessions-one-golisp-interpreter-human-ai-pair-programming-up-close-9d99b7470532?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:35:27.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2957142688764812,
-      "crawledAt": "2026-03-05T08:53:59.560Z",
-      "id": "i8zkwn",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:55:31.640Z"
-    },
-    {
-      "title": "From blog to dream job, Jim joins the team at Mindgard AI",
-      "url": "https://generativeai.pub/jim-nightingale-joins-mindgard-ai-security-red-teaming-5806d4a3ab85?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:34:06.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3034052168237628,
-      "crawledAt": "2026-03-05T08:53:59.630Z",
-      "id": "3u6dm9",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9993733167648315,
-          "index": 7,
-          "word": "Jim",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.973250687122345,
-          "index": 12,
-          "word": "Mind",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9743101000785828,
-          "index": 13,
-          "word": "##gard",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:55:31.799Z"
-    },
-    {
-      "title": "InsAIts V3 — I built the “black box recorder” for multi-agent AI",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rlbbfs/project_insaits_v3_i_built_the_black_box_recorder/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:32:04.000Z",
-      "metaDescription": "Hey there,, When AI agents talk to each other, they quickly invent their own secret language. One moment it’s “Verify customer identity”, the next it’s “VCI.exec PCO.7”. Context gets lost, hallucinati",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9561984421146124,
-      "crawledAt": "2026-03-05T13:14:58.912Z",
-      "id": "xl0t0k",
-      "entities": [],
-      "summary": " When AI agents talk to each other, they quickly invent their own secret language. One moment it’s “Verify customer identity’, the next it�'s ‘exec PCO.7’",
-      "language": "en",
-      "processed_at": "2026-03-05T13:21:49.525Z"
-    },
-    {
-      "title": "How I Reinvented Overdone AI Sketches",
-      "url": "https://generativeai.pub/how-i-reinvented-overdone-ai-sketches-and-made-them-stand-out-instantly-52fcb882660a?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:30:59.000Z",
-      "metaDescription": "If it’s interesting, it’s already overdone — using AI, I reinvented the sketch style to stand out, and you can too.\nContinue reading on Generative AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.9565535532698479,
-      "crawledAt": "2026-03-05T08:53:59.788Z",
-      "id": "l1boel",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8686550259590149,
-          "index": 11,
-          "word": "S",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Using AI, I reinvented the sketch style to stand out, and you can too. If it's interesting, it's already overdone, it’s already overdones. If it‘s interesting, I’ve already overdoned it”",
-      "language": "en",
-      "processed_at": "2026-03-05T08:55:49.671Z"
-    },
-    {
-      "title": "Everything Free You Can Do with Gemini",
-      "url": "https://generativeai.pub/everything-free-you-can-do-with-gemini-be108b048e97?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:30:37.000Z",
-      "metaDescription": "Use Google Gemini Tools better than 99% people for FREE!\nContinue reading on Generative AI »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.6791983841213324,
-      "crawledAt": "2026-03-05T08:53:59.889Z",
-      "id": "qvk7x2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9157930612564087,
-          "index": 7,
-          "word": "Gemini",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Use Google Gemini Tools better than 99% people for FREE! Use Google's Gemini Tools to help people with reading comprehension and vocabulary.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:01.932Z"
-    },
-    {
-      "title": "The Model Is Not the Bottleneck",
-      "url": "https://generativeai.pub/the-model-is-not-the-bottleneck-f554b5d6fd7b?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:29:30.000Z",
-      "metaDescription": "I used to spend a lot of time picking the right model. GPT-4 vs Claude vs Gemini. I’d run benchmarks, read leaderboards, and swap APIs…\nContinue reading on Generative AI »",
-      "category": "model-release",
-      "difficulty": 5,
-      "confidence": 0.28855370392112006,
-      "crawledAt": "2026-03-05T08:54:00.053Z",
-      "id": "w4bmvc",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9677709341049194,
-          "index": 8,
-          "word": "##neck",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " GPT-4 vs Claude vs. Gemini. I used to spend a lot of time picking the right model. I’d run benchmarks, read leaderboards, and swap APIs.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:16.410Z"
-    },
-    {
-      "title": "building a \"sonarqube\" but for agentic workflows. thoughts?",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rlb8ru/building_a_sonarqube_but_for_agentic_workflows/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:27:26.000Z",
-      "metaDescription": "so, i’ve been obsessed with the idea that agent quality is currently subnormal compared to \"real\" software. we have sentry for crashes and snyk for security, but nothing that tells you if your agent’s",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6796518475478048,
-      "crawledAt": "2026-03-05T13:14:59.107Z",
-      "id": "bqb4lt",
-      "entities": [],
-      "summary": " i’ve been obsessed with the idea that agent quality is currently subnormal compared to \"real\" software.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:22:02.532Z"
-    },
-    {
-      "title": "What the 1920s and 1960s Might Tell Us About Design in the AI Era",
-      "url": "https://generativeai.pub/what-the-1920s-and-1960s-might-tell-us-about-design-in-the-ai-era-49ed8cf9f57f?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:25:57.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.27715326059415896,
-      "crawledAt": "2026-03-05T08:54:00.267Z",
-      "id": "yxushu",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9970200657844543,
-          "index": 13,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9969960451126099,
-          "index": 14,
-          "word": "Era",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:24.469Z"
-    },
-    {
-      "title": "AI Agent Benchmarks Are Living in a Fantasy. Here’s the Data That Proves It.",
-      "url": "https://generativeai.pub/ai-agent-benchmarks-are-living-in-a-fantasy-heres-the-data-that-proves-it-372ac48519b2?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T07:25:38.000Z",
-      "metaDescription": "Zora Wang and team mapped 43 benchmarks and 72,342 tasks against the actual U.S. labor market. What they found should embarrass the entire…\nContinue reading on Generative AI »",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9871512846661279,
-      "crawledAt": "2026-03-05T08:54:00.457Z",
-      "id": "4w95u2",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9045981764793396,
-          "index": 1,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Zora Wang and team mapped 43 benchmarks and 72,342 tasks against the actual U.S. labor market.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:34.455Z"
-    },
-    {
-      "title": "I built a \"git diff\" for neural networks — compares two model versions layer by layer, catches activation drift and feature shifts",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rlb32q/i_built_a_git_diff_for_neural_networks_compares/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T07:17:42.000Z",
-      "metaDescription": "submitted by    /u/Shot-Personality7463  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3067759167142891,
-      "crawledAt": "2026-03-05T13:15:08.626Z",
-      "id": "fu17xn",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:22:02.686Z"
-    },
-    {
-      "title": "This is literally OpenAI right now",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rlatkp/this_is_literally_openai_right_now/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T07:02:03.000Z",
-      "metaDescription": "what do you think,chat?\n    submitted by    /u/AskGpts  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3472280946259896,
-      "crawledAt": "2026-03-05T13:14:46.454Z",
-      "id": "p6r3ds",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9667626619338989,
-          "index": 5,
-          "word": "##A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:22:29.910Z"
-    },
-    {
-      "title": "PhysicEdit: Teaching Image Editing Models to Respect Physics",
-      "url": "https://www.analyticsvidhya.com/blog/2026/03/physicedit-teaching-image-editing-models-physics/",
-      "source": "Analytics Vidhya",
-      "source_domain": "analyticsvidhya.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T06:49:27.000Z",
-      "metaDescription": "Instruction-based image editing models are impressive at following prompts. But when edits involve physical interactions, they often fail to respect real-world laws. In their paper “From Statics to Dy",
-      "category": "tutorial-guide",
-      "difficulty": 5,
-      "confidence": 0.6076392588133851,
-      "crawledAt": "2026-03-05T08:54:48.732Z",
-      "id": "qwizfe",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9200958013534546,
-          "index": 4,
-          "word": "##E",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The paper's editor-based image editing models are impressive at following prompts. But when edits involve physical interactions, they often fail to respect real-world laws.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:44.240Z"
-    },
-    {
-      "title": "What Does Observability Look Like in Multi-Agent RAG Architectures?",
-      "url": "https://www.reddit.com/r/mlops/comments/1rlaez7/what_does_observability_look_like_in_multiagent/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T06:38:50.000Z",
-      "metaDescription": "submitted by    /u/Ok_Significance_3050  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3310283461511744,
-      "crawledAt": "2026-03-05T13:15:15.183Z",
-      "id": "mquhqe",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8543794751167297,
-          "index": 13,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:22:30.352Z"
-    },
-    {
-      "title": "Autonomous agent voice user interfaces.",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1rlab4d/autonomous_agent_voice_user_interfaces/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T06:32:32.000Z",
-      "metaDescription": "Text-driven agents are typically used nowadays. \n Voice interfaces would however make them far more practical in the real world. \n We deeply worked into voice-first agent experience and open-sourced t",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4726742895941328,
-      "crawledAt": "2026-03-05T13:15:05.006Z",
-      "id": "l7l5c7",
-      "entities": [],
-      "summary": " We deeply worked into voice-first agent experience and open-sourced t-sourcing. Text-driven agents are typically used nowadays.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:22:41.191Z"
-    },
-    {
-      "title": "Terrible results trying to make an LTX-2 character LoRA from still images using Ostris AI Toolkit",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rla8q5/terrible_results_trying_to_make_an_ltx2_character/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T06:28:47.000Z",
-      "metaDescription": "Maybe it's just that the default settings Ostris AI Toolkit provides when I select LTX-2 as the target that I'm training for. I unfortunately don't know enough about what all the settings mean to make",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.7609972301931082,
-      "crawledAt": "2026-03-05T13:15:03.246Z",
-      "id": "efgamf",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9907338619232178,
-          "index": 8,
-          "word": "L",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9605630040168762,
-          "index": 10,
-          "word": "##X",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9244509935379028,
-          "index": 20,
-          "word": "O",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The default settings on Ostris AI Toolkit are set to make LTX-2 as a target. The default default settings are set on LTX. The default setting is set to be set to LTX - 2.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:23:06.692Z"
-    },
-    {
-      "title": "7 Python Scripts That Can Help You Earn Online",
-      "url": "https://python.plainenglish.io/7-python-scripts-that-can-help-you-earn-online-9dc6274589a8?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T06:20:24.000Z",
-      "metaDescription": "The fastest way to make money with Python is not by learning another framework.\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3417272864409085,
-      "crawledAt": "2026-03-05T08:53:58.127Z",
-      "id": "tfpkxy",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8385917544364929,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "The fastest way to make money with Python is not by learning another framework. The fastest way of making money is to learn another framework.",
-      "language": "en",
-      "processed_at": "2026-03-05T08:56:53.690Z"
-    },
-    {
-      "title": "SkyReels V4 is bringing T2VA, PAPER",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rl9pic/skyreels_v4_is_bringing_t2va_paper/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T05:59:43.000Z",
-      "metaDescription": "SkyReels has released a paper on their upcoming SkyReels V4, which features T2VA. Open source is likely coming, but it's still unknown.\n  \nSkyReels-V4 supports up to 1080p resolution, 32 FPS, and 15-s",
-      "category": "research-paper",
-      "difficulty": 7,
-      "confidence": 0.7655411485207789,
-      "crawledAt": "2026-03-05T13:15:01.727Z",
-      "id": "idjit2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8118398189544678,
-          "index": 1,
-          "word": "Sky",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9791521430015564,
-          "index": 2,
-          "word": "##R",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8779313564300537,
-          "index": 3,
-          "word": "##eel",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8605647087097168,
-          "index": 4,
-          "word": "##s",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The new SkyReels V4 will have 32 FPS, 32 FPS and 15 FPS. The new version of the V4 is expected to be released next month.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:23:18.815Z"
-    },
-    {
-      "title": "A mathematical proof from an anonymous Korean forum: The essence of Attention is fundamentally a d^2 problem, not n^2.",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rl9j3s/d_a_mathematical_proof_from_an_anonymous_korean/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T05:50:03.000Z",
-      "metaDescription": "Hello, r/MachineLearning . I am just a regular user from a Korean AI community (\"The Singularity Gallery\"). I recently came across an anonymous post with a paper attached. I felt that the mathematical",
-      "category": "research-paper",
-      "difficulty": 4,
-      "confidence": 0.2540068442098634,
-      "crawledAt": "2026-03-05T13:14:48.780Z",
-      "id": "u3yze7",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9995797276496887,
-          "index": 7,
-          "word": "Korean",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I am just a regular user from a Korean AI community. I am a regular member of the \"Singularity Gallery\"",
-      "language": "en",
-      "processed_at": "2026-03-05T13:23:40.514Z"
-    },
-    {
-      "title": "Well well well.. looks like the “good guys” are now back trying to appease Trump",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rl9io9/well_well_well_looks_like_the_good_guys_are_now/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T05:49:23.000Z",
-      "metaDescription": "https://www.cnbc.com/amp/2026/03/0\n Isn’t this interesting considering they had insisted they were the good guys and that all the others were unethical anyone can say this. Any cult leader also can sa",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.30175307083852554,
-      "crawledAt": "2026-03-05T13:14:47.054Z",
-      "id": "p027xv",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:23:40.657Z"
-    },
-    {
-      "title": "Bypassing CoreML: Natively training and running LLMs directly on the Apple Neural Engine",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rl9fl4/bypassing_coreml_natively_training_and_running/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T05:44:40.000Z",
-      "metaDescription": "It is hard to communicate how frustratingly opaque Apple's hardware stack can be. We all target the Mac's GPU via MLX or llama.cpp for our local models, but there is a dedicated AI accelerator—the App",
-      "category": "infrastructure",
-      "difficulty": 8,
-      "confidence": 0.3023521352858473,
-      "crawledAt": "2026-03-05T13:14:44.769Z",
-      "id": "yoe5cv",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9795386791229248,
-          "index": 3,
-          "word": "Core",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9743432998657227,
-          "index": 4,
-          "word": "##ML",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9908599257469177,
-          "index": 11,
-          "word": "LL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8479050993919373,
-          "index": 18,
-          "word": "##eur",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8091253042221069,
-          "index": 19,
-          "word": "##al",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8804178237915039,
-          "index": 20,
-          "word": "Engine",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " It is hard to communicate how frustratingly opaque Apple's hardware stack can be. We all target the Mac's GPU via MLX or llama.",
-      "language": "en",
-      "processed_at": "2026-03-05T13:23:53.145Z"
     }
   ],
-  "processedAt": "2026-03-20T05:32:25.523Z",
+  "processedAt": "2026-03-20T08:56:07.186Z",
   "categories": [
     "safety-ethics",
     "creative-ai",
@@ -65033,9 +64599,9 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 43,
-  "existingArticlesKept": 1880,
+  "newArticlesProcessed": 11,
+  "existingArticlesKept": 1863,
   "cleanupApplied": true,
-  "cleanedUpCount": 60,
+  "cleanedUpCount": 24,
   "rollingWindowDays": 15
 }
