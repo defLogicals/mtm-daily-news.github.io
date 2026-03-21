@@ -1,9 +1,385 @@
 {
-  "crawledAt": "2026-03-21T16:38:54.372Z",
+  "crawledAt": "2026-03-21T20:35:46.907Z",
   "totalSources": 70,
-  "totalArticles": 1752,
+  "totalArticles": 1750,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "AI Agent Evaluations: Building Trust for Success",
+      "url": "https://pub.towardsai.net/ai-agent-evaluations-building-trust-for-success-e138ab1f82f3?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T20:01:00.000Z",
+      "metaDescription": "Explore why comprehensive AI agent evaluations, focusing on user interaction and trust, are crucial for successful deployment.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9843649283714878,
+      "crawledAt": "2026-03-21T20:34:59.138Z",
+      "id": "ca7ihw",
+      "entities": [],
+      "summary": "AI agent evaluations, focusing on user interaction and trust, are crucial for successful deployment. Explore why comprehensive AI agent evaluations are crucial.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:35:57.877Z"
+    },
+    {
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:30:27.000Z",
+      "metaDescription": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.3830315497841037,
+      "crawledAt": "2026-03-21T20:34:22.916Z",
+      "id": "hp3dv7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9653262495994568,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Hachette Book Group says it will not be publishing \"Shy Girl\" over concerns about artificial intelligence.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:08.651Z"
+    },
+    {
+      "title": "AI Isn’t Something You Talk To Anymore — It’s Something That Works For You",
+      "url": "https://ai.plainenglish.io/ai-isnt-something-you-talk-to-anymore-it-s-something-that-works-for-you-13f55a43afff?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:03:35.000Z",
+      "metaDescription": "The shift from chat to agents is the biggest change in how software gets built. Here’s the complete mental model every builder needs — and…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9318503319910505,
+      "crawledAt": "2026-03-21T20:35:06.037Z",
+      "id": "g6yzex",
+      "entities": [],
+      "summary": " The shift from chat to agents is the biggest change in how software gets built. The shift is the most significant change in the way software is built.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:17.973Z"
+    },
+    {
+      "title": "AI Fairness Metrics Explained: A Practical Guide with Python",
+      "url": "https://ai.plainenglish.io/ai-fairness-metrics-explained-a-practical-guide-with-python-5f7f7ce270c8?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:03:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.42178609161621833,
+      "crawledAt": "2026-03-21T20:35:06.100Z",
+      "id": "8hovfy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9490915536880493,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:18.080Z"
+    },
+    {
+      "title": "When AI Stops Guessing and Starts Proving",
+      "url": "https://ai.plainenglish.io/when-ai-stops-guessing-and-starts-proving-f3f7f795b4da?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:02:55.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.2637766704979866,
+      "crawledAt": "2026-03-21T20:35:06.153Z",
+      "id": "btfdpv",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:18.207Z"
+    },
+    {
+      "title": "How to Read AI Responses",
+      "url": "https://ai.plainenglish.io/how-to-read-ai-responses-93ee126ff74d?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:02:23.000Z",
+      "metaDescription": "For Career Moves\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.39441785326746437,
+      "crawledAt": "2026-03-21T20:35:06.380Z",
+      "id": "4529ur",
+      "entities": [],
+      "summary": " For Career Moves: Read on Artificial Intelligence in Plain English. For Career moves: For Career Move: For career Moves. For Career Moving: Read On Career Moves.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:29.034Z"
+    },
+    {
+      "title": "3 AI Releases This Week That Prove the Agent Era Is Here",
+      "url": "https://ai.plainenglish.io/3-ai-releases-this-week-that-prove-the-agent-era-is-here-889ea11abfff?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:02:02.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9365932924740511,
+      "crawledAt": "2026-03-21T20:35:06.445Z",
+      "id": "fj7s20",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8709093332290649,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9281765818595886,
+          "index": 11,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:29.137Z"
+    },
+    {
+      "title": "Nemotron 3: NVIDIA’s Latest LLM in Plain English",
+      "url": "https://pub.towardsai.net/nemotron-3-nvidias-latest-llm-in-plain-english-b8ea21bc9a00?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:01:01.000Z",
+      "metaDescription": "A simple breakdown of LatentMoE, 1M context, reinforcement learning, and NVIDIA’s open model strategy\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.2614475426506234,
+      "crawledAt": "2026-03-21T20:34:59.287Z",
+      "id": "3ulxpq",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9148145318031311,
+          "index": 3,
+          "word": "##ot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9901766180992126,
+          "index": 7,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.988336980342865,
+          "index": 9,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9449622631072998,
+          "index": 10,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9777826070785522,
+          "index": 18,
+          "word": "Plain",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9725332260131836,
+          "index": 19,
+          "word": "English",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A breakdown of LatentMoE, 1M context, reinforcement learning, and NVIDIA’s open model strategy.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:41.658Z"
+    },
+    {
+      "title": "When Computing Power Meets the Soul: The Symbiotic Engineering of ICL and ConVA Fusion",
+      "url": "https://ai.plainenglish.io/when-computing-power-meets-the-soul-the-symbiotic-engineering-of-icl-and-conva-fusion-4599f0a182f2?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:00:54.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.31098103343165584,
+      "crawledAt": "2026-03-21T20:35:06.607Z",
+      "id": "3gok3b",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8161415457725525,
+          "index": 3,
+          "word": "Power",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9956356287002563,
+          "index": 15,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944624900817871,
+          "index": 16,
+          "word": "##CL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9793066382408142,
+          "index": 18,
+          "word": "Con",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9524624943733215,
+          "index": 19,
+          "word": "##VA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8326901197433472,
+          "index": 20,
+          "word": "Fusion",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:41.964Z"
+    },
+    {
+      "title": "Blockchain Development Trends: What Businesses Need to Know Today",
+      "url": "https://ai.plainenglish.io/blockchain-development-trends-what-businesses-need-to-know-today-5b66b3729aa4?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T19:00:28.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 5,
+      "confidence": 0.37981546650040693,
+      "crawledAt": "2026-03-21T20:35:06.675Z",
+      "id": "91jcz7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8090740442276001,
+          "index": 1,
+          "word": "Block",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9729704856872559,
+          "index": 3,
+          "word": "##in",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9646074771881104,
+          "index": 4,
+          "word": "Development",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:42.096Z"
+    },
+    {
+      "title": "From CSS Selectors to Natural Language: Web Scraping with ScrapeGraphAI",
+      "url": "https://pub.towardsai.net/from-css-selectors-to-natural-language-web-scraping-with-scrapegraphai-43d30dea828d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T18:01:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.29234394294439064,
+      "crawledAt": "2026-03-21T20:34:59.359Z",
+      "id": "lf69b7",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9428630471229553,
+          "index": 8,
+          "word": "Language",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T20:36:42.254Z"
+    },
     {
       "title": "MiniMax M2.7 Built Itself! Here’s How to Use It Like a Pro",
       "url": "https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-27529761d9a7?source=rss----98111c9905da---4",
@@ -60758,546 +61134,25 @@
       "summary": " How autonomous code analysis exposed what human reviews couldn’t — and why I’m still not sure if I should celebrate or panic — and how I�’s still notSure if I  should celebrate.",
       "language": "en",
       "processed_at": "2026-03-07T02:31:30.570Z"
-    },
-    {
-      "title": "SAFE: Designing Responsible Agentic Systems",
-      "url": "https://pub.towardsai.net/safe-designing-responsible-agentic-systems-3dcc27075d4b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T20:01:01.000Z",
-      "metaDescription": "",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.9715812776019523,
-      "crawledAt": "2026-03-06T20:39:17.908Z",
-      "id": "52f4bm",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:40:19.117Z"
-    },
-    {
-      "title": "Google's new command line tool can plug OpenClaw into your Workspace data",
-      "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-06T19:56:20.000Z",
-      "metaDescription": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product.",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.5816925126986148,
-      "crawledAt": "2026-03-06T20:38:41.804Z",
-      "id": "e6q1uf",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9984833002090454,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9229364991188049,
-          "index": 11,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8908690214157104,
-          "index": 12,
-          "word": "##law",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9070297479629517,
-          "index": 15,
-          "word": "Works",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product. This could be easier toplug AI into workspace APIs.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:40:31.557Z"
-    },
-    {
-      "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
-      "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-06T19:56:20.000Z",
-      "metaDescription": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product.",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.8148992310765976,
-      "crawledAt": "2026-03-07T02:27:57.070Z",
-      "id": "n1dkh0",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.998565137386322,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9502142071723938,
-          "index": 12,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8732507824897766,
-          "index": 13,
-          "word": "##law",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.986563503742218,
-          "index": 16,
-          "word": "Works",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product. This could be easier toplug AI into workspace APIs.",
-      "language": "en",
-      "processed_at": "2026-03-07T02:31:55.583Z"
-    },
-    {
-      "title": "What Makes Quantum Machine Learning “Quantum”?",
-      "url": "https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T19:39:55.000Z",
-      "metaDescription": "And where is it today?\nThe post What Makes Quantum Machine Learning “Quantum”? appeared first on Towards Data Science.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3387283253419338,
-      "crawledAt": "2026-03-06T20:38:50.114Z",
-      "id": "3ouc91",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.97808837890625,
-          "index": 3,
-          "word": "Quantum",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9887804388999939,
-          "index": 4,
-          "word": "Machine",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9827924966812134,
-          "index": 5,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9281847476959229,
-          "index": 8,
-          "word": "”",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The post What Makes Quantum Machine Learning? appeared first on Towards Data Science. And where is it today? And where are it today?\"",
-      "language": "en",
-      "processed_at": "2026-03-06T20:41:15.251Z"
-    },
-    {
-      "title": "Is the Pentagon allowed to surveil Americans with AI?",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T19:21:22.000Z",
-      "metaDescription": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass su",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.42045570671680105,
-      "crawledAt": "2026-03-06T20:38:45.494Z",
-      "id": "qjzhtf",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.998170018196106,
-          "index": 3,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9996482133865356,
-          "index": 9,
-          "word": "Americans",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9880228042602539,
-          "index": 11,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Department of Defense and AI company Anthropic have been feuding over the law allowing mass su su sues. The ongoing public feud has raised a deep and still unanswered question: Does the law allow the US government to conduct mass sues?",
-      "language": "en",
-      "processed_at": "2026-03-06T20:41:28.769Z"
-    },
-    {
-      "title": "Context Pollution: Do LLMs Benefit From Their Own Words?",
-      "url": "https://pub.towardsai.net/context-pollution-do-llms-benefit-from-their-own-words-e21984ea53c5?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T19:01:01.000Z",
-      "metaDescription": "New MIT and IBM research shows context pollution — not intelligence — is quietly breaking your multi-turn AI conversations\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.29405980388996356,
-      "crawledAt": "2026-03-06T20:39:18.038Z",
-      "id": "vk4vku",
-      "entities": [],
-      "summary": "New MIT and IBM research shows context pollution — not intelligence — is quietly breaking your multi-turn AI conversations. New MIT andIB research showscontext pollution —not intelligence — isn't intelligence.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:41:41.363Z"
-    },
-    {
-      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
-      "url": "https://huggingface.co/blog/nvidia/model-evaluation-skill",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T18:56:10.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.41790797250397754,
-      "crawledAt": "2026-03-06T20:38:25.236Z",
-      "id": "an2eo7",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.8147588968276978,
-          "index": 12,
-          "word": "##VI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:42:01.382Z"
-    },
-    {
-      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-      "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T18:09:11.000Z",
-      "metaDescription": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.25027153501781013,
-      "crawledAt": "2026-03-06T20:38:38.895Z",
-      "id": "7z76sj",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9975157976150513,
-          "index": 6,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Pentagon has officially designated Anthropic a supply-chain risk. The two failed to agree on how much control the military should have over its AI models.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:42:37.044Z"
-    },
-    {
-      "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
-      "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T18:01:38.000Z",
-      "metaDescription": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.2790815871259329,
-      "crawledAt": "2026-03-06T20:38:39.090Z",
-      "id": "muof8j",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9965529441833496,
-          "index": 7,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9779157042503357,
-          "index": 10,
-          "word": "Sa",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8933085799217224,
-          "index": 11,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9682308435440063,
-          "index": 12,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9805615544319153,
-          "index": 14,
-          "word": "##cal",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Pentagon has officially designated Anthropic a supply-chain risk. The two failed to agree on how much control the military should have over its AI models.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:42:50.673Z"
-    },
-    {
-      "title": "The 4 Model Merging Techniques: How to Combine AI Models Without Training",
-      "url": "https://pub.towardsai.net/the-4-model-merging-techniques-how-to-combine-ai-models-without-training-1f5a4621cd0e?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T18:01:01.000Z",
-      "metaDescription": "Understanding Weight Averaging, SLERP, Task Arithmetic, and Model Soups\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.27258087990325547,
-      "crawledAt": "2026-03-06T20:39:18.155Z",
-      "id": "d7phqf",
-      "entities": [],
-      "summary": " Read on Towards AI. Understanding Weight Averaging, SLERP, Task Arithmetic, and Model Soups.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:43:00.460Z"
-    },
-    {
-      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-      "source": "Google AI Blog",
-      "source_domain": "blog.google",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T18:00:00.000Z",
-      "metaDescription": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9450575673347233,
-      "crawledAt": "2026-03-07T02:27:41.814Z",
-      "id": "nu7ywr",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9910269975662231,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9981156587600708,
-          "index": 8,
-          "word": "Species",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9917972683906555,
-          "index": 9,
-          "word": "##Net",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " SpeciesNet is an open-source AI model that is helping people around the world protect and conserve wildlife. The open- source AI model is helping to protect and protect wildlife.",
-      "language": "en",
-      "processed_at": "2026-03-07T02:32:05.815Z"
-    },
-    {
-      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
-      "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T17:56:07.000Z",
-      "metaDescription": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.2800648108898221,
-      "crawledAt": "2026-03-06T20:38:39.214Z",
-      "id": "xcbjly",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.995415449142456,
-          "index": 9,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Claude's app is now seeing more new installs than ChatGPT. The app is growing its daily active users.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:43:09.271Z"
-    },
-    {
-      "title": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
-      "url": "https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-06T17:15:22.000Z",
-      "metaDescription": "RFK Jr. has tried hard to villainize Fauci. Americans still trust Fauci more.",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.2626772791569682,
-      "crawledAt": "2026-03-06T20:38:42.496Z",
-      "id": "1reugc",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9995688796043396,
-          "index": 1,
-          "word": "Americans",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9946601390838623,
-          "index": 3,
-          "word": "F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.8182141184806824,
-          "index": 4,
-          "word": "##au",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9631742835044861,
-          "index": 7,
-          "word": "RF",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9194491505622864,
-          "index": 8,
-          "word": "##K",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9445452094078064,
-          "index": 9,
-          "word": "Jr",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.996661365032196,
-          "index": 15,
-          "word": "Trump",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " RFK Jr. has tried hard to villainize Fauci. Americans still trust Fauce more. RFK Sr. has been trying to get Fauc back to the public.",
-      "language": "en",
-      "processed_at": "2026-03-06T20:43:21.871Z"
     }
   ],
-  "processedAt": "2026-03-21T16:40:10.006Z",
+  "processedAt": "2026-03-21T20:36:55.096Z",
   "categories": [
+    "ai-agents",
+    "creative-ai",
+    "industry-news",
     "infrastructure",
     "research-paper",
     "developer-tool",
-    "ai-agents",
-    "creative-ai",
     "product-launch",
     "safety-ethics",
     "model-release",
-    "tutorial-guide",
-    "industry-news"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 4,
-  "existingArticlesKept": 1766,
+  "newArticlesProcessed": 11,
+  "existingArticlesKept": 1752,
   "cleanupApplied": true,
-  "cleanedUpCount": 18,
+  "cleanedUpCount": 13,
   "rollingWindowDays": 15
 }
