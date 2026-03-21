@@ -1,9 +1,182 @@
 {
-  "crawledAt": "2026-03-21T08:42:12.626Z",
+  "crawledAt": "2026-03-21T13:03:37.921Z",
   "totalSources": 70,
-  "totalArticles": 9,
+  "totalArticles": 15,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
+      "url": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T13:00:00.000Z",
+      "metaDescription": "Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP\nThe post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Appro",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.27683972235818094,
+      "crawledAt": "2026-03-21T13:02:22.072Z",
+      "id": "u5vs1m",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9787434339523315,
+          "index": 6,
+          "word": "Non",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9667092561721802,
+          "index": 7,
+          "word": "##linear",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP. The post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approization.",
+      "language": "en",
+      "processed_at": "2026-03-21T13:03:53.771Z"
+    },
+    {
+      "title": "Claude Skills 2.0 for Beginners: Build & Sell AI Agents Without Coding",
+      "url": "https://pub.towardsai.net/claude-skills-2-0-for-beginners-build-sell-ai-agents-without-coding-302496803ac7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T12:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9662139937193494,
+      "crawledAt": "2026-03-21T13:02:45.958Z",
+      "id": "s9klqt",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-21T13:04:03.810Z"
+    },
+    {
+      "title": "Bacteria Grid Puzzle Solution",
+      "url": "https://www.youtube.com/shorts/Qoes9bTJtn0",
+      "source": "3Blue1Brown",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-21T11:42:53.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.28566720357115655,
+      "crawledAt": "2026-03-21T13:03:02.284Z",
+      "id": "calz1e",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T13:04:03.926Z"
+    },
+    {
+      "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+      "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T10:30:00.000Z",
+      "metaDescription": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.47785026904546524,
+      "crawledAt": "2026-03-21T13:02:18.665Z",
+      "id": "kiacnx",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8937346935272217,
+          "index": 7,
+          "word": "Car",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9963153004646301,
+          "index": 8,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8535451889038086,
+          "index": 9,
+          "word": "##reath",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The FBI says it's buying phone data to track Americans, and more. It's buying data to help track Americans.",
+      "language": "en",
+      "processed_at": "2026-03-21T13:04:32.276Z"
+    },
+    {
+      "title": "DOGE goes nuclear: How trump invited silicon valley into America’s nuclear power regulator",
+      "url": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-21T10:00:18.000Z",
+      "metaDescription": "“Assume the NRC is going to do whatever we tell the NRC to do.”",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.25427588786677996,
+      "crawledAt": "2026-03-21T13:02:14.924Z",
+      "id": "yi0wmw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9139405488967896,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996224641799927,
+          "index": 14,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " “Assume the NRC is going to do whatever we tell the N.RC to do’s’. ‘Assume that the N RC is going.’",
+      "language": "en",
+      "processed_at": "2026-03-21T13:04:47.444Z"
+    },
+    {
+      "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
+      "url": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T10:00:00.000Z",
+      "metaDescription": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4074710777459406,
+      "crawledAt": "2026-03-21T13:02:18.814Z",
+      "id": "uqx6vk",
+      "entities": [],
+      "summary": " The Amazon Prime prank series shows how people find purpose and community in their jobs. The series also shows how they find purpose in their lives.",
+      "language": "en",
+      "processed_at": "2026-03-21T13:04:57.434Z"
+    },
     {
       "title": "BERT vs. Transformers: A Complete Architectural and Mathematical Dissection",
       "url": "https://pub.towardsai.net/bert-vs-transformers-a-complete-architectural-and-mathematical-dissection-b4877c911fd6?source=rss----98111c9905da---4",
@@ -268,8 +441,15 @@
       "processed_at": "2026-03-21T02:34:06.283Z"
     }
   ],
-  "processedAt": "2026-03-21T08:42:12.921Z",
-  "processingMethod": "cached",
-  "dailyArticlesCount": 9,
+  "processedAt": "2026-03-21T13:04:57.571Z",
+  "categories": [
+    "infrastructure",
+    "ai-agents",
+    "creative-ai",
+    "product-launch"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 6,
+  "dailyArticlesCount": 15,
   "filterDate": "2026-03-21"
 }
