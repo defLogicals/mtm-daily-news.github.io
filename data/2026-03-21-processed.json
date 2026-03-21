@@ -1,9 +1,84 @@
 {
-  "crawledAt": "2026-03-21T13:03:37.921Z",
+  "crawledAt": "2026-03-21T16:38:54.372Z",
   "totalSources": 70,
-  "totalArticles": 15,
+  "totalArticles": 19,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "MiniMax M2.7 Built Itself! Here’s How to Use It Like a Pro",
+      "url": "https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-27529761d9a7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T16:01:00.000Z",
+      "metaDescription": "Setup guides and the official prompting guide from MiniMax’s own docs and the exact workflow that replaced GLM-5 in my coding stack.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.39006903944529936,
+      "crawledAt": "2026-03-21T16:37:59.278Z",
+      "id": "m6neam",
+      "entities": [],
+      "summary": " setup guides and the official prompting guide from MiniMax’s own docs. The exact workflow that replaced GLM-5 in my coding stack.",
+      "language": "en",
+      "processed_at": "2026-03-21T16:39:17.931Z"
+    },
+    {
+      "title": "Vector RAG Is Dead. PageIndex Just Proved It.",
+      "url": "https://ai.plainenglish.io/vector-rag-is-dead-pageindex-just-proved-it-470ea6ac446a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T15:43:31.000Z",
+      "metaDescription": "How a reasoning-based, tree-search framework achieved 98.7% accuracy — and quietly challenged a $2.2 billion industry\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "research-paper",
+      "difficulty": 4,
+      "confidence": 0.27643895943693053,
+      "crawledAt": "2026-03-21T16:38:11.141Z",
+      "id": "9zkhku",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9135216474533081,
+          "index": 8,
+          "word": "Page",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " How a tree-search framework achieved 98.7% accuracy — and quietly challenged a $2.2 billion industry.",
+      "language": "en",
+      "processed_at": "2026-03-21T16:39:28.293Z"
+    },
+    {
+      "title": "Exploration and Exploitation: The Simple Yet Profound Logic at the Heart of Reinforcement Learning",
+      "url": "https://pub.towardsai.net/exploration-and-exploitation-the-simple-yet-profound-logic-at-the-heart-of-reinforcement-learning-b3cb232942e6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-21T14:01:01.000Z",
+      "metaDescription": "Why every smart system — and every smart person — must learn to balance “trying new things” with “sticking to what works”\nContinue reading on Towards AI »",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.3365321745270067,
+      "crawledAt": "2026-03-21T16:37:59.463Z",
+      "id": "283wiu",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8471812009811401,
+          "index": 6,
+          "word": "##itation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Every smart system must learn to balance “trying new things’ with “sticking to what works’",
+      "language": "en",
+      "processed_at": "2026-03-21T16:39:54.592Z"
+    },
     {
       "title": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
       "url": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/",
@@ -157,6 +232,58 @@
       "summary": " “Assume the NRC is going to do whatever we tell the N.RC to do’s’. ‘Assume that the N RC is going.’",
       "language": "en",
       "processed_at": "2026-03-21T13:04:47.444Z"
+    },
+    {
+      "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
+      "url": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-21T10:00:18.000Z",
+      "metaDescription": "“Assume the NRC is going to do whatever we tell the NRC to do.”",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.25427588786677996,
+      "crawledAt": "2026-03-21T16:37:31.313Z",
+      "id": "2ijrfc",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9985852837562561,
+          "index": 8,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987401962280273,
+          "index": 10,
+          "word": "Silicon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9991631507873535,
+          "index": 11,
+          "word": "Valley",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995343089103699,
+          "index": 13,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " “Assume the NRC is going to do whatever we tell the N.RC to do’s’. ‘Assume that the N RC is going.’",
+      "language": "en",
+      "processed_at": "2026-03-21T16:40:10.002Z"
     },
     {
       "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
@@ -441,15 +568,17 @@
       "processed_at": "2026-03-21T02:34:06.283Z"
     }
   ],
-  "processedAt": "2026-03-21T13:04:57.571Z",
+  "processedAt": "2026-03-21T16:40:10.008Z",
   "categories": [
     "infrastructure",
+    "research-paper",
+    "developer-tool",
     "ai-agents",
     "creative-ai",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 6,
-  "dailyArticlesCount": 15,
+  "newArticlesProcessed": 4,
+  "dailyArticlesCount": 19,
   "filterDate": "2026-03-21"
 }
