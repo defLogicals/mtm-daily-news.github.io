@@ -1,9 +1,196 @@
 {
-  "crawledAt": "2026-03-20T20:41:14.861Z",
+  "crawledAt": "2026-03-21T02:32:06.218Z",
   "totalSources": 70,
-  "totalArticles": 1834,
+  "totalArticles": 1825,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The Hidden Reason Claude Gets Worse in Long Sessions",
+      "url": "https://python.plainenglish.io/the-hidden-reason-claude-gets-worse-in-long-sessions-030d319bef6d?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T21:59:15.000Z",
+      "metaDescription": "You’ve seen it.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.31487817388715633,
+      "crawledAt": "2026-03-21T02:31:23.698Z",
+      "id": "kpu2pd",
+      "entities": [],
+      "summary": " You’ve seen it. You”ve seen the Python in Plain English. You�’s been watching it for years.",
+      "language": "en",
+      "processed_at": "2026-03-21T02:33:23.847Z"
+    },
+    {
+      "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
+      "url": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T21:35:56.000Z",
+      "metaDescription": "ULA's Vulcan launch vehicle is grounded after a solid rocket booster anomaly last month.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.2891870487233973,
+      "crawledAt": "2026-03-21T02:30:57.494Z",
+      "id": "oqi08t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988768100738525,
+          "index": 4,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9908849596977234,
+          "index": 5,
+          "word": "##LA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9278845191001892,
+          "index": 12,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ULA's Vulcan launch vehicle is grounded after a solid rocket booster anomaly last month. ULA's launch vehicle was grounded after the anomaly.",
+      "language": "en",
+      "processed_at": "2026-03-21T02:33:33.123Z"
+    },
+    {
+      "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+      "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-20T21:03:10.000Z",
+      "metaDescription": "One of the first controversies of its kind.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.34752511321676605,
+      "crawledAt": "2026-03-21T02:30:57.614Z",
+      "id": "h7y9i4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9943566918373108,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-21T02:33:43.665Z"
+    },
+    {
+      "title": "The Great AI Trade-Off: Tech Is Firing Thousands to Fund the Future",
+      "url": "https://ai.plainenglish.io/the-great-ai-trade-off-tech-is-firing-thousands-to-fund-the-future-ea96caafe491?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T20:53:24.000Z",
+      "metaDescription": "Oracle wants to cut 30,000. Block already axed 40%. Meta is next. 2026 is the year AI stopped being just an excuse — and became a…\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.837216732963879,
+      "crawledAt": "2026-03-21T02:31:24.289Z",
+      "id": "k79h3t",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9203515648841858,
+          "index": 2,
+          "word": "Great",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8142206072807312,
+          "index": 6,
+          "word": "Off",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Oracle wants to cut 30,000 people. Block already axed 40%. Meta is next. 2026 is the year AI stopped being just an excuse.",
+      "language": "en",
+      "processed_at": "2026-03-21T02:33:54.356Z"
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-20T20:53:09.000Z",
+      "metaDescription": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.39027273958117564,
+      "crawledAt": "2026-03-21T02:30:55.789Z",
+      "id": "pqsyj3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9961820840835571,
+          "index": 1,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9447094202041626,
+          "index": 7,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9129155874252319,
+          "index": 9,
+          "word": "##lot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8631510138511658,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9967588782310486,
+          "index": 14,
+          "word": "Windows",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "language": "en",
+      "processed_at": "2026-03-21T02:34:06.283Z"
+    },
     {
       "title": "NASA issues draft request for moving space shuttle Discovery—or Orion capsule",
       "url": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
@@ -63399,738 +63586,12 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-06T05:30:41.763Z"
-    },
-    {
-      "title": "AI Agent Protocols Explained: The Infrastructure Powering the Agentic Internet",
-      "url": "https://pub.towardsai.net/ai-agent-protocols-explained-the-infrastructure-powering-the-agentic-internet-5d52ce98576d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T02:27:51.000Z",
-      "metaDescription": "Understanding MCP, A2A, ACP, and ANP — the protocols enabling AI agents to communicate, collaborate, and operate autonomously.\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.5720337829534746,
-      "crawledAt": "2026-03-06T05:12:54.348Z",
-      "id": "rdfvfo",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9770609140396118,
-          "index": 1,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.978679358959198,
-          "index": 2,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9477872252464294,
-          "index": 3,
-          "word": "Protocol",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9101876616477966,
-          "index": 14,
-          "word": "Agent",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9760684967041016,
-          "index": 15,
-          "word": "##ic",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9524673223495483,
-          "index": 16,
-          "word": "Internet",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The protocols enabling AI agents to communicate, collaborate, and operate autonomously. Understanding MCP, A2A, A 2A, ACP, and ANP are the protocols enabling them to communicate and collaborate.",
-      "language": "en",
-      "processed_at": "2026-03-06T05:30:57.894Z"
-    },
-    {
-      "title": "Anthropic to challenge DOD’s supply-chain label in court",
-      "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-06T01:28:54.000Z",
-      "metaDescription": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2723530064030109,
-      "crawledAt": "2026-03-06T05:12:14.372Z",
-      "id": "3ijshs",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9991495609283447,
-          "index": 6,
-          "word": "D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9927282333374023,
-          "index": 7,
-          "word": "##OD",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Dario Amodei says most customers are unaffected by the label. He plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk.",
-      "language": "en",
-      "processed_at": "2026-03-06T05:31:09.356Z"
-    },
-    {
-      "title": "Google Workspace CLI brings Gmail, Docs, Sheets and more into a common interface for AI agents",
-      "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-06T01:20:00.000Z",
-      "metaDescription": "What's old is new: the command line — the original, clunky non-graphical interface for interacting with and controlling PCs, where the user just typed in raw commands in code — has become one of the m",
-      "category": "ai-agents",
-      "difficulty": 7,
-      "confidence": 0.7091975219717009,
-      "crawledAt": "2026-03-06T02:34:35.615Z",
-      "id": "p08wqr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9961194396018982,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.997887372970581,
-          "index": 2,
-          "word": "Works",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9933289885520935,
-          "index": 3,
-          "word": "##pace",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9496411681175232,
-          "index": 4,
-          "word": "C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8529998660087585,
-          "index": 5,
-          "word": "##L",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8801944851875305,
-          "index": 8,
-          "word": "G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9077216982841492,
-          "index": 23,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The original, clunky non-graphical interface for interacting with and controlling PCs has become one of the m m m.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:36:38.143Z"
-    },
-    {
-      "title": "New Update Makes GPT-5.3 Instant More Useful For Everyday Tasks",
-      "url": "https://www.analyticsvidhya.com/blog/2026/03/gpt-5-3-instant-update/",
-      "source": "Analytics Vidhya",
-      "source_domain": "analyticsvidhya.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-06T00:58:26.000Z",
-      "metaDescription": "You don’t always go for a benchmark score to see which AI model fits your needs. Even the highest ranking models sometimes seem to miss the essence of a conversation entirely. What matters then is how",
-      "category": "model-release",
-      "difficulty": 3,
-      "confidence": 0.9741087235948771,
-      "crawledAt": "2026-03-06T02:36:00.396Z",
-      "id": "tr0sxh",
-      "entities": [],
-      "summary": " Even the highest ranking models sometimes miss the essence of a conversation entirely. What matters then is how the AI model works?",
-      "language": "en",
-      "processed_at": "2026-03-06T02:36:46.935Z"
-    },
-    {
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T23:36:04.000Z",
-      "metaDescription": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.26234243961085635,
-      "crawledAt": "2026-03-06T02:34:28.352Z",
-      "id": "jvh7j8",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9596222043037415,
-          "index": 4,
-          "word": "Ray",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9409993290901184,
-          "index": 7,
-          "word": "Met",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Meta accused of \"concealing the facts\" about smart glass users' privacy. Meta accused the company of \"Concealing\" the facts.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:37:12.630Z"
-    },
-    {
-      "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-      "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T23:14:04.000Z",
-      "metaDescription": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-      "category": "ai-agents",
-      "difficulty": 9,
-      "confidence": 0.9864687569587842,
-      "crawledAt": "2026-03-06T02:34:25.394Z",
-      "id": "flrqyh",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9514680504798889,
-          "index": 1,
-          "word": "Di",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9287303686141968,
-          "index": 3,
-          "word": "##gence",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9514132738113403,
-          "index": 4,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.87044757604599,
-          "index": 6,
-          "word": "##red",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9834958910942078,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9927642345428467,
-          "index": 14,
-          "word": "M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9895542860031128,
-          "index": 15,
-          "word": "&",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9654222130775452,
-          "index": 16,
-          "word": "A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The startup uses AI to conduct interviews with customers of companies the PE firms are considering buying. The company uses AI agents to conduct conversations with customers.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:37:23.334Z"
-    },
-    {
-      "title": "WhatsApp Business API Conversation Design: Building LLM Assistants Around the 24-Hour Window and…",
-      "url": "https://pub.towardsai.net/whatsapp-business-api-conversation-design-building-llm-assistants-around-the-24-hour-window-and-71c58fca559c?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T23:02:02.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.9296508099915314,
-      "crawledAt": "2026-03-06T05:12:54.527Z",
-      "id": "r08qrs",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9851408004760742,
-          "index": 1,
-          "word": "What",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9259668588638306,
-          "index": 2,
-          "word": "##s",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9933854341506958,
-          "index": 3,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.98651522397995,
-          "index": 4,
-          "word": "##pp",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9598138928413391,
-          "index": 5,
-          "word": "Business",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9589759111404419,
-          "index": 6,
-          "word": "API",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-06T05:31:09.698Z"
-    },
-    {
-      "title": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
-      "source": "Wired AI",
-      "source_domain": "wired.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T22:17:54.000Z",
-      "metaDescription": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
-      "category": "creative-ai",
-      "difficulty": 9,
-      "confidence": 0.38182241782749815,
-      "crawledAt": "2026-03-06T02:34:33.874Z",
-      "id": "4t2get",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9732748866081238,
-          "index": 2,
-          "word": "Un",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9575105309486389,
-          "index": 5,
-          "word": "Valley",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9497780799865723,
-          "index": 6,
-          "word": "’",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9942830801010132,
-          "index": 8,
-          "word": "Iran",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9921185970306396,
-          "index": 9,
-          "word": "War",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9907084703445435,
-          "index": 12,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9925699234008789,
-          "index": 13,
-          "word": "Era",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9302592873573303,
-          "index": 17,
-          "word": "Market",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9899264574050903,
-          "index": 21,
-          "word": "Paramount",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9909160733222961,
-          "index": 22,
-          "word": "Beat",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.978851318359375,
-          "index": 23,
-          "word": "##s",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9673969745635986,
-          "index": 24,
-          "word": "Netflix",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The AI industry has been entrenching itself with the Department of Defense. This week's episode is a look at the ongoing conflict in the Middle East.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:37:33.346Z"
-    },
-    {
-      "title": "AWS launches a new AI agent platform specifically for healthcare",
-      "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T21:54:37.000Z",
-      "metaDescription": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.8411938286312509,
-      "crawledAt": "2026-03-06T02:34:25.526Z",
-      "id": "mphz4",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.998328685760498,
-          "index": 1,
-          "word": "A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9602829217910767,
-          "index": 2,
-          "word": "##WS",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9125126600265503,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:37:54.964Z"
-    },
-    {
-      "title": "5 Libraries That Make Your Backend Look Enterprise-Level",
-      "url": "https://python.plainenglish.io/5-libraries-that-make-your-backend-look-enterprise-level-f335d4a0a2a6?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T21:44:54.000Z",
-      "metaDescription": "Structure That Impresses Clients\nContinue reading on Python in Plain English »",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.2765617335519356,
-      "crawledAt": "2026-03-06T02:35:07.655Z",
-      "id": "jix5wb",
-      "entities": [],
-      "summary": " Structure That Impresses Clients Clients. Structure That I Impresss Clients. Read on Python in Plain English.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:38:04.857Z"
-    },
-    {
-      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-      "url": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T21:39:43.000Z",
-      "metaDescription": "Project Helix is set to open the closed-console ecosystem, but the details will matter.",
-      "category": "product-launch",
-      "difficulty": 5,
-      "confidence": 0.3571516969165628,
-      "crawledAt": "2026-03-06T02:34:28.482Z",
-      "id": "nm16d7",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9479422569274902,
-          "index": 1,
-          "word": "MS",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9984301328659058,
-          "index": 5,
-          "word": "Microsoft",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9868931770324707,
-          "index": 13,
-          "word": "Xbox",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8603915572166443,
-          "index": 15,
-          "word": "PC",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Project Helix is set to open the closed-console ecosystem. The details will matter, but the details will still matter.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:38:13.151Z"
-    },
-    {
-      "title": "ByteDance’s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
-      "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
-      "source": "Wired AI",
-      "source_domain": "wired.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T21:14:22.000Z",
-      "metaDescription": "ByteDance’s new Seedance 2.0 AI video model seemed unstoppable—until heavy demand strained the company’s compute capacity and copyright complaints began piling up.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.8201701060017484,
-      "crawledAt": "2026-03-06T02:34:34.206Z",
-      "id": "tdl2io",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9936187863349915,
-          "index": 1,
-          "word": "By",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8577603101730347,
-          "index": 2,
-          "word": "##te",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9932518601417542,
-          "index": 3,
-          "word": "##D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9272969365119934,
-          "index": 4,
-          "word": "##ance",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " ByteDance’s new Seedance 2.0 AI video model seems unstoppable. The new model is a new version of the company's new AI video software.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:38:44.610Z"
-    },
-    {
-      "title": "Amazon appears to be down, with over 20,000 reported problems",
-      "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-05T21:06:05.000Z",
-      "metaDescription": "Problems viewing products and checking out.",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.4857024766685506,
-      "crawledAt": "2026-03-06T02:34:28.711Z",
-      "id": "cn3q0l",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9988369941711426,
-          "index": 1,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:38:44.717Z"
-    },
-    {
-      "title": "The Codex app is now on Windows",
-      "url": "https://www.youtube.com/watch?v=8hNcRChDrNk",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-05T20:55:53.000Z",
-      "metaDescription": "",
-      "category": "research-paper",
-      "difficulty": 4,
-      "confidence": 0.2522819542646314,
-      "crawledAt": "2026-03-06T02:35:18.490Z",
-      "id": "4ynovs",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9963126182556152,
-          "index": 7,
-          "word": "Windows",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-06T02:38:44.837Z"
     }
   ],
-  "processedAt": "2026-03-20T20:43:55.533Z",
+  "processedAt": "2026-03-21T02:34:15.276Z",
   "categories": [
-    "product-launch",
     "creative-ai",
+    "product-launch",
     "infrastructure",
     "ai-agents",
     "safety-ethics",
@@ -64141,9 +63602,9 @@
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 11,
-  "existingArticlesKept": 1839,
+  "newArticlesProcessed": 5,
+  "existingArticlesKept": 1834,
   "cleanupApplied": true,
-  "cleanedUpCount": 16,
+  "cleanedUpCount": 14,
   "rollingWindowDays": 15
 }
