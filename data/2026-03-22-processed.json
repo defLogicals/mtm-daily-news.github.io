@@ -1,9 +1,328 @@
 {
-  "crawledAt": "2026-03-22T16:39:37.810Z",
+  "crawledAt": "2026-03-22T20:36:47.290Z",
   "totalSources": 70,
-  "totalArticles": 149,
+  "totalArticles": 155,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Fine-Tuning OpenAI’s GPT-OSS 20B: A Practitioner’s Guide to LoRA on MoE Models",
+      "url": "https://pub.towardsai.net/fine-tuning-openais-gpt-oss-20b-a-practitioner-s-guide-to-lora-on-moe-models-920171bf5258?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T20:01:00.000Z",
+      "metaDescription": "Everything we learned the hard way so you don’t have to\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 9,
+      "confidence": 0.4214595415945558,
+      "crawledAt": "2026-03-22T20:35:59.883Z",
+      "id": "caztyi",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9669660925865173,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9123720526695251,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9032191634178162,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8360077142715454,
+          "index": 31,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Everything we learned the hard way so you don’t have to have to read on Towards AI. Everything we learn the hardWay so youDon’s hard way. Everything you learned thehard way so we don�’n’d have to continue reading on Towards",
+      "language": "en",
+      "processed_at": "2026-03-22T20:37:06.689Z"
+    },
+    {
+      "title": "Improving Deep Neural Learning Networks : Practical Approaches and Applications to LLMs",
+      "url": "https://pub.towardsai.net/improving-deep-neural-learning-networks-part-1-practical-approaches-and-applications-to-llms-72b8632e725b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T19:01:00.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.6827562412905841,
+      "crawledAt": "2026-03-22T20:35:59.949Z",
+      "id": "gw1zd3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.986420750617981,
+          "index": 4,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929934144020081,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9876035451889038,
+          "index": 6,
+          "word": "##eur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9943249821662903,
+          "index": 7,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9942365288734436,
+          "index": 8,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9959715604782104,
+          "index": 9,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T20:37:26.128Z"
+    },
+    {
+      "title": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
+      "url": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T19:00:00.000Z",
+      "metaDescription": "Not long ago, the idea of being a “generalist” in the workplace had a mixed reputation. The stereotype was the “jack of all trades” who could dabble in many disciplines but was a “master of none.” And",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.2602659932616861,
+      "crawledAt": "2026-03-22T20:35:34.827Z",
+      "id": "7nwdc1",
+      "entities": [],
+      "summary": " The idea of being a “generalist’s’ in the workplace had a mixed reputation. The stereotype was the “jack of all trades’ who could dabble in many disciplines but was a ‘master of none’",
+      "language": "en",
+      "processed_at": "2026-03-22T20:37:41.910Z"
+    },
+    {
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T18:41:09.000Z",
+      "metaDescription": "Building on top of a Chinese model feels particularly fraught right now.",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.3185856904942123,
+      "crawledAt": "2026-03-22T20:35:24.335Z",
+      "id": "ark3w5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9526013135910034,
+          "index": 1,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9108800888061523,
+          "index": 14,
+          "word": "Moon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9196075201034546,
+          "index": 15,
+          "word": "##shot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9005788564682007,
+          "index": 16,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9951328635215759,
+          "index": 19,
+          "word": "Kim",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Building on top of a Chinese model feels particularly fraught right now. Building on the top of the Chinese model is a difficult task.",
+      "language": "en",
+      "processed_at": "2026-03-22T20:37:50.899Z"
+    },
+    {
+      "title": "How I Would Become an AI Engineer in 2026 If I Had to Start Over",
+      "url": "https://pub.towardsai.net/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T18:01:01.000Z",
+      "metaDescription": "What I would learn, what I would ignore, what I would build, and how I would know I was actually getting better.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2510134694390712,
+      "crawledAt": "2026-03-22T20:36:00.101Z",
+      "id": "8e8a6x",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.915134847164154,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9121342301368713,
+          "index": 8,
+          "word": "Engineer",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " What I would learn, what I would ignore, what he would ignore and how I would build, and how he would know I was getting better.",
+      "language": "en",
+      "processed_at": "2026-03-22T20:38:04.450Z"
+    },
+    {
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T16:20:00.000Z",
+      "metaDescription": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "category": "developer-tool",
+      "difficulty": 7,
+      "confidence": 0.794648581840116,
+      "crawledAt": "2026-03-22T20:35:24.474Z",
+      "id": "kw1dk8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994993209838867,
+          "index": 1,
+          "word": "El",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997771143913269,
+          "index": 2,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991458654403687,
+          "index": 3,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963201284408569,
+          "index": 4,
+          "word": "##sk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9961773753166199,
+          "index": 12,
+          "word": "Space",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944494962692261,
+          "index": 13,
+          "word": "##X",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9932225942611694,
+          "index": 15,
+          "word": "Te",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9904969930648804,
+          "index": 16,
+          "word": "##sla",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Elon Musk recently outlined ambitious plans for a chip-building collaboration with Tesla and SpaceX. But he has a history of overpromising.",
+      "language": "en",
+      "processed_at": "2026-03-22T20:38:13.884Z"
+    },
     {
       "title": "Nadine, A Social Robot",
       "url": "https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4",
@@ -4687,21 +5006,21 @@
       "processed_at": "2026-03-22T03:08:45.239Z"
     }
   ],
-  "processedAt": "2026-03-22T16:40:25.934Z",
+  "processedAt": "2026-03-22T20:38:25.591Z",
   "categories": [
     "creative-ai",
-    "tutorial-guide",
     "infrastructure",
+    "industry-news",
+    "developer-tool",
+    "tutorial-guide",
     "ai-agents",
     "safety-ethics",
     "product-launch",
-    "industry-news",
     "model-release",
-    "developer-tool",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 4,
-  "dailyArticlesCount": 149,
+  "newArticlesProcessed": 6,
+  "dailyArticlesCount": 155,
   "filterDate": "2026-03-22"
 }

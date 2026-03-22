@@ -1,24 +1,6 @@
 {
   "articles": [
     {
-      "title": "Can governments quickly and cheaply slow AI training?",
-      "url": "https://www.alignmentforum.org/posts/Xzf3eMnhTko7AxnEy/can-governments-quickly-and-cheaply-slow-ai-training",
-      "source": "Alignment Forum",
-      "source_domain": "alignmentforum.org",
-      "source_category": "safety",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T19:11:22.000Z",
-      "metaDescription": "I originally wrote this as a private doc for people working in the field - it's not super polished, or optimized for a broad audience.\nBut I'm publishing anyway because inference-verification is a new",
-      "category": null,
-      "difficulty": null,
-      "confidence": 0.19666800350744476,
-      "crawledAt": "2026-03-07T20:33:06.699Z",
-      "id": "lm8y29",
-      "rejectedReason": "low_confidence",
-      "confidenceThreshold": 0.25,
-      "rejected_at": "2026-03-07T20:34:27.175Z"
-    },
-    {
       "title": "Google just gave Sundar Pichai a $692M pay package",
       "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
       "source": "TechCrunch AI",
@@ -22859,11 +22841,65 @@
       "rejectedReason": "low_confidence",
       "confidenceThreshold": 0.25,
       "rejected_at": "2026-03-22T16:40:25.809Z"
+    },
+    {
+      "title": "I Use 7 AI Tools Together Daily. Here’s My Exact Stack",
+      "url": "https://python.plainenglish.io/i-use-7-ai-tools-together-daily-heres-my-exact-stack-d347e1f8afaf?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T19:53:32.000Z",
+      "metaDescription": "Most developers use AI tools like bookmarks.\nContinue reading on Python in Plain English »",
+      "category": null,
+      "difficulty": null,
+      "confidence": 0.22939999624334004,
+      "crawledAt": "2026-03-22T20:36:07.881Z",
+      "id": "nqo205",
+      "rejectedReason": "low_confidence",
+      "confidenceThreshold": 0.25,
+      "rejected_at": "2026-03-22T20:37:17.362Z"
+    },
+    {
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T19:45:07.000Z",
+      "metaDescription": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "category": null,
+      "difficulty": null,
+      "confidence": 0.24057452869309529,
+      "crawledAt": "2026-03-22T20:35:24.220Z",
+      "id": "8l3oxh",
+      "rejectedReason": "low_confidence",
+      "confidenceThreshold": 0.25,
+      "rejected_at": "2026-03-22T20:37:26.010Z"
+    },
+    {
+      "title": "Testing autonomous agents",
+      "url": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T16:00:00.000Z",
+      "metaDescription": "Look, we've spent the last 18 months building production AI systems, and we'll tell you what keeps us up at night — and it's not whether the model can answer questions. That's table stakes now. What h",
+      "category": null,
+      "difficulty": null,
+      "confidence": 0.2255507836445096,
+      "crawledAt": "2026-03-22T20:35:34.988Z",
+      "id": "u2dd2e",
+      "rejectedReason": "low_confidence",
+      "confidenceThreshold": 0.25,
+      "rejected_at": "2026-03-22T20:38:25.585Z"
     }
   ],
-  "updatedAt": "2026-03-22T16:40:25.980Z",
-  "totalRejected": 1270,
+  "updatedAt": "2026-03-22T20:38:25.641Z",
+  "totalRejected": 1272,
   "newlyRejected": 3,
   "cleanupThresholdDays": 15,
-  "cleanedUpCount": 2
+  "cleanedUpCount": 1
 }
