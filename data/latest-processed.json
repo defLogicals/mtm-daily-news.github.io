@@ -1,9 +1,156 @@
 {
-  "crawledAt": "2026-03-22T08:43:19.870Z",
+  "crawledAt": "2026-03-22T13:05:56.467Z",
   "totalSources": 70,
-  "totalArticles": 1871,
+  "totalArticles": 1870,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The AI Sandbox: Why Kubernetes Sandbox is the Future of AI Infrastructure",
+      "url": "https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T12:01:01.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.830131459625906,
+      "crawledAt": "2026-03-22T13:05:11.162Z",
+      "id": "puphrh",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8297587037086487,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9341835975646973,
+          "index": 3,
+          "word": "Sand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9813202619552612,
+          "index": 4,
+          "word": "##box",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8661250472068787,
+          "index": 16,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9535788893699646,
+          "index": 17,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9306096434593201,
+          "index": 18,
+          "word": "Infrastructure",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T13:06:09.718Z"
+    },
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T12:00:00.000Z",
+      "metaDescription": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.35780330015667217,
+      "crawledAt": "2026-03-22T13:04:34.266Z",
+      "id": "kf1c0e",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.996316134929657,
+          "index": 5,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8060305714607239,
+          "index": 8,
+          "word": "Train",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9938259124755859,
+          "index": 23,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8343257904052734,
+          "index": 24,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.997596025466919,
+          "index": 28,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon announced its $50 billion investment in OpenAI. The chip lab is the heart of the $50 million investment.",
+      "language": "en",
+      "processed_at": "2026-03-22T13:06:18.722Z"
+    },
+    {
+      "title": "Mining the deep ocean",
+      "url": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T11:00:58.000Z",
+      "metaDescription": "Policymakers debate if we even need deep ocean mining and if we can do it safely.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.27871123577040924,
+      "crawledAt": "2026-03-22T13:04:37.294Z",
+      "id": "ef88fu",
+      "entities": [],
+      "summary": " Policymakers debate if we even need deep ocean mining. If we can do it safely, we should be able to do it.",
+      "language": "en",
+      "processed_at": "2026-03-22T13:06:35.014Z"
+    },
     {
       "title": "MCP + A2A + OWL Ontology: I Built the Agentic Mesh Your Enterprise Agents Are Missing",
       "url": "https://pub.towardsai.net/mcp-a2a-owl-ontology-i-built-the-agentic-mesh-your-enterprise-agents-are-missing-84ec0487ddd4?source=rss----98111c9905da---4",
@@ -64507,216 +64654,9 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-03-07T20:35:22.120Z"
-    },
-    {
-      "title": "Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and…",
-      "url": "https://pub.towardsai.net/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-57c631a6f6ff?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T13:01:01.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.3459674904842146,
-      "crawledAt": "2026-03-07T16:35:48.952Z",
-      "id": "99fos3",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8393980860710144,
-          "index": 1,
-          "word": "Audi",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-07T16:37:06.243Z"
-    },
-    {
-      "title": "The AI Bubble Has a Data Science Escape Hatch",
-      "url": "https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T13:00:00.000Z",
-      "metaDescription": "Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype.\nThe post The AI Bubble Has a Data Science Escape Hatch",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.39297644463704,
-      "crawledAt": "2026-03-07T16:35:21.225Z",
-      "id": "rw0h1q",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9755250811576843,
-          "index": 2,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9888030886650085,
-          "index": 3,
-          "word": "B",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9722336530685425,
-          "index": 6,
-          "word": "Has",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8019806146621704,
-          "index": 8,
-          "word": "Data",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9945787787437439,
-          "index": 9,
-          "word": "Science",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9405030608177185,
-          "index": 11,
-          "word": "Hatch",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The AI Bubble has a 90-day roadmap to build the world's best data science skills. The AI bubble has been dubbed the AI Bubble.",
-      "language": "en",
-      "processed_at": "2026-03-07T16:37:14.947Z"
-    },
-    {
-      "title": "The Death of the Consensus Computer Science Syllabus and the Rise of Innovation-First Learning",
-      "url": "https://pub.towardsai.net/the-death-of-the-consensus-computer-science-syllabus-and-the-rise-of-innovation-first-learning-e2ce64ad8af5?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T12:01:01.000Z",
-      "metaDescription": "",
-      "category": "research-paper",
-      "difficulty": 8,
-      "confidence": 0.517569790919038,
-      "crawledAt": "2026-03-07T12:59:58.265Z",
-      "id": "kdwarf",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9912554621696472,
-          "index": 5,
-          "word": "Con",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9559510946273804,
-          "index": 6,
-          "word": "##sen",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9911735653877258,
-          "index": 7,
-          "word": "##sus",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8630404472351074,
-          "index": 8,
-          "word": "Computer",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.982000470161438,
-          "index": 9,
-          "word": "Science",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9283040761947632,
-          "index": 10,
-          "word": "S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8345051407814026,
-          "index": 13,
-          "word": "##bus",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9221557974815369,
-          "index": 18,
-          "word": "Innovation",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8602924942970276,
-          "index": 21,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-07T13:00:45.962Z"
-    },
-    {
-      "title": "7 Python Micro-Tools Developers Are Quietly Selling Online",
-      "url": "https://python.plainenglish.io/7-python-micro-tools-developers-are-quietly-selling-online-d19c9c221053?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-07T10:01:00.000Z",
-      "metaDescription": "Small utilities that generate consistent income\nContinue reading on Python in Plain English »",
-      "category": "developer-tool",
-      "difficulty": 3,
-      "confidence": 0.8907384148813299,
-      "crawledAt": "2026-03-07T13:00:04.767Z",
-      "id": "v9yd91",
-      "entities": [],
-      "summary": " Small utilities that generate consistent income. Small utilities with consistent income generate consistent incomes. Small utilities. Small Utilities that generate regular income generate consistently income.",
-      "language": "en",
-      "processed_at": "2026-03-07T13:01:05.940Z"
     }
   ],
-  "processedAt": "2026-03-22T08:45:45.583Z",
+  "processedAt": "2026-03-22T13:06:41.877Z",
   "categories": [
     "infrastructure",
     "ai-agents",
@@ -64730,9 +64670,9 @@
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 15,
-  "existingArticlesKept": 1859,
+  "newArticlesProcessed": 3,
+  "existingArticlesKept": 1871,
   "cleanupApplied": true,
-  "cleanedUpCount": 3,
+  "cleanedUpCount": 4,
   "rollingWindowDays": 15
 }
