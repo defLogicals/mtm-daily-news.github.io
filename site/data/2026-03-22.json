@@ -1,9 +1,144 @@
 {
-  "crawledAt": "2026-03-22T13:05:56.467Z",
+  "crawledAt": "2026-03-22T16:39:37.810Z",
   "totalSources": 70,
-  "totalArticles": 145,
+  "totalArticles": 149,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Nadine, A Social Robot",
+      "url": "https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T16:01:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7239029856514342,
+      "crawledAt": "2026-03-22T16:38:45.825Z",
+      "id": "yjnbuu",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991021752357483,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9966235756874084,
+          "index": 2,
+          "word": "##dine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8924431204795837,
+          "index": 6,
+          "word": "Robot",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:39:39.762Z"
+    },
+    {
+      "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
+      "url": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T15:00:00.000Z",
+      "metaDescription": "A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient\nThe post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
+      "category": "tutorial-guide",
+      "difficulty": 6,
+      "confidence": 0.9874571669823048,
+      "crawledAt": "2026-03-22T16:38:26.842Z",
+      "id": "xjchnw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9354206919670105,
+          "index": 8,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929095506668091,
+          "index": 9,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.810089111328125,
+          "index": 10,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:39:49.082Z"
+    },
+    {
+      "title": "Top 10 AI Coding Assistants of 2026",
+      "url": "https://www.analyticsvidhya.com/blog/2026/03/ai-coding-assistants/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T14:05:18.000Z",
+      "metaDescription": "AI coding assistants have quickly moved from optional tools to a core part of modern software development. Adoption is accelerating fast. Around 84% of developers now use or plan to use AI tools, and ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.45085086007515474,
+      "crawledAt": "2026-03-22T16:39:36.238Z",
+      "id": "lwi5of",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8699602484703064,
+          "index": 4,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "84% of developers now use or plan to use AI tools, and 84% use or plans to use them.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:40:25.673Z"
+    },
+    {
+      "title": "This picture broke my brain",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "source": "3Blue1Brown",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T12:59:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5197018574434199,
+      "crawledAt": "2026-03-22T16:39:05.267Z",
+      "id": "k2zhof",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:40:25.925Z"
+    },
     {
       "title": "The AI Sandbox: Why Kubernetes Sandbox is the Future of AI Infrastructure",
       "url": "https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4",
@@ -4552,21 +4687,21 @@
       "processed_at": "2026-03-22T03:08:45.239Z"
     }
   ],
-  "processedAt": "2026-03-22T13:06:41.879Z",
+  "processedAt": "2026-03-22T16:40:25.934Z",
   "categories": [
+    "creative-ai",
+    "tutorial-guide",
     "infrastructure",
     "ai-agents",
-    "creative-ai",
     "safety-ethics",
     "product-launch",
     "industry-news",
     "model-release",
     "developer-tool",
-    "tutorial-guide",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 3,
-  "dailyArticlesCount": 145,
+  "newArticlesProcessed": 4,
+  "dailyArticlesCount": 149,
   "filterDate": "2026-03-22"
 }

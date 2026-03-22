@@ -1,9 +1,144 @@
 {
-  "crawledAt": "2026-03-22T13:05:56.467Z",
+  "crawledAt": "2026-03-22T16:39:37.810Z",
   "totalSources": 70,
   "totalArticles": 1870,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Nadine, A Social Robot",
+      "url": "https://pub.towardsai.net/nadine-a-social-robot-1ac757c38ccc?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T16:01:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.7239029856514342,
+      "crawledAt": "2026-03-22T16:38:45.825Z",
+      "id": "yjnbuu",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991021752357483,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9966235756874084,
+          "index": 2,
+          "word": "##dine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8924431204795837,
+          "index": 6,
+          "word": "Robot",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:39:39.762Z"
+    },
+    {
+      "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
+      "url": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-22T15:00:00.000Z",
+      "metaDescription": "A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient\nThe post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
+      "category": "tutorial-guide",
+      "difficulty": 6,
+      "confidence": 0.9874571669823048,
+      "crawledAt": "2026-03-22T16:38:26.842Z",
+      "id": "xjchnw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9354206919670105,
+          "index": 8,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929095506668091,
+          "index": 9,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.810089111328125,
+          "index": 10,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:39:49.082Z"
+    },
+    {
+      "title": "Top 10 AI Coding Assistants of 2026",
+      "url": "https://www.analyticsvidhya.com/blog/2026/03/ai-coding-assistants/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T14:05:18.000Z",
+      "metaDescription": "AI coding assistants have quickly moved from optional tools to a core part of modern software development. Adoption is accelerating fast. Around 84% of developers now use or plan to use AI tools, and ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.45085086007515474,
+      "crawledAt": "2026-03-22T16:39:36.238Z",
+      "id": "lwi5of",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8699602484703064,
+          "index": 4,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "84% of developers now use or plan to use AI tools, and 84% use or plans to use them.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:40:25.673Z"
+    },
+    {
+      "title": "This picture broke my brain",
+      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+      "source": "3Blue1Brown",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-22T12:59:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.5197018574434199,
+      "crawledAt": "2026-03-22T16:39:05.267Z",
+      "id": "k2zhof",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-22T16:40:25.925Z"
+    },
     {
       "title": "The AI Sandbox: Why Kubernetes Sandbox is the Future of AI Infrastructure",
       "url": "https://pub.towardsai.net/kubernetes-agent-sandbox-7d1c4c356dbb?source=rss----98111c9905da---4",
@@ -64494,184 +64629,24 @@
       "summary": " Starship reduces cognitive overhead by surfacing git branches, environments, containers, and errors in the terminal. How Starship reduces Cognitive overhead by surfing git branches and environments.",
       "language": "en",
       "processed_at": "2026-03-07T20:35:22.006Z"
-    },
-    {
-      "title": "Why Pausing Beats Brute Force: A Super Mario Lesson for Machine Learning",
-      "url": "https://pub.towardsai.net/why-pausing-beats-brute-force-a-super-mario-lesson-for-machine-learning-e2290c9b621d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T16:01:03.000Z",
-      "metaDescription": "Discover how stepping back to observe symmetry and structure can collapse search space and accelerate machine learning performance.\nContinue reading on Towards AI »",
-      "category": "tutorial-guide",
-      "difficulty": 5,
-      "confidence": 0.9246466443772702,
-      "crawledAt": "2026-03-07T16:35:48.679Z",
-      "id": "rs1894",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8443427681922913,
-          "index": 9,
-          "word": "Force",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9787498712539673,
-          "index": 12,
-          "word": "Super",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9962857365608215,
-          "index": 13,
-          "word": "Mario",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Discover how stepping back to observe symmetry and structure can collapse search space and accelerate machine learning performance. Find out how a person can learn how to learn from a person's body.",
-      "language": "en",
-      "processed_at": "2026-03-07T16:36:44.341Z"
-    },
-    {
-      "title": "When Anomaly Detection Flags Your Best Affiliates: The Baseline Problem in ML Fraud Detection",
-      "url": "https://pub.towardsai.net/when-anomaly-detection-flags-your-best-affiliates-the-baseline-problem-in-ml-fraud-detection-20ff0fcd1f4f?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T15:01:09.000Z",
-      "metaDescription": "",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.29316297638510364,
-      "crawledAt": "2026-03-07T16:35:48.751Z",
-      "id": "qxbajx",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8730424046516418,
-          "index": 17,
-          "word": "Basel",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
-      "language": "en",
-      "processed_at": "2026-03-07T16:36:44.474Z"
-    },
-    {
-      "title": "DeepMind’s New AI Tracks Objects Faster Than Your Brain",
-      "url": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T14:42:18.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.7905632012635532,
-      "crawledAt": "2026-03-07T16:35:59.605Z",
-      "id": "6iohs1",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9902777075767517,
-          "index": 1,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9959573745727539,
-          "index": 2,
-          "word": "##M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9842027425765991,
-          "index": 3,
-          "word": "##ind",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-03-07T16:36:53.544Z"
-    },
-    {
-      "title": "How DeepMind’s New AI Predicts What It Cannot See",
-      "url": "https://www.youtube.com/watch?v=ssbHkYB0jYM",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-07T14:42:18.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.5183077316666455,
-      "crawledAt": "2026-03-07T20:33:38.004Z",
-      "id": "s8y9jj",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9699968099594116,
-          "index": 2,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9891270995140076,
-          "index": 3,
-          "word": "##M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.958293616771698,
-          "index": 4,
-          "word": "##ind",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-03-07T20:35:22.120Z"
     }
   ],
-  "processedAt": "2026-03-22T13:06:41.877Z",
+  "processedAt": "2026-03-22T16:40:25.930Z",
   "categories": [
+    "creative-ai",
+    "tutorial-guide",
     "infrastructure",
     "ai-agents",
-    "creative-ai",
     "safety-ethics",
     "product-launch",
     "industry-news",
     "model-release",
     "developer-tool",
-    "tutorial-guide",
     "research-paper"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 3,
-  "existingArticlesKept": 1871,
+  "newArticlesProcessed": 4,
+  "existingArticlesKept": 1870,
   "cleanupApplied": true,
   "cleanedUpCount": 4,
   "rollingWindowDays": 15
