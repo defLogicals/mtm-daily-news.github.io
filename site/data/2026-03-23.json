@@ -1,9 +1,53 @@
 {
-  "crawledAt": "2026-03-23T05:43:47.223Z",
+  "crawledAt": "2026-03-23T09:06:50.194Z",
   "totalSources": 70,
-  "totalArticles": 64,
+  "totalArticles": 73,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+      "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T09:00:00.000Z",
+      "metaDescription": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.8361430969318603,
+      "crawledAt": "2026-03-23T09:05:18.451Z",
+      "id": "r7vvch",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9894651770591736,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8859134316444397,
+          "index": 3,
+          "word": "Race",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995015263557434,
+          "index": 17,
+          "word": "Europe",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Network operators are experimenting with new ways to connect power grids across Europe. Data center operators are testing new ways of connecting power grids.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:07:00.921Z"
+    },
     {
       "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT",
       "url": "https://arxiv.org/abs/2603.19429",
@@ -1441,6 +1485,267 @@
       "processed_at": "2026-03-23T05:56:23.955Z"
     },
     {
+      "title": "Speculating Experts Accelerates Inference for Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2603.19289",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19289v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) models have gained popularity as a means of scaling the capacity of large language models (LLMs) while maintaining sparse acti",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4373535728176015,
+      "crawledAt": "2026-03-23T09:06:33.770Z",
+      "id": "q6ytqf",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9349672198295593,
+          "index": 17,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9639729857444763,
+          "index": 19,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Mixture-of-Experts (MoE) models have gained popularity as a way to scale large language models.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:07:09.240Z"
+    },
+    {
+      "title": "CLaRE-ty Amid Chaos: Quantifying Representational Entanglement to Predict Ripple Effects in LLM Editing",
+      "url": "https://arxiv.org/abs/2603.19297",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19297v1 Announce Type: new \nAbstract: The static knowledge representations of large language models (LLMs) inevitably become outdated or incorrect over time. While model-editing techniques ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.33126207804352836,
+      "crawledAt": "2026-03-23T09:06:34.685Z",
+      "id": "dfg2fn",
+      "entities": [],
+      "summary": " The static knowledge representations of large language models (LLMs) inevitably become outdated or incorrect over time. While model-editing techniques are used, model-ingiting techniques can become outdated.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:07:58.278Z"
+    },
+    {
+      "title": "Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning",
+      "url": "https://arxiv.org/abs/2603.19302",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19302v1 Announce Type: new \nAbstract: Machine unlearning is increasingly important for clinical language models, where privacy regulations and institutional policies may require removing se",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.327982187402971,
+      "crawledAt": "2026-03-23T09:06:35.236Z",
+      "id": "nnvs7a",
+      "entities": [],
+      "summary": " The new version of this version of the book will be published in September 2015. It will be the first time the book has been published. The book will also be the second of the year.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:08:32.643Z"
+    },
+    {
+      "title": "Exploring Subnetwork Interactions in Heterogeneous Brain Network via Prior-Informed Graph Learning",
+      "url": "https://arxiv.org/abs/2603.19307",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19307v1 Announce Type: new \nAbstract: Modeling the complex interactions among functional subnetworks is crucial for the diagnosis of mental disorders and the identification of functional pa",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.25789756920127394,
+      "crawledAt": "2026-03-23T09:06:35.414Z",
+      "id": "bg1psy",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8669533133506775,
+          "index": 24,
+          "word": "##h",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The study of functional subnetworks is crucial for the diagnosis of mental disorders. The study is based on the data from the World Health Organisation.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:08:42.599Z"
+    },
+    {
+      "title": "GT-Space: Enhancing Heterogeneous Collaborative Perception with Ground Truth Feature Space",
+      "url": "https://arxiv.org/abs/2603.19308",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19308v1 Announce Type: new \nAbstract: In autonomous driving, multi-agent collaborative perception enhances sensing capabilities by enabling agents to share perceptual data. A key challenge ",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.339550294647713,
+      "crawledAt": "2026-03-23T09:06:35.618Z",
+      "id": "77e4d3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8590294122695923,
+          "index": 1,
+          "word": "GT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9476237297058105,
+          "index": 3,
+          "word": "Space",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In autonomous driving, multi-agent collaborative perception enhances sensing capabilities by enabling agents to share perceptual data. A key challenge is to overcome the challenge of sharing perceptual data.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:08:53.632Z"
+    },
+    {
+      "title": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+      "url": "https://arxiv.org/abs/2603.19312",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19312v1 Announce Type: new \nAbstract: Joint Embedding Predictive Architectures (JEPAs) offer a compelling framework for learning world models in compact latent spaces, yet existing methods ",
+      "category": "infrastructure",
+      "difficulty": 8,
+      "confidence": 0.37647023140977487,
+      "crawledAt": "2026-03-23T09:06:35.998Z",
+      "id": "vbnhlh",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9493319392204285,
+          "index": 2,
+          "word": "##W",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "JEPAs offer a compelling framework for learning world models in compact latent spaces. There are already existing methods for learning models of compact spaces.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:09:19.198Z"
+    },
+    {
+      "title": "DPxFin: Adaptive Differential Privacy for Anti-Money Laundering Detection via Reputation-Weighted Federated Learning",
+      "url": "https://arxiv.org/abs/2603.19314",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19314v1 Announce Type: new \nAbstract: In the modern financial system, combating money laundering is a critical challenge complicated by data privacy concerns and increasingly complex fraud ",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.7484484982316182,
+      "crawledAt": "2026-03-23T09:06:36.183Z",
+      "id": "pkszqx",
+      "entities": [],
+      "summary": " In the modern financial system, combating money laundering is a major challenge. In the future, money laundering could be a major problem.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:09:28.149Z"
+    },
+    {
+      "title": "MSNet and LS-Net: Scalable Multi-Scale Multi-Representation Networks for Time Series Classification",
+      "url": "https://arxiv.org/abs/2603.19315",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.19315v1 Announce Type: new \nAbstract: Time series classification (TSC) performance depends not only on architectural design but also on the diversity of input representations. In this work,",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.8949798914583668,
+      "crawledAt": "2026-03-23T09:06:36.378Z",
+      "id": "f8ggxa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9298503398895264,
+          "index": 1,
+          "word": "MS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9513129591941833,
+          "index": 2,
+          "word": "##Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8139998316764832,
+          "index": 4,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8696224093437195,
+          "index": 5,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8527814149856567,
+          "index": 22,
+          "word": "Time",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936450123786926,
+          "index": 23,
+          "word": "Series",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9660659432411194,
+          "index": 24,
+          "word": "Classification",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "In this work, we look at the diversity of input representations. In this work. arXiv:2603.19315v1.",
+      "language": "en",
+      "processed_at": "2026-03-23T09:09:39.118Z"
+    },
+    {
       "title": "State of Context Engineering in 2026",
       "url": "https://pub.towardsai.net/state-of-context-engineering-in-2026-cf92d010eab1?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -2039,19 +2344,19 @@
       "processed_at": "2026-03-23T02:50:17.142Z"
     }
   ],
-  "processedAt": "2026-03-23T05:56:52.490Z",
+  "processedAt": "2026-03-23T09:09:39.124Z",
   "categories": [
+    "ai-agents",
     "infrastructure",
     "creative-ai",
     "developer-tool",
     "safety-ethics",
-    "ai-agents",
     "research-paper",
     "tutorial-guide",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 54,
-  "dailyArticlesCount": 64,
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 73,
   "filterDate": "2026-03-23"
 }
