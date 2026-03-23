@@ -1,9 +1,292 @@
 {
-  "crawledAt": "2026-03-23T09:06:50.194Z",
+  "crawledAt": "2026-03-23T13:22:50.420Z",
   "totalSources": 70,
-  "totalArticles": 1935,
+  "totalArticles": 1938,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Palantir AI to support UK finance operations",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T13:14:23.000Z",
+      "metaDescription": "UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country’s financial regulator, the FCA, has initiated a pr",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.8734979329804565,
+      "crawledAt": "2026-03-23T13:21:30.490Z",
+      "id": "tp4qb6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999009907245636,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9868872761726379,
+          "index": 2,
+          "word": "##lant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952347278594971,
+          "index": 3,
+          "word": "##ir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9959017634391785,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.98701411485672,
+          "index": 7,
+          "word": "UK",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country's financial regulator, the country’s financial regulator.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:23:03.917Z"
+    },
+    {
+      "title": "Azure Databricks: an end-to-end guide — Part 1 of 3",
+      "url": "https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-1-of-3-5872dcf0dccc?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T13:01:01.000Z",
+      "metaDescription": "Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD — from zero to hero in three practical articles\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2718017115616801,
+      "crawledAt": "2026-03-23T13:21:51.809Z",
+      "id": "qzaazk",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8363286256790161,
+          "index": 3,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8090206384658813,
+          "index": 4,
+          "word": "##bri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:23:25.538Z"
+    },
+    {
+      "title": "AI’s Blindspot: The ‘Lost in the Middle’ Effect",
+      "url": "https://pub.towardsai.net/ais-blindspot-the-lost-in-the-middle-effect-07ea592c33eb?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T12:01:01.000Z",
+      "metaDescription": "Why AI forgets what it’s seen, and what we can do about it\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.46078469744723666,
+      "crawledAt": "2026-03-23T13:21:51.937Z",
+      "id": "6eugm8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8816654682159424,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8466507196426392,
+          "index": 5,
+          "word": "##sp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9343432784080505,
+          "index": 11,
+          "word": "in",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9627038836479187,
+          "index": 12,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.968464195728302,
+          "index": 13,
+          "word": "Middle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9167453646659851,
+          "index": 14,
+          "word": "’",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Why AI forgets what it’s seen, and what we can do about it, and how we can help it.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:23:59.085Z"
+    },
+    {
+      "title": "5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent",
+      "url": "https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T12:00:05.000Z",
+      "metaDescription": "Learn five practical ways to make OpenAI Codex more agentic, reliable, and useful for real software engineering workflows.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.953458546256416,
+      "crawledAt": "2026-03-23T13:22:49.231Z",
+      "id": "hrc4r",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9763767719268799,
+          "index": 8,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8819342255592346,
+          "index": 9,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Learn five practical ways to make OpenAI Codex more agentic, reliable, and useful for real software engineering workflows.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:24:09.617Z"
+    },
+    {
+      "title": "I Built a Podcast Clipping App in One Weekend Using Vibe Coding",
+      "url": "https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T12:00:00.000Z",
+      "metaDescription": "Rapid prototyping with Replit, AI agents, and minimal manual coding\nThe post I Built a Podcast Clipping App in One Weekend Using Vibe Coding appeared first on Towards Data Science.",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25129996609125826,
+      "crawledAt": "2026-03-23T13:21:27.498Z",
+      "id": "gse2vt",
+      "entities": [],
+      "summary": " The post I Built a Podcast Clipping App in One Weekend using Vibe Coding. The post is part of a weekly series of programming projects.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:24:19.665Z"
+    },
+    {
+      "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+      "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T11:00:16.000Z",
+      "metaDescription": "Memory is one of the most overlooked parts of agentic system design.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9491775603157467,
+      "crawledAt": "2026-03-23T13:21:37.917Z",
+      "id": "nlrowe",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9706031084060669,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9242079257965088,
+          "index": 11,
+          "word": "Systems",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Memory is one of the most overlooked parts of agentic system design. Memory is a key part of agenti system design.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:24:38.929Z"
+    },
+    {
+      "title": "Meet the Gods of AI Warfare",
+      "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T10:00:00.000Z",
+      "metaDescription": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.5499972615384006,
+      "crawledAt": "2026-03-23T13:21:24.447Z",
+      "id": "kw277f",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9869730472564697,
+          "index": 6,
+          "word": "Warfare",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In its early days, the AI initiative known as Project Maven had its fair share of skeptics. Today, many of them are true believers.",
+      "language": "en",
+      "processed_at": "2026-03-23T13:24:55.782Z"
+    },
     {
       "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
       "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
@@ -66678,168 +66961,9 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-03-08T20:36:34.935Z"
-    },
-    {
-      "title": "Jessica Jones joins the fray in Daredevil: Born Again trailer",
-      "url": "https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-08T13:13:03.000Z",
-      "metaDescription": "\"I'm gonna take this city back.\"",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.2688629851910519,
-      "crawledAt": "2026-03-08T16:36:48.337Z",
-      "id": "i3ts1c",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.999556303024292,
-          "index": 1,
-          "word": "Jessica",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9994669556617737,
-          "index": 2,
-          "word": "Jones",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.997650146484375,
-          "index": 8,
-          "word": "Dare",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9943456649780273,
-          "index": 9,
-          "word": "##de",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9929313659667969,
-          "index": 10,
-          "word": "##vil",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9744591116905212,
-          "index": 11,
-          "word": ":",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9976907968521118,
-          "index": 13,
-          "word": "Again",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-08T16:38:43.931Z"
-    },
-    {
-      "title": "10 Python Libraries That Quietly Power Serious AI Applications",
-      "url": "https://ai.plainenglish.io/10-python-libraries-that-quietly-power-serious-ai-applications-bb58c4367ca4?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-08T12:20:21.000Z",
-      "metaDescription": "Everyone talks about models — but these libraries are what actually make AI systems work.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.27635919333815623,
-      "crawledAt": "2026-03-08T13:02:05.959Z",
-      "id": "duhf4v",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9568352103233337,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The AI is a form of AI that can be used to help people understand the world of AI systems.",
-      "language": "en",
-      "processed_at": "2026-03-08T13:03:08.126Z"
-    },
-    {
-      "title": "Pyright Guide: Installation, Configuration, and Use Cases",
-      "url": "https://www.analyticsvidhya.com/blog/2026/03/pyright-guide/",
-      "source": "Analytics Vidhya",
-      "source_domain": "analyticsvidhya.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-08T11:53:28.000Z",
-      "metaDescription": "Have you ever wanted faster type checking for Python without slowing down your workflow? Tools like MyPy can catch type errors, but they often feel slow or disconnected from the editor experience. Thi",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4694786756902225,
-      "crawledAt": "2026-03-08T13:02:42.844Z",
-      "id": "v99igu",
-      "entities": [],
-      "summary": " MyPy can catch type errors, but they often feel slow or disconnected from the editor experience. ThiThiPy can help you find errors in your work.",
-      "language": "en",
-      "processed_at": "2026-03-08T13:03:21.829Z"
-    },
-    {
-      "title": "4 OpenClaw Alternatives That Are Getting Better By the Day",
-      "url": "https://python.plainenglish.io/4-openclaw-alternatives-that-are-getting-better-by-the-day-8f24b380b583?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-08T10:11:15.000Z",
-      "metaDescription": "Smarter, Safer, and Faster AI Automation Tools\nContinue reading on Python in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2846875078658843,
-      "crawledAt": "2026-03-08T13:02:03.689Z",
-      "id": "1drsqc",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9565237760543823,
-          "index": 3,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.873043417930603,
-          "index": 4,
-          "word": "##law",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Smarter, Safer, and Safer. Smarter and Safers, and Faster AI Automation Tools.",
-      "language": "en",
-      "processed_at": "2026-03-08T13:03:41.132Z"
     }
   ],
-  "processedAt": "2026-03-23T09:09:39.122Z",
+  "processedAt": "2026-03-23T13:25:06.096Z",
   "categories": [
     "ai-agents",
     "infrastructure",
@@ -66853,9 +66977,9 @@
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 9,
-  "existingArticlesKept": 1927,
+  "newArticlesProcessed": 7,
+  "existingArticlesKept": 1935,
   "cleanupApplied": true,
-  "cleanedUpCount": 1,
+  "cleanedUpCount": 4,
   "rollingWindowDays": 15
 }
