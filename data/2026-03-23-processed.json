@@ -1,9 +1,604 @@
 {
-  "crawledAt": "2026-03-23T13:22:50.420Z",
+  "crawledAt": "2026-03-23T17:01:52.127Z",
   "totalSources": 70,
-  "totalArticles": 80,
+  "totalArticles": 97,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How Reco transforms security alerts using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T16:46:54.000Z",
+      "metaDescription": "In this blog post, we show you how Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times.",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.4584022583763543,
+      "crawledAt": "2026-03-23T17:00:40.495Z",
+      "id": "yo8bmn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9953250288963318,
+          "index": 2,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9801697731018066,
+          "index": 3,
+          "word": "##co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9525245428085327,
+          "index": 9,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9768666625022888,
+          "index": 10,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9792426824569702,
+          "index": 11,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Reco implemented Amazon Bedrock to help transform security alerts and achieve significant improvements in incident response times. In this blog post, we show you how Reco implementedAmazon Bedrock.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:02:08.536Z"
+    },
+    {
+      "title": "Integrating Amazon Bedrock AgentCore with Slack",
+      "url": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-bedrock-agentcore-with-slack/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T16:38:56.000Z",
+      "metaDescription": "In this post, we demonstrate how to build a Slack integration using AWS Cloud Development Kit (AWS CDK). You will learn how to deploy the infrastructure with three specialized AWS Lambda functions, co",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3423241121557819,
+      "crawledAt": "2026-03-23T17:00:40.657Z",
+      "id": "9643xz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8827117681503296,
+          "index": 4,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8851749300956726,
+          "index": 5,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8816587924957275,
+          "index": 6,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " You will learn how to deploy the infrastructure with three specialized AWS Lambda functions, co-workers, co. In this post, we demonstrate how to build a Slack integration using AWS Cloud Development Kit.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:02:24.304Z"
+    },
+    {
+      "title": "Overcoming LLM hallucinations in regulated industries: Artificial Genius’s deterministic models on Amazon Nova",
+      "url": "https://aws.amazon.com/blogs/machine-learning/overcoming-llm-hallucinations-in-regulated-industries-artificial-geniuss-deterministic-models-on-amazon-nova/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T16:34:37.000Z",
+      "metaDescription": "In this post, we’re excited to showcase how AWS ISV Partner Artificial Genius is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on out",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.3306662165887796,
+      "crawledAt": "2026-03-23T17:00:40.863Z",
+      "id": "slb2yb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9831222295761108,
+          "index": 3,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9927006363868713,
+          "index": 13,
+          "word": "Art",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9883765578269958,
+          "index": 14,
+          "word": "##ific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9825511574745178,
+          "index": 15,
+          "word": "##ial",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9890339374542236,
+          "index": 16,
+          "word": "Gen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9839564561843872,
+          "index": 17,
+          "word": "##ius",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9584910273551941,
+          "index": 26,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AWS is using Amazon SageMaker AI and Amazon Nova to deliver a solution that is probabilistic on input but deterministic on out.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:02:36.153Z"
+    },
+    {
+      "title": "The hardest question to answer about AI-fueled delusions",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T16:31:20.000Z",
+      "metaDescription": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about A",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.8350784592128063,
+      "crawledAt": "2026-03-23T17:00:21.175Z",
+      "id": "4nmfc7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9984300136566162,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Algorithm is a weekly newsletter for The Al algorithm. The Algorithms are designed to help people understand the world's most complex and complex systems.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:02:50.375Z"
+    },
+    {
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "source": "Lex Fridman",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T16:24:14.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.7426081087049864,
+      "crawledAt": "2026-03-23T17:01:05.113Z",
+      "id": "tobq54",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995663166046143,
+          "index": 1,
+          "word": "Jensen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984210729598999,
+          "index": 2,
+          "word": "Huang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8684900403022766,
+          "index": 5,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.944503664970398,
+          "index": 13,
+          "word": "##lli",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9599204659461975,
+          "index": 14,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9508578181266785,
+          "index": 15,
+          "word": "Company",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9927884936332703,
+          "index": 18,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9971091151237488,
+          "index": 19,
+          "word": "Revolution",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:03:02.004Z"
+    },
+    {
+      "title": "GitHub expands application security coverage with AI‑powered detections",
+      "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T16:00:00.000Z",
+      "metaDescription": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.\nThe post GitHub expands application security coverage with AI‑p",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.2647379236362483,
+      "crawledAt": "2026-03-23T17:00:12.604Z",
+      "id": "kp5fts",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.99535071849823,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9861242175102234,
+          "index": 2,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9951534271240234,
+          "index": 3,
+          "word": "##H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9810270071029663,
+          "index": 4,
+          "word": "##ub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9990624785423279,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8367365002632141,
+          "index": 11,
+          "word": "‑",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GitHub expands application security coverage with AI‑p. CodeQL and AI‑powered detections work together to identify vulnerabilities.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:03:34.631Z"
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T16:00:00.000Z",
+      "metaDescription": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.49595663479870855,
+      "crawledAt": "2026-03-23T17:00:14.484Z",
+      "id": "cpq2a5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991053938865662,
+          "index": 1,
+          "word": "Start",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903062582015991,
+          "index": 2,
+          "word": "##up",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990078806877136,
+          "index": 3,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954557418823242,
+          "index": 4,
+          "word": "##im",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989105463027954,
+          "index": 5,
+          "word": "##let",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991872906684875,
+          "index": 6,
+          "word": "Labs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9816154837608337,
+          "index": 10,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Gimlet Labs raised $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, Intel and ARM chips.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:03:57.415Z"
+    },
+    {
+      "title": "9 ML Infrastructure Lessons Every MLOps Engineer Learns",
+      "url": "https://python.plainenglish.io/9-ml-infrastructure-lessons-every-mlops-engineer-learns-d575fdc94802?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T15:49:10.000Z",
+      "metaDescription": "🌟Backend matters as much as models🌟.\nContinue reading on Python in Plain English »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9711050709050325,
+      "crawledAt": "2026-03-23T17:00:57.298Z",
+      "id": "aci1wq",
+      "entities": [],
+      "summary": "Backend matters as much as models. Backend matters. Back end matters as well as models. Backend is back to the page you came from.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:04:11.643Z"
+    },
+    {
+      "title": "Azure Databricks: an end-to-end guide — Part 2 of 3",
+      "url": "https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-2-of-3-a8b572d0619d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T15:01:02.000Z",
+      "metaDescription": "Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD — from zero to hero in three practical articles\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3724378484144471,
+      "crawledAt": "2026-03-23T17:00:50.438Z",
+      "id": "54rxil",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9104600548744202,
+          "index": 3,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8920113444328308,
+          "index": 4,
+          "word": "##bri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:05:00.689Z"
+    },
+    {
+      "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+      "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T15:00:03.000Z",
+      "metaDescription": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9042254080728773,
+      "crawledAt": "2026-03-23T16:59:59.259Z",
+      "id": "es7w6e",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8732950687408447,
+          "index": 12,
+          "word": "N",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Autonomous agents are no longer limited to generating responses or reasoning through tasks. They can read files, use tools, write and use tools.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:05:11.880Z"
+    },
+    {
+      "title": "The LoRA Hyperparameters No One Explains | How to Fine-Tune Correctly, Part 4",
+      "url": "https://pub.towardsai.net/the-lora-hyperparameters-no-one-explains-how-to-fine-tune-correctly-part-4-a58268050766?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T14:01:01.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3335485203635896,
+      "crawledAt": "2026-03-23T17:00:50.565Z",
+      "id": "hy5yr3",
+      "entities": [],
+      "summary": "Community discussion seeking help or recommendations on AI-related topics.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:05:22.952Z"
+    },
+    {
+      "title": "DINO - Explained!",
+      "url": "https://www.youtube.com/watch?v=1rRdxGnegWQ",
+      "source": "Code Emporium",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T14:00:07.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.9856695374107987,
+      "crawledAt": "2026-03-23T17:01:14.107Z",
+      "id": "3pl0hy",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:05:36.523Z"
+    },
+    {
+      "title": "How to Use Note-Taking to Learn Python",
+      "url": "https://realpython.com/python-note-taking-guide/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T14:00:00.000Z",
+      "metaDescription": "Learning Python can be genuinely hard, and it’s normal to struggle with fundamental concepts. Research has shown that note-taking is invaluable when learning new things. This guide will help you get t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2997810038309266,
+      "crawledAt": "2026-03-23T17:01:42.480Z",
+      "id": "6w111p",
+      "entities": [],
+      "summary": " Learning Python can be hard, and it’s normal to struggle with fundamental concepts. This guide will help you get t t t-t to learn new things.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:05:48.958Z"
+    },
+    {
+      "title": "AI is beginning to change the business of law",
+      "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T13:45:13.000Z",
+      "metaDescription": "Attorneys are finding uses for AI apart from generating fake case quotations.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.40150954885911005,
+      "crawledAt": "2026-03-23T17:00:17.440Z",
+      "id": "w7h0br",
+      "entities": [],
+      "summary": " Attorneys are finding uses for AI to generate fake case quotations. Attorneys have been trying to find a way to use the technology to create fake cases.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:06:00.968Z"
+    },
     {
       "title": "Palantir AI to support UK finance operations",
       "url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
@@ -99,6 +694,58 @@
       "summary": " Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD.",
       "language": "en",
       "processed_at": "2026-03-23T13:23:25.538Z"
+    },
+    {
+      "title": "Import AI 450: China’s electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks",
+      "url": "https://jack-clark.net/2026/03/23/import-ai-450-chinas-electronic-warfare-model-traumatized-llms-and-a-scaling-law-for-cyberattacks/",
+      "source": "Import AI",
+      "source_domain": "jack-clark.net",
+      "source_category": "newsletter",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T12:31:45.000Z",
+      "metaDescription": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. A somewhat shorter issue than usual as I had t",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.49525436496900305,
+      "crawledAt": "2026-03-23T17:01:17.088Z",
+      "id": "l7b70h",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9966531991958618,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.967738926410675,
+          "index": 5,
+          "word": "450",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998127222061157,
+          "index": 7,
+          "word": "China",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9785478115081787,
+          "index": 16,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Import AI runs on arXiv and runs on ArXiv. If you’d like to support this, please subscribe.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:06:26.891Z"
     },
     {
       "title": "AI’s Blindspot: The ‘Lost in the Middle’ Effect",
@@ -2029,6 +2676,58 @@
       "processed_at": "2026-03-23T09:09:39.118Z"
     },
     {
+      "title": "From lab to market: Rose Rock Bridge fast-tracks energy innovation in Tulsa",
+      "url": "https://venturebeat.com/technology/from-lab-to-market-rose-rock-bridge-fast-tracks-energy-innovation-in-tulsa",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "Presented by Tulsa Innovation Labs\n\nAs the global energy system evolves, companies are racing to adopt technologies that can deliver real-world solutions, especially in hard-to-abate industries. Oklah",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.4946244911557989,
+      "crawledAt": "2026-03-23T17:00:24.738Z",
+      "id": "bp2qfq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9916117787361145,
+          "index": 6,
+          "word": "Rose",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9848291277885437,
+          "index": 7,
+          "word": "Rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9766479730606079,
+          "index": 8,
+          "word": "Bridge",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9955939650535583,
+          "index": 15,
+          "word": "Tulsa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Companies are racing to adopt technologies that can deliver real-world solutions, especially in hard-to-abate industries.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:06:38.322Z"
+    },
+    {
       "title": "State of Context Engineering in 2026",
       "url": "https://pub.towardsai.net/state-of-context-engineering-in-2026-cf92d010eab1?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -2570,6 +3269,34 @@
       "processed_at": "2026-03-23T02:49:46.562Z"
     },
     {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "metaDescription": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.3006898731425875,
+      "crawledAt": "2026-03-23T17:00:06.023Z",
+      "id": "iqkf7x",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.992754340171814,
+          "index": 5,
+          "word": "So",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Sora 2 and the Sora app with safety at the foundation. To address the novel safety challenges posed by a state-of-the-art video model.",
+      "language": "en",
+      "processed_at": "2026-03-23T17:06:50.437Z"
+    },
+    {
       "title": "The Hidden Creativity Inside LLMs: How Recoding Decoding Unlocks Better Ideas",
       "url": "https://pub.towardsai.net/the-hidden-creativity-inside-llms-how-recoding-decoding-unlocks-better-ideas-d08e37396316?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -2627,19 +3354,20 @@
       "processed_at": "2026-03-23T02:50:17.142Z"
     }
   ],
-  "processedAt": "2026-03-23T13:25:06.098Z",
+  "processedAt": "2026-03-23T17:06:50.443Z",
   "categories": [
-    "ai-agents",
     "infrastructure",
     "creative-ai",
+    "ai-agents",
     "developer-tool",
     "safety-ethics",
     "research-paper",
     "tutorial-guide",
+    "product-launch",
     "industry-news"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 7,
-  "dailyArticlesCount": 80,
+  "newArticlesProcessed": 17,
+  "dailyArticlesCount": 97,
   "filterDate": "2026-03-23"
 }
