@@ -1,9 +1,234 @@
 {
-  "crawledAt": "2026-03-23T17:01:52.127Z",
+  "crawledAt": "2026-03-23T20:44:28.473Z",
   "totalSources": 70,
-  "totalArticles": 1951,
+  "totalArticles": 1960,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T20:15:59.000Z",
+      "metaDescription": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4295625940942,
+      "crawledAt": "2026-03-23T20:42:50.646Z",
+      "id": "pt5hra",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997299313545227,
+          "index": 1,
+          "word": "Bernie",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996969103813171,
+          "index": 2,
+          "word": "Sanders",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9023571014404297,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sen. Bernie Sanders thinks he's tricked into revealing the AI industry's secrets. But he really exposed how agreeable chatbots can become.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:44:38.961Z"
+    },
+    {
+      "title": "What SFT, DPO, RLHF, and RAG Actually Do in an AI Agent",
+      "url": "https://pub.towardsai.net/what-sft-dpo-rlhf-and-rag-actually-do-in-an-ai-agent-d5b8daf0aedb?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T20:01:01.000Z",
+      "metaDescription": "A first-principles guide for AI agent builders — understand how demonstration learning, retrieval, preference optimization, and…\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.8815610249331387,
+      "crawledAt": "2026-03-23T20:43:24.788Z",
+      "id": "ddwywv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9707542061805725,
+          "index": 5,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9613068103790283,
+          "index": 8,
+          "word": "R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A first-principles guide for AI agent builders — understand how demonstration learning, retrieval, preference optimization, and……Continue reading on Towards AI ».",
+      "language": "en",
+      "processed_at": "2026-03-23T20:44:51.146Z"
+    },
+    {
+      "title": "What Pragmatics Knows That Your AI Agent Doesn’t",
+      "url": "https://pub.towardsai.net/what-pragmatics-knows-that-your-ai-agent-doesnt-4886c1b7961e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T19:01:00.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.530861097737839,
+      "crawledAt": "2026-03-23T20:43:24.857Z",
+      "id": "xnqd2q",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:45:13.276Z"
+    },
+    {
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T18:22:04.000Z",
+      "metaDescription": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6375399699805597,
+      "crawledAt": "2026-03-23T20:42:50.776Z",
+      "id": "sziagi",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8371785879135132,
+          "index": 7,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8916223049163818,
+          "index": 8,
+          "word": "##vable",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Lovable's founder said the company is looking for startups and teams to join. Lovable’s founder said he is looking to find people to join the company.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:45:33.939Z"
+    },
+    {
+      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+      "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T18:00:45.000Z",
+      "metaDescription": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.32228756776259554,
+      "crawledAt": "2026-03-23T20:42:50.929Z",
+      "id": "yyupqy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9949798583984375,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8839294910430908,
+          "index": 6,
+          "word": "W",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9612947702407837,
+          "index": 8,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9916988611221313,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Apple is expected to announce major updates to Siri with advanced AI capabilities. Apple will host its next Worldwide Developers Conference the week of June 8.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:45:58.053Z"
+    },
+    {
+      "title": "Long fingernails vs. touchscreens: This nail polish could help",
+      "url": "https://arstechnica.com/science/2026/03/long-fingernails-vs-touchscreens-this-nail-polish-could-help/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T17:59:46.000Z",
+      "metaDescription": "Undergraduate's prototype conductive nail polish could turn long fingernails into touchscreen styluses.",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.3487423134009133,
+      "crawledAt": "2026-03-23T20:42:54.113Z",
+      "id": "37tmgf",
+      "entities": [],
+      "summary": " Undergraduate's prototype nail polish could turn long fingernails into touchscreen styluses. The technology could be used to create a touchscreen.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:46:07.716Z"
+    },
+    {
+      "title": "Azure Databricks: an end-to-end guide — Part 3 of 3",
+      "url": "https://pub.towardsai.net/azure-databricks-an-end-to-end-guide-part-3-of-3-ce68f5e92cef?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T17:01:01.000Z",
+      "metaDescription": "Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD — from zero to hero in three practical articles\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.4742302763651709,
+      "crawledAt": "2026-03-23T20:43:25.195Z",
+      "id": "lb70tl",
+      "entities": [],
+      "summary": " Databricks workspaces, SPNs, Unity Catalog, Declarative Automation Bundles, and CI/CD.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:46:35.657Z"
+    },
     {
       "title": "How Reco transforms security alerts using Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/how-reco-transforms-security-alerts-using-amazon-bedrock/",
@@ -297,6 +522,25 @@
       "processed_at": "2026-03-23T17:03:02.004Z"
     },
     {
+      "title": "A bit of good news: It's possible to turn around a groundwater crisis",
+      "url": "https://arstechnica.com/science/2026/03/a-bit-of-good-news-its-possible-to-turn-around-a-groundwater-crisis/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T16:05:51.000Z",
+      "metaDescription": "Analyzing dozens of cases around the world yields some practical lessons.",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.35017429702112063,
+      "crawledAt": "2026-03-23T20:42:54.437Z",
+      "id": "cxg2qs",
+      "entities": [],
+      "summary": " Analyzing dozens of cases around the world yields some practical lessons. Analyzing hundreds of cases yields some useful lessons.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:46:43.226Z"
+    },
+    {
       "title": "GitHub expands application security coverage with AI‑powered detections",
       "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
       "source": "GitHub Blog",
@@ -458,6 +702,74 @@
       "summary": "Backend matters as much as models. Backend matters. Back end matters as well as models. Backend is back to the page you came from.",
       "language": "en",
       "processed_at": "2026-03-23T17:04:11.643Z"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-23T15:03:36.000Z",
+      "metaDescription": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.9574219486048162,
+      "crawledAt": "2026-03-23T20:42:51.668Z",
+      "id": "ricmlh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9879484176635742,
+          "index": 1,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9959841370582581,
+          "index": 2,
+          "word": "Alt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9912102818489075,
+          "index": 9,
+          "word": "He",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9632574915885925,
+          "index": 10,
+          "word": "##lion",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9971988201141357,
+          "index": 17,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9929282665252686,
+          "index": 18,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op. OpenAI CEO Sam Altman is stepping down as board chair of Helion.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:47:07.813Z"
     },
     {
       "title": "Azure Databricks: an end-to-end guide — Part 2 of 3",
@@ -977,6 +1289,114 @@
       "summary": "Network operators are experimenting with new ways to connect power grids across Europe. Data center operators are testing new ways of connecting power grids.",
       "language": "en",
       "processed_at": "2026-03-23T09:07:00.921Z"
+    },
+    {
+      "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
+      "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T08:00:00.000Z",
+      "metaDescription": "The AI image generation market has had an uncontested leader for months. Google's Nano Banana family of models has set the standard for quality, speed, and commercial adoption, while competitors from ",
+      "category": "product-launch",
+      "difficulty": 10,
+      "confidence": 0.8948863890129978,
+      "crawledAt": "2026-03-23T20:43:02.075Z",
+      "id": "pmtfb0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9976928234100342,
+          "index": 1,
+          "word": "Lu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8084376454353333,
+          "index": 2,
+          "word": "##ma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971974492073059,
+          "index": 3,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9919915199279785,
+          "index": 5,
+          "word": "Un",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9960644841194153,
+          "index": 6,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9894752502441406,
+          "index": 7,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9955516457557678,
+          "index": 8,
+          "word": "1",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9977265000343323,
+          "index": 16,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9956521391868591,
+          "index": 18,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.961539089679718,
+          "index": 19,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9256176948547363,
+          "index": 20,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google's Nano Banana family of models has set the standard for quality, speed, and commercial adoption. The Nano Banana has set a standard forquality, speed and commercial use.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:47:19.198Z"
     },
     {
       "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT",
@@ -2726,6 +3146,50 @@
       "summary": "Companies are racing to adopt technologies that can deliver real-world solutions, especially in hard-to-abate industries.",
       "language": "en",
       "processed_at": "2026-03-23T17:06:38.322Z"
+    },
+    {
+      "title": "Cursor's Composer 2 was secretly built on a Chinese AI model — and it exposes a deeper problem with Western open-source AI",
+      "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-23T04:00:00.000Z",
+      "metaDescription": "The $29.3 billion AI coding tool just got caught with its provenance showing. When Cursor launched Composer 2 last week — calling it \"frontier-level coding intelligence\" — it presented the model as ev",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4117726168447389,
+      "crawledAt": "2026-03-23T20:43:02.464Z",
+      "id": "fvwch6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9728284478187561,
+          "index": 7,
+          "word": "2",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9997535943984985,
+          "index": 13,
+          "word": "Chinese",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9997458457946777,
+          "index": 25,
+          "word": "Western",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cursor launched Composer 2 last week, called it \"frontier-level coding intelligence\" The $29.3 billion AI coding tool just got caught with its provenance showing.",
+      "language": "en",
+      "processed_at": "2026-03-23T20:47:30.866Z"
     },
     {
       "title": "State of Context Engineering in 2026",
@@ -67514,72 +67978,25 @@
       "summary": " The format is simple: posts are mostly text with photos. Each post talks about a different topic, for example interesting facts.",
       "language": "en",
       "processed_at": "2026-03-15T17:05:14.313Z"
-    },
-    {
-      "title": "Traffic Light: Production-ready orchestrator for multi-framework AI agents",
-      "url": "https://www.reddit.com/r/mlops/comments/1rof62i/traffic_light_productionready_orchestrator_for/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-08T20:14:53.000Z",
-      "metaDescription": "Sharing something I built to solve a real production headache.\n The problem in prod:\n  \nTeam A uses LangChain for RAG pipelines\n Team B uses AutoGen for multi-agent conversations\n Team C wants to try ",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.6206840896264222,
-      "crawledAt": "2026-03-15T16:40:34.358Z",
-      "id": "6rijfg",
-      "entities": [],
-      "summary": "Team A uses LangChain for RAG pipelines. Team B uses AutoGen for multi-agent conversations. Team C wants to try to try.",
-      "language": "en",
-      "processed_at": "2026-03-15T17:05:24.119Z"
-    },
-    {
-      "title": "10 Python Techniques That Make Data Cleaning Stupidly Easy",
-      "url": "https://python.plainenglish.io/10-python-techniques-that-make-data-cleaning-stupidly-easy-89d20546c344?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-08T19:58:16.000Z",
-      "metaDescription": "Clean data = strong models.\nContinue reading on Python in Plain English »",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.46282231669901785,
-      "crawledAt": "2026-03-08T20:34:51.591Z",
-      "id": "c07jx8",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8707401156425476,
-          "index": 2,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Clean data. Clean data = strong models. CleanData is strong data. clean data is strong models. Clean data is good data.",
-      "language": "en",
-      "processed_at": "2026-03-08T20:36:05.037Z"
     }
   ],
-  "processedAt": "2026-03-23T17:06:50.441Z",
+  "processedAt": "2026-03-23T20:47:30.870Z",
   "categories": [
-    "infrastructure",
     "creative-ai",
     "ai-agents",
-    "developer-tool",
     "safety-ethics",
+    "infrastructure",
+    "industry-news",
+    "developer-tool",
+    "product-launch",
     "research-paper",
     "tutorial-guide",
-    "product-launch",
-    "industry-news",
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 17,
-  "existingArticlesKept": 1938,
+  "newArticlesProcessed": 11,
+  "existingArticlesKept": 1951,
   "cleanupApplied": true,
-  "cleanedUpCount": 4,
+  "cleanedUpCount": 2,
   "rollingWindowDays": 15
 }
