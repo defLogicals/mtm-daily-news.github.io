@@ -1,9 +1,354 @@
 {
-  "crawledAt": "2026-03-24T09:01:04.756Z",
+  "crawledAt": "2026-03-24T13:26:17.726Z",
   "totalSources": 70,
-  "totalArticles": 70,
+  "totalArticles": 79,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T12:38:09.000Z",
+      "metaDescription": "Development houses: It's time to check your networks for infections.",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.4142297305949588,
+      "crawledAt": "2026-03-24T13:25:13.286Z",
+      "id": "5c67ci",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9933534264564514,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Check your networks for infections. Check your networks. Check out your networks' social networks for infection. Check your social media accounts.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:26:39.251Z"
+    },
+    {
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T12:28:27.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.5472202618860326,
+      "crawledAt": "2026-03-24T13:25:16.921Z",
+      "id": "hp600i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9990181922912598,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9974148869514465,
+          "index": 13,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9481792449951172,
+          "index": 14,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8448567390441895,
+          "index": 15,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9974148869514465,
+          "index": 17,
+          "word": "Microsoft",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Daily Download is a daily dose of what’s going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:26:54.287Z"
+    },
+    {
+      "title": "Getting Started with Nanobot: Build Your First AI Agent",
+      "url": "https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T12:14:39.000Z",
+      "metaDescription": "Learn how to set up Nanobot, connect it to WhatsApp, and power it with OpenAI GPT-5.3-Codex for a practical, always-on AI agent.",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.8984446155178362,
+      "crawledAt": "2026-03-24T13:26:15.061Z",
+      "id": "ydstyg",
+      "entities": [],
+      "summary": " Learn how to set up Nanobot, connect it to WhatsApp, and power it with OpenAI GPT-5.3-Codex.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:27:18.821Z"
+    },
+    {
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T12:05:00.000Z",
+      "metaDescription": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.3749606204899897,
+      "crawledAt": "2026-03-24T13:25:11.707Z",
+      "id": "ohg23u",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9948642253875732,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9596080183982849,
+          "index": 2,
+          "word": "##gi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9422289133071899,
+          "index": 3,
+          "word": "##le",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987950325012207,
+          "index": 4,
+          "word": "Robot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997893750667572,
+          "index": 5,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9979075789451599,
+          "index": 15,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970052242279053,
+          "index": 16,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977938532829285,
+          "index": 17,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950805902481079,
+          "index": 18,
+          "word": "##ind",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agile Robots will incorporate Google's robotics foundation models into its bots. The bots will be used to collect data for the AI research lab.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:27:27.683Z"
+    },
+    {
+      "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T10:30:00.000Z",
+      "metaDescription": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.30525485445269535,
+      "crawledAt": "2026-03-24T13:25:16.028Z",
+      "id": "ibvsgw",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996355772018433,
+          "index": 1,
+          "word": "Chris",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992373585700989,
+          "index": 2,
+          "word": "Hayes",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The host of MS Now's All In knows how hard it is to stay current. But he also knows where you should focus your attention.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:28:24.483Z"
+    },
+    {
+      "title": "Your Body Is Betraying Your Right to Privacy",
+      "url": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T10:00:00.000Z",
+      "metaDescription": "Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.6213046683764346,
+      "crawledAt": "2026-03-24T13:25:16.100Z",
+      "id": "jnn8q4",
+      "entities": [],
+      "summary": " Attachment to smart devices and biometric surveillance leaves Americans more vulnerable to police searches than ever. Left unchecked it will only get worse.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:28:36.420Z"
+    },
+    {
+      "title": "Why You Should Add Observability to Your Data Extraction with OpenTelemetry",
+      "url": "https://python.plainenglish.io/why-you-should-add-observability-to-your-data-extraction-with-opentelemetry-e45dc07f4f28?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T09:19:30.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3367308963244402,
+      "crawledAt": "2026-03-24T13:25:39.094Z",
+      "id": "99vf8",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:28:36.490Z"
+    },
+    {
+      "title": "The 100B AI Model Microsoft Has $13 Billion Reasons Not to Train",
+      "url": "https://generativeai.pub/the-100b-ai-model-microsoft-has-13-billion-reasons-not-to-train-c9d39ccac26b?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T09:09:28.000Z",
+      "metaDescription": "Two years of papers. No model above 3B. And $13 billion reasons why.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4468300647982822,
+      "crawledAt": "2026-03-24T13:25:39.723Z",
+      "id": "4krc2g",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9896572828292847,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9540442824363708,
+          "index": 5,
+          "word": "Model",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " No model above 3B. And $13 billion reasons why. Two years of papers. No modelAbove 3B. No modelabove 3B and $13billion reasons why.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:28:58.022Z"
+    },
+    {
+      "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+      "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T09:00:03.000Z",
+      "metaDescription": "If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3085869047560703,
+      "crawledAt": "2026-03-24T13:25:26.101Z",
+      "id": "xd07zd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9217981696128845,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9793934226036072,
+          "index": 15,
+          "word": "Applications",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A large language model is connected to a vector store in the world of AI. The model is based on the architecture of an AI startup.",
+      "language": "en",
+      "processed_at": "2026-03-24T13:29:17.022Z"
+    },
     {
       "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
       "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
@@ -2237,19 +2582,20 @@
       "processed_at": "2026-03-24T02:42:51.562Z"
     }
   ],
-  "processedAt": "2026-03-24T09:01:46.730Z",
+  "processedAt": "2026-03-24T13:29:17.027Z",
   "categories": [
-    "creative-ai",
-    "infrastructure",
-    "developer-tool",
     "ai-agents",
-    "research-paper",
+    "developer-tool",
+    "industry-news",
     "safety-ethics",
+    "infrastructure",
+    "creative-ai",
+    "research-paper",
     "model-release",
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 3,
-  "dailyArticlesCount": 70,
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 79,
   "filterDate": "2026-03-24"
 }
