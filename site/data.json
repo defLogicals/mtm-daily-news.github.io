@@ -1,9 +1,644 @@
 {
-  "crawledAt": "2026-03-24T17:08:05.662Z",
+  "crawledAt": "2026-03-24T20:51:06.206Z",
   "totalSources": 70,
-  "totalArticles": 1935,
+  "totalArticles": 1936,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T20:40:56.000Z",
+      "metaDescription": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.3223023729312723,
+      "crawledAt": "2026-03-24T20:49:56.288Z",
+      "id": "2c8ajh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.970507025718689,
+          "index": 1,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989103376865387,
+          "index": 2,
+          "word": "##bri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9183062314987183,
+          "index": 3,
+          "word": "##cks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9963120222091675,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:51:17.783Z"
+    },
+    {
+      "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T20:27:49.000Z",
+      "metaDescription": "In this post, we walk through how to search for available p-family GPU capacity, create a training plan reservation for inference, and deploy a SageMaker AI inference endpoint on that reserved capacit",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.9018696859888516,
+      "crawledAt": "2026-03-24T20:50:10.749Z",
+      "id": "86s28j",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.969694197177887,
+          "index": 5,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "We walk through how to search for available p-family GPU capacity. We also deploy a SageMaker AI inference endpoint on that reserved capacit.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:51:27.554Z"
+    },
+    {
+      "title": "Semantic Code Search: What It Is and How It Works",
+      "url": "https://webflow.sourcegraph.com/blog/semantic-code-search-what-it-is-and-how-it-works",
+      "source": "Sourcegraph Blog",
+      "source_domain": "webflow.sourcegraph.com",
+      "source_category": "developer",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T20:19:27.000Z",
+      "metaDescription": "semantic-code-search-what-it-is-and-how-it-works",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.30002006106740353,
+      "crawledAt": "2026-03-24T20:50:45.756Z",
+      "id": "th9m72",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8925497531890869,
+          "index": 1,
+          "word": "Se",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8889284729957581,
+          "index": 4,
+          "word": "Code",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9048467874526978,
+          "index": 5,
+          "word": "Search",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:51:27.622Z"
+    },
+    {
+      "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
+      "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T20:00:00.000Z",
+      "metaDescription": "Anthropic on Monday launched the most ambitious consumer AI agent to date, giving its Claude chatbot the ability to directly control a user's Mac — clicking buttons, opening applications, typing into ",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.818603584869129,
+      "crawledAt": "2026-03-24T20:50:06.187Z",
+      "id": "d5y6fq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9927372336387634,
+          "index": 6,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8864981532096863,
+          "index": 20,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Anthropic on Monday launched the most ambitious consumer AI agent to date. The chatbot can directly control a user's Mac — clicking buttons, opening applications, typing into applications.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:51:39.756Z"
+    },
+    {
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T19:48:54.000Z",
+      "metaDescription": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "category": "model-release",
+      "difficulty": 4,
+      "confidence": 0.9792267137758504,
+      "crawledAt": "2026-03-24T20:49:56.377Z",
+      "id": "ov21rq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9870645403862,
+          "index": 1,
+          "word": "Arm",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:51:48.811Z"
+    },
+    {
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T19:27:56.000Z",
+      "metaDescription": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3469818909186743,
+      "crawledAt": "2026-03-24T20:49:56.468Z",
+      "id": "m1cpsk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983751177787781,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969465136528015,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9870550632476807,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8250108957290649,
+          "index": 9,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9977298378944397,
+          "index": 15,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Instant Checkout allowed users to buy items directly through the ChatGPT interface. Instant Check out allows users to purchase items directly via the Chat GPT interface.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:52:02.069Z"
+    },
+    {
+      "title": "Cloudflare’s new Dynamic Workers ditch containers to run AI agent code 100x faster",
+      "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T19:21:00.000Z",
+      "metaDescription": "Web infrastructure giant Cloudflare is seeking to transform the way enterprises deploy AI agents with the open beta release of Dynamic Workers, a new lightweight, isolate-based sandboxing system that ",
+      "category": "ai-agents",
+      "difficulty": 7,
+      "confidence": 0.5591483478940621,
+      "crawledAt": "2026-03-24T20:50:06.289Z",
+      "id": "bt19bf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9941640496253967,
+          "index": 1,
+          "word": "Cloud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974042177200317,
+          "index": 2,
+          "word": "##f",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953557252883911,
+          "index": 3,
+          "word": "##lar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9925519824028015,
+          "index": 4,
+          "word": "##e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9695086479187012,
+          "index": 8,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8335256576538086,
+          "index": 9,
+          "word": "##ynamic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9244587421417236,
+          "index": 10,
+          "word": "Workers",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9898703098297119,
+          "index": 15,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cloudflare is seeking to transform the way enterprises deploy AI agents with the open beta release of Dynamic Workers. Dynamic Workers is a lightweight, isolate-based sandboxing system.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:52:14.423Z"
+    },
+    {
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T19:12:11.000Z",
+      "metaDescription": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs.",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.27317529920347366,
+      "crawledAt": "2026-03-24T20:49:56.551Z",
+      "id": "oio8yb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998654842376709,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995413064956665,
+          "index": 2,
+          "word": "TV",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8135085105895996,
+          "index": 6,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Three Gemini-powered features are coming to your TV. This includes visual responses, deep dives, and sports briefs.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:52:22.774Z"
+    },
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T18:41:34.000Z",
+      "metaDescription": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+      "category": "developer-tool",
+      "difficulty": 5,
+      "confidence": 0.9894264722482446,
+      "crawledAt": "2026-03-24T20:49:56.636Z",
+      "id": "624oc4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9909078478813171,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.98091721534729,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8826563358306885,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Developers can use these policies to fortify what they build. Rather than working from scratch, developers can use them to fortified what they built.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:52:32.232Z"
+    },
+    {
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T18:41:33.000Z",
+      "metaDescription": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.47795084130155624,
+      "crawledAt": "2026-03-24T20:49:56.715Z",
+      "id": "siulrz",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9795111417770386,
+          "index": 1,
+          "word": "Ta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9634315967559814,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The subscription-free AI notes app is a local version of Granola. The app is available in the U.S.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:52:41.403Z"
+    },
+    {
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T18:17:13.000Z",
+      "metaDescription": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9203381144817734,
+      "crawledAt": "2026-03-24T20:50:00.910Z",
+      "id": "swej9x",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.903802752494812,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This subscriber-only eBook explores this and angles from experts. We’re starting to give AI agents real autonomy, but are we prepared for what could happen next?",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:02.156Z"
+    },
+    {
+      "title": "Claude Code Section 2: Making Claude Personal — 7 Concepts That Turn a Generic Tool Into Your…",
+      "url": "https://pub.towardsai.net/claude-code-section-2-making-claude-personal-7-concepts-that-turn-a-generic-tool-into-your-5756e07bfb65?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T18:01:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29853578496963273,
+      "crawledAt": "2026-03-24T20:50:19.907Z",
+      "id": "v452y3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8507207632064819,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9035239815711975,
+          "index": 2,
+          "word": "Code",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:11.255Z"
+    },
+    {
+      "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T17:56:00.000Z",
+      "metaDescription": "This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recognition without extensive setup or training.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2512405675992545,
+      "crawledAt": "2026-03-24T20:50:10.842Z",
+      "id": "20e9p8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9031498432159424,
+          "index": 13,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9641236662864685,
+          "index": 14,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8404650092124939,
+          "index": 15,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This post introduces Claude Tool use in Amazon Bedrock which uses large language models (LLMs) to perform dynamic, adaptable entity recognition without extensive setup or training.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:24.011Z"
+    },
+    {
+      "title": "What Codex Unlocks for Notion",
+      "url": "https://www.youtube.com/shorts/qHEUIXGSxxg",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T17:21:07.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8944657505590438,
+      "crawledAt": "2026-03-24T20:50:32.309Z",
+      "id": "ib49ui",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:24.067Z"
+    },
+    {
+      "title": "All of DOGE’s work could be undone as lawsuit against Musk proceeds",
+      "url": "https://arstechnica.com/tech-policy/2026/03/all-of-doges-work-could-be-undone-as-lawsuit-against-musk-proceeds/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T17:17:34.000Z",
+      "metaDescription": "Musk’s X posts bragging about DOGE may trigger reversals of its biggest wins.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.2692094608062163,
+      "crawledAt": "2026-03-24T20:49:58.324Z",
+      "id": "knjjnu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979208111763,
+          "index": 3,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.950965940952301,
+          "index": 4,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9683383703231812,
+          "index": 5,
+          "word": "##GE",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8299070000648499,
+          "index": 16,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Musk's X posts about DOGE may trigger reversals of big wins for the company. The company is known for its \"DOGE\"",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:45.673Z"
+    },
     {
       "title": "Automating complex finance workflows with multimodal AI",
       "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
@@ -781,6 +1416,34 @@
       "summary": " Agile Robots will incorporate Google's robotics foundation models into its bots. The bots will be used to collect data for the AI research lab.",
       "language": "en",
       "processed_at": "2026-03-24T13:27:27.683Z"
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T11:00:00.000Z",
+      "metaDescription": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "category": "developer-tool",
+      "difficulty": 4,
+      "confidence": 0.5817685400801976,
+      "crawledAt": "2026-03-24T20:49:52.383Z",
+      "id": "b8gmd9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9538844227790833,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard. It helps moderate age-specific risks in AI systems.",
+      "language": "en",
+      "processed_at": "2026-03-24T20:53:56.308Z"
     },
     {
       "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
@@ -66375,650 +67038,25 @@
       "summary": " The primary customer is changing from a person behind a screen to the AI agents that said human customer deploys on their behalf to AI agents.",
       "language": "en",
       "processed_at": "2026-03-10T02:37:19.350Z"
-    },
-    {
-      "title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T20:48:46.000Z",
-      "metaDescription": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting N",
-      "category": "infrastructure",
-      "difficulty": 8,
-      "confidence": 0.3208409933956245,
-      "crawledAt": "2026-03-10T02:33:41.613Z",
-      "id": "9qgv0r",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.8582947254180908,
-          "index": 4,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9319896101951599,
-          "index": 9,
-          "word": "##ron",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9431360363960266,
-          "index": 10,
-          "word": "3",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8362916111946106,
-          "index": 12,
-          "word": "##o",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9530339241027832,
-          "index": 21,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.9764353036880493,
-          "index": 22,
-          "word": "Bed",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.9556122422218323,
-          "index": 23,
-          "word": "##rock",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Nemotron 3 Nano is now available as a fully managed server in Amazon. This follows the announcement of the company's announcement at the end of the year.",
-      "language": "en",
-      "processed_at": "2026-03-10T02:37:48.303Z"
-    },
-    {
-      "title": "Quad Cortex mini amp modeler: All the power, half the size",
-      "url": "https://arstechnica.com/reviews/2026/03/quad-cortex-mini-insane-amp-modeling-power-for-the-discerning-guitarist/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T20:36:25.000Z",
-      "metaDescription": "A warehouse of guitar gear in the palm of your hand.",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.2885497151856032,
-      "crawledAt": "2026-03-10T02:33:18.533Z",
-      "id": "in542m",
-      "entities": [],
-      "summary": "A warehouse of guitar gear in the palm of your hand. A warehouse of guitars in the palms of your hands.",
-      "language": "en",
-      "processed_at": "2026-03-10T02:38:20.458Z"
-    },
-    {
-      "title": "Model Switching in Production: How We Evaluated LLMs for a Conversational Chatbot",
-      "url": "https://pub.towardsai.net/model-switching-in-production-how-we-evaluated-llms-for-a-conversational-chatbot-260767b2921b?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T20:01:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3188612851098828,
-      "crawledAt": "2026-03-09T20:41:41.514Z",
-      "id": "a8gar9",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:43:06.860Z"
-    },
-    {
-      "title": "US blindsides states with surprise settlement in Live Nation/Ticketmaster trial",
-      "url": "https://arstechnica.com/tech-policy/2026/03/us-blindsides-states-with-surprise-settlement-in-live-nation-ticketmaster-trial/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T19:51:51.000Z",
-      "metaDescription": "States seek mistrial, saying \"sudden disappearance\" of US will influence jury.",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.29819255612515083,
-      "crawledAt": "2026-03-10T02:33:18.786Z",
-      "id": "wanojn",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.9992905259132385,
-          "index": 1,
-          "word": "US",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8455696702003479,
-          "index": 16,
-          "word": "##master",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " States seek mistrial, saying \"sudden disappearance\" of US will influence jury. States say \"suddenly disappearance\" will influence jurors.",
-      "language": "en",
-      "processed_at": "2026-03-10T02:38:42.166Z"
-    },
-    {
-      "title": "Anthropic launches code review tool to check flood of AI-generated code",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T19:41:34.000Z",
-      "metaDescription": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.983753316509526,
-      "crawledAt": "2026-03-09T20:41:01.812Z",
-      "id": "60t9ua",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9992714524269104,
-          "index": 12,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Anthropic launched Code Review in Claude Code, a multi-agent system that analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:43:34.892Z"
-    },
-    {
-      "title": "What AI Interviewers Actually Want in a Take-Home",
-      "url": "https://pub.towardsai.net/what-ai-interviewers-actually-want-in-a-take-home-d62efcbc3617?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T19:06:11.000Z",
-      "metaDescription": "Most candidates focus on the final demo. The best ones show clear thinking, smart tradeoffs, and a process that feels like real…\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.637674488571442,
-      "crawledAt": "2026-03-09T20:41:41.849Z",
-      "id": "y39fyf",
-      "entities": [],
-      "summary": " Most candidates focus on the final demo. The best ones show clear thinking, smart tradeoffs, and a process that feels like real.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:44:05.480Z"
-    },
-    {
-      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T18:36:33.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3905146251899729,
-      "crawledAt": "2026-03-09T20:40:46.577Z",
-      "id": "u116w4",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8707790970802307,
-          "index": 22,
-          "word": "Edge",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:44:50.921Z"
-    },
-    {
-      "title": "Are You Ready to Lose the AI Race?",
-      "url": "https://pub.towardsai.net/are-you-ready-to-lose-the-ai-race-431b6b4055b3?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T18:31:01.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.25194200387297827,
-      "crawledAt": "2026-03-09T20:41:42.079Z",
-      "id": "rswqbf",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9837185740470886,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9083026051521301,
-          "index": 9,
-          "word": "Race",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:44:51.061Z"
-    },
-    {
-      "title": "Nintendo sues to prevent Trump from dodging full tariff refunds",
-      "url": "https://arstechnica.com/tech-policy/2026/03/nintendo-sues-for-full-tariff-refund-after-backlash-over-price-hikes/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T18:28:13.000Z",
-      "metaDescription": "Nintendo may face pressure to share refunds with gamers who helped pay tariffs.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2671465663571937,
-      "crawledAt": "2026-03-09T20:41:05.664Z",
-      "id": "926o4v",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9926967024803162,
-          "index": 1,
-          "word": "Nintendo",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9984459280967712,
-          "index": 6,
-          "word": "Trump",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Nintendo may face pressure to share refunds with gamers who helped pay tariffs. Nintendo may be forced to share refunds with gamers.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:45:01.732Z"
-    },
-    {
-      "title": "Open source UM diagnostic — shows fault onset ratio, thrash score, residency boundary",
-      "url": "https://www.reddit.com/r/mlops/comments/1rp80yu/open_source_um_diagnostic_shows_fault_onset_ratio/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T18:16:29.000Z",
-      "metaDescription": "In ML pipelines that rely on cudaMallocManaged, performance can degrade sharply once allocations exceed what the GPU can keep resident.\n The tricky part is that the transition from resident memory → p",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.2571022470285493,
-      "crawledAt": "2026-03-15T16:40:33.850Z",
-      "id": "qm5g8o",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9764544367790222,
-          "index": 3,
-          "word": "U",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The tricky part is that the transition from resident memory to resident memory is the transition. In ML pipelines that rely on cudaMallocManaged, performance can degrade sharply once allocations exceed what the GPU can keep resident.",
-      "language": "en",
-      "processed_at": "2026-03-15T17:04:55.751Z"
-    },
-    {
-      "title": "The Air-Gapped Chronicles: The Grid Collapse — When AI Optimization Kills the Power",
-      "url": "https://pub.towardsai.net/the-air-gapped-chronicles-the-grid-collapse-when-ai-optimization-kills-the-power-e0e0c41536ad?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T18:01:01.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.47846433948202843,
-      "crawledAt": "2026-03-09T20:41:42.176Z",
-      "id": "xo81sg",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9975959658622742,
-          "index": 2,
-          "word": "Air",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.978287935256958,
-          "index": 3,
-          "word": "-",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9978468418121338,
-          "index": 4,
-          "word": "Gap",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9965291619300842,
-          "index": 5,
-          "word": "##ped",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9929370284080505,
-          "index": 6,
-          "word": "Chronicles",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9185916781425476,
-          "index": 16,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:45:01.919Z"
-    },
-    {
-      "title": "OpenAI acquires Promptfoo to secure its AI agents",
-      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T17:49:04.000Z",
-      "metaDescription": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-      "category": "ai-agents",
-      "difficulty": 7,
-      "confidence": 0.9839734422615256,
-      "crawledAt": "2026-03-09T20:41:01.957Z",
-      "id": "htt6rr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9982935786247253,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9966219663619995,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9957327842712402,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9976873993873596,
-          "index": 6,
-          "word": "Pro",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9949550628662109,
-          "index": 7,
-          "word": "##mpt",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9845801591873169,
-          "index": 8,
-          "word": "##fo",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9854716062545776,
-          "index": 9,
-          "word": "##o",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " frontier labs are scrambling to prove their technology can be used safely in critical business operations. This deal underscores how frontier labs have to prove they can be safely used in critical businesses.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:45:29.993Z"
-    },
-    {
-      "title": "From Python Developer to AI Engineer: A Practical Roadmap",
-      "url": "https://python.plainenglish.io/from-python-developer-to-ai-engineer-a-practical-roadmap-b4f56ee5f4f7?source=rss----78073def27b8---4",
-      "source": "Python in Plain English",
-      "source_domain": "python.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "medium",
-      "pubDate": "2026-03-09T17:31:34.000Z",
-      "metaDescription": "Start Your AI Journey Faster With 50DaysOfPython\nContinue reading on Python in Plain English »",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.8276930488486389,
-      "crawledAt": "2026-03-09T20:41:47.920Z",
-      "id": "7r1e3f",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8270792961120605,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Start your AI Journey Faster With 50DaysOfPython. Start your AI journey faster with 50Days OfPython. Read on Python in Plain English.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:45:43.719Z"
-    },
-    {
-      "title": "The Non-Linear Manifesto, which Made Deep Learning possible",
-      "url": "https://pub.towardsai.net/the-non-linear-manifesto-which-made-deep-learning-possible-09e07f17ef98?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T17:31:00.000Z",
-      "metaDescription": "Without This One Mathematical “Bend,” a 100-Layer Neural Network Is Just Fancy Addition\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 9,
-      "confidence": 0.32670692795906103,
-      "crawledAt": "2026-03-09T20:41:42.318Z",
-      "id": "vktu9o",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9933001399040222,
-          "index": 2,
-          "word": "Non",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9842313528060913,
-          "index": 3,
-          "word": "-",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9898185133934021,
-          "index": 4,
-          "word": "Line",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.991084098815918,
-          "index": 5,
-          "word": "##ar",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9963250756263733,
-          "index": 6,
-          "word": "Man",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9824482202529907,
-          "index": 7,
-          "word": "##ife",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9685748219490051,
-          "index": 8,
-          "word": "##sto",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8753594160079956,
-          "index": 12,
-          "word": "Deep",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9582188129425049,
-          "index": 13,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Without This One Mathematical “Bend,’ a 100-Layer Neural Network is Just Fancy Addition.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:45:57.300Z"
-    },
-    {
-      "title": "Anthropic sues Defense Department over supply-chain risk designation",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-09T17:25:40.000Z",
-      "metaDescription": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-      "category": "safety-ethics",
-      "difficulty": 4,
-      "confidence": 0.38364537801185655,
-      "crawledAt": "2026-03-09T20:41:02.158Z",
-      "id": "kx6vn7",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9991905689239502,
-          "index": 6,
-          "word": "Defense",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9990828037261963,
-          "index": 7,
-          "word": "Department",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The complaint calls the DOD's actions \"unlawful\" and \"unprecedented\" The complaint says the DOD is a supply chain risk.",
-      "language": "en",
-      "processed_at": "2026-03-09T20:46:10.439Z"
     }
   ],
-  "processedAt": "2026-03-24T17:14:08.808Z",
+  "processedAt": "2026-03-24T20:53:56.311Z",
   "categories": [
-    "creative-ai",
-    "safety-ethics",
-    "infrastructure",
     "ai-agents",
-    "research-paper",
-    "developer-tool",
-    "industry-news",
+    "infrastructure",
     "model-release",
+    "creative-ai",
+    "developer-tool",
+    "safety-ethics",
+    "research-paper",
+    "industry-news",
     "product-launch",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 21,
-  "existingArticlesKept": 1941,
+  "newArticlesProcessed": 16,
+  "existingArticlesKept": 1935,
   "cleanupApplied": true,
-  "cleanedUpCount": 27,
+  "cleanedUpCount": 15,
   "rollingWindowDays": 15
 }
