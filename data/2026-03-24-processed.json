@@ -1,9 +1,96 @@
 {
-  "crawledAt": "2026-03-24T05:26:17.566Z",
+  "crawledAt": "2026-03-24T09:01:04.756Z",
   "totalSources": 70,
-  "totalArticles": 67,
+  "totalArticles": 70,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+      "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T08:00:12.000Z",
+      "metaDescription": "Artificial intelligence has rapidly emerged as one of the most critical workloads in modern computing. For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform t",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.29907245780375835,
+      "crawledAt": "2026-03-24T08:59:14.901Z",
+      "id": "c53033",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9690189361572266,
+          "index": 4,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9955845475196838,
+          "index": 5,
+          "word": "Source",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9402937293052673,
+          "index": 8,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8733829259872437,
+          "index": 10,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8935183882713318,
+          "index": 11,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8349477052688599,
+          "index": 29,
+          "word": "##es",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform. The open-source platform is an open- source platform.",
+      "language": "en",
+      "processed_at": "2026-03-24T09:01:32.596Z"
+    },
+    {
+      "title": "25 Python Scripts To Automate Your Daily Tasks",
+      "url": "https://python.plainenglish.io/25-python-scripts-to-automate-your-daily-tasks-c899984fd83e?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T06:57:16.000Z",
+      "metaDescription": "I’m going to make a bold assumption about you.\nContinue reading on Python in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25350446086701706,
+      "crawledAt": "2026-03-24T09:00:12.654Z",
+      "id": "sr6jc9",
+      "entities": [],
+      "summary": " I’m going to make a bold assumption about you. I‘m going. I'm going to making a bold assumptions about you, I�’s going to say.",
+      "language": "en",
+      "processed_at": "2026-03-24T09:01:46.619Z"
+    },
     {
       "title": "Claude Can Literally Control Your Mac",
       "url": "https://www.youtube.com/watch?v=HjkROrZvxtE",
@@ -22,6 +109,34 @@
       "summary": "Discussion about AI models and tools mentioned in the title.",
       "language": "en",
       "processed_at": "2026-03-24T05:26:19.665Z"
+    },
+    {
+      "title": "Claude's New Computer Control Feature Is Insane",
+      "url": "https://www.youtube.com/watch?v=HjkROrZvxtE",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-24T04:20:07.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6287844747171907,
+      "crawledAt": "2026-03-24T09:00:24.899Z",
+      "id": "2z1iyh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9951624870300293,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-24T09:01:46.713Z"
     },
     {
       "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
@@ -2122,7 +2237,7 @@
       "processed_at": "2026-03-24T02:42:51.562Z"
     }
   ],
-  "processedAt": "2026-03-24T05:43:25.213Z",
+  "processedAt": "2026-03-24T09:01:46.730Z",
   "categories": [
     "creative-ai",
     "infrastructure",
@@ -2134,7 +2249,7 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "dailyArticlesCount": 67,
+  "newArticlesProcessed": 3,
+  "dailyArticlesCount": 70,
   "filterDate": "2026-03-24"
 }
