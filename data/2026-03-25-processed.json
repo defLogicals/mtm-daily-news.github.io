@@ -1,9 +1,1078 @@
 {
-  "crawledAt": "2026-03-25T13:25:55.700Z",
+  "crawledAt": "2026-03-25T17:12:05.611Z",
   "totalSources": 70,
-  "totalArticles": 75,
+  "totalArticles": 103,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Meta Just Acqui-Hired Its 4th AI Startup in 4 Months. Zuckerberg’s Agent Empire Is Taking Shape.",
+      "url": "https://pub.towardsai.net/meta-just-acqui-hired-its-4th-ai-startup-in-4-months-zuckerbergs-agent-empire-is-taking-shape-9bae657fef66?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T17:01:01.000Z",
+      "metaDescription": "From Scale AI to Dreamer, Zuckerberg isn’t building AI he’s buying everyone who is.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9456760330607159,
+      "crawledAt": "2026-03-25T17:11:03.897Z",
+      "id": "sk2c1m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9909040331840515,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8970347046852112,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8519287705421448,
+          "index": 4,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.954226553440094,
+          "index": 20,
+          "word": "Z",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Zuckerberg isn't building AI he's buying everyone who is. From Scale AI to Dreamer, Zuckerberg isn’t building AI.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:12:17.274Z"
+    },
+    {
+      "title": "Episode 15 - Inside the Model Spec",
+      "url": "https://www.youtube.com/watch?v=H8GMRxG8suw",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:55:00.000Z",
+      "metaDescription": "",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.7416007304424415,
+      "crawledAt": "2026-03-25T17:11:22.318Z",
+      "id": "7xeac7",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.809252142906189,
+          "index": 6,
+          "word": "Model",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9933614134788513,
+          "index": 7,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8345621824264526,
+          "index": 8,
+          "word": "##pec",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:12:17.351Z"
+    },
+    {
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:37:43.000Z",
+      "metaDescription": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+      "category": "product-launch",
+      "difficulty": 7,
+      "confidence": 0.8509400732263732,
+      "crawledAt": "2026-03-25T17:10:28.132Z",
+      "id": "e3ovwp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.996148407459259,
+          "index": 1,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9928096532821655,
+          "index": 3,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9788682460784912,
+          "index": 4,
+          "word": "##yr",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9911231398582458,
+          "index": 5,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9972963929176331,
+          "index": 6,
+          "word": "3",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9810619354248047,
+          "index": 7,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks. Lyria is an upgraded version of Lyria that generates more customizable songs. Lyrian 3 Pro is an upgrade to the Lyria music model, which generates longer and more customizable tunes.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:12:54.593Z"
+    },
+    {
+      "title": "What Do You Need to Learn to be an AI Engineer in 2026? Where to Learn it? What to Build With it?",
+      "url": "https://pub.towardsai.net/what-do-you-need-to-learn-to-be-an-ai-engineer-in-2026-where-to-learn-it-what-to-build-with-it-fa1654e62826?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:31:01.000Z",
+      "metaDescription": "In 2026, being an AI Engineer is not about knowing how to fine-tune a transformer or call an API. It is about building reliable systems…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.30522021690662615,
+      "crawledAt": "2026-03-25T17:11:04.077Z",
+      "id": "ae8ugg",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9456278085708618,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8831555247306824,
+          "index": 12,
+          "word": "Engineer",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In 2026, being an AI Engineer is not about knowing how to fine-tune a transformer or call an API. It is about building reliable systems.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:13:07.254Z"
+    },
+    {
+      "title": "Vibe Coding a Private AI Financial Analyst with Python and Local LLMs",
+      "url": "https://www.kdnuggets.com/vibe-coding-a-private-ai-financial-analyst-with-python-and-local-llms",
+      "source": "KDnuggets",
+      "source_domain": "kdnuggets.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T16:11:39.000Z",
+      "metaDescription": "Learn to build an AI data analyst with Python: analyzes data, detects anomalies, and generates predictions using local LLMs.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.6475060392139282,
+      "crawledAt": "2026-03-25T17:12:04.361Z",
+      "id": "8aqydz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9093313217163086,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.855167031288147,
+          "index": 3,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9797152280807495,
+          "index": 13,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8896593451499939,
+          "index": 15,
+          "word": "Local",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Learn to build an AI data analyst with Python: analyzes data, detects anomalies, and generates predictions using LLMs.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:13:17.081Z"
+    },
+    {
+      "title": "Introducing Lyria 3 Pro",
+      "url": "https://www.youtube.com/watch?v=hv8ZI7foGZk",
+      "source": "DeepMind",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:00:42.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5205091086593142,
+      "crawledAt": "2026-03-25T17:11:22.892Z",
+      "id": "xyg2n6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991912841796875,
+          "index": 4,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953559637069702,
+          "index": 5,
+          "word": "##yr",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9649947881698608,
+          "index": 6,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:13:38.289Z"
+    },
+    {
+      "title": "Build with Lyria 3, our newest music generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "source": "Google AI Blog",
+      "source_domain": "blog.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:00:00.000Z",
+      "metaDescription": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.8407406969311945,
+      "crawledAt": "2026-03-25T17:10:22.907Z",
+      "id": "g3z58f",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9856458902359009,
+          "index": 4,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9587980508804321,
+          "index": 5,
+          "word": "##yr",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9817089438438416,
+          "index": 6,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9946063756942749,
+          "index": 7,
+          "word": "3",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio. Lyria is available in Google's AI Studio.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:13:48.707Z"
+    },
+    {
+      "title": "Why AI Agents Fail in Production: Lessons from Shipping 7 Agents Across Healthcare, Logistics, and…",
+      "url": "https://pub.towardsai.net/why-ai-agents-fail-in-production-lessons-from-shipping-7-agents-across-healthcare-logistics-and-ac60dbd8b31d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T15:31:00.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9380689407641427,
+      "crawledAt": "2026-03-25T17:11:04.254Z",
+      "id": "4mx8i0",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:13:58.486Z"
+    },
+    {
+      "title": "Why this battery company is pivoting to AI",
+      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T15:02:50.000Z",
+      "metaDescription": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.4232446712882908,
+      "crawledAt": "2026-03-25T17:10:34.757Z",
+      "id": "3h12pk",
+      "entities": [],
+      "summary": " Qichao Hu doesn't mince words about how he sees the state of the battery industry. \"Almost every Western battery company has either died or is going to die,\" he says.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:14:19.713Z"
+    },
+    {
+      "title": "Claude Code Channels: Message Your AI Coding Agent From Telegram and Discord",
+      "url": "https://pub.towardsai.net/claude-code-channels-message-your-ai-coding-agent-from-telegram-and-discord-2026-5f263ccc4b9c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T15:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.9762086129230895,
+      "crawledAt": "2026-03-25T17:11:04.393Z",
+      "id": "2v6201",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.978641927242279,
+          "index": 13,
+          "word": "Tel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9811251759529114,
+          "index": 14,
+          "word": "##eg",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.944767415523529,
+          "index": 15,
+          "word": "##ram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8653507828712463,
+          "index": 16,
+          "word": "and",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9395204186439514,
+          "index": 17,
+          "word": "Disco",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8772964477539062,
+          "index": 18,
+          "word": "##rd",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:14:19.849Z"
+    },
+    {
+      "title": "Following Up on Like-for-Like for Stores: Handling PY",
+      "url": "https://towardsdatascience.com/follow-up-on-like-for-like-for-stores-handling-py/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T15:00:00.000Z",
+      "metaDescription": "My last article was about implementing Like-for-Like (L4L) for Stores. After discussing my solution with my peers and clients, I encountered an interesting issue that brought additional requirements t",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.35006294946277106,
+      "crawledAt": "2026-03-25T17:10:41.386Z",
+      "id": "gw0ycr",
+      "entities": [],
+      "summary": " The issue brought additional requirements for Like-for-Like (L4L) for Stores. After discussing his solution with his peers and clients, I encountered an interesting issue.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:14:30.397Z"
+    },
+    {
+      "title": "Skills in LangSmith Fleet",
+      "url": "https://www.youtube.com/watch?v=AldL9C7Vimc",
+      "source": "LangChain",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:45:23.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.857632187960562,
+      "crawledAt": "2026-03-25T17:11:21.102Z",
+      "id": "pnw2xz",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.876953661441803,
+          "index": 4,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8388060927391052,
+          "index": 5,
+          "word": "##mith",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:11.637Z"
+    },
+    {
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:45:20.000Z",
+      "metaDescription": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.981081790609858,
+      "crawledAt": "2026-03-25T17:10:28.612Z",
+      "id": "g5phs1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985553026199341,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9916121363639832,
+          "index": 2,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9927387833595276,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:21.088Z"
+    },
+    {
+      "title": "The Value of Visual Storytelling and Narrative Capability In AI Image Generation",
+      "url": "https://generativeai.pub/the-value-of-visual-storytelling-and-narrative-capability-in-ai-image-generation-6085ca3cba82?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:38:54.000Z",
+      "metaDescription": "A strong image model isn’t defined solely by visual fidelity. It’s measured by its ability to convey meaning, emotion, and coherent…\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.320989698989866,
+      "crawledAt": "2026-03-25T17:11:10.762Z",
+      "id": "fzqjbu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9229133129119873,
+          "index": 15,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9401054978370667,
+          "index": 16,
+          "word": "Image",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.957198977470398,
+          "index": 17,
+          "word": "Generation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A strong image model isn’t defined solely by visual fidelity. It’s measured by its ability to convey meaning, emotion, and coherent…",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:31.626Z"
+    },
+    {
+      "title": "The Air-Gapped Chronicles: The SOC Blindspot — When Your Own AI Becomes the New Insider Threat",
+      "url": "https://pub.towardsai.net/the-air-gapped-chronicles-the-soc-blindspot-when-your-own-ai-becomes-the-new-insider-threat-5d31f406ee86?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:31:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.37956756484851634,
+      "crawledAt": "2026-03-25T17:11:04.477Z",
+      "id": "t9i8x1",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9973761439323425,
+          "index": 2,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9716313481330872,
+          "index": 3,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9977896809577942,
+          "index": 4,
+          "word": "Gap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9960049390792847,
+          "index": 5,
+          "word": "##ped",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9814974665641785,
+          "index": 6,
+          "word": "Chronicles",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Announcement or discussion about new AI model releases and updates.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:31.767Z"
+    },
+    {
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:16:17.000Z",
+      "metaDescription": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.8708290420795264,
+      "crawledAt": "2026-03-25T17:10:28.733Z",
+      "id": "atqjnl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9731832146644592,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9749233722686768,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9572034478187561,
+          "index": 11,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8308053016662598,
+          "index": 13,
+          "word": "##gram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9868967533111572,
+          "index": 15,
+          "word": "Facebook",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:41.953Z"
+    },
+    {
+      "title": "Apple begins age checks in the UK with latest iOS update",
+      "url": "https://arstechnica.com/tech-policy/2026/03/apple-begins-age-checks-in-the-uk-with-latest-ios-update/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T14:08:32.000Z",
+      "metaDescription": "Move follows government pressure on smartphone makers to do more to protect children online.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.46959283119698564,
+      "crawledAt": "2026-03-25T17:10:31.074Z",
+      "id": "s1qxrm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9973320364952087,
+          "index": 1,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987736344337463,
+          "index": 7,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9715806245803833,
+          "index": 10,
+          "word": "iOS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Government pressure on smartphone makers to do more to protect children online. Move follows government pressure on phone makers to protect kids online.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:49.372Z"
+    },
+    {
+      "title": "The Context Reliability Framework : A Production Architecture for Trustworthy AI Systems",
+      "url": "https://pub.towardsai.net/the-context-reliability-framework-crf-a-production-architecture-for-trustworthy-ai-systems-05d359aa5447?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T14:01:05.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.7595963306203172,
+      "crawledAt": "2026-03-25T17:11:04.543Z",
+      "id": "6t8zvm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8835628032684326,
+          "index": 2,
+          "word": "Con",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9312106370925903,
+          "index": 3,
+          "word": "##text",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9865330457687378,
+          "index": 4,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9848304986953735,
+          "index": 7,
+          "word": "Framework",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:15:49.478Z"
+    },
+    {
+      "title": "How to Use Git: A Beginner's Guide",
+      "url": "https://realpython.com/how-to-use-git/",
+      "source": "Real Python",
+      "source_domain": "realpython.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T14:00:00.000Z",
+      "metaDescription": "This tutorial shows you how to use Git to track changes in a project using just a few core commands and save clean snapshots of your work. If you’ve ever changed a file, broken something, and wished y",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.38814188014642925,
+      "crawledAt": "2026-03-25T17:11:59.505Z",
+      "id": "ayroaw",
+      "entities": [],
+      "summary": " This tutorial shows you how to use Git to track changes in a project using just a few core commands and save clean snapshots.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:16:01.136Z"
+    },
+    {
+      "title": "This startup wants to change how mathematicians do math",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:59:17.000Z",
+      "metaDescription": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.9198402841225997,
+      "crawledAt": "2026-03-25T17:10:34.899Z",
+      "id": "5toc4y",
+      "entities": [],
+      "summary": " Axiom Math, a startup based in Palo Alto, California, has released a free AI tool for mathematicians. It is designed to discover mathematical patterns that could unlock solutions to long-standing problems.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:16:13.269Z"
+    },
+    {
+      "title": "When Machines Become Our Third Mind: The Quiet Rise of Cognitive Surrender",
+      "url": "https://generativeai.pub/when-machines-become-our-third-mind-the-quiet-rise-of-cognitive-surrender-87e21715e8fb?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:42:57.000Z",
+      "metaDescription": "Inside a new cognitive architecture overtaking human judgment\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7106900142962963,
+      "crawledAt": "2026-03-25T17:11:10.862Z",
+      "id": "ae6qgz",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8534040451049805,
+          "index": 16,
+          "word": "##tive",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Inside a new cognitive architecture overtaking human judgment. Inside a new Cognitive architecture overtakes human judgment. Inside aNew cognitive architecture Overtaking human judgement.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:16:31.607Z"
+    },
+    {
+      "title": "Do or die: How AI will transform the economy and boost entrepreneurship",
+      "url": "https://generativeai.pub/do-or-die-how-ai-will-transform-the-economy-and-boost-entrepreneurship-a385be7a1a8a?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:41:26.000Z",
+      "metaDescription": "The fear is palpable and understandable. We’ve been warned of mass unemployment as artificial intelligence automates both mental and…\nContinue reading on Generative AI »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.3999644984602361,
+      "crawledAt": "2026-03-25T17:11:11.003Z",
+      "id": "68c22h",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9023737907409668,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "We’ve been warned of mass unemployment as artificial intelligence automates both mental and physical functions. The fear is palpable and understandable. The fear of mass employment is palpable.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:16:44.014Z"
+    },
+    {
+      "title": "When AI Talks to AI: A Practical Guide to Agent-to-Agent Communication",
+      "url": "https://generativeai.pub/when-ai-talks-to-ai-a-practical-guide-to-agent-to-agent-communication-f2538ed862f3?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:41:13.000Z",
+      "metaDescription": "There’s a moment in every ambitious AI project where you hit a wall.\nContinue reading on Generative AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9769345641452608,
+      "crawledAt": "2026-03-25T17:11:11.158Z",
+      "id": "56vpd5",
+      "entities": [],
+      "summary": "There's a moment in every ambitious AI project where you hit a wall. There’s a moment when you hit the wall.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:16:53.193Z"
+    },
+    {
+      "title": "DeepSeek’s Engram: The Lookup Table That Eats Transformer Layers",
+      "url": "https://generativeai.pub/deepseeks-engram-the-lookup-table-that-eats-transformer-layers-90b5f6a99a90?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:40:50.000Z",
+      "metaDescription": "Why a glorified N-gram hash might be the most important architectural idea since Mixture-of-Experts\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.6022495995383166,
+      "crawledAt": "2026-03-25T17:11:11.297Z",
+      "id": "c2hkuf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9950762391090393,
+          "index": 1,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.993799090385437,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9863294959068298,
+          "index": 3,
+          "word": "##eek",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A glorified N-gram hash might be the most important architectural idea since Mixture-of-Experts. A glorifying N- gram hash might also be the best architectural idea ever.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:17:05.211Z"
+    },
+    {
+      "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+      "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/",
+      "source": "Machine Learning Mastery",
+      "source_domain": "machinelearningmastery.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:39:46.000Z",
+      "metaDescription": "My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.4733928611966273,
+      "crawledAt": "2026-03-25T17:10:50.062Z",
+      "id": "xdkrpj",
+      "entities": [],
+      "summary": "A developer once asked an LLM to generate documentation for a payment API. The developer once once asked a LLM for a Payment API.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:17:13.923Z"
+    },
+    {
+      "title": "Claude Didn’t Confess a Secret: It Translated a Loss Function",
+      "url": "https://pub.towardsai.net/claude-didnt-confess-a-secret-it-translated-a-loss-function-84e186b10bce?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:31:00.000Z",
+      "metaDescription": "The internet thinks Anthropic’s AI is suffering. It isn’t. Here is the exact math behind the model’s “death,” and how to shatter the…\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2878638493071858,
+      "crawledAt": "2026-03-25T17:11:04.711Z",
+      "id": "b55jdb",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9522950053215027,
+          "index": 1,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The internet thinks Anthropic's AI is suffering, but it's not suffering. The model is based on the data from the model.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:17:23.604Z"
+    },
+    {
+      "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+      "url": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:28:50.000Z",
+      "metaDescription": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.3844880819190897,
+      "crawledAt": "2026-03-25T17:10:36.625Z",
+      "id": "9ohwl0",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9442712664604187,
+          "index": 2,
+          "word": "Bernie",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9312134385108948,
+          "index": 3,
+          "word": "Sanders",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9191426038742065,
+          "index": 5,
+          "word": "Safety",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9094313383102417,
+          "index": 6,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Alexandria Ocasio-Cortez will introduce a similar bill in the House in the coming weeks. The US senator said a moratorium would give lawmakers time to \"ensure that AI is safe\"",
+      "language": "en",
+      "processed_at": "2026-03-25T17:18:00.653Z"
+    },
     {
       "title": "Self-Evolving AI Is Here — And It's Open Weight",
       "url": "https://www.youtube.com/watch?v=WpcRm78KOvY",
@@ -2275,6 +3344,90 @@
       "processed_at": "2026-03-25T02:46:59.054Z"
     },
     {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T00:00:00.000Z",
+      "metaDescription": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "category": "safety-ethics",
+      "difficulty": 7,
+      "confidence": 0.32418233061748014,
+      "crawledAt": "2026-03-25T17:10:18.788Z",
+      "id": "ahky3v",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9763047099113464,
+          "index": 5,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9915223121643066,
+          "index": 6,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9492269158363342,
+          "index": 7,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9835329055786133,
+          "index": 8,
+          "word": "Safety",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936473965644836,
+          "index": 9,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9733205437660217,
+          "index": 10,
+          "word": "##ug",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9905526041984558,
+          "index": 11,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9791393280029297,
+          "index": 13,
+          "word": "##y",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks. The program will identify agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "language": "en",
+      "processed_at": "2026-03-25T17:18:26.781Z"
+    },
+    {
       "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
       "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
       "source": "Ars Technica",
@@ -2647,20 +3800,20 @@
       "processed_at": "2026-03-25T13:31:12.482Z"
     }
   ],
-  "processedAt": "2026-03-25T13:31:12.491Z",
+  "processedAt": "2026-03-25T17:18:26.788Z",
   "categories": [
-    "creative-ai",
-    "product-launch",
     "ai-agents",
+    "model-release",
+    "product-launch",
+    "creative-ai",
+    "safety-ethics",
     "infrastructure",
     "research-paper",
-    "safety-ethics",
     "industry-news",
-    "developer-tool",
-    "model-release"
+    "developer-tool"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 19,
-  "dailyArticlesCount": 75,
+  "newArticlesProcessed": 28,
+  "dailyArticlesCount": 103,
   "filterDate": "2026-03-25"
 }
