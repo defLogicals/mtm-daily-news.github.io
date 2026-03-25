@@ -1,9 +1,121 @@
 {
-  "crawledAt": "2026-03-25T05:26:39.836Z",
+  "crawledAt": "2026-03-25T09:00:17.104Z",
   "totalSources": 70,
-  "totalArticles": 1912,
+  "totalArticles": 1911,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Gemini 3 Kaggle Hackathon: Winners Officially Announced",
+      "url": "https://ai.plainenglish.io/gemini-3-kaggle-hackathon-winners-officially-announced-4e762f6f9eea?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T07:33:23.000Z",
+      "metaDescription": "Google DeepMind’s “Vibe Code with Gemini 3 Pro in AI Studio” hackathon was not just another short-lived developer contest. It was a public…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9349202572022933,
+      "crawledAt": "2026-03-25T08:59:24.780Z",
+      "id": "x6rvmv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9955779910087585,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9450662732124329,
+          "index": 3,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8322279453277588,
+          "index": 4,
+          "word": "##ggle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9028065204620361,
+          "index": 5,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Google's 'Vibe Code with Gemini 3 Pro in AI Studio' hackathon was held on Monday. The hackathon took place in the U.S.",
+      "language": "en",
+      "processed_at": "2026-03-25T09:00:31.524Z"
+    },
+    {
+      "title": "The Learning Curve: Part 3 — Learning Without Walls — How Homeschool Families Are Pioneering…",
+      "url": "https://ai.plainenglish.io/the-learning-curve-part-3-learning-without-walls-how-homeschool-families-are-pioneering-78369dfe32e7?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T07:33:11.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.520947251509599,
+      "crawledAt": "2026-03-25T08:59:24.863Z",
+      "id": "morfks",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8692872524261475,
+          "index": 3,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8187392950057983,
+          "index": 5,
+          "word": "##ve",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8533449769020081,
+          "index": 10,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9913561344146729,
+          "index": 11,
+          "word": "Without",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9880585074424744,
+          "index": 12,
+          "word": "Walls",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T09:00:31.661Z"
+    },
     {
       "title": "Agentic AI in Action — Part 15 — From Hubs and Links to Intelligent Action: Data Vault for Agentic…",
       "url": "https://pub.towardsai.net/agentic-ai-in-action-part-15-from-hubs-and-links-to-intelligent-action-data-vault-for-agentic-c74ed57622b6?source=rss----98111c9905da---4",
@@ -65852,108 +65964,25 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-03-10T13:21:14.095Z"
-    },
-    {
-      "title": "My user's AI agent applies to jobs 24/7 and remembers what works — here's the memory layer behind it",
-      "url": "https://www.reddit.com/r/AutoGPT/comments/1rpr7gz/my_users_ai_agent_applies_to_jobs_247_and/",
-      "source": "r/AutoGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-10T08:19:08.000Z",
-      "metaDescription": "I've been building Mengram— an open-source memory API for AI agents and LLMs.\n The typical problem: you build an autonomous agent (with CrewAI, LangChain, Claude Code, whatever). It does something use",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.986882632676829,
-      "crawledAt": "2026-03-15T16:40:25.265Z",
-      "id": "xh4m1e",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9037312865257263,
-          "index": 5,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The typical problem: you build an autonomous agent (with CrewAI, LangChain, Claude Code, whatever) It does something use something use.",
-      "language": "en",
-      "processed_at": "2026-03-15T17:04:33.168Z"
-    },
-    {
-      "title": "We cut GPU instance launch from 8s to 1.8s, feels almost instant now. Half the time was a ping we didn't need.",
-      "url": "https://www.reddit.com/r/mlops/comments/1rpr0bg/we_cut_gpu_instance_launch_from_8s_to_18s_feels/",
-      "source": "r/MLOps",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-10T08:06:03.000Z",
-      "metaDescription": "submitted by    /u/LayerHot  \n [link]   [comments]",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.9600299237270331,
-      "crawledAt": "2026-03-15T16:40:32.971Z",
-      "id": "kwv7k7",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9857117533683777,
-          "index": 3,
-          "word": "GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9924073815345764,
-          "index": 4,
-          "word": "##U",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-15T17:04:33.351Z"
-    },
-    {
-      "title": "Agentic AI in Action — Part 13 — Evaluating Extracted Invoice Data with LLM-as-a-Judge",
-      "url": "https://pub.towardsai.net/agentic-ai-in-action-part-13-from-extraction-to-accuracy-evaluating-extracted-invoice-data-71ca9d18c5da?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-10T06:04:08.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9234303708800752,
-      "crawledAt": "2026-03-10T08:53:50.017Z",
-      "id": "tn4ws3",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-10T08:55:03.249Z"
     }
   ],
-  "processedAt": "2026-03-25T05:40:54.411Z",
+  "processedAt": "2026-03-25T09:00:41.566Z",
   "categories": [
+    "product-launch",
+    "infrastructure",
     "ai-agents",
     "creative-ai",
     "research-paper",
-    "infrastructure",
     "safety-ethics",
     "industry-news",
     "developer-tool",
-    "product-launch",
     "model-release",
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 41,
-  "existingArticlesKept": 1935,
+  "newArticlesProcessed": 2,
+  "existingArticlesKept": 1912,
   "cleanupApplied": true,
-  "cleanedUpCount": 64,
+  "cleanedUpCount": 3,
   "rollingWindowDays": 15
 }

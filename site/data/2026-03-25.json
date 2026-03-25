@@ -1,9 +1,121 @@
 {
-  "crawledAt": "2026-03-25T05:26:39.836Z",
+  "crawledAt": "2026-03-25T09:00:17.104Z",
   "totalSources": 70,
-  "totalArticles": 54,
+  "totalArticles": 56,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Gemini 3 Kaggle Hackathon: Winners Officially Announced",
+      "url": "https://ai.plainenglish.io/gemini-3-kaggle-hackathon-winners-officially-announced-4e762f6f9eea?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T07:33:23.000Z",
+      "metaDescription": "Google DeepMind’s “Vibe Code with Gemini 3 Pro in AI Studio” hackathon was not just another short-lived developer contest. It was a public…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9349202572022933,
+      "crawledAt": "2026-03-25T08:59:24.780Z",
+      "id": "x6rvmv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9955779910087585,
+          "index": 1,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9450662732124329,
+          "index": 3,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8322279453277588,
+          "index": 4,
+          "word": "##ggle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9028065204620361,
+          "index": 5,
+          "word": "Ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Google's 'Vibe Code with Gemini 3 Pro in AI Studio' hackathon was held on Monday. The hackathon took place in the U.S.",
+      "language": "en",
+      "processed_at": "2026-03-25T09:00:31.524Z"
+    },
+    {
+      "title": "The Learning Curve: Part 3 — Learning Without Walls — How Homeschool Families Are Pioneering…",
+      "url": "https://ai.plainenglish.io/the-learning-curve-part-3-learning-without-walls-how-homeschool-families-are-pioneering-78369dfe32e7?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T07:33:11.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.520947251509599,
+      "crawledAt": "2026-03-25T08:59:24.863Z",
+      "id": "morfks",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8692872524261475,
+          "index": 3,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8187392950057983,
+          "index": 5,
+          "word": "##ve",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8533449769020081,
+          "index": 10,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9913561344146729,
+          "index": 11,
+          "word": "Without",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9880585074424744,
+          "index": 12,
+          "word": "Walls",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T09:00:31.661Z"
+    },
     {
       "title": "Agentic AI in Action — Part 15 — From Hubs and Links to Intelligent Action: Data Vault for Agentic…",
       "url": "https://pub.towardsai.net/agentic-ai-in-action-part-15-from-hubs-and-links-to-intelligent-action-data-vault-for-agentic-c74ed57622b6?source=rss----98111c9905da---4",
@@ -1785,20 +1897,20 @@
       "processed_at": "2026-03-25T02:49:02.448Z"
     }
   ],
-  "processedAt": "2026-03-25T05:40:54.413Z",
+  "processedAt": "2026-03-25T09:00:41.568Z",
   "categories": [
+    "product-launch",
+    "infrastructure",
     "ai-agents",
     "creative-ai",
     "research-paper",
-    "infrastructure",
     "safety-ethics",
     "industry-news",
     "developer-tool",
-    "product-launch",
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 41,
-  "dailyArticlesCount": 54,
+  "newArticlesProcessed": 2,
+  "dailyArticlesCount": 56,
   "filterDate": "2026-03-25"
 }
