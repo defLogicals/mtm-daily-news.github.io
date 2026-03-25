@@ -1,9 +1,1299 @@
 {
-  "crawledAt": "2026-03-25T02:45:32.493Z",
+  "crawledAt": "2026-03-25T05:26:39.836Z",
   "totalSources": 70,
-  "totalArticles": 326,
+  "totalArticles": 300,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Agentic AI in Action — Part 15 — From Hubs and Links to Intelligent Action: Data Vault for Agentic…",
+      "url": "https://pub.towardsai.net/agentic-ai-in-action-part-15-from-hubs-and-links-to-intelligent-action-data-vault-for-agentic-c74ed57622b6?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:27:56.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:48.664Z",
+      "id": "4bsesz"
+    },
+    {
+      "title": "Prod Scale Visual Document Retrieval with ColModernVBERT and Qdrant for VLMs",
+      "url": "https://pub.towardsai.net/prod-scale-visual-document-retrieval-with-colmodernvbert-and-qdrant-for-vlms-4e98dfc75e99?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:26:57.000Z",
+      "metaDescription": "“Your RAG system can read. But can it see?”\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:48.798Z",
+      "id": "qrdiw"
+    },
+    {
+      "title": "RAG: Explained Simply",
+      "url": "https://pub.towardsai.net/rag-explained-simply-df1619b43d87?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:26:22.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:48.847Z",
+      "id": "9t0d8n"
+    },
+    {
+      "title": "Kimi K2.5: How Moonshot AI’s 100-Agent Swarm Is Redefining Work with Multimodal Intelligence",
+      "url": "https://pub.towardsai.net/kimi-k2-5-how-moonshot-ais-100-agent-swarm-is-redefining-work-with-multimodal-intelligence-bd6b3df1a834?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:25:36.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:48.951Z",
+      "id": "hi6e5a"
+    },
+    {
+      "title": "From Logistic Regression to GPT-2: Building a Complete Spam Detection & Sentiment Analysis Pipeline",
+      "url": "https://pub.towardsai.net/from-logistic-regression-to-gpt-2-building-a-complete-spam-detection-sentiment-analysis-pipeline-899aba091dcf?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:25:14.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.037Z",
+      "id": "vpo48x"
+    },
+    {
+      "title": "Mastering Claude Code’s /btw, /fork, and /rewind: The Context Hygiene Toolkit",
+      "url": "https://pub.towardsai.net/mastering-claude-codes-btw-fork-and-rewind-the-context-hygiene-toolkit-5ceefa59623d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:24:55.000Z",
+      "metaDescription": "Claude Code’s /btw, /fork, and /rewind commands to eliminate context pollution\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.194Z",
+      "id": "uql9nk"
+    },
+    {
+      "title": "Your One Stop Reference for PatchTST, Because It Is the Only Time Series Model Which Listens!",
+      "url": "https://pub.towardsai.net/your-one-stop-reference-for-patchtst-because-it-is-the-only-time-series-model-which-listens-4bf91145389b?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:23:54.000Z",
+      "metaDescription": "From point-obsessed Transformers to patch-native intelligence — every building block, every equation, every battle scar.\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.355Z",
+      "id": "bvf5ru"
+    },
+    {
+      "title": "Building a Financial Research Agent with ReAct, LangGraph, and LangChain",
+      "url": "https://pub.towardsai.net/building-a-financial-research-agent-with-react-langgraph-and-langchain-c5d5142d8b29?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:21:43.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.429Z",
+      "id": "kkyyig"
+    },
+    {
+      "title": "How I Built a Real Sequential Workflow in Microsoft Agent Framework with Azure AI Foundry",
+      "url": "https://pub.towardsai.net/how-i-built-a-real-sequential-workflow-in-microsoft-agent-framework-with-azure-ai-foundry-32b8488f6709?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:21:17.000Z",
+      "metaDescription": "",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.507Z",
+      "id": "ev3535"
+    },
+    {
+      "title": "Skill Engineering in 2026: How to Build AI Agent Skills That Actually Work",
+      "url": "https://pub.towardsai.net/skill-engineering-in-2026-how-to-build-ai-agent-skills-that-actually-work-26429abc6054?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:19:54.000Z",
+      "metaDescription": "Skill Engineering in 2026: How to Build AI Agent Skills That Actually Work. AI agents are getting powerful fast.\nContinue reading on Towards AI »",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:49.653Z",
+      "id": "413rl6"
+    },
+    {
+      "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "url": "https://arxiv.org/abs/2603.22306",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated co",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:13.135Z",
+      "id": "trgcw2"
+    },
+    {
+      "title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "url": "https://arxiv.org/abs/2603.22312",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We int",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:13.331Z",
+      "id": "ve1zup"
+    },
+    {
+      "title": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "url": "https://arxiv.org/abs/2603.22345",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22345v1 Announce Type: new \nAbstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:13.522Z",
+      "id": "uhxnks"
+    },
+    {
+      "title": "Intelligence Inertia: Physical Principles and Applications",
+      "url": "https://arxiv.org/abs/2603.22347",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22347v1 Announce Type: new \nAbstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local c",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:13.692Z",
+      "id": "g4ir4l"
+    },
+    {
+      "title": "Session Risk Memory : Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+      "url": "https://arxiv.org/abs/2603.22350",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22350v1 Announce Type: new \nAbstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-act",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:13.880Z",
+      "id": "jpg3qo"
+    },
+    {
+      "title": "STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems",
+      "url": "https://arxiv.org/abs/2603.22359",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22359v1 Announce Type: new \nAbstract: Current AI agent frameworks commit early to a single interaction protocol, a fixed tool integration strategy, and static user models, limiting their de",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:14.086Z",
+      "id": "kjsds5"
+    },
+    {
+      "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
+      "url": "https://arxiv.org/abs/2603.22386",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22386v1 Announce Type: new \nAbstract: Large language model (LLM)-based systems are becoming increasingly popular for solving tasks by constructing executable workflows that interleave LLM c",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:14.299Z",
+      "id": "v90gsd"
+    },
+    {
+      "title": "Computational Arbitrage in AI Model Markets",
+      "url": "https://arxiv.org/abs/2603.22404",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22404v1 Announce Type: new \nAbstract: Consider a market of competing model providers selling query access to models with varying costs and capabilities. Customers submit problem instances a",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:14.457Z",
+      "id": "mog2w0"
+    },
+    {
+      "title": "Maximum Entropy Relaxation of Multi-Way Cardinality Constraints for Synthetic Population Generation",
+      "url": "https://arxiv.org/abs/2603.22558",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22558v1 Announce Type: new \nAbstract: Generating synthetic populations from aggregate statistics is a core component of microsimulation, agent-based modeling, policy analysis, and privacy-p",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:14.642Z",
+      "id": "rgu7s3"
+    },
+    {
+      "title": "AI Mental Models: Learned Intuition and Deliberation in a Bounded Neural Architecture",
+      "url": "https://arxiv.org/abs/2603.22561",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22561v1 Announce Type: new \nAbstract: This paper asks whether a bounded neural architecture can exhibit a meaningful division of labor between intuition and deliberation on a classic 64-ite",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:14.832Z",
+      "id": "yb64b5"
+    },
+    {
+      "title": "Understanding LLM Performance Degradation in Multi-Instance Processing: The Roles of Instance Count and Context Length",
+      "url": "https://arxiv.org/abs/2603.22608",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22608v1 Announce Type: new \nAbstract: Users often rely on Large Language Models (LLMs) for processing multiple documents or performing analysis over a number of instances. For example, anal",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:15.032Z",
+      "id": "n4pw11"
+    },
+    {
+      "title": "Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning",
+      "url": "https://arxiv.org/abs/2603.22619",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22619v1 Announce Type: new \nAbstract: LLMs often generate seemingly valid answers to flawed or ill-posed inputs. This is not due to missing knowledge: under discriminative prompting, the sa",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:15.237Z",
+      "id": "dc2se1"
+    },
+    {
+      "title": "Graph-Aware Late Chunking for Retrieval-Augmented Generation in Biomedical Literature",
+      "url": "https://arxiv.org/abs/2603.22633",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22633v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) systems for biomedical literature are typically evaluated using ranking metrics like Mean Reciprocal Rank (MRR), w",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:15.421Z",
+      "id": "v7torn"
+    },
+    {
+      "title": "Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies",
+      "url": "https://arxiv.org/abs/2603.22651",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22651v1 Announce Type: new \nAbstract: The adoption of large language models (LLMs) for structured information extraction from financial documents has accelerated rapidly, yet production dep",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:15.646Z",
+      "id": "sgdw3u"
+    },
+    {
+      "title": "MuQ-Eval: An Open-Source Per-Sample Quality Metric for AI Music Generation Evaluation",
+      "url": "https://arxiv.org/abs/2603.22677",
+      "source": "arXiv AI",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22677v1 Announce Type: new \nAbstract: Distributional metrics such as Fr\\'echet Audio Distance cannot score individual music clips and correlate poorly with human judgments, while the only p",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:15.859Z",
+      "id": "p7oim8"
+    },
+    {
+      "title": "Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.22292",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22292v1 Announce Type: new \nAbstract: Sequential decision making using Markov Decision Process underpins many realworld applications. Both model-based and model free methods have achieved s",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:25.961Z",
+      "id": "18u3fc"
+    },
+    {
+      "title": "Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2603.22294",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22294v1 Announce Type: new \nAbstract: Synthetic Data Generation (SDG), leveraging Large Language Models (LLMs), has recently been recognized and broadly adopted as an effective approach to ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:26.152Z",
+      "id": "srzto3"
+    },
+    {
+      "title": "Between the Layers Lies the Truth: Uncertainty Estimation in LLMs Using Intra-Layer Local Information Scores",
+      "url": "https://arxiv.org/abs/2603.22299",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22299v1 Announce Type: new \nAbstract: Large language models (LLMs) are often confidently wrong, making reliable uncertainty estimation (UE) essential. Output-based heuristics are cheap but ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:26.362Z",
+      "id": "qtdbuq"
+    },
+    {
+      "title": "Scaling Attention via Feature Sparsity",
+      "url": "https://arxiv.org/abs/2603.22300",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22300v1 Announce Type: new \nAbstract: Scaling Transformers to ultra-long contexts is bottlenecked by the $O(n^2 d)$ cost of self-attention. Existing methods reduce this cost along the seque",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:26.550Z",
+      "id": "3sbw65"
+    },
+    {
+      "title": "Latent Semantic Manifolds in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.22301",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22301v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform internal computations in continuous vector spaces yet produce discrete tokens -- a fundamental mismatch whose geom",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:26.727Z",
+      "id": "n5wxd9"
+    },
+    {
+      "title": "Research on Individual Trait Clustering and Development Pathway Adaptation Based on the K-means Algorithm",
+      "url": "https://arxiv.org/abs/2603.22302",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22302v1 Announce Type: new \nAbstract: With the development of information technology, the application of artificial intelligence and machine learning in the field of education shows great p",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:26.908Z",
+      "id": "3ctbzv"
+    },
+    {
+      "title": "Sample Transform Cost-Based Training-Free Hallucination Detector for Large Language Models",
+      "url": "https://arxiv.org/abs/2603.22303",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22303v1 Announce Type: new \nAbstract: Hallucinations in large language models (LLMs) remain a central obstacle to trustworthy deployment, motivating detectors that are accurate, lightweight",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:27.102Z",
+      "id": "sqe23b"
+    },
+    {
+      "title": "Mitigating Premature Discretization with Progressive Quantization for Robust Vector Tokenization",
+      "url": "https://arxiv.org/abs/2603.22304",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22304v1 Announce Type: new \nAbstract: Vector Quantization (VQ) has become the cornerstone of tokenization for many multimodal Large Language Models and diffusion synthesis. However, existin",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:27.304Z",
+      "id": "nw6k3"
+    },
+    {
+      "title": "CN-Buzz2Portfolio: A Chinese-Market Dataset and Benchmark for LLM-Based Macro and Sector Asset Allocation from Daily Trending Financial News",
+      "url": "https://arxiv.org/abs/2603.22305",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22305v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are rapidly transitioning from static Natural Language Processing (NLP) tasks including sentiment analysis and event extra",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:27.622Z",
+      "id": "1rfv9l"
+    },
+    {
+      "title": "Full waveform inversion method based on diffusion model",
+      "url": "https://arxiv.org/abs/2603.22307",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22307v1 Announce Type: new \nAbstract: Seismic full-waveform inversion is a core technology for obtaining high-resolution subsurface model parameters. However, its highly nonlinear character",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:27.793Z",
+      "id": "4or3mq"
+    },
+    {
+      "title": "UniFluids: Unified Neural Operator Learning with Conditional Flow-matching",
+      "url": "https://arxiv.org/abs/2603.22309",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22309v1 Announce Type: new \nAbstract: Partial differential equation (PDE) simulation holds extensive significance in scientific research. Currently, the integration of deep neural networks ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:27.969Z",
+      "id": "d73bl4"
+    },
+    {
+      "title": "A Multi-Modal CNN-LSTM Framework with Multi-Head Attention and Focal Loss for Real-Time Elderly Fall Detection",
+      "url": "https://arxiv.org/abs/2603.22313",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22313v1 Announce Type: new \nAbstract: The increasing global aging population has intensified the demand for reliable health monitoring systems, particularly those capable of detecting criti",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:28.168Z",
+      "id": "94w2ly"
+    },
+    {
+      "title": "Enhancing AI-Based Tropical Cyclone Track and Intensity Forecasting via Systematic Bias Correction",
+      "url": "https://arxiv.org/abs/2603.22314",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22314v1 Announce Type: new \nAbstract: Tropical cyclones (TCs) pose severe threats to life, infrastructure, and economies in tropical and subtropical regions, underscoring the critical need ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:28.354Z",
+      "id": "hresbz"
+    },
+    {
+      "title": "Emergency Preemption Without Online Exploration: A Decision Transformer Approach",
+      "url": "https://arxiv.org/abs/2603.22315",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22315v1 Announce Type: new \nAbstract: Emergency vehicle (EV) response time is a critical determinant of survival outcomes, yet deployed signal preemption strategies remain reactive and unco",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:28.537Z",
+      "id": "ow4x61"
+    },
+    {
+      "title": "ST-GDance++: A Scalable Spatial-Temporal Diffusion for Long-Duration Group Choreography",
+      "url": "https://arxiv.org/abs/2603.22316",
+      "source": "arXiv Machine Learning",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22316v1 Announce Type: new \nAbstract: Group dance generation from music requires synchronizing multiple dancers while maintaining spatial coordination, making it highly relevant to applicat",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:28.728Z",
+      "id": "mwob4c"
+    },
+    {
+      "title": "Founder effects shape the evolutionary dynamics of multimodality in open LLM families",
+      "url": "https://arxiv.org/abs/2603.22287",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22287v1 Announce Type: new \nAbstract: Large language model (LLM) families are improving rapidly, yet it remains unclear how quickly multimodal capabilities emerge and propagate within open ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:20.015Z",
+      "id": "4blqgs"
+    },
+    {
+      "title": "From Instructions to Assistance: a Dataset Aligning Instruction Manuals with Assembly Videos for Evaluating Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2603.22321",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22321v1 Announce Type: new \nAbstract: The recent advancements introduced by Large Language Models (LLMs) have transformed how Artificial Intelligence (AI) can support complex, real world ta",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:20.230Z",
+      "id": "sqg5vk"
+    },
+    {
+      "title": "When Visuals Aren't the Problem: Evaluating Vision-Language Models on Misleading Data Visualizations",
+      "url": "https://arxiv.org/abs/2603.22368",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22368v1 Announce Type: new \nAbstract: Visualizations help communicate data insights, but deceptive data representations can distort their interpretation and propagate misinformation. While ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:20.425Z",
+      "id": "2zpshx"
+    },
+    {
+      "title": "Efficient Universal Perception Encoder",
+      "url": "https://arxiv.org/abs/2603.22387",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22387v1 Announce Type: new \nAbstract: Running AI models on smart edge devices can unlock versatile user experiences, but presents challenges due to limited compute and the need to handle mu",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:20.586Z",
+      "id": "wzsott"
+    },
+    {
+      "title": "Spatially-Aware Evaluation Framework for Aerial LiDAR Point Cloud Semantic Segmentation: Distance-Based Metrics on Challenging Regions",
+      "url": "https://arxiv.org/abs/2603.22420",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22420v1 Announce Type: new \nAbstract: Semantic segmentation metrics for 3D point clouds, such as mean Intersection over Union (mIoU) and Overall Accuracy (OA), present two key limitations i",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:20.808Z",
+      "id": "fl9c7c"
+    },
+    {
+      "title": "OsteoFlow: Lyapunov-Guided Flow Distillation for Predicting Bone Remodeling after Mandibular Reconstruction",
+      "url": "https://arxiv.org/abs/2603.22421",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22421v1 Announce Type: new \nAbstract: Predicting long-term bone remodeling after mandibular reconstruction would be of great clinical benefit, yet standard generative models struggle to mai",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:21.029Z",
+      "id": "keramj"
+    },
+    {
+      "title": "Static Scene Reconstruction from Dynamic Egocentric Videos",
+      "url": "https://arxiv.org/abs/2603.22450",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22450v1 Announce Type: new \nAbstract: Egocentric videos present unique challenges for 3D reconstruction due to rapid camera motion and frequent dynamic interactions. State-of-the-art static",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:21.196Z",
+      "id": "fofwc9"
+    },
+    {
+      "title": "MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding",
+      "url": "https://arxiv.org/abs/2603.22458",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22458v1 Announce Type: new \nAbstract: Optical character recognition (OCR) has evolved from line-level transcription to structured document parsing, requiring models to recover long-form seq",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:21.429Z",
+      "id": "aaffwz"
+    },
+    {
+      "title": "Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing",
+      "url": "https://arxiv.org/abs/2603.22466",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22466v1 Announce Type: new \nAbstract: Always-on sensing is essential for next-generation edge/wearable AI systems, yet continuous high-fidelity RGB video capture remains prohibitively expen",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:21.634Z",
+      "id": "sl5i2v"
+    },
+    {
+      "title": "Tiny Inference-Time Scaling with Latent Verifiers",
+      "url": "https://arxiv.org/abs/2603.22492",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22492v1 Announce Type: new \nAbstract: Inference-time scaling has emerged as an effective way to improve generative models at test time by using a verifier to score and select candidate outp",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:21.828Z",
+      "id": "jlqzsy"
+    },
+    {
+      "title": "Sketch2CT: Multimodal Diffusion for Structure-Aware 3D Medical Volume Generation",
+      "url": "https://arxiv.org/abs/2603.22509",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22509v1 Announce Type: new \nAbstract: Diffusion probabilistic models have demonstrated significant potential in generating high-quality, realistic medical images, providing a promising solu",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.016Z",
+      "id": "c80xvp"
+    },
+    {
+      "title": "High Resolution Flood Extent Detection Using Deep Learning with Random Forest Derived Training Labels",
+      "url": "https://arxiv.org/abs/2603.22518",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22518v1 Announce Type: new \nAbstract: Validation of flood models, used to support risk mitigation strategies, remains challenging due to limited observations during extreme events. High-fre",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.201Z",
+      "id": "11r91x"
+    },
+    {
+      "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+      "url": "https://arxiv.org/abs/2603.22529",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22529v1 Announce Type: new \nAbstract: Multimodal AI agents are increasingly automating complex real-world workflows that involve online web execution. However, current web-agent benchmarks ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.394Z",
+      "id": "c4n37s"
+    },
+    {
+      "title": "UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images",
+      "url": "https://arxiv.org/abs/2603.22531",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22531v1 Announce Type: new \nAbstract: Sidewalk width is an important indicator of pedestrian accessibility, comfort, and network quality, yet large-scale width data remain scarce in most ci",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.575Z",
+      "id": "ksro9l"
+    },
+    {
+      "title": "Generalized multi-object classification and tracking with sparse feature resonator networks",
+      "url": "https://arxiv.org/abs/2603.22539",
+      "source": "arXiv Computer Vision",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22539v1 Announce Type: new \nAbstract: In visual scene understanding tasks, it is essential to capture both invariant and equivariant structure. While neural networks are frequently trained ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.757Z",
+      "id": "4flt1s"
+    },
+    {
+      "title": "Evaluating Prompting Strategies for Chart Question Answering with Large Language Models",
+      "url": "https://arxiv.org/abs/2603.22288",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22288v1 Announce Type: new \nAbstract: Prompting strategies affect LLM reasoning performance, but their role in chart-based QA remains underexplored. We present a systematic evaluation of fo",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:22.966Z",
+      "id": "7hcrhz"
+    },
+    {
+      "title": "MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing",
+      "url": "https://arxiv.org/abs/2603.22289",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22289v1 Announce Type: new \nAbstract: Knowledge Tracing (KT) models students' evolving knowledge states to predict future performance, serving as a foundation for personalized education. Wh",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:23.147Z",
+      "id": "e6lv8o"
+    },
+    {
+      "title": "Less is More: Adapting Text Embeddings for Low-Resource Languages with Small Scale Noisy Synthetic Data",
+      "url": "https://arxiv.org/abs/2603.22290",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22290v1 Announce Type: new \nAbstract: Low-resource languages (LRLs) often lack high-quality, large-scale datasets for training effective text embedding models, hindering their application i",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:23.368Z",
+      "id": "ieevtf"
+    },
+    {
+      "title": "Evaluating Large Language Models' Responses to Sexual and Reproductive Health Queries in Nepali",
+      "url": "https://arxiv.org/abs/2603.22291",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22291v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) become integrated into daily life, they are increasingly used for personal queries, including Sexual and Reproductive H",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:23.557Z",
+      "id": "sz6oey"
+    },
+    {
+      "title": "TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs",
+      "url": "https://arxiv.org/abs/2603.22293",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22293v1 Announce Type: new \nAbstract: Search-augmented large language models (LLMs) trained with reinforcement learning (RL) have achieved strong results on open-domain question answering (",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:23.751Z",
+      "id": "fk8zvc"
+    },
+    {
+      "title": "Whether, Not Which: Mechanistic Interpretability Reveals Dissociable Affect Reception and Emotion Categorization in LLMs",
+      "url": "https://arxiv.org/abs/2603.22295",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22295v1 Announce Type: new \nAbstract: Large language models appear to develop internal representations of emotion -- \"emotion circuits,\" \"emotion neurons,\" and structured emotional manifold",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:23.960Z",
+      "id": "wfeflg"
+    },
+    {
+      "title": "Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs",
+      "url": "https://arxiv.org/abs/2603.22446",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22446v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has significantly improved reasoning in large language models (LLMs), yet the token-level mechani",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:24.188Z",
+      "id": "p1ilhu"
+    },
+    {
+      "title": "Towards Automated Community Notes Generation with Large Vision Language Models for Combating Contextual Deception",
+      "url": "https://arxiv.org/abs/2603.22453",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22453v1 Announce Type: new \nAbstract: Community Notes have emerged as an effective crowd-sourced mechanism for combating online deception on social media platforms. However, its reliance on",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:24.371Z",
+      "id": "ediqck"
+    },
+    {
+      "title": "LLM-guided headline rewriting for clickability enhancement without clickbait",
+      "url": "https://arxiv.org/abs/2603.22459",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22459v1 Announce Type: new \nAbstract: Enhancing reader engagement while preserving informational fidelity is a central challenge in controllable text generation for news media. Optimizing n",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:24.554Z",
+      "id": "reyoa4"
+    },
+    {
+      "title": "Functional Component Ablation Reveals Specialization Patterns in Hybrid Language Model Architectures",
+      "url": "https://arxiv.org/abs/2603.22473",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22473v1 Announce Type: new \nAbstract: Hybrid language models combining attention with state space models (SSMs) or linear attention offer improved efficiency, but whether both components ar",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:24.733Z",
+      "id": "b2t9pg"
+    },
+    {
+      "title": "Rashid: A Cipher-Based Framework for Exploring In-Context Language Learning",
+      "url": "https://arxiv.org/abs/2603.22497",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22497v1 Announce Type: new \nAbstract: Where there is growing interest in in-context language learning (ICLL) for unseen languages with large language models, such languages usually suffer f",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:24.920Z",
+      "id": "j1x4g3"
+    },
+    {
+      "title": "Reddit After Roe: A Computational Analysis of Abortion Narratives and Barriers in the Wake of Dobbs",
+      "url": "https://arxiv.org/abs/2603.22566",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22566v1 Announce Type: new \nAbstract: The 2022 U.S. Supreme Court decision in Dobbs v. Jackson Women's Health Organization reshaped the reproductive rights landscape, introducing new uncert",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:25.133Z",
+      "id": "nfdz5m"
+    },
+    {
+      "title": "CAPITU: A Benchmark for Evaluating Instruction-Following in Brazilian Portuguese with Literary Context",
+      "url": "https://arxiv.org/abs/2603.22576",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22576v1 Announce Type: new \nAbstract: We introduce CAPITU, a benchmark for evaluating instruction-following capabilities of Large Language Models (LLMs) in Brazilian Portuguese. Unlike exis",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:25.335Z",
+      "id": "t7aueo"
+    },
+    {
+      "title": "Lie to Me: How Faithful Is Chain-of-Thought Reasoning in Reasoning Models?",
+      "url": "https://arxiv.org/abs/2603.22582",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22582v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning has been proposed as a transparency mechanism for large language models in safety-critical deployments, yet its effect",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:25.533Z",
+      "id": "9k9rko"
+    },
+    {
+      "title": "LGSE: Lexically Grounded Subword Embedding Initialization for Low-Resource Language Adaptation",
+      "url": "https://arxiv.org/abs/2603.22629",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22629v1 Announce Type: new \nAbstract: Adapting pretrained language models to low-resource, morphologically rich languages remains a significant challenge. Existing vocabulary expansion meth",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:25.727Z",
+      "id": "6ugmnd"
+    },
+    {
+      "title": "Working towards a dialectical understanding of the political ideology within technological projects",
+      "url": "https://arxiv.org/abs/2603.22436",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22436v1 Announce Type: new \nAbstract: In this short position paper, I develop a dialectical framework for understanding the political ideology of technological projects. To do so, I draw on",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:17.113Z",
+      "id": "2x9or4"
+    },
+    {
+      "title": "Practitioner Voices Summit: How Teachers Evaluate AI Tools through Deliberative Sensemaking",
+      "url": "https://arxiv.org/abs/2603.22588",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22588v1 Announce Type: new \nAbstract: Teachers face growing pressure to integrate AI tools into their classrooms, yet are rarely positioned as agentic decision-makers in this process. Under",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:17.300Z",
+      "id": "vick9c"
+    },
+    {
+      "title": "\"Chasing Shadows\": Understanding Personal Data Externalization and Self-Tracking for Neurodivergent Individuals",
+      "url": "https://arxiv.org/abs/2603.22609",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22609v1 Announce Type: new \nAbstract: We examine how neurodivergent individuals experience creating, interacting with, and reflecting on personal data about masking. Although self-tracking ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:17.504Z",
+      "id": "cqvezb"
+    },
+    {
+      "title": "Do Consumers Accept AIs as Moral Compliance Agents?",
+      "url": "https://arxiv.org/abs/2603.22617",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22617v1 Announce Type: new \nAbstract: Consumers are generally resistant to Artificial Intelligence (AI) involvement in moral decision-making, perceiving moral agency as requiring uniquely h",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:17.673Z",
+      "id": "12y04w"
+    },
+    {
+      "title": "Emotional Support with Conversational AI: Talking to Machines About Life",
+      "url": "https://arxiv.org/abs/2603.22618",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22618v1 Announce Type: new \nAbstract: AI companion chatbots are increasingly used for emotional support, with prior work in the domain predominantly documenting their mixed psychosocial imp",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:17.844Z",
+      "id": "5071a8"
+    },
+    {
+      "title": "Learning to Trust: How Humans Mentally Recalibrate AI Confidence Signals",
+      "url": "https://arxiv.org/abs/2603.22634",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22634v1 Announce Type: new \nAbstract: Productive human-AI collaboration requires appropriate reliance, yet contemporary AI systems are often miscalibrated, exhibiting systematic overconfide",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.020Z",
+      "id": "6tyjg9"
+    },
+    {
+      "title": "When Data Protection Fails to Protect: Law, Power, and Postcolonial Governance in Bangladesh",
+      "url": "https://arxiv.org/abs/2603.22637",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22637v1 Announce Type: new \nAbstract: Rapid digitization across government services, financial platforms, and telecommunications has intensified the collection and processing of large scale",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.200Z",
+      "id": "988j1t"
+    },
+    {
+      "title": "AwesomeLit: Towards Hypothesis Generation with Agent-Supported Literature Research",
+      "url": "https://arxiv.org/abs/2603.22648",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22648v1 Announce Type: new \nAbstract: There are different goals for literature research, from understanding an unfamiliar topic to generate hypothesis for the next research project. The nat",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.368Z",
+      "id": "y708v8"
+    },
+    {
+      "title": "Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance",
+      "url": "https://arxiv.org/abs/2603.22672",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22672v1 Announce Type: new \nAbstract: Generative AI (GenAI) tools such as ChatGPT now provide novice programmers with instant, personalized support and are reshaping computing education. Wh",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.577Z",
+      "id": "bhmw29"
+    },
+    {
+      "title": "Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools",
+      "url": "https://arxiv.org/abs/2603.22673",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22673v1 Announce Type: new \nAbstract: AI-powered coding assistants can support students in programming courses by providing on-demand explanations and debugging help. However, existing rese",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.762Z",
+      "id": "282ej7"
+    },
+    {
+      "title": "Designing a Meta-Reflective Dashboard for Instructor Insight into Student-AI Interactions",
+      "url": "https://arxiv.org/abs/2603.22674",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22674v1 Announce Type: new \nAbstract: Generative AI tools are increasingly used for coursework help, shifting much of students' help-seeking and reasoning into student-AI chats that are lar",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:18.957Z",
+      "id": "41lm8k"
+    },
+    {
+      "title": "Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development",
+      "url": "https://arxiv.org/abs/2603.22759",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22759v1 Announce Type: new \nAbstract: Responding to one's name is among the earliest-emerging social orienting behaviors and is one of the most prominent aspects in the detection of Autism ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:19.167Z",
+      "id": "mmro20"
+    },
+    {
+      "title": "From Overload to Convergence: Supporting Multi-Issue Human-AI Negotiation with Bayesian Visualization",
+      "url": "https://arxiv.org/abs/2603.22766",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22766v1 Announce Type: new \nAbstract: As AI systems increasingly mediate negotiations, understanding how the number of negotiated issues impacts human performance is crucial for maintaining",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:19.351Z",
+      "id": "ejhg04"
+    },
+    {
+      "title": "DiSCo: Diffusion Sequence Copilots for Shared Autonomy",
+      "url": "https://arxiv.org/abs/2603.22787",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22787v1 Announce Type: new \nAbstract: Shared autonomy combines human user and AI copilot actions to control complex systems such as robotic arms. When a task is challenging, requires high d",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:19.560Z",
+      "id": "bfp9n9"
+    },
+    {
+      "title": "\"Don't Mess Up My Algorithm\": Phatic Communication and Algorithmic Contagion in Meme Sharing",
+      "url": "https://arxiv.org/abs/2603.22817",
+      "source": "arXiv Human-Computer Interaction",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22817v1 Announce Type: new \nAbstract: On algorithmic social platforms, exchanging memes via direct messages (DMs) serves as phatic communication that affirms relationships, yet users often ",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:26:19.774Z",
+      "id": "mx7bbs"
+    },
+    {
+      "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
+      "url": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T03:43:55.000Z",
+      "metaDescription": "Robert Malone quit a vaccine panel, blaming an HHS spokesperson for \"trashing\" him.",
+      "category": null,
+      "difficulty": null,
+      "confidence": null,
+      "crawledAt": "2026-03-25T05:25:14.716Z",
+      "id": "b2urtv"
+    },
     {
       "title": "Teaching Machines to Think in Layers",
       "url": "https://ai.plainenglish.io/teaching-machines-to-think-in-layers-49facba91244?source=rss----78d064101951---4",
@@ -16,7 +1306,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:39.614Z",
+      "crawledAt": "2026-03-25T05:25:54.565Z",
       "id": "j06fbq"
     },
     {
@@ -31,7 +1321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:39.740Z",
+      "crawledAt": "2026-03-25T05:25:54.692Z",
       "id": "3xa6go"
     },
     {
@@ -46,7 +1336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:39.898Z",
+      "crawledAt": "2026-03-25T05:25:54.850Z",
       "id": "sbafdv"
     },
     {
@@ -61,7 +1351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.065Z",
+      "crawledAt": "2026-03-25T05:25:55.018Z",
       "id": "rmux5m"
     },
     {
@@ -76,7 +1366,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.134Z",
+      "crawledAt": "2026-03-25T05:25:55.087Z",
       "id": "1ipe6f"
     },
     {
@@ -91,7 +1381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.200Z",
+      "crawledAt": "2026-03-25T05:25:55.151Z",
       "id": "durheu"
     },
     {
@@ -106,7 +1396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.313Z",
+      "crawledAt": "2026-03-25T05:25:55.263Z",
       "id": "khvyh8"
     },
     {
@@ -121,7 +1411,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.460Z",
+      "crawledAt": "2026-03-25T05:25:55.419Z",
       "id": "3n1lsh"
     },
     {
@@ -136,7 +1426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.528Z",
+      "crawledAt": "2026-03-25T05:25:55.488Z",
       "id": "9lxtcj"
     },
     {
@@ -151,7 +1441,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.654Z",
+      "crawledAt": "2026-03-25T05:25:55.615Z",
       "id": "ir3kyz"
     },
     {
@@ -166,7 +1456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.761Z",
+      "crawledAt": "2026-03-25T05:25:55.721Z",
       "id": "z2hri5"
     },
     {
@@ -181,23 +1471,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:55.964Z",
+      "crawledAt": "2026-03-25T05:25:11.713Z",
       "id": "j46to6"
-    },
-    {
-      "title": "Why Everyone Is Talking About Harness Engineering",
-      "url": "https://pub.towardsai.net/why-everyone-is-talking-about-harness-engineering-1ec6dd9fec97?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-25T00:22:06.000Z",
-      "metaDescription": "Prompting isn’t enough anymore — reliable AI agents need systems, guardrails, and feedback loops\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:31.665Z",
-      "id": "nnwnks"
     },
     {
       "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
@@ -211,7 +1486,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.132Z",
+      "crawledAt": "2026-03-25T05:25:11.909Z",
       "id": "c5s8lx"
     },
     {
@@ -226,7 +1501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:00.804Z",
+      "crawledAt": "2026-03-25T05:25:14.824Z",
       "id": "j79xkh"
     },
     {
@@ -241,7 +1516,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:00.913Z",
+      "crawledAt": "2026-03-25T05:25:14.933Z",
       "id": "g3a92t"
     },
     {
@@ -256,7 +1531,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.272Z",
+      "crawledAt": "2026-03-25T05:25:12.040Z",
       "id": "40jm6j"
     },
     {
@@ -271,23 +1546,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:04.701Z",
+      "crawledAt": "2026-03-25T05:25:18.610Z",
       "id": "wlzrrl"
-    },
-    {
-      "title": "I Thought I Found DeepSeek V4. It Was a Phone Company. And It Just Beat Claude.",
-      "url": "https://pub.towardsai.net/i-thought-i-found-deepseek-v4-it-was-a-phone-company-and-it-just-beat-claude-cf25d35ac3d9?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T22:01:00.000Z",
-      "metaDescription": "$1 per million input tokens, beats Claude Sonnet 4.6 on SWE-bench, and nobody knew Xiaomi built it until March 18.\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:31.850Z",
-      "id": "3ot9k9"
     },
     {
       "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
@@ -301,7 +1561,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.033Z",
+      "crawledAt": "2026-03-25T05:25:15.074Z",
       "id": "4lpbmy"
     },
     {
@@ -316,7 +1576,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:08.056Z",
+      "crawledAt": "2026-03-25T05:25:22.223Z",
       "id": "m6euaw"
     },
     {
@@ -331,7 +1591,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.140Z",
+      "crawledAt": "2026-03-25T05:25:15.180Z",
       "id": "sofki6"
     },
     {
@@ -346,7 +1606,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.262Z",
+      "crawledAt": "2026-03-25T05:25:15.301Z",
       "id": "4aoeb"
     },
     {
@@ -361,7 +1621,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.448Z",
+      "crawledAt": "2026-03-25T05:25:12.213Z",
       "id": "xixd30"
     },
     {
@@ -376,7 +1636,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.583Z",
+      "crawledAt": "2026-03-25T05:25:12.347Z",
       "id": "hlda10"
     },
     {
@@ -391,7 +1651,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.768Z",
+      "crawledAt": "2026-03-25T05:25:12.515Z",
       "id": "2c8ajh"
     },
     {
@@ -406,7 +1666,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:16.216Z",
+      "crawledAt": "2026-03-25T05:25:36.136Z",
       "id": "86s28j"
     },
     {
@@ -421,23 +1681,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.303Z",
+      "crawledAt": "2026-03-25T05:26:11.756Z",
       "id": "th9m72"
-    },
-    {
-      "title": "Everyone talks about Remotion with Claude Code. But almost no one talks about using it with Codex.",
-      "url": "https://pub.towardsai.net/everyone-talks-about-remotion-with-claude-code-but-almost-no-one-talks-about-using-it-with-codex-3c7b2cb48bb1?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T20:01:01.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:31.938Z",
-      "id": "n8xenj"
     },
     {
       "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
@@ -451,7 +1696,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:08.256Z",
+      "crawledAt": "2026-03-25T05:25:22.423Z",
       "id": "d5y6fq"
     },
     {
@@ -466,7 +1711,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:56.909Z",
+      "crawledAt": "2026-03-25T05:25:12.656Z",
       "id": "ov21rq"
     },
     {
@@ -481,7 +1726,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.058Z",
+      "crawledAt": "2026-03-25T05:25:12.806Z",
       "id": "m1cpsk"
     },
     {
@@ -496,7 +1741,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:08.430Z",
+      "crawledAt": "2026-03-25T05:25:22.595Z",
       "id": "bt19bf"
     },
     {
@@ -511,7 +1756,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.380Z",
+      "crawledAt": "2026-03-25T05:25:15.416Z",
       "id": "45najm"
     },
     {
@@ -526,7 +1771,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.196Z",
+      "crawledAt": "2026-03-25T05:25:12.940Z",
       "id": "oio8yb"
     },
     {
@@ -541,7 +1786,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.516Z",
+      "crawledAt": "2026-03-25T05:25:15.547Z",
       "id": "w2m9al"
     },
     {
@@ -556,7 +1801,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.635Z",
+      "crawledAt": "2026-03-25T05:25:15.634Z",
       "id": "vv9cfh"
     },
     {
@@ -571,7 +1816,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.340Z",
+      "crawledAt": "2026-03-25T05:25:13.076Z",
       "id": "624oc4"
     },
     {
@@ -586,7 +1831,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.473Z",
+      "crawledAt": "2026-03-25T05:25:13.205Z",
       "id": "siulrz"
     },
     {
@@ -601,7 +1846,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.743Z",
+      "crawledAt": "2026-03-25T05:25:15.743Z",
       "id": "uoydsc"
     },
     {
@@ -616,7 +1861,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:06.181Z",
+      "crawledAt": "2026-03-25T05:25:20.142Z",
       "id": "swej9x"
     },
     {
@@ -631,23 +1876,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.857Z",
+      "crawledAt": "2026-03-25T05:25:15.855Z",
       "id": "lzbhp5"
-    },
-    {
-      "title": "Claude Code Section 2: Making Claude Personal — 7 Concepts That Turn a Generic Tool Into Your…",
-      "url": "https://pub.towardsai.net/claude-code-section-2-making-claude-personal-7-concepts-that-turn-a-generic-tool-into-your-5756e07bfb65?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T18:01:00.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.023Z",
-      "id": "v452y3"
     },
     {
       "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
@@ -661,23 +1891,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:16.367Z",
+      "crawledAt": "2026-03-25T05:25:36.286Z",
       "id": "20e9p8"
-    },
-    {
-      "title": "What Codex Unlocks for Notion",
-      "url": "https://www.youtube.com/shorts/qHEUIXGSxxg",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T17:21:07.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.410Z",
-      "id": "ib49ui"
     },
     {
       "title": "Doss raises $55M for AI inventory management that plugs into ERP",
@@ -691,7 +1906,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.661Z",
+      "crawledAt": "2026-03-25T05:25:13.364Z",
       "id": "k4totz"
     },
     {
@@ -706,7 +1921,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:01.982Z",
+      "crawledAt": "2026-03-25T05:25:15.978Z",
       "id": "knjjnu"
     },
     {
@@ -721,7 +1936,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.996Z",
+      "crawledAt": "2026-03-25T05:25:27.089Z",
       "id": "5d07eu"
     },
     {
@@ -736,7 +1951,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.091Z",
+      "crawledAt": "2026-03-25T05:26:38.579Z",
       "id": "r5qn8b"
     },
     {
@@ -751,7 +1966,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:04.830Z",
+      "crawledAt": "2026-03-25T05:25:18.740Z",
       "id": "69c2zs"
     },
     {
@@ -766,7 +1981,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:06.390Z",
+      "crawledAt": "2026-03-25T05:25:20.432Z",
       "id": "q917jv"
     },
     {
@@ -781,7 +1996,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.851Z",
+      "crawledAt": "2026-03-25T05:25:55.812Z",
       "id": "fftq38"
     },
     {
@@ -796,7 +2011,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:40.960Z",
+      "crawledAt": "2026-03-25T05:25:55.920Z",
       "id": "onje15"
     },
     {
@@ -811,53 +2026,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:09.624Z",
+      "crawledAt": "2026-03-25T05:25:23.496Z",
       "id": "gg2q2y"
-    },
-    {
-      "title": "Strict TypeScript Isn't Enough Anymore",
-      "url": "https://www.youtube.com/watch?v=35cESnxXH6o",
-      "source": "Dave Ebbelaar",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T16:26:33.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:53.721Z",
-      "id": "k15j20"
-    },
-    {
-      "title": "An updated shopping experience in ChatGPT",
-      "url": "https://www.youtube.com/watch?v=qF4QRh2u7FE",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T16:16:03.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.517Z",
-      "id": "c9364n"
-    },
-    {
-      "title": "The Real Difference Between RAG, Fine-tuning, and Prompt Engineering — When to Actually Use Each",
-      "url": "https://pub.towardsai.net/the-real-difference-between-rag-fine-tuning-and-prompt-engineering-when-to-actually-use-each-2f388f1a8684?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T16:01:01.000Z",
-      "metaDescription": "Prompt engineering is free. RAG costs infrastructure. Fine-tuning costs time. Most teams get this backwards — they reach for the expensive…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.188Z",
-      "id": "1d8l0k"
     },
     {
       "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
@@ -871,7 +2041,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:59.189Z",
+      "crawledAt": "2026-03-25T05:25:09.977Z",
       "id": "g9rlz0"
     },
     {
@@ -886,7 +2056,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.804Z",
+      "crawledAt": "2026-03-25T05:25:13.505Z",
       "id": "7hjt0o"
     },
     {
@@ -901,7 +2071,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:08.597Z",
+      "crawledAt": "2026-03-25T05:25:22.761Z",
       "id": "nlmxor"
     },
     {
@@ -916,7 +2086,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.098Z",
+      "crawledAt": "2026-03-25T05:25:16.091Z",
       "id": "qo3auv"
     },
     {
@@ -931,23 +2101,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.164Z",
+      "crawledAt": "2026-03-25T05:25:27.265Z",
       "id": "sd3mk1"
-    },
-    {
-      "title": "DeepSeek Just Fixed One Of The Biggest Problems With AI",
-      "url": "https://www.youtube.com/watch?v=DmtoVnTkQnM",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T15:17:49.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:47.758Z",
-      "id": "8vthsm"
     },
     {
       "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
@@ -961,7 +2116,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:08.813Z",
+      "crawledAt": "2026-03-25T05:25:22.978Z",
       "id": "fq1ke2"
     },
     {
@@ -976,7 +2131,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:09.817Z",
+      "crawledAt": "2026-03-25T05:25:23.698Z",
       "id": "9w8zvl"
     },
     {
@@ -991,7 +2146,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.929Z",
+      "crawledAt": "2026-03-25T05:25:56.840Z",
       "id": "kf5i4d"
     },
     {
@@ -1006,7 +2161,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.119Z",
+      "crawledAt": "2026-03-25T05:25:57.029Z",
       "id": "8l7fcg"
     },
     {
@@ -1021,7 +2176,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.190Z",
+      "crawledAt": "2026-03-25T05:25:57.101Z",
       "id": "i0m3rz"
     },
     {
@@ -1036,7 +2191,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.213Z",
+      "crawledAt": "2026-03-25T05:25:16.204Z",
       "id": "cobozx"
     },
     {
@@ -1051,7 +2206,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.250Z",
+      "crawledAt": "2026-03-25T05:25:57.161Z",
       "id": "ettlk2"
     },
     {
@@ -1066,7 +2221,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.176Z",
+      "crawledAt": "2026-03-25T05:26:38.666Z",
       "id": "8s5p6q"
     },
     {
@@ -1081,7 +2236,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.326Z",
+      "crawledAt": "2026-03-25T05:25:57.236Z",
       "id": "lvfsht"
     },
     {
@@ -1096,7 +2251,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.450Z",
+      "crawledAt": "2026-03-25T05:25:57.359Z",
       "id": "fadwuw"
     },
     {
@@ -1111,7 +2266,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.610Z",
+      "crawledAt": "2026-03-25T05:25:57.521Z",
       "id": "i4qso3"
     },
     {
@@ -1126,7 +2281,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.678Z",
+      "crawledAt": "2026-03-25T05:25:57.588Z",
       "id": "maws8w"
     },
     {
@@ -1141,7 +2296,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.798Z",
+      "crawledAt": "2026-03-25T05:25:57.709Z",
       "id": "f7tznv"
     },
     {
@@ -1156,23 +2311,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:42.957Z",
+      "crawledAt": "2026-03-25T05:25:57.868Z",
       "id": "sq3zcq"
-    },
-    {
-      "title": "7 Local LLM Families to Replace GPT-5.4/Codex for Everyday Tasks",
-      "url": "https://pub.towardsai.net/7-local-llm-families-to-replace-gpt-5-4-codex-for-everyday-tasks-37e8000bd751?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T14:01:06.000Z",
-      "metaDescription": "Frontier API bills are real. These 7 families now handle most of what you’re burning Codex credits on — and they run on hardware you…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.357Z",
-      "id": "tm1f14"
     },
     {
       "title": "Understanding CRUD Operations in SQL",
@@ -1186,7 +2326,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.618Z",
+      "crawledAt": "2026-03-25T05:26:35.058Z",
       "id": "pv8qkb"
     },
     {
@@ -1201,7 +2341,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.017Z",
+      "crawledAt": "2026-03-25T05:25:23.865Z",
       "id": "vlgnrq"
     },
     {
@@ -1216,7 +2356,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:57.966Z",
+      "crawledAt": "2026-03-25T05:25:13.665Z",
       "id": "59bwk3"
     },
     {
@@ -1231,7 +2371,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.332Z",
+      "crawledAt": "2026-03-25T05:25:16.321Z",
       "id": "5c67ci"
     },
     {
@@ -1246,7 +2386,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:06.569Z",
+      "crawledAt": "2026-03-25T05:25:20.637Z",
       "id": "hp600i"
     },
     {
@@ -1261,7 +2401,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:25.872Z",
+      "crawledAt": "2026-03-25T05:26:33.287Z",
       "id": "aqhir0"
     },
     {
@@ -1276,7 +2416,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.336Z",
+      "crawledAt": "2026-03-25T05:26:38.826Z",
       "id": "ydstyg"
     },
     {
@@ -1291,23 +2431,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.156Z",
+      "crawledAt": "2026-03-25T05:25:13.793Z",
       "id": "ohg23u"
-    },
-    {
-      "title": "The Data Model Mistake That Costs Companies $100K+ Per Year (and 90% of Power BI Developers Make…",
-      "url": "https://pub.towardsai.net/the-data-model-mistake-that-costs-companies-100k-per-year-and-90-of-power-bi-developers-make-2528827546ab?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T12:01:02.000Z",
-      "metaDescription": "I’ve audited 47 Power BI implementations in the last 3 years. 42 of them had the same fundamental data modeling mistake — a mistake that…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.540Z",
-      "id": "n3wjdo"
     },
     {
       "title": "The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026",
@@ -1321,7 +2446,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.201Z",
+      "crawledAt": "2026-03-25T05:25:24.027Z",
       "id": "ot5nv8"
     },
     {
@@ -1336,7 +2461,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.783Z",
+      "crawledAt": "2026-03-25T05:26:35.226Z",
       "id": "ngbjsk"
     },
     {
@@ -1351,7 +2476,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.470Z",
+      "crawledAt": "2026-03-25T05:25:16.457Z",
       "id": "wiamfd"
     },
     {
@@ -1366,7 +2491,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:51.979Z",
+      "crawledAt": "2026-03-25T05:25:04.723Z",
       "id": "b8gmd9"
     },
     {
@@ -1381,7 +2506,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:04.991Z",
+      "crawledAt": "2026-03-25T05:25:18.904Z",
       "id": "ibvsgw"
     },
     {
@@ -1396,7 +2521,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.117Z",
+      "crawledAt": "2026-03-25T05:25:19.030Z",
       "id": "jnn8q4"
     },
     {
@@ -1411,7 +2536,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.040Z",
+      "crawledAt": "2026-03-25T05:25:55.999Z",
       "id": "99vf8"
     },
     {
@@ -1426,7 +2551,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:23.957Z",
+      "crawledAt": "2026-03-25T05:25:34.737Z",
       "id": "xd07zd"
     },
     {
@@ -1441,7 +2566,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:52.104Z",
+      "crawledAt": "2026-03-25T05:25:04.846Z",
       "id": "wh3xa0"
     },
     {
@@ -1456,7 +2581,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:52.245Z",
+      "crawledAt": "2026-03-25T05:25:04.984Z",
       "id": "sqam1m"
     },
     {
@@ -1471,7 +2596,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.045Z",
+      "crawledAt": "2026-03-25T05:26:33.462Z",
       "id": "m5eoqc"
     },
     {
@@ -1486,7 +2611,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:44.971Z",
+      "crawledAt": "2026-03-25T05:24:58.597Z",
       "id": "c53033"
     },
     {
@@ -1501,7 +2626,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.149Z",
+      "crawledAt": "2026-03-25T05:25:56.106Z",
       "id": "sr6jc9"
     },
     {
@@ -1516,1178 +2641,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:09.051Z",
+      "crawledAt": "2026-03-25T05:25:23.149Z",
       "id": "6n859r"
-    },
-    {
-      "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
-      "url": "https://arxiv.org/abs/2603.20213",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming o",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:01.420Z",
-      "id": "20tt1e"
-    },
-    {
-      "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
-      "url": "https://arxiv.org/abs/2603.20260",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:01.617Z",
-      "id": "yku7gf"
-    },
-    {
-      "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-      "url": "https://arxiv.org/abs/2603.20267",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-o",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:01.810Z",
-      "id": "fb9ikq"
-    },
-    {
-      "title": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
-      "url": "https://arxiv.org/abs/2603.20270",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20270v1 Announce Type: new \nAbstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large lan",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:02.006Z",
-      "id": "sj10e3"
-    },
-    {
-      "title": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
-      "url": "https://arxiv.org/abs/2603.20276",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20276v1 Announce Type: new \nAbstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:02.214Z",
-      "id": "hc8dm9"
-    },
-    {
-      "title": "AgentComm-Bench: Stress-Testing Cooperative Embodied AI Under Latency, Packet Loss, and Bandwidth Collapse",
-      "url": "https://arxiv.org/abs/2603.20285",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20285v1 Announce Type: new \nAbstract: Cooperative multi-agent methods for embodied AI are almost universally evaluated under idealized communication: zero latency, no packet loss, and unlim",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:02.418Z",
-      "id": "jncg12"
-    },
-    {
-      "title": "LLM-Enhanced Energy Contrastive Learning for Out-of-Distribution Detection in Text-Attributed Graphs",
-      "url": "https://arxiv.org/abs/2603.20293",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20293v1 Announce Type: new \nAbstract: Text-attributed graphs, where nodes are enriched with textual attributes, have become a powerful tool for modeling real-world networks such as citation",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:02.620Z",
-      "id": "1d36j5"
-    },
-    {
-      "title": "Compression is all you need: Modeling Mathematics",
-      "url": "https://arxiv.org/abs/2603.20396",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20396v1 Announce Type: new \nAbstract: Human mathematics (HM), the mathematics humans discover and value, is a vanishingly small subset of formal mathematics (FM), the totality of all valid ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:02.799Z",
-      "id": "hgcltv"
-    },
-    {
-      "title": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making",
-      "url": "https://arxiv.org/abs/2603.20425",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20425v1 Announce Type: new \nAbstract: Food security policy formulation in data-scarce regions remains a critical challenge due to limited structured datasets, fragmented textual reports, an",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.004Z",
-      "id": "r8hmkb"
-    },
-    {
-      "title": "Deep reflective reasoning in interdependence constrained structured data extraction from clinical notes for digital health",
-      "url": "https://arxiv.org/abs/2603.20435",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20435v1 Announce Type: new \nAbstract: Extracting structured information from clinical notes requires navigating a dense web of interdependent variables where the value of one attribute logi",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.203Z",
-      "id": "vr6hie"
-    },
-    {
-      "title": "DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation",
-      "url": "https://arxiv.org/abs/2603.20470",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20470v1 Announce Type: new \nAbstract: The rapid growth of the text-to-image (T2I) community has fostered a thriving online ecosystem of expert models, which are variants of pretrained diffu",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.434Z",
-      "id": "6nqkd1"
-    },
-    {
-      "title": "Efficient Counterfactual Reasoning in ProbLog via Single World Intervention Programs",
-      "url": "https://arxiv.org/abs/2603.20505",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20505v1 Announce Type: new \nAbstract: Probabilistic Logic Programming (PLP) languages, like ProbLog, naturally support reasoning under uncertainty, while maintaining a declarative and inter",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.630Z",
-      "id": "o96sk5"
-    },
-    {
-      "title": "Grounded Chess Reasoning in Language Models via Master Distillation",
-      "url": "https://arxiv.org/abs/2603.20510",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20510v1 Announce Type: new \nAbstract: Language models often lack grounded reasoning capabilities in specialized domains where training data is scarce but bespoke systems excel. We introduce",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.793Z",
-      "id": "rdqott"
-    },
-    {
-      "title": "LLM-Driven Heuristic Synthesis for Industrial Process Control: Lessons from Hot Steel Rolling",
-      "url": "https://arxiv.org/abs/2603.20537",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20537v1 Announce Type: new \nAbstract: Industrial process control demands policies that are interpretable and auditable, requirements that black-box neural policies struggle to meet. We stud",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:03.980Z",
-      "id": "a0c8y9"
-    },
-    {
-      "title": "Context Cartography: Toward Structured Governance of Contextual Space in Large Language Model Systems",
-      "url": "https://arxiv.org/abs/2603.20578",
-      "source": "arXiv AI",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20578v1 Announce Type: new \nAbstract: The prevailing approach to improving large language model (LLM) reasoning has centered on expanding context windows, implicitly assuming that more toke",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.170Z",
-      "id": "q11u7y"
-    },
-    {
-      "title": "JointFM-0.1: A Foundation Model for Multi-Target Joint Distributional Prediction",
-      "url": "https://arxiv.org/abs/2603.20266",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20266v1 Announce Type: new \nAbstract: Despite the rapid advancements in Artificial Intelligence (AI), Stochastic Differential Equations (SDEs) remain the gold-standard formalism for modelin",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:15.923Z",
-      "id": "sljb90"
-    },
-    {
-      "title": "MARLIN: Multi-Agent Reinforcement Learning for Incremental DAG Discovery",
-      "url": "https://arxiv.org/abs/2603.20295",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20295v1 Announce Type: new \nAbstract: Uncovering causal structures from observational data is crucial for understanding complex systems and making informed decisions. While reinforcement le",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:16.096Z",
-      "id": "gpqht8"
-    },
-    {
-      "title": "Collaborative Adaptive Curriculum for Progressive Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2603.20296",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20296v1 Announce Type: new \nAbstract: Recent advances in collaborative knowledge distillation have demonstrated cutting-edge performance for resource-constrained distributed multimedia lear",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:16.252Z",
-      "id": "lfwubj"
-    },
-    {
-      "title": "Transformer-Based Predictive Maintenance for Risk-Aware Instrument Calibration",
-      "url": "https://arxiv.org/abs/2603.20297",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20297v1 Announce Type: new \nAbstract: Accurate calibration is essential for instruments whose measurements must remain traceable, reliable, and compliant over long operating periods. Fixed-",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:16.434Z",
-      "id": "9kv047"
-    },
-    {
-      "title": "Rolling-Origin Validation Reverses Model Rankings in Multi-Step PM10 Forecasting: XGBoost, SARIMA, and Persistence",
-      "url": "https://arxiv.org/abs/2603.20315",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20315v1 Announce Type: new \nAbstract: (a) Many air quality forecasting studies report gains from machine learning, but evaluations often use static chronological splits and omit persistence",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:16.672Z",
-      "id": "6213ms"
-    },
-    {
-      "title": "Probing the Latent World: Emergent Discrete Symbols and Physical Structure in Latent Representations",
-      "url": "https://arxiv.org/abs/2603.20327",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20327v1 Announce Type: new \nAbstract: Video world models trained with Joint Embedding Predictive Architectures (JEPA) acquire rich spatiotemporal representations by predicting masked region",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:16.862Z",
-      "id": "77ke8f"
-    },
-    {
-      "title": "Bounded Coupled AI Learning Dynamics in Tri-Hierarchical Drone Swarms",
-      "url": "https://arxiv.org/abs/2603.20333",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20333v1 Announce Type: new \nAbstract: Modern autonomous multi-agent systems combine heterogeneous learning mechanisms operating at different timescales. An open question remains: can one fo",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:17.040Z",
-      "id": "ug2q0x"
-    },
-    {
-      "title": "Hybrid Autoencoder-Isolation Forest approach for time series anomaly detection in C70XP cyclotron operation data at ARRONAX",
-      "url": "https://arxiv.org/abs/2603.20335",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20335v1 Announce Type: new \nAbstract: The Interest Public Group ARRONAX's C70XP cyclotron, used for radioisotope production for medical and research applications, relies on complex and cost",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:17.282Z",
-      "id": "9xnzlu"
-    },
-    {
-      "title": "Graph-Aware Text-Only Backdoor Poisoning for Text-Attributed Graphs",
-      "url": "https://arxiv.org/abs/2603.20339",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20339v1 Announce Type: new \nAbstract: Many learning systems now use graph data in which each node also contains text, such as papers with abstracts or users with posts. Because these texts ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:17.462Z",
-      "id": "n9c1o5"
-    },
-    {
-      "title": "Interpretable Multiple Myeloma Prognosis with Observational Medical Outcomes Partnership Data",
-      "url": "https://arxiv.org/abs/2603.20341",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20341v1 Announce Type: new \nAbstract: Machine learning (ML) promises better clinical decision-making, yet opaque model behavior limits the adoption in healthcare. We propose two novel regul",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:17.647Z",
-      "id": "u160ng"
-    },
-    {
-      "title": "The Multiverse of Time Series Machine Learning: an Archive for Multivariate Time Series Classification",
-      "url": "https://arxiv.org/abs/2603.20352",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20352v1 Announce Type: new \nAbstract: Time series machine learning (TSML) is a growing research field that spans a wide range\n  of tasks. The popularity of established tasks such as classif",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:17.844Z",
-      "id": "tntlc0"
-    },
-    {
-      "title": "CAMA: Exploring Collusive Adversarial Attacks in c-MARL",
-      "url": "https://arxiv.org/abs/2603.20390",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20390v1 Announce Type: new \nAbstract: Cooperative multi-agent reinforcement learning (c-MARL) has been widely deployed in real-world applications, such as social robots, embodied intelligen",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:18.040Z",
-      "id": "grnf1m"
-    },
-    {
-      "title": "SymCircuit: Bayesian Structure Inference for Tractable Probabilistic Circuits via Entropy-Regularized Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2603.20392",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20392v1 Announce Type: new \nAbstract: Probabilistic circuit (PC) structure learning is hampered by greedy algorithms that make irreversible, locally optimal decisions. We propose SymCircuit",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:18.262Z",
-      "id": "l6tq4h"
-    },
-    {
-      "title": "KV Cache Optimization Strategies for Scalable and Efficient LLM Inference",
-      "url": "https://arxiv.org/abs/2603.20397",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20397v1 Announce Type: new \nAbstract: The key-value (KV) cache is a foundational optimization in Transformer-based large language models (LLMs), eliminating redundant recomputation of past ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:18.453Z",
-      "id": "hs7a9i"
-    },
-    {
-      "title": "Putnam 2025 Problems in Rocq using Opus 4.6 and Rocq-MCP",
-      "url": "https://arxiv.org/abs/2603.20405",
-      "source": "arXiv Machine Learning",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20405v1 Announce Type: new \nAbstract: We report on an experiment in which Claude Opus~4.6, equipped with a suite of Model Context Protocol (MCP) tools for the Rocq proof assistant, autonomo",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:18.671Z",
-      "id": "hzifcj"
-    },
-    {
-      "title": "Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer",
-      "url": "https://arxiv.org/abs/2603.20273",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20273v1 Announce Type: new \nAbstract: Prostate cancer is one of the most frequently diagnosed malignancies in men worldwide. However, precise prediction of biochemical recurrence (BCR) afte",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:09.879Z",
-      "id": "5vzlx"
-    },
-    {
-      "title": "Understanding Pruning Regimes in Vision-Language Models Through Domain-Aware Layer Selection",
-      "url": "https://arxiv.org/abs/2603.20275",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20275v1 Announce Type: new \nAbstract: Transformer-based vision-language models (VLMs) contain substantial depth redundancy, yet the effect of removing specific decoder layers remains poorly",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:10.075Z",
-      "id": "2pcxlc"
-    },
-    {
-      "title": "Mix-and-Match Pruning: Globally Guided Layer-Wise Sparsification of DNNs",
-      "url": "https://arxiv.org/abs/2603.20280",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20280v1 Announce Type: new \nAbstract: Deploying deep neural networks (DNNs) on edge devices requires strong compression with minimal accuracy loss. This paper introduces Mix-and-Match Pruni",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:10.284Z",
-      "id": "i6epec"
-    },
-    {
-      "title": "STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction",
-      "url": "https://arxiv.org/abs/2603.20284",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20284v1 Announce Type: new \nAbstract: Online 3D reconstruction from streaming inputs requires both long-term temporal consistency and efficient memory usage. Although causal VGGT transforme",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:10.473Z",
-      "id": "2o2jop"
-    },
-    {
-      "title": "Efficient Visual Anomaly Detection at the Edge: Enabling Real-Time Industrial Inspection on Resource-Constrained Devices",
-      "url": "https://arxiv.org/abs/2603.20288",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20288v1 Announce Type: new \nAbstract: Visual Anomaly Detection (VAD) is essential for industrial quality control, enabling automatic defect detection in manufacturing. In real production li",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:10.664Z",
-      "id": "fjho40"
-    },
-    {
-      "title": "Remote Sensing Image Dehazing: A Systematic Review of Progress, Challenges, and Prospects",
-      "url": "https://arxiv.org/abs/2603.20289",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20289v1 Announce Type: new \nAbstract: Remote sensing images (RSIs) are frequently degraded by haze, fog, and thin clouds, which obscure surface reflectance and hinder downstream application",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:10.884Z",
-      "id": "f6fzbi"
-    },
-    {
-      "title": "Transparent Fragments Contour Estimation via Visual-Tactile Fusion for Autonomous Reassembly",
-      "url": "https://arxiv.org/abs/2603.20290",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20290v1 Announce Type: new \nAbstract: The contour estimation of transparent fragments is very important for autonomous reassembly, especially in the fields of precision optical instrument r",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:11.073Z",
-      "id": "4ulllu"
-    },
-    {
-      "title": "HSI Image Enhancement Classification Based on Knowledge Distillation: A Study on Forgetting",
-      "url": "https://arxiv.org/abs/2603.20292",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20292v1 Announce Type: new \nAbstract: In incremental classification tasks for hyperspectral images, catastrophic forgetting is an unavoidable challenge. While memory recall methods can miti",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:11.269Z",
-      "id": "a91l9q"
-    },
-    {
-      "title": "InjectFlow: Weak Guides Strong via Orthogonal Injection for Flow Matching",
-      "url": "https://arxiv.org/abs/2603.20303",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20303v1 Announce Type: new \nAbstract: Flow Matching (FM) has recently emerged as a leading approach for high-fidelity visual generation, offering a robust continuous-time alternative to ord",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:11.454Z",
-      "id": "1o5vl"
-    },
-    {
-      "title": "Transferable Multi-Bit Watermarking Across Frozen Diffusion Models via Latent Consistency Bridges",
-      "url": "https://arxiv.org/abs/2603.20304",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20304v1 Announce Type: new \nAbstract: As diffusion models (DMs) enable photorealistic image generation at unprecedented scale, watermarking techniques have become essential for provenance e",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:11.645Z",
-      "id": "y0or27"
-    },
-    {
-      "title": "The Global-Local loop: what is missing in bridging the gap between geospatial data from numerous communities?",
-      "url": "https://arxiv.org/abs/2603.20305",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20305v1 Announce Type: new \nAbstract: We face a unprecedented amount of geospatial data, describing directly or indirectly the Earth Surface at multiple spatial, temporal, and semantic scal",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:11.880Z",
-      "id": "u10aj7"
-    },
-    {
-      "title": "EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control",
-      "url": "https://arxiv.org/abs/2603.20307",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20307v1 Announce Type: new \nAbstract: Audio-driven talking head generation aims to create vivid and realistic videos from a static portrait and speech. Existing AR-based methods rely on int",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:12.096Z",
-      "id": "h5hqp"
-    },
-    {
-      "title": "GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems",
-      "url": "https://arxiv.org/abs/2603.20310",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20310v1 Announce Type: new \nAbstract: Monocular vertex-level human-scene contact prediction is a fundamental capability for interactive systems such as assistive monitoring, embodied AI, an",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:12.280Z",
-      "id": "pl5pcq"
-    },
-    {
-      "title": "VGS-Decoding: Visual Grounding Score Guided Decoding for Hallucination Mitigation in Medical VLMs",
-      "url": "https://arxiv.org/abs/2603.20314",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20314v1 Announce Type: new \nAbstract: Medical Vision-Language Models (VLMs) often hallucinate by generating responses based on language priors rather than visual evidence, posing risks in c",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:12.498Z",
-      "id": "xy7x49"
-    },
-    {
-      "title": "Which Workloads Belong in Orbit? A Workload-First Framework for Orbital Data Centers Using Semantic Abstraction",
-      "url": "https://arxiv.org/abs/2603.20317",
-      "source": "arXiv Computer Vision",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "medium",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20317v1 Announce Type: new \nAbstract: Space-based compute is becoming plausible as launch costs fall and data-intensive AI workloads grow. This paper proposes a workload-centric framework f",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:12.708Z",
-      "id": "brgtzw"
-    },
-    {
-      "title": "AnchorNote: Exploring Speech-Driven Spatial Externalization for Co-Located Collaboration in Augmented Reality",
-      "url": "https://arxiv.org/abs/2603.20199",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20199v1 Announce Type: new \nAbstract: Sticky notes remain a durable collaborative medium because they support rapid idea externalization, rearrangement, and coordination of group attention ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:12.906Z",
-      "id": "hz8bcs"
-    },
-    {
-      "title": "\"Girl, I'm so Serious\": CARE, a Capability Framework for Reproductive Equity in Human-AI Interaction",
-      "url": "https://arxiv.org/abs/2603.20511",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20511v1 Announce Type: new \nAbstract: Sexual and reproductive health (SRH) remains shaped by structural barriers that leave many without judgment-free information. AI chatbots offer anonymo",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:13.117Z",
-      "id": "hkzftz"
-    },
-    {
-      "title": "Towards Extended Reality Intelligence for Monitoring and Predicting Patient Readmission Risks",
-      "url": "https://arxiv.org/abs/2603.20556",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20556v1 Announce Type: new \nAbstract: Hospital readmissions remain a challenge for healthcare systems, especially among patients with chronic conditions such as diabetes. Unplanned readmiss",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:13.297Z",
-      "id": "ath66y"
-    },
-    {
-      "title": "Nevis Digital Twin: Photogrammetry and Immersive Visualization of Historical Sites",
-      "url": "https://arxiv.org/abs/2603.20560",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20560v1 Announce Type: new \nAbstract: In this work, we present a multimodal data acquisition workflow for the digital preservation and virtual reconstruction of at-risk historical sites in ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:13.488Z",
-      "id": "4bzbxl"
-    },
-    {
-      "title": "A 4R-supported circular product-service system for luxury branded events",
-      "url": "https://arxiv.org/abs/2603.20613",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20613v1 Announce Type: new \nAbstract: Temporary luxury branded events run on short cycles and bespoke builds that accelerate material churn. We present a circular phygital product-service s",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:13.678Z",
-      "id": "5yqbey"
-    },
-    {
-      "title": "Development and Usability Study of Older Adults in Motion-Captured Serious Game Incorporating Olfactory Stimulations",
-      "url": "https://arxiv.org/abs/2603.21220",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21220v1 Announce Type: new \nAbstract: SENSO is a motion-captured virtual reality serious game utilizing multisensory (visual, auditory, olfactory) stimuli to enhance cognitive and motor fun",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:13.880Z",
-      "id": "tt7k5e"
-    },
-    {
-      "title": "When the Chain Breaks: Interactive Diagnosis of LLM Chain-of-Thought Reasoning Errors",
-      "url": "https://arxiv.org/abs/2603.21286",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21286v1 Announce Type: new \nAbstract: Current Large Language Models (LLMs), especially Large Reasoning Models, can generate Chain-of-Thought (CoT) reasoning traces to illustrate how they pr",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:14.076Z",
-      "id": "vimu1k"
-    },
-    {
-      "title": "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective",
-      "url": "https://arxiv.org/abs/2603.21288",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21288v1 Announce Type: new \nAbstract: This study adopts an integrated distributed cognition and regulation of learning perspective to examine the collaboration patterns and dynamics of huma",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:14.266Z",
-      "id": "ktz5h4"
-    },
-    {
-      "title": "A Parametric, Geometry-Aware Residential Construction Cost Estimation Model for Ghana: Design, Validation, and the \"Completeness Gap\" in Informal Contractor Quotes",
-      "url": "https://arxiv.org/abs/2603.21314",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21314v1 Announce Type: new \nAbstract: Ghana faces a residential housing deficit of two million units. A key driver of project failure is the \"completeness gap\", a systematic discrepancy bet",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:14.498Z",
-      "id": "9xnw6r"
-    },
-    {
-      "title": "Software as Content: Dynamic Applications as the Human-Agent Interaction Layer",
-      "url": "https://arxiv.org/abs/2603.21334",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21334v1 Announce Type: new \nAbstract: Chat-based natural language interfaces have emerged as the dominant paradigm for human-agent interaction, yet they fundamentally constrain engagement w",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:14.670Z",
-      "id": "2ldlr0"
-    },
-    {
-      "title": "Cerebra: Aligning Implicit Knowledge in Interactive SQL Authoring",
-      "url": "https://arxiv.org/abs/2603.21363",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21363v1 Announce Type: new \nAbstract: LLM-driven tools have significantly lowered barriers to writing SQL queries. However, user instructions are often underspecified, assuming the model un",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:14.855Z",
-      "id": "fh9gub"
-    },
-    {
-      "title": "Exploring Experiential Differences Between Virtual and Physical Memory-Linked Objects in Extended Reality",
-      "url": "https://arxiv.org/abs/2603.21381",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21381v1 Announce Type: new \nAbstract: Extended Reality (XR) enables immersive capture and re-experience of personal memories, yet how interface representations shape these experiences remai",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:15.052Z",
-      "id": "mkkyr1"
-    },
-    {
-      "title": "Assessing Data Literacy in K--12 Education: Challenges and Opportunities",
-      "url": "https://arxiv.org/abs/2603.21382",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21382v1 Announce Type: new \nAbstract: Data literacy has become a key learning objective in K--12 education, but it remains an ambiguous concept as teachers interpret it differently. When cr",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:15.237Z",
-      "id": "1ykpbc"
-    },
-    {
-      "title": "The Illusion of Agreement with ChatGPT: Sycophancy and Beyond",
-      "url": "https://arxiv.org/abs/2603.21409",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21409v1 Announce Type: new \nAbstract: While concerns about ChatGPT-induced harms due to sycophancy and other behaviors, including gaslighting, have grown among researchers, how users themse",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:15.438Z",
-      "id": "nsm7hh"
-    },
-    {
-      "title": "Would You Like to Visit My World? Cultivating Perceived Equality in Human-Agent Interaction via Observable Social Life Spaces",
-      "url": "https://arxiv.org/abs/2603.21505",
-      "source": "arXiv Human-Computer Interaction",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.21505v1 Announce Type: new \nAbstract: Most AI agents remain confined to an instrumental \"command-execution\" model, resulting in unequal, one-sided interactions. While recent works attempt t",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:15.652Z",
-      "id": "f0nbp5"
-    },
-    {
-      "title": "HCAG: Hierarchical Abstraction and Retrieval-Augmented Generation on Theoretical Repositories with LLMs",
-      "url": "https://arxiv.org/abs/2603.20299",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20299v1 Announce Type: new \nAbstract: Existing Retrieval-Augmented Generation (RAG) methods for code struggle to capture the high-level architectural patterns and cross-file dependencies in",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:18.876Z",
-      "id": "m8xp71"
-    },
-    {
-      "title": "From Human Interfaces to Agent Interfaces: Rethinking Software Design in the Age of AI-Native Systems",
-      "url": "https://arxiv.org/abs/2603.20300",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20300v1 Announce Type: new \nAbstract: Software systems have traditionally been designed for human interaction, emphasizing graphical user interfaces, usability, and cognitive alignment with",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:19.059Z",
-      "id": "vmxv8i"
-    },
-    {
-      "title": "kRAIG: A Natural Language-Driven Agent for Automated DataOps Pipeline Generation",
-      "url": "https://arxiv.org/abs/2603.20311",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20311v1 Announce Type: new \nAbstract: Modern machine learning systems rely on complex data engineering workflows to extract, transform, and load (ELT) data into production pipelines. Howeve",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:19.258Z",
-      "id": "onuk5c"
-    },
-    {
-      "title": "Semantic Tool Discovery for Large Language Models: A Vector-Based Approach to MCP Tool Selection",
-      "url": "https://arxiv.org/abs/2603.20313",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20313v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with tool-calling capabilities have demonstrated remarkable potential in executing complex tasks through external tool int",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:19.438Z",
-      "id": "1eb8qa"
-    },
-    {
-      "title": "The Causal Impact of Tool Affordance on Safety Alignment in LLM Agents",
-      "url": "https://arxiv.org/abs/2603.20320",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20320v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as agents with access to executable tools, enabling direct interaction with external systems. Ho",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:19.618Z",
-      "id": "uo32z7"
-    },
-    {
-      "title": "Procedural Refinement by LLM-driven Algorithmic Debugging for ARC-AGI-2",
-      "url": "https://arxiv.org/abs/2603.20334",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20334v1 Announce Type: new \nAbstract: In complex code-generation tasks, conversation-based LLM code repair exhibits limited ability to recover from first-pass programming errors, as such co",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:19.819Z",
-      "id": "jjqsu0"
-    },
-    {
-      "title": "ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents",
-      "url": "https://arxiv.org/abs/2603.20340",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20340v1 Announce Type: new \nAbstract: Despite rapid progress in multimodal GUI agents, reusable skill acquisition remains difficult because on-demand generated skills often leave action sem",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.005Z",
-      "id": "bd6deo"
-    },
-    {
-      "title": "Beyond LLM-based test automation: A Zero-Cost Self-Healing Approach Using DOM Accessibility Tree Extraction",
-      "url": "https://arxiv.org/abs/2603.20358",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20358v1 Announce Type: new \nAbstract: Modern web test automation frameworks rely heavily on CSS selectors, XPath expressions, and visible text labels to locate UI elements. These locators a",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.216Z",
-      "id": "19d1lg"
-    },
-    {
-      "title": "The Nature of Technical Debt in Research Software",
-      "url": "https://arxiv.org/abs/2603.20415",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20415v1 Announce Type: new \nAbstract: Research software (also called scientific software) is essential for advancing scientific endeavours. Research software encapsulates complex algorithms",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.392Z",
-      "id": "7iyyo0"
-    },
-    {
-      "title": "yProv4DV: Reproducible Data Visualization Scripts Out of the Box",
-      "url": "https://arxiv.org/abs/2603.20437",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20437v1 Announce Type: new \nAbstract: While results visualization is a critical phase to the communication of new academic results, plots are frequently shared without the complete combinat",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.577Z",
-      "id": "es4c9"
-    },
-    {
-      "title": "Solver-Aided Verification of Policy Compliance in Tool-Augmented LLM Agents",
-      "url": "https://arxiv.org/abs/2603.20449",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20449v1 Announce Type: new \nAbstract: Tool-augmented Large Language Models (TaLLMs) extend LLMs with the ability to invoke external tools, enabling them to interact with real-world environm",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.779Z",
-      "id": "u2msdy"
-    },
-    {
-      "title": "Software Entropy: A Statistical Mechanics Framework for Software Testing",
-      "url": "https://arxiv.org/abs/2603.20528",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20528v1 Announce Type: new \nAbstract: The notion of software entropy is often invoked to describe the tendency of software systems to become increasingly disordered as they evolve, yet exis",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:20.951Z",
-      "id": "iurq8a"
-    },
-    {
-      "title": "An Industrial-Scale Retrieval-Augmented Generation Framework for Requirements Engineering: Empirical Evaluation with Automotive Manufacturing Data",
-      "url": "https://arxiv.org/abs/2603.20534",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20534v1 Announce Type: new \nAbstract: Requirements engineering in Industry 4.0 faces critical challenges with heterogeneous, unstructured documentation spanning technical specifications, su",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:21.140Z",
-      "id": "oudp4f"
-    },
-    {
-      "title": "LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding",
-      "url": "https://arxiv.org/abs/2603.20618",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20618v1 Announce Type: new \nAbstract: Logs are essential for diagnosing failures and conducting retrospective studies, leading many software organizations to retain log messages for a long ",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:21.310Z",
-      "id": "k9yr0s"
-    },
-    {
-      "title": "Evaluating LLM-generated code for domain-specific languages: molecular dynamics with LAMMPS",
-      "url": "https://arxiv.org/abs/2603.20630",
-      "source": "arXiv Software Engineering",
-      "source_domain": "arxiv.org",
-      "source_category": "research",
-      "source_priority": "low",
-      "pubDate": "2026-03-24T04:00:00.000Z",
-      "metaDescription": "arXiv:2603.20630v1 Announce Type: new \nAbstract: Large language models (LLMs) are changing the way researchers interact with code and data in scientific computing. While their ability to generate gene",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:45:21.499Z",
-      "id": "iobvcu"
-    },
-    {
-      "title": "AI Brain Fry",
-      "url": "https://pub.towardsai.net/ai-coding-agents-brain-fry-6fbb34b906c1?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T02:34:35.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.584Z",
-      "id": "ulw6ho"
-    },
-    {
-      "title": "From “Vibe Coding” to Viable Coding: How Superpowers Turn AI Chatbots into Engineering Partners",
-      "url": "https://pub.towardsai.net/from-vibe-coding-to-viable-coding-how-superpowers-turns-ai-chatbots-into-engineering-partners-59c081f02a26?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T02:34:16.000Z",
-      "metaDescription": "The open-source plugin that adds brainstorming, TDD enforcement, and subagent orchestration to your AI coding workflow\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.754Z",
-      "id": "wdc37i"
-    },
-    {
-      "title": "Google’s GAIL Certification: Useful Strategy, Thin Engineering",
-      "url": "https://pub.towardsai.net/googles-gail-certification-useful-strategy-thin-engineering-4fb3baed08ae?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-24T02:32:12.000Z",
-      "metaDescription": "Google’s Generative AI Leader certification is not an engineering course. It is a business level translation layer for people who need to…\nContinue reading on Towards AI »",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:32.901Z",
-      "id": "p2000i"
     },
     {
       "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
@@ -2701,7 +2656,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:09.315Z",
+      "crawledAt": "2026-03-25T05:25:23.365Z",
       "id": "9g546i"
     },
     {
@@ -2716,7 +2671,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:50.347Z",
+      "crawledAt": "2026-03-25T05:25:03.132Z",
       "id": "bmjo2a"
     },
     {
@@ -2731,7 +2686,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.584Z",
+      "crawledAt": "2026-03-25T05:25:16.574Z",
       "id": "hky1ze"
     },
     {
@@ -2746,7 +2701,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.357Z",
+      "crawledAt": "2026-03-25T05:25:13.944Z",
       "id": "sip9yv"
     },
     {
@@ -2761,7 +2716,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.449Z",
+      "crawledAt": "2026-03-25T05:26:38.939Z",
       "id": "9cnl0a"
     },
     {
@@ -2776,7 +2731,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.702Z",
+      "crawledAt": "2026-03-25T05:25:16.689Z",
       "id": "80bmr9"
     },
     {
@@ -2791,7 +2746,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.227Z",
+      "crawledAt": "2026-03-25T05:25:56.184Z",
       "id": "hv8y0t"
     },
     {
@@ -2806,7 +2761,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.847Z",
+      "crawledAt": "2026-03-25T05:25:16.827Z",
       "id": "q1c8h7"
     },
     {
@@ -2821,23 +2776,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:02.965Z",
+      "crawledAt": "2026-03-25T05:25:16.945Z",
       "id": "b8dyu7"
-    },
-    {
-      "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
-      "url": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-23T20:29:09.000Z",
-      "metaDescription": "Dell XPS laptops will be the first to use the display tech that reaches up to 120 Hz.",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:03.097Z",
-      "id": "fbvh7m"
     },
     {
       "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
@@ -2851,7 +2791,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.516Z",
+      "crawledAt": "2026-03-25T05:25:14.103Z",
       "id": "pt5hra"
     },
     {
@@ -2866,7 +2806,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.645Z",
+      "crawledAt": "2026-03-25T05:25:14.232Z",
       "id": "sziagi"
     },
     {
@@ -2881,23 +2821,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.795Z",
+      "crawledAt": "2026-03-25T05:25:14.383Z",
       "id": "yyupqy"
-    },
-    {
-      "title": "Webhooks for LangSmith Deployment: Notify Slack When Your Agent Run Finishes",
-      "url": "https://www.youtube.com/watch?v=SR6eTBb0k2U",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-23T16:55:01.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:51.959Z",
-      "id": "spirfk"
     },
     {
       "title": "How Reco transforms security alerts using Amazon Bedrock",
@@ -2911,7 +2836,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:16.499Z",
+      "crawledAt": "2026-03-25T05:25:36.420Z",
       "id": "yo8bmn"
     },
     {
@@ -2926,7 +2851,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:16.654Z",
+      "crawledAt": "2026-03-25T05:25:36.577Z",
       "id": "9643xz"
     },
     {
@@ -2941,7 +2866,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:16.856Z",
+      "crawledAt": "2026-03-25T05:25:36.777Z",
       "id": "slb2yb"
     },
     {
@@ -2956,7 +2881,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:06.734Z",
+      "crawledAt": "2026-03-25T05:25:20.806Z",
       "id": "4nmfc7"
     },
     {
@@ -2971,23 +2896,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.383Z",
+      "crawledAt": "2026-03-25T05:25:24.187Z",
       "id": "3c8q6f"
-    },
-    {
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "source": "Lex Fridman",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-23T16:24:14.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:46.299Z",
-      "id": "tobq54"
     },
     {
       "title": "10 Best X Accounts to Follow for LLM Updates",
@@ -3001,7 +2911,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.579Z",
+      "crawledAt": "2026-03-25T05:26:39.070Z",
       "id": "3qrvyc"
     },
     {
@@ -3016,7 +2926,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:59.367Z",
+      "crawledAt": "2026-03-25T05:25:10.224Z",
       "id": "kp5fts"
     },
     {
@@ -3031,7 +2941,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:58.977Z",
+      "crawledAt": "2026-03-25T05:25:14.567Z",
       "id": "cpq2a5"
     },
     {
@@ -3046,7 +2956,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.325Z",
+      "crawledAt": "2026-03-25T05:25:56.281Z",
       "id": "aci1wq"
     },
     {
@@ -3061,7 +2971,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.417Z",
+      "crawledAt": "2026-03-25T05:25:56.372Z",
       "id": "8qjtf9"
     },
     {
@@ -3076,7 +2986,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:45.250Z",
+      "crawledAt": "2026-03-25T05:24:58.769Z",
       "id": "es7w6e"
     },
     {
@@ -3091,7 +3001,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.538Z",
+      "crawledAt": "2026-03-25T05:25:24.337Z",
       "id": "hlof7t"
     },
     {
@@ -3106,7 +3016,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.749Z",
+      "crawledAt": "2026-03-25T05:26:39.243Z",
       "id": "li41is"
     },
     {
@@ -3121,7 +3031,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.943Z",
+      "crawledAt": "2026-03-25T05:26:35.389Z",
       "id": "6w111p"
     },
     {
@@ -3136,7 +3046,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.703Z",
+      "crawledAt": "2026-03-25T05:25:24.499Z",
       "id": "kt3vgk"
     },
     {
@@ -3151,7 +3061,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.311Z",
+      "crawledAt": "2026-03-25T05:25:27.414Z",
       "id": "tp4qb6"
     },
     {
@@ -3166,7 +3076,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.207Z",
+      "crawledAt": "2026-03-25T05:26:33.625Z",
       "id": "guzi8q"
     },
     {
@@ -3181,7 +3091,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:57.387Z",
+      "crawledAt": "2026-03-25T05:26:04.701Z",
       "id": "l7b70h"
     },
     {
@@ -3196,7 +3106,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.351Z",
+      "crawledAt": "2026-03-25T05:26:33.770Z",
       "id": "5hackv"
     },
     {
@@ -3211,7 +3121,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:06.930Z",
+      "crawledAt": "2026-03-25T05:25:21.003Z",
       "id": "gk9o6k"
     },
     {
@@ -3226,7 +3136,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:31.877Z",
+      "crawledAt": "2026-03-25T05:26:39.374Z",
       "id": "hrc4r"
     },
     {
@@ -3241,7 +3151,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:10.864Z",
+      "crawledAt": "2026-03-25T05:25:24.658Z",
       "id": "gse2vt"
     },
     {
@@ -3256,7 +3166,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.103Z",
+      "crawledAt": "2026-03-25T05:26:35.550Z",
       "id": "65jb5u"
     },
     {
@@ -3271,7 +3181,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.052Z",
+      "crawledAt": "2026-03-25T05:25:34.833Z",
       "id": "nlrowe"
     },
     {
@@ -3286,7 +3196,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.251Z",
+      "crawledAt": "2026-03-25T05:25:19.165Z",
       "id": "kw277f"
     },
     {
@@ -3301,7 +3211,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:07.109Z",
+      "crawledAt": "2026-03-25T05:25:21.189Z",
       "id": "h6r5rc"
     },
     {
@@ -3316,7 +3226,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.399Z",
+      "crawledAt": "2026-03-25T05:25:19.311Z",
       "id": "r7vvch"
     },
     {
@@ -3331,7 +3241,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:52.416Z",
+      "crawledAt": "2026-03-25T05:25:05.155Z",
       "id": "iqkf7x"
     },
     {
@@ -3346,7 +3256,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.507Z",
+      "crawledAt": "2026-03-25T05:25:56.462Z",
       "id": "z28v6b"
     },
     {
@@ -3361,7 +3271,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:41.585Z",
+      "crawledAt": "2026-03-25T05:25:56.544Z",
       "id": "lzzwus"
     },
     {
@@ -3376,7 +3286,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.059Z",
+      "crawledAt": "2026-03-25T05:25:24.848Z",
       "id": "xjchnw"
     },
     {
@@ -3391,7 +3301,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.500Z",
+      "crawledAt": "2026-03-25T05:26:33.923Z",
       "id": "lwi5of"
     },
     {
@@ -3406,23 +3316,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.263Z",
+      "crawledAt": "2026-03-25T05:25:25.050Z",
       "id": "xufqdb"
-    },
-    {
-      "title": "This picture broke my brain",
-      "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
-      "source": "3Blue1Brown",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-22T12:59:00.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:47.201Z",
-      "id": "k2zhof"
     },
     {
       "title": "Escaping the SQL Jungle",
@@ -3436,7 +3331,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.412Z",
+      "crawledAt": "2026-03-25T05:25:25.196Z",
       "id": "kl4m47"
     },
     {
@@ -3451,7 +3346,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.598Z",
+      "crawledAt": "2026-03-25T05:25:25.381Z",
       "id": "u5vs1m"
     },
     {
@@ -3466,23 +3361,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.674Z",
+      "crawledAt": "2026-03-25T05:26:34.101Z",
       "id": "l2qwje"
-    },
-    {
-      "title": "Bacteria Grid Puzzle Solution",
-      "url": "https://www.youtube.com/shorts/Qoes9bTJtn0",
-      "source": "3Blue1Brown",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-21T11:42:53.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:47.249Z",
-      "id": "calz1e"
     },
     {
       "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
@@ -3496,7 +3376,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.566Z",
+      "crawledAt": "2026-03-25T05:25:19.477Z",
       "id": "jr0ro8"
     },
     {
@@ -3511,7 +3391,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.703Z",
+      "crawledAt": "2026-03-25T05:25:19.616Z",
       "id": "kiacnx"
     },
     {
@@ -3526,7 +3406,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.854Z",
+      "crawledAt": "2026-03-25T05:25:19.767Z",
       "id": "uqx6vk"
     },
     {
@@ -3541,7 +3421,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:05.986Z",
+      "crawledAt": "2026-03-25T05:25:19.899Z",
       "id": "i6aydn"
     },
     {
@@ -3556,7 +3436,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.379Z",
+      "crawledAt": "2026-03-25T05:26:11.832Z",
       "id": "kdownr"
     },
     {
@@ -3571,7 +3451,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:50.415Z",
+      "crawledAt": "2026-03-25T05:25:03.200Z",
       "id": "sl9m53"
     },
     {
@@ -3586,7 +3466,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.435Z",
+      "crawledAt": "2026-03-25T05:26:11.889Z",
       "id": "t4hpgv"
     },
     {
@@ -3601,38 +3481,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.771Z",
+      "crawledAt": "2026-03-25T05:25:25.553Z",
       "id": "sevgap"
-    },
-    {
-      "title": "From your kitchen to customers | with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=ApOVfOGWTJU",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-20T16:16:16.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.578Z",
-      "id": "qoii74"
-    },
-    {
-      "title": "Building a small business with ChatGPT",
-      "url": "https://www.youtube.com/watch?v=p2GKhlPMVO0",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-20T16:14:57.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.633Z",
-      "id": "j843hh"
     },
     {
       "title": "Building Robust Credit Scoring Models",
@@ -3646,7 +3496,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:11.902Z",
+      "crawledAt": "2026-03-25T05:25:25.686Z",
       "id": "ibk10y"
     },
     {
@@ -3661,7 +3511,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:50.491Z",
+      "crawledAt": "2026-03-25T05:25:03.280Z",
       "id": "lhsgy7"
     },
     {
@@ -3676,7 +3526,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.223Z",
+      "crawledAt": "2026-03-25T05:25:35.003Z",
       "id": "jz29xs"
     },
     {
@@ -3691,7 +3541,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:32.027Z",
+      "crawledAt": "2026-03-25T05:26:39.527Z",
       "id": "lphlyb"
     },
     {
@@ -3706,7 +3556,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.028Z",
+      "crawledAt": "2026-03-25T05:25:25.900Z",
       "id": "9mumzi"
     },
     {
@@ -3721,7 +3571,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:07.288Z",
+      "crawledAt": "2026-03-25T05:25:21.368Z",
       "id": "357zki"
     },
     {
@@ -3736,7 +3586,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:26.857Z",
+      "crawledAt": "2026-03-25T05:26:34.298Z",
       "id": "9okrn1"
     },
     {
@@ -3751,7 +3601,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.025Z",
+      "crawledAt": "2026-03-25T05:26:34.465Z",
       "id": "k6yjtx"
     },
     {
@@ -3766,7 +3616,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:32.138Z",
+      "crawledAt": "2026-03-25T05:26:39.641Z",
       "id": "2igrtb"
     },
     {
@@ -3781,7 +3631,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.210Z",
+      "crawledAt": "2026-03-25T05:25:26.146Z",
       "id": "fatvef"
     },
     {
@@ -3796,7 +3646,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.313Z",
+      "crawledAt": "2026-03-25T05:26:35.761Z",
       "id": "tac8u5"
     },
     {
@@ -3811,7 +3661,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.480Z",
+      "crawledAt": "2026-03-25T05:26:35.926Z",
       "id": "o7sg3n"
     },
     {
@@ -3826,7 +3676,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:07.448Z",
+      "crawledAt": "2026-03-25T05:25:21.526Z",
       "id": "xbl6r"
     },
     {
@@ -3841,7 +3691,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:07.607Z",
+      "crawledAt": "2026-03-25T05:25:21.685Z",
       "id": "it6rq3"
     },
     {
@@ -3856,7 +3706,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:45.544Z",
+      "crawledAt": "2026-03-25T05:24:58.928Z",
       "id": "fxccie"
     },
     {
@@ -3871,7 +3721,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.226Z",
+      "crawledAt": "2026-03-25T05:26:34.668Z",
       "id": "gh03z2"
     },
     {
@@ -3886,7 +3736,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:59.533Z",
+      "crawledAt": "2026-03-25T05:25:10.397Z",
       "id": "mu4sqw"
     },
     {
@@ -3901,7 +3751,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.029Z",
+      "crawledAt": "2026-03-25T05:25:36.928Z",
       "id": "g7c0qd"
     },
     {
@@ -3916,7 +3766,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:32.325Z",
+      "crawledAt": "2026-03-25T05:26:39.830Z",
       "id": "3kckos"
     },
     {
@@ -3931,7 +3781,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.184Z",
+      "crawledAt": "2026-03-25T05:25:37.085Z",
       "id": "5ksp5n"
     },
     {
@@ -3946,23 +3796,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.352Z",
+      "crawledAt": "2026-03-25T05:25:37.281Z",
       "id": "2y7six"
-    },
-    {
-      "title": "Introducing LangSmith Fleet",
-      "url": "https://www.youtube.com/watch?v=t2EYd57rvQg",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T16:40:34.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.005Z",
-      "id": "6t43tz"
     },
     {
       "title": "The Basics of Vibe Engineering",
@@ -3976,7 +3811,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.310Z",
+      "crawledAt": "2026-03-25T05:25:26.287Z",
       "id": "oqxw80"
     },
     {
@@ -3991,23 +3826,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:59.695Z",
+      "crawledAt": "2026-03-25T05:25:10.558Z",
       "id": "68y4og"
-    },
-    {
-      "title": "LangSmith Fleet: Agents for the whole company",
-      "url": "https://www.youtube.com/watch?v=mRNUlUdxegM",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T15:17:49.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.064Z",
-      "id": "j5iyah"
     },
     {
       "title": "Beyond Prompt Caching: 5 More Things You Should Cache in RAG Pipelines",
@@ -4021,7 +3841,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.495Z",
+      "crawledAt": "2026-03-25T05:25:26.484Z",
       "id": "ma951t"
     },
     {
@@ -4036,7 +3856,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.520Z",
+      "crawledAt": "2026-03-25T05:25:37.448Z",
       "id": "9tdf9h"
     },
     {
@@ -4051,7 +3871,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.682Z",
+      "crawledAt": "2026-03-25T05:25:37.610Z",
       "id": "6pmr3"
     },
     {
@@ -4066,7 +3886,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.646Z",
+      "crawledAt": "2026-03-25T05:25:26.714Z",
       "id": "r9pdzh"
     },
     {
@@ -4081,7 +3901,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.337Z",
+      "crawledAt": "2026-03-25T05:25:35.120Z",
       "id": "vj767a"
     },
     {
@@ -4096,7 +3916,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:45.912Z",
+      "crawledAt": "2026-03-25T05:24:59.132Z",
       "id": "4qfiqy"
     },
     {
@@ -4111,7 +3931,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:07.801Z",
+      "crawledAt": "2026-03-25T05:25:21.880Z",
       "id": "e4f7x1"
     },
     {
@@ -4126,7 +3946,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:12.807Z",
+      "crawledAt": "2026-03-25T05:25:26.895Z",
       "id": "8m8x83"
     },
     {
@@ -4141,7 +3961,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.648Z",
+      "crawledAt": "2026-03-25T05:26:36.097Z",
       "id": "9y6hmb"
     },
     {
@@ -4156,7 +3976,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:52.572Z",
+      "crawledAt": "2026-03-25T05:25:05.309Z",
       "id": "1r3rjz"
     },
     {
@@ -4171,7 +3991,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.471Z",
+      "crawledAt": "2026-03-25T05:25:27.574Z",
       "id": "isf19v"
     },
     {
@@ -4186,7 +4006,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:27.405Z",
+      "crawledAt": "2026-03-25T05:26:34.846Z",
       "id": "xw2ds3"
     },
     {
@@ -4201,7 +4021,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.645Z",
+      "crawledAt": "2026-03-25T05:25:27.747Z",
       "id": "js9bra"
     },
     {
@@ -4216,7 +4036,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:52.655Z",
+      "crawledAt": "2026-03-25T05:25:05.390Z",
       "id": "yp3kez"
     },
     {
@@ -4231,7 +4051,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:35.580Z",
+      "crawledAt": "2026-03-25T05:25:50.512Z",
       "id": "qny5hf"
     },
     {
@@ -4246,7 +4066,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:25.388Z",
+      "crawledAt": "2026-03-25T05:25:39.550Z",
       "id": "h3zj6w"
     },
     {
@@ -4261,7 +4081,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.541Z",
+      "crawledAt": "2026-03-25T05:26:11.999Z",
       "id": "mouimv"
     },
     {
@@ -4276,7 +4096,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.622Z",
+      "crawledAt": "2026-03-25T05:26:12.086Z",
       "id": "h9d222"
     },
     {
@@ -4291,23 +4111,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:25.576Z",
+      "crawledAt": "2026-03-25T05:25:39.740Z",
       "id": "lcrw8r"
-    },
-    {
-      "title": "Polly AI Assistant now generally available in LangSmith",
-      "url": "https://www.youtube.com/watch?v=S6A8ooiJ5aU",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-18T17:00:42.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.122Z",
-      "id": "adkdfi"
     },
     {
       "title": "Kick off Nova customization experiments using Nova Forge SDK",
@@ -4321,7 +4126,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.819Z",
+      "crawledAt": "2026-03-25T05:25:37.750Z",
       "id": "1d1kq0"
     },
     {
@@ -4336,7 +4141,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:17.987Z",
+      "crawledAt": "2026-03-25T05:25:37.921Z",
       "id": "7r9y6x"
     },
     {
@@ -4351,23 +4156,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:18.151Z",
+      "crawledAt": "2026-03-25T05:25:38.086Z",
       "id": "hs2h96"
-    },
-    {
-      "title": "Open Models, Open Runtime, Open Harness - Building your own AI agent with LangChain and Nvidia",
-      "url": "https://www.youtube.com/watch?v=BEYEWw1Mkmw",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-18T15:51:48.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.215Z",
-      "id": "dzkrxq"
     },
     {
       "title": "Build an AI-Powered A/B testing engine using Amazon Bedrock",
@@ -4381,7 +4171,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:18.329Z",
+      "crawledAt": "2026-03-25T05:25:38.266Z",
       "id": "6sa0d8"
     },
     {
@@ -4396,7 +4186,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.815Z",
+      "crawledAt": "2026-03-25T05:25:27.921Z",
       "id": "tjdyv5"
     },
     {
@@ -4411,7 +4201,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:18.483Z",
+      "crawledAt": "2026-03-25T05:25:38.421Z",
       "id": "yae5ya"
     },
     {
@@ -4426,7 +4216,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:18.658Z",
+      "crawledAt": "2026-03-25T05:25:38.594Z",
       "id": "13t7ox"
     },
     {
@@ -4441,7 +4231,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:13.973Z",
+      "crawledAt": "2026-03-25T05:25:28.081Z",
       "id": "2pbaoj"
     },
     {
@@ -4456,7 +4246,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.474Z",
+      "crawledAt": "2026-03-25T05:25:35.256Z",
       "id": "ceorwg"
     },
     {
@@ -4471,7 +4261,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.807Z",
+      "crawledAt": "2026-03-25T05:26:36.257Z",
       "id": "2rl2rr"
     },
     {
@@ -4486,7 +4276,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:43:46.173Z",
+      "crawledAt": "2026-03-25T05:24:59.272Z",
       "id": "5axaos"
     },
     {
@@ -4501,38 +4291,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:28.978Z",
+      "crawledAt": "2026-03-25T05:26:36.430Z",
       "id": "sgax4x"
-    },
-    {
-      "title": "Rakuten x Codex: AI can empower you",
-      "url": "https://www.youtube.com/shorts/uobQ5nOkPZ4",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T21:00:42.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.697Z",
-      "id": "jim8uk"
-    },
-    {
-      "title": "This is the New NPM",
-      "url": "https://www.youtube.com/watch?v=PRBlLjHIV74",
-      "source": "Dave Ebbelaar",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T16:00:40.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:53.773Z",
-      "id": "yvqjxy"
     },
     {
       "title": "Investing in the people shaping open source and securing the future together",
@@ -4546,38 +4306,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:59.662Z",
+      "crawledAt": "2026-03-25T05:26:07.014Z",
       "id": "6jw3hd"
-    },
-    {
-      "title": "Introducing: LangSmith Sandboxes",
-      "url": "https://www.youtube.com/watch?v=HBcIDnOFU6A",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T15:47:37.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.269Z",
-      "id": "nv7fgh"
-    },
-    {
-      "title": "AI 開發進化營：一次訂閱，全年掌握最新 AI 開發技能｜卡斯伯老師",
-      "url": "https://www.youtube.com/watch?v=Zrv7JI2sn-0",
-      "source": "Sam Witteveen",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T14:20:28.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:54.396Z",
-      "id": "dnfswo"
     },
     {
       "title": "Downloading Files From URLs With Python",
@@ -4591,7 +4321,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.143Z",
+      "crawledAt": "2026-03-25T05:26:36.592Z",
       "id": "leiayv"
     },
     {
@@ -4606,7 +4336,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.318Z",
+      "crawledAt": "2026-03-25T05:26:36.766Z",
       "id": "29xga9"
     },
     {
@@ -4621,7 +4351,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.583Z",
+      "crawledAt": "2026-03-25T05:25:35.365Z",
       "id": "2vwi8w"
     },
     {
@@ -4636,38 +4366,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:04.745Z",
+      "crawledAt": "2026-03-25T05:26:12.211Z",
       "id": "8fcodo"
-    },
-    {
-      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
-      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T17:00:00.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.763Z",
-      "id": "f8el50"
-    },
-    {
-      "title": "Deploy CLI: The Easiest Way to Deploy Agents from Your Terminal",
-      "url": "https://www.youtube.com/watch?v=hcWHufkzicc",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T15:52:09.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.337Z",
-      "id": "48ioa7"
     },
     {
       "title": "Spyder: Your IDE for Data Science Development in Python",
@@ -4681,7 +4381,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.484Z",
+      "crawledAt": "2026-03-25T05:26:36.932Z",
       "id": "ntrbqh"
     },
     {
@@ -4696,7 +4396,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.642Z",
+      "crawledAt": "2026-03-25T05:26:37.092Z",
       "id": "jb1kx0"
     },
     {
@@ -4711,23 +4411,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.807Z",
+      "crawledAt": "2026-03-25T05:26:37.258Z",
       "id": "2ouv26"
-    },
-    {
-      "title": "ChatGPT skills in beta for ChatGPT Business & Enterprise",
-      "url": "https://www.youtube.com/watch?v=qh93rLRPw80",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-13T20:08:30.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.831Z",
-      "id": "u3as01"
     },
     {
       "title": "The Real Python Podcast – Episode #287: Crafting and Editing In-Depth Tutorials at Real Python",
@@ -4741,7 +4426,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:29.999Z",
+      "crawledAt": "2026-03-25T05:26:37.451Z",
       "id": "3v5d2r"
     },
     {
@@ -4756,23 +4441,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:30.163Z",
+      "crawledAt": "2026-03-25T05:26:37.615Z",
       "id": "98iyjh"
-    },
-    {
-      "title": "This Physics Breakthrough Looks Impossible",
-      "url": "https://www.youtube.com/watch?v=RDQ4vHAPNls",
-      "source": "Two Minute Papers",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-12T18:16:27.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:47.806Z",
-      "id": "v5btdj"
     },
     {
       "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
@@ -4786,7 +4456,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:59.822Z",
+      "crawledAt": "2026-03-25T05:26:07.178Z",
       "id": "ykgwwd"
     },
     {
@@ -4801,7 +4471,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:30.358Z",
+      "crawledAt": "2026-03-25T05:26:37.808Z",
       "id": "y302do"
     },
     {
@@ -4816,68 +4486,8 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:44:24.684Z",
+      "crawledAt": "2026-03-25T05:25:35.466Z",
       "id": "vj6bce"
-    },
-    {
-      "title": "How to Debug, Evaluate, and Ship Reliable AI Agents with LangSmith",
-      "url": "https://www.youtube.com/watch?v=oSjAbx67f0k",
-      "source": "LangChain",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-12T02:12:05.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:52.413Z",
-      "id": "7eql86"
-    },
-    {
-      "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493",
-      "url": "https://www.youtube.com/watch?v=H9rF1CSSh-w",
-      "source": "Lex Fridman",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T20:21:39.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:46.400Z",
-      "id": "9rqxka"
-    },
-    {
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "url": "https://www.youtube.com/watch?v=gZQQR_tDGuM",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T20:11:20.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.895Z",
-      "id": "coqwsz"
-    },
-    {
-      "title": "Rakuten x Codex: Recovery Time Reduced by 50%",
-      "url": "https://www.youtube.com/shorts/fyQHPEAFJG8",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T19:57:25.000Z",
-      "metaDescription": "",
-      "category": null,
-      "difficulty": null,
-      "confidence": null,
-      "crawledAt": "2026-03-25T02:44:49.960Z",
-      "id": "na37jq"
     },
     {
       "title": "Pydantic AI: Build Type-Safe LLM Agents in Python",
@@ -4891,7 +4501,7 @@
       "category": null,
       "difficulty": null,
       "confidence": null,
-      "crawledAt": "2026-03-25T02:45:30.546Z",
+      "crawledAt": "2026-03-25T05:26:37.997Z",
       "id": "de5wqp"
     }
   ]
