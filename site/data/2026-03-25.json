@@ -1,9 +1,337 @@
 {
-  "crawledAt": "2026-03-25T09:00:17.104Z",
+  "crawledAt": "2026-03-25T13:25:55.700Z",
   "totalSources": 70,
-  "totalArticles": 56,
+  "totalArticles": 75,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Self-Evolving AI Is Here — And It's Open Weight",
+      "url": "https://www.youtube.com/watch?v=WpcRm78KOvY",
+      "source": "Prompt Engineering",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:15:08.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.7592693366391193,
+      "crawledAt": "2026-03-25T13:25:17.463Z",
+      "id": "l0vd3k",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:25:57.707Z"
+    },
+    {
+      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T13:00:00.000Z",
+      "metaDescription": "Sift is building the data infrastructure for advanced manufacturing.",
+      "category": "product-launch",
+      "difficulty": 6,
+      "confidence": 0.27118839644707704,
+      "crawledAt": "2026-03-25T13:24:17.900Z",
+      "id": "d4yfot",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9961967468261719,
+          "index": 2,
+          "word": "Si",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9896771311759949,
+          "index": 3,
+          "word": "##ft",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986145496368408,
+          "index": 4,
+          "word": "St",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970407485961914,
+          "index": 5,
+          "word": "##ack",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.997609555721283,
+          "index": 10,
+          "word": "Space",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949019551277161,
+          "index": 11,
+          "word": "##X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sift is building the data infrastructure for advanced manufacturing. Sift has been building the Data infrastructure for the future.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:26:14.413Z"
+    },
+    {
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T12:47:44.000Z",
+      "metaDescription": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cry",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9278881017655886,
+      "crawledAt": "2026-03-25T13:24:24.828Z",
+      "id": "rbmlj9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9990688562393188,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9967415928840637,
+          "index": 14,
+          "word": "H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9902579188346863,
+          "index": 15,
+          "word": "##ype",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9977183938026428,
+          "index": 16,
+          "word": "Index",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Download is a daily dose of what's going on in the world of technology. Use the weekly Newsquiz to test your knowledge of stories you saw on The Download.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:26:26.357Z"
+    },
+    {
+      "title": "I Built an AI Agent That Runs My Entire Business",
+      "url": "https://pub.towardsai.net/i-built-an-ai-agent-that-runs-my-entire-business-heres-the-code-2e1f935b1b5e?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T12:01:01.000Z",
+      "metaDescription": "From lead generation to invoicing — fully automated in 200 lines of Python.\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.984561755659437,
+      "crawledAt": "2026-03-25T13:24:54.871Z",
+      "id": "wpei3n",
+      "entities": [],
+      "summary": " From lead generation to invoicing — fully automated in 200 lines of Python. From lead to invosicing, the process is now fully automated.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:26:54.118Z"
+    },
+    {
+      "title": "Building Human-In-The-Loop Agentic Workflows",
+      "url": "https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T12:00:00.000Z",
+      "metaDescription": "Understanding how to set up human-in-the-loop (HITL) agentic workflows in LangGraph\nThe post Building Human-In-The-Loop Agentic Workflows appeared first on Towards Data Science.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.44454458159108473,
+      "crawledAt": "2026-03-25T13:24:29.776Z",
+      "id": "nhxr7d",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8019312024116516,
+          "index": 6,
+          "word": "The",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9233826398849487,
+          "index": 8,
+          "word": "Loop",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The post Building Human-In-The-Loop Agentic Workflows. The post is part of a series of articles on human-in-the-loop workflows.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:27:14.469Z"
+    },
+    {
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T11:48:13.000Z",
+      "metaDescription": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, t",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.45226394852989643,
+      "crawledAt": "2026-03-25T13:24:24.998Z",
+      "id": "maz034",
+      "entities": [],
+      "summary": " Instead of returning a list of links, t t. t. Instead of return a list, t. Imagine telling a digital agent, “Use my points and book a family trip to Italy.’",
+      "language": "en",
+      "processed_at": "2026-03-25T13:27:37.411Z"
+    },
+    {
+      "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+      "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T11:00:00.000Z",
+      "metaDescription": "At the half-time whistle of the UEFA EURO 2020 round of 16 football match between England and Germany, millions of viewers stepped away from their screens in the U.K. to do the same thing at the same ",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6188106567850027,
+      "crawledAt": "2026-03-25T13:24:05.647Z",
+      "id": "4rsdyz",
+      "entities": [],
+      "summary": " At the half-time whistle of the UEFA EURO 2020 match, millions of viewers took to their screens in the U.K. to do the same thing.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:27:49.152Z"
+    },
+    {
+      "title": "AI agents enter banking roles at Bank of America",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+      "source": "AI News",
+      "source_domain": "artificialintelligence-news.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-25T10:00:00.000Z",
+      "metaDescription": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an intern",
+      "category": "ai-agents",
+      "difficulty": 5,
+      "confidence": 0.9550448094629479,
+      "crawledAt": "2026-03-25T13:24:33.070Z",
+      "id": "kbbi50",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9989641904830933,
+          "index": 7,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993382692337036,
+          "index": 8,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999114453792572,
+          "index": 9,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bank of America is now deploying an intern to help with client interactions. Bank of American is now using an intern as an intern.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:28:23.144Z"
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "source": "MIT Technology Review",
+      "source_domain": "technologyreview.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T09:00:00.000Z",
+      "metaDescription": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9384813214258033,
+      "crawledAt": "2026-03-25T13:24:25.194Z",
+      "id": "ayeg2e",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.996614933013916,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9976041913032532,
+          "index": 3,
+          "word": "H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9919120073318481,
+          "index": 4,
+          "word": "##ype",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9957795143127441,
+          "index": 5,
+          "word": "Index",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "OpenAI and the Pentagon fought over how to weaponize an AI model. Users quit ChatG. Users quitChatG.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:28:47.290Z"
+    },
     {
       "title": "Gemini 3 Kaggle Hackathon: Winners Officially Announced",
       "url": "https://ai.plainenglish.io/gemini-3-kaggle-hackathon-winners-officially-announced-4e762f6f9eea?source=rss----78d064101951---4",
@@ -1368,6 +1696,384 @@
       "processed_at": "2026-03-25T05:40:33.922Z"
     },
     {
+      "title": "SkillClone: Multi-Modal Clone Detection and Clone Propagation Analysis in the Agent Skill Ecosystem",
+      "url": "https://arxiv.org/abs/2603.22447",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22447v1 Announce Type: new \nAbstract: Agent skills are modular instruction packages that combine YAML metadata, natural language instructions, and embedded code, and they have reached 196K ",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.3441242277559391,
+      "crawledAt": "2026-03-25T13:25:36.359Z",
+      "id": "pzfrfq",
+      "entities": [],
+      "summary": " The modular instruction packages combine YAML metadata, natural language instructions, and embedded code. They have reached 196K.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:29:03.152Z"
+    },
+    {
+      "title": "From Brittle to Robust: Improving LLM Annotations for SE Optimization",
+      "url": "https://arxiv.org/abs/2603.22474",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22474v1 Announce Type: new \nAbstract: Software analytics often builds from labeled data. Labeling can be slow, error prone, and expensive. When human expertise is scarce, SE researchers som",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.25732654405997063,
+      "crawledAt": "2026-03-25T13:25:36.547Z",
+      "id": "kwax03",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8239448666572571,
+          "index": 12,
+          "word": "LL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Software analytics often builds from labeled data. Labeling can be slow, error prone, and expensive. When human expertise is scarce, SE researchers som som som s som som.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:29:16.287Z"
+    },
+    {
+      "title": "LLMON: An LLM-native Markup Language to Leverage Structure and Semantics at the LLM Interface",
+      "url": "https://arxiv.org/abs/2603.22519",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22519v1 Announce Type: new \nAbstract: Textual Large Language Models (LLMs) provide a simple and familiar interface: a string of text is used for both input and output. However, the informat",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.3597750112275286,
+      "crawledAt": "2026-03-25T13:25:37.126Z",
+      "id": "xrdns",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9980457425117493,
+          "index": 6,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9839792251586914,
+          "index": 7,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9610046744346619,
+          "index": 24,
+          "word": "LL",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9329066276550293,
+          "index": 25,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9551090598106384,
+          "index": 27,
+          "word": "##face",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A string of text is used for both input and output. However, the informatat is used to create a simple and familiar interface.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:29:42.900Z"
+    },
+    {
+      "title": "A Study of Scientific Computational Notebook Quality",
+      "url": "https://arxiv.org/abs/2603.22726",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.22726v1 Announce Type: new \nAbstract: The quality of scientific code is a critical concern for the research community. Poorly written code can result in irreproducible results, incorrect fi",
+      "category": "research-paper",
+      "difficulty": 9,
+      "confidence": 0.9865996353490596,
+      "crawledAt": "2026-03-25T13:25:37.452Z",
+      "id": "401m6p",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9890645742416382,
+          "index": 3,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9846164584159851,
+          "index": 4,
+          "word": "Scientific",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.995553195476532,
+          "index": 5,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9616982340812683,
+          "index": 6,
+          "word": "##mp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9422968029975891,
+          "index": 7,
+          "word": "##uta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9927592277526855,
+          "index": 8,
+          "word": "##tional",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9823864698410034,
+          "index": 9,
+          "word": "Note",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9436035752296448,
+          "index": 10,
+          "word": "##book",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The quality of scientific code is a critical concern for the research community. Poorly written code can result in irreproducible results.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:00.566Z"
+    },
+    {
+      "title": "A Practical Framework for Flaky Failure Triage in Distributed Database Continuous Integration",
+      "url": "https://arxiv.org/abs/2603.23054",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23054v1 Announce Type: new \nAbstract: Flaky failure triage is crucial for keeping distributed database continuous integration (CI) efficient and reliable. After a failure is observed, opera",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.26561444551879704,
+      "crawledAt": "2026-03-25T13:25:37.843Z",
+      "id": "2155xg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.939960241317749,
+          "index": 18,
+          "word": "##buted",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9776866436004639,
+          "index": 19,
+          "word": "Database",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "After a failure is observed, opera. arXiv:2603. arxiv: 2603.23054v1.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:20.289Z"
+    },
+    {
+      "title": "Machine Learning Models for the Early Detection of Burnout in Software Engineering: a Systematic Literature Review",
+      "url": "https://arxiv.org/abs/2603.23063",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23063v1 Announce Type: new \nAbstract: Burnout is an occupational syndrome that, like many other professions, affects the majority of software engineers. Past research studies showed importa",
+      "category": "research-paper",
+      "difficulty": 7,
+      "confidence": 0.3677244512540248,
+      "crawledAt": "2026-03-25T13:25:38.033Z",
+      "id": "irvmfo",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8557648658752441,
+          "index": 2,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8562352061271667,
+          "index": 7,
+          "word": "Det",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8919793963432312,
+          "index": 10,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9836906790733337,
+          "index": 15,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9352170825004578,
+          "index": 20,
+          "word": "Literature",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9532756805419922,
+          "index": 21,
+          "word": "Review",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Burnout is an occupational syndrome that affects the majority of software engineers. Past research studies showed importa was an occupational disorder.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:27.335Z"
+    },
+    {
+      "title": "Can an LLM Detect Instances of Microservice Infrastructure Patterns?",
+      "url": "https://arxiv.org/abs/2603.23073",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23073v1 Announce Type: new \nAbstract: Architectural patterns are frequently found in various software artifacts. The wide variety of patterns and their implementations makes detection chall",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.25466918464002475,
+      "crawledAt": "2026-03-25T13:25:38.205Z",
+      "id": "m0tw59",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9415014386177063,
+          "index": 13,
+          "word": "##ser",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The wide variety of patterns and their implementations make detection difficult. The wide range of patterns are frequently found in software artifacts.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:34.136Z"
+    },
+    {
+      "title": "Fault-Tolerant Design and Multi-Objective Model Checking for Real-Time Deep Reinforcement Learning Systems",
+      "url": "https://arxiv.org/abs/2603.23113",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23113v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) has emerged as a powerful paradigm for solving complex decision-making problems. However, DRL-based systems still fac",
+      "category": "safety-ethics",
+      "difficulty": 4,
+      "confidence": 0.2778809028119252,
+      "crawledAt": "2026-03-25T13:25:38.405Z",
+      "id": "ek21qn",
+      "entities": [],
+      "summary": " DRL-based systems still fac. arXiv:2603.23113v1 Announce Type: Deep reinforcement learning (DRL)",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:44.665Z"
+    },
+    {
+      "title": "Q-GARS: Quantum-inspired Robust Microservice Chaining Scheduling",
+      "url": "https://arxiv.org/abs/2603.23127",
+      "source": "arXiv Software Engineering",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "low",
+      "pubDate": "2026-03-25T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23127v1 Announce Type: new \nAbstract: Microservice-based applications are characterized by stochastic latencies arising from long-tail execution patterns and heterogeneous resource constrai",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.2523894912442592,
+      "crawledAt": "2026-03-25T13:25:38.600Z",
+      "id": "d8wyvf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9892100095748901,
+          "index": 6,
+          "word": "Quantum",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8238691091537476,
+          "index": 10,
+          "word": "##ust",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2603.23127v1. arXiv. arxiv: 2603. 23.23.23 127v1. arXIV: 260.3.3.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:30:58.917Z"
+    },
+    {
       "title": "Teaching Machines to Think in Layers",
       "url": "https://ai.plainenglish.io/teaching-machines-to-think-in-layers-49facba91244?source=rss----78d064101951---4",
       "source": "AI in Plain English",
@@ -1895,14 +2601,58 @@
       "summary": "26.4 updates are more significant than the last few updates have been. The 26.4 update is more significant.",
       "language": "en",
       "processed_at": "2026-03-25T02:49:02.448Z"
+    },
+    {
+      "title": "The Future of SCIP",
+      "url": "https://webflow.sourcegraph.com/blog/the-future-of-scip",
+      "source": "Sourcegraph Blog",
+      "source_domain": "webflow.sourcegraph.com",
+      "source_category": "developer",
+      "source_priority": "medium",
+      "pubDate": "2026-03-24T17:38:03.000Z",
+      "metaDescription": "the-future-of-scip",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.49116915654166193,
+      "crawledAt": "2026-03-25T13:25:23.125Z",
+      "id": "dg7xva",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9699978828430176,
+          "index": 3,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9699693322181702,
+          "index": 4,
+          "word": "SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8193377256393433,
+          "index": 5,
+          "word": "##IP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-25T13:31:12.482Z"
     }
   ],
-  "processedAt": "2026-03-25T09:00:41.568Z",
+  "processedAt": "2026-03-25T13:31:12.491Z",
   "categories": [
-    "product-launch",
-    "infrastructure",
-    "ai-agents",
     "creative-ai",
+    "product-launch",
+    "ai-agents",
+    "infrastructure",
     "research-paper",
     "safety-ethics",
     "industry-news",
@@ -1910,7 +2660,7 @@
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 2,
-  "dailyArticlesCount": 56,
+  "newArticlesProcessed": 19,
+  "dailyArticlesCount": 75,
   "filterDate": "2026-03-25"
 }
