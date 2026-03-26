@@ -1,9 +1,779 @@
 {
-  "crawledAt": "2026-03-26T13:44:08.245Z",
+  "crawledAt": "2026-03-26T17:11:46.354Z",
   "totalSources": 70,
-  "totalArticles": 1992,
+  "totalArticles": 1999,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Breaking the Model: A Technical Deep Dive into LLM Red Teaming",
+      "url": "https://ai.plainenglish.io/breaking-the-model-a-technical-deep-dive-into-llm-red-teaming-9f5602e20c33?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T17:04:35.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 4,
+      "confidence": 0.2663145168645143,
+      "crawledAt": "2026-03-26T17:10:48.857Z",
+      "id": "ihynah",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:11:48.411Z"
+    },
+    {
+      "title": "How RAG Works",
+      "url": "https://ai.plainenglish.io/how-rag-works-without-technical-complexity-c41a4efe3872?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T17:00:50.000Z",
+      "metaDescription": "Before we talk about RAG, let’s understand a simple problem.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.40881920138179934,
+      "crawledAt": "2026-03-26T17:10:49.021Z",
+      "id": "i0kcck",
+      "entities": [],
+      "summary": "Before we talk about RAG, let's understand a simple problem. Before we talk to us about R AG, let’s understand asimple problem.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:11:59.062Z"
+    },
+    {
+      "title": "Stitch Masterclass for Beginners",
+      "url": "https://ai.plainenglish.io/stitch-masterclass-for-beginners-full-tutorial-37263fa95034?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T17:00:47.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.8518716166683611,
+      "crawledAt": "2026-03-26T17:10:49.073Z",
+      "id": "ix8yso",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:11:59.139Z"
+    },
+    {
+      "title": "17 Security Mistakes Vibe Coders Make Before Their First Deploy",
+      "url": "https://ai.plainenglish.io/17-security-mistakes-vibe-coders-make-before-their-first-deploy-05027ef25b9b?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T17:00:15.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.28626145570004774,
+      "crawledAt": "2026-03-26T17:10:49.136Z",
+      "id": "wz2fwh",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:11:59.285Z"
+    },
+    {
+      "title": "AI Agent Types and Communication Architectures: From Simple Systems to Multi-Agent Ecosystems…",
+      "url": "https://ai.plainenglish.io/ai-agent-types-and-communication-architectures-from-simple-systems-to-multi-agent-ecosystems-068a2438e360?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T16:59:59.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.662456827006201,
+      "crawledAt": "2026-03-26T17:10:49.212Z",
+      "id": "bo5cc6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8966681957244873,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8419044613838196,
+          "index": 2,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:11:59.459Z"
+    },
+    {
+      "title": "How Transformers Power LLMs: Step-by-Step Guide",
+      "url": "https://www.analyticsvidhya.com/blog/2026/03/how-transformers-power-llm/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T16:53:46.000Z",
+      "metaDescription": "Transformers power modern NLP systems, replacing earlier RNN and LSTM approaches. Their ability to process all words in parallel enables efficient and scalable language modeling, forming the backbone ",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.5121645222585666,
+      "crawledAt": "2026-03-26T17:11:40.094Z",
+      "id": "3tdzat",
+      "entities": [],
+      "summary": " The ability to process all words in parallel enables efficient and scalable language modeling, forming the backbone of NLP systems.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:12:11.589Z"
+    },
+    {
+      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+      "url": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "source": "GitHub Blog",
+      "source_domain": "github.blog",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T16:49:14.000Z",
+      "metaDescription": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.\nThe post What’s coming to our GitHub Action",
+      "category": "safety-ethics",
+      "difficulty": 6,
+      "confidence": 0.5341914100568185,
+      "crawledAt": "2026-03-26T17:10:03.748Z",
+      "id": "15cgxf",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8838579654693604,
+          "index": 7,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8609636425971985,
+          "index": 8,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.957371711730957,
+          "index": 9,
+          "word": "##H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8366178870201111,
+          "index": 10,
+          "word": "##ub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9220055937767029,
+          "index": 12,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GitHub Actions’ 2026 roadmap outlines how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:12:22.075Z"
+    },
+    {
+      "title": "MiniMax M2.7 Built Itself. Here’s How to Use It Like a Pro.",
+      "url": "https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-81b7ec04151f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T16:01:01.000Z",
+      "metaDescription": "A Shanghai startup let its model run 100+ autonomous development cycles — rewriting its own training harness without human input. The…\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.7678559693053464,
+      "crawledAt": "2026-03-26T17:10:41.952Z",
+      "id": "qi03u2",
+      "entities": [],
+      "summary": " A Shanghai startup let its model run 100+ autonomous development cycles. The company's training harnesses can be programmed to run without human input.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:12:42.659Z"
+    },
+    {
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T15:25:13.000Z",
+      "metaDescription": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "category": "model-release",
+      "difficulty": 10,
+      "confidence": 0.6971177046039577,
+      "crawledAt": "2026-03-26T17:10:05.464Z",
+      "id": "6ad9um",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979008436203003,
+          "index": 1,
+          "word": "By",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9220964908599854,
+          "index": 2,
+          "word": "##te",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972272515296936,
+          "index": 3,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9881051778793335,
+          "index": 4,
+          "word": "##ance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.993375301361084,
+          "index": 13,
+          "word": "Dream",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9955409169197083,
+          "index": 14,
+          "word": "##ina",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9824544191360474,
+          "index": 15,
+          "word": "See",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.977078378200531,
+          "index": 16,
+          "word": "##dance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9777235984802246,
+          "index": 17,
+          "word": "2",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9810041189193726,
+          "index": 19,
+          "word": "0",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8844319581985474,
+          "index": 23,
+          "word": "Cap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8788697719573975,
+          "index": 24,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9260264039039612,
+          "index": 25,
+          "word": "##ut",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new model in CapCut will have built-in protections for making video from real faces. The new version of the model will also have built in protection against making video of real faces.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:13:19.828Z"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "source": "DeepMind",
+      "source_domain": "deepmind.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T15:23:35.000Z",
+      "metaDescription": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.7205033055261921,
+      "crawledAt": "2026-03-26T17:10:26.693Z",
+      "id": "smjm20",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8314429521560669,
+          "index": 4,
+          "word": "1",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise. Our latest voice models have improved precision, lower latency and more fluid.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:13:32.121Z"
+    },
+    {
+      "title": "How to Make Your AI App Faster and More Interactive with Response Streaming",
+      "url": "https://towardsdatascience.com/how-to-make-your-ai-app-faster-and-more-interactive-with-response-streaming/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T15:22:00.000Z",
+      "metaDescription": "In my latest posts, we’ve talked a lot about prompt caching as well as caching in general, and how it can improve your AI app in terms of cost and latency. However, even for a fully optimized AI app, ",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.3686711060034848,
+      "crawledAt": "2026-03-26T17:10:19.952Z",
+      "id": "8o8ote",
+      "entities": [],
+      "summary": " The AI app can improve your AI app in terms of cost and latency. Even for a fully optimized AI app, even for a full AI app.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:13:44.968Z"
+    },
+    {
+      "title": "LAI #120: Beyond Prompting",
+      "url": "https://pub.towardsai.net/lai-120-beyond-prompting-5aba00a7094c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T15:01:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.27035325881606803,
+      "crawledAt": "2026-03-26T17:10:42.165Z",
+      "id": "fr03up",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:15.818Z"
+    },
+    {
+      "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+      "source": "NVIDIA Blog",
+      "source_domain": "blogs.nvidia.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T15:00:56.000Z",
+      "metaDescription": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVI",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.9691835913357455,
+      "crawledAt": "2026-03-26T17:09:59.247Z",
+      "id": "y6s8zq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9793577194213867,
+          "index": 3,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8953884840011597,
+          "index": 8,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8727747201919556,
+          "index": 9,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9855716228485107,
+          "index": 18,
+          "word": "Worlds",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Omniverse is a series focused on how developers, 3D practitioners and enterprises can transform their workflows using the latest advances in OpenUSD and NVI.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:27.851Z"
+    },
+    {
+      "title": "The engineering best practices you can drop straight into Claude",
+      "url": "https://pub.towardsai.net/the-engineering-best-practices-you-can-drop-straight-into-claude-8b69a55ce60d?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T14:59:24.000Z",
+      "metaDescription": "",
+      "category": "safety-ethics",
+      "difficulty": 3,
+      "confidence": 0.2758286264229856,
+      "crawledAt": "2026-03-26T17:10:42.226Z",
+      "id": "yurcyf",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:27.947Z"
+    },
+    {
+      "title": "The Corvette E-Ray is dead, long live the Grand Sport X",
+      "url": "https://arstechnica.com/cars/2026/03/the-corvette-e-ray-is-dead-long-live-the-grand-sport-x/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T14:56:55.000Z",
+      "metaDescription": "The mid-engined Corvette gets a new variant.",
+      "category": "industry-news",
+      "difficulty": 7,
+      "confidence": 0.2788024972363542,
+      "crawledAt": "2026-03-26T17:10:08.752Z",
+      "id": "k50o1o",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9960805177688599,
+          "index": 2,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9627797603607178,
+          "index": 3,
+          "word": "##rvette",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9744545221328735,
+          "index": 4,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9829662442207336,
+          "index": 5,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9618061780929565,
+          "index": 6,
+          "word": "Ray",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9977929592132568,
+          "index": 13,
+          "word": "Grand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9986743330955505,
+          "index": 14,
+          "word": "Sport",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.997719943523407,
+          "index": 15,
+          "word": "X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:28.102Z"
+    },
+    {
+      "title": "Part Four — Gemini vs Claude, An Honest Comparison",
+      "url": "https://generativeai.pub/part-four-gemini-vs-claude-an-honest-comparison-ebdf72e54ece?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T14:21:50.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.30945775495034944,
+      "crawledAt": "2026-03-26T17:10:50.997Z",
+      "id": "emm8y5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8152157068252563,
+          "index": 4,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9881515502929688,
+          "index": 6,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.919161856174469,
+          "index": 11,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:39.265Z"
+    },
+    {
+      "title": "How to See the Limits of AI in 2026 Without the Hype",
+      "url": "https://generativeai.pub/how-to-see-the-limits-of-ai-in-2026-without-the-hype-18c3f1fe820d?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T14:20:45.000Z",
+      "metaDescription": "The hype around AGI grows louder every year. So does the gap between what is promised and what these systems can actually do.\nContinue reading on Generative AI »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.4104181533127276,
+      "crawledAt": "2026-03-26T17:10:51.150Z",
+      "id": "wjbiwb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9392755627632141,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The hype around AGI grows louder every year. So does the gap between what is promised and what these systems can actually do?",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:48.163Z"
+    },
+    {
+      "title": "The Algorithms Running the World",
+      "url": "https://generativeai.pub/the-algorithms-running-the-world-and-doing-an-okay-job-cf842c9828b0?source=rss----440100e76000---4",
+      "source": "Generative AI",
+      "source_domain": "generativeai.pub",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T14:19:51.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.3063014418557127,
+      "crawledAt": "2026-03-26T17:10:51.199Z",
+      "id": "vvehiz",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9697028398513794,
+          "index": 3,
+          "word": "##gor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9881765246391296,
+          "index": 4,
+          "word": "##ith",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9864052534103394,
+          "index": 5,
+          "word": "##ms",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.995675265789032,
+          "index": 6,
+          "word": "Running",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9940283894538879,
+          "index": 7,
+          "word": "the",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9960919618606567,
+          "index": 8,
+          "word": "World",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:14:48.234Z"
+    },
+    {
+      "title": "How I Added Semantic Search to a Production App Using pgvector: What the Tutorials Skip",
+      "url": "https://pub.towardsai.net/how-i-added-semantic-search-to-a-production-app-using-pgvector-what-the-tutorials-skip-47d95a65262f?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T14:01:03.000Z",
+      "metaDescription": "A real integration story from the database schema to the first query running in production\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.2531439114725273,
+      "crawledAt": "2026-03-26T17:10:42.360Z",
+      "id": "ut9m3z",
+      "entities": [],
+      "summary": " A real integration story from the database schema to the first query running in production. A real story from a database story from. the database database. A real Integration story from. the database Schema.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:15:22.844Z"
+    },
+    {
+      "title": "2026's historic snow drought is bad news for the West",
+      "url": "https://arstechnica.com/science/2026/03/2026s-historic-snow-drought-is-bad-news-for-the-west/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T13:52:03.000Z",
+      "metaDescription": "For much of the Western US, winter 2026 was the year snow never came.",
+      "category": "industry-news",
+      "difficulty": 4,
+      "confidence": 0.29993832775509005,
+      "crawledAt": "2026-03-26T17:10:08.860Z",
+      "id": "bgr4jd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9911896586418152,
+          "index": 13,
+          "word": "West",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "For much of the Western US, winter 2026 was the year snow never came. For much of Western US.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:15:45.163Z"
+    },
+    {
+      "title": "Cohere launches an open source voice model specifically for transcription",
+      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T13:30:00.000Z",
+      "metaDescription": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "category": "product-launch",
+      "difficulty": 5,
+      "confidence": 0.9941353248374238,
+      "crawledAt": "2026-03-26T17:10:05.844Z",
+      "id": "4kza1w",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8277587294578552,
+          "index": 1,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:15:54.763Z"
+    },
     {
       "title": "The Download: a battery pivot to AI, and rewriting math",
       "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
@@ -280,6 +1050,50 @@
       "summary": " IBM and ElevenLabs announced a collaboration to create a new voice platform. IBM's watsonx Orchestrate platform will be used to create new voice capabilities.",
       "language": "en",
       "processed_at": "2026-03-26T13:46:18.381Z"
+    },
+    {
+      "title": "Mistral releases a new open source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T11:30:00.000Z",
+      "metaDescription": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+      "category": "model-release",
+      "difficulty": 6,
+      "confidence": 0.9826432451301133,
+      "crawledAt": "2026-03-26T17:10:06.239Z",
+      "id": "hdxns",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983219504356384,
+          "index": 1,
+          "word": "Mi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9911091327667236,
+          "index": 2,
+          "word": "##stra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9823539853096008,
+          "index": 3,
+          "word": "##l",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The model lets enterprises build voice agents for sales and customer engagement. The model puts Mistral in direct competition with the likes of ElevenLabs and Deepgram.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:16:05.440Z"
     },
     {
       "title": "20+ Solved AI Projects to Build Your Portfolio and Boost Your Resume",
@@ -1906,6 +2720,34 @@
       "summary": " Multimodal research has predominantly focused on single-image reasoning, with limited exploration of multi-image scenarios.",
       "language": "en",
       "processed_at": "2026-03-26T09:09:01.200Z"
+    },
+    {
+      "title": "The consequential AI work that actually moves the needle for enterprises",
+      "url": "https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises",
+      "source": "VentureBeat",
+      "source_domain": "venturebeat.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "Presented by OutSystems \n\nAfter two years of flashy AI demos, rushed agent prototypes, and breathless predictions, enterprise technology leaders are striking a more pragmatic tone in 2026. In a recent",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9192875590023957,
+      "crawledAt": "2026-03-26T17:10:16.671Z",
+      "id": "tghjp6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9741808772087097,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "In 2026, enterprise technology leaders are striking a more pragmatic tone. In the past two years, the world has seen a change in direction.",
+      "language": "en",
+      "processed_at": "2026-03-26T17:16:15.475Z"
     },
     {
       "title": "The AI Data Illusion: Why “Boring” Tech is the Only Real Enterprise Solution",
@@ -67912,701 +68754,25 @@
       "summary": "Community discussion seeking help or recommendations on AI-related topics.",
       "language": "en",
       "processed_at": "2026-03-11T20:43:20.833Z"
-    },
-    {
-      "title": "MongoDB Compass: A Beginner-Friendly Guide to MongoDB’s Visual Interface",
-      "url": "https://www.analyticsvidhya.com/blog/2026/03/mongodb-compass/",
-      "source": "Analytics Vidhya",
-      "source_domain": "analyticsvidhya.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T17:04:55.000Z",
-      "metaDescription": "MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects rather than traditional tables and rows. This document-based structure makes it easier to handle ",
-      "category": "safety-ethics",
-      "difficulty": 6,
-      "confidence": 0.2877484474874616,
-      "crawledAt": "2026-03-11T20:41:28.641Z",
-      "id": "i8odwc",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9724314212799072,
-          "index": 3,
-          "word": "##D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9646039605140686,
-          "index": 4,
-          "word": "##B",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9461132884025574,
-          "index": 17,
-          "word": "Mon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9908114671707153,
-          "index": 19,
-          "word": "##D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.979739785194397,
-          "index": 20,
-          "word": "##B",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " MongoDB is a widely used NoSQL database that stores data in flexible documents similar to JSON objects. This document-based structure makes it easier to handle than traditional tables and rows.",
-      "language": "en",
-      "processed_at": "2026-03-11T20:43:48.508Z"
-    },
-    {
-      "title": "The Productivity Promise of AI Is Turning Into Burnout",
-      "url": "https://pub.towardsai.net/the-productivity-promise-of-ai-is-turning-into-burnout-05e0bfae823f?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T17:01:01.000Z",
-      "metaDescription": "AI Was Supposed to Save Time. Instead, It Made Work Load Bigger\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.9448994505968225,
-      "crawledAt": "2026-03-11T20:40:28.634Z",
-      "id": "qtukwd",
-      "entities": [],
-      "summary": " AI was Supposed to Save Time. Instead, It Made Work Load Load Work Load Bigger, It made Work Load Workload Bigger.",
-      "language": "en",
-      "processed_at": "2026-03-11T20:43:57.909Z"
-    },
-    {
-      "title": "Ai2: Building physical AI with virtual simulation data",
-      "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T16:50:56.000Z",
-      "metaDescription": "Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has histor",
-      "category": "developer-tool",
-      "difficulty": 3,
-      "confidence": 0.9027395158233921,
-      "crawledAt": "2026-03-11T17:00:13.312Z",
-      "id": "33l0o5",
-      "entities": [],
-      "summary": "Virtual simulation data is driving the development of physical AI across corporate environments. Ai2’s MolmoBot has been designed to interact with the real world.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:01:48.123Z"
-    },
-    {
-      "title": "Anduril, the autonomous weapons maker, doubles the size of its space unit",
-      "url": "https://arstechnica.com/space/2026/03/anduril-the-autonomous-weapons-maker-doubles-the-size-of-its-space-unit/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T16:50:28.000Z",
-      "metaDescription": "\"We are focused on protecting space, assuring access to space, ensuring custody of space.\"",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.39038648506508616,
-      "crawledAt": "2026-03-11T20:39:53.974Z",
-      "id": "dr3xv0",
-      "entities": [],
-      "summary": " \"We are focused on protecting space, assuring access to space, ensuring custody of space,\" says the U.S. government.",
-      "language": "en",
-      "processed_at": "2026-03-11T20:44:10.143Z"
-    },
-    {
-      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T16:12:02.000Z",
-      "metaDescription": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.8829094906486613,
-      "crawledAt": "2026-03-11T16:59:58.815Z",
-      "id": "5davr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9969920516014099,
-          "index": 7,
-          "word": "Mind",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9985700845718384,
-          "index": 8,
-          "word": "Robot",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9981976747512817,
-          "index": 9,
-          "word": "##ics",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9954599142074585,
-          "index": 16,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Rivian is looking to train on data from, and deploy in, Rivian's factory. The startup was created by Rivian founder RJ Scaringe.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:02:21.655Z"
-    },
-    {
-      "title": "Data Centers — The Digital Pyramids of AI ‘Zappy’",
-      "url": "https://pub.towardsai.net/data-centers-the-digital-pyramids-of-ai-zappy-6f166bd39055?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T16:01:03.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.515056625508602,
-      "crawledAt": "2026-03-11T17:00:32.874Z",
-      "id": "6dliu1",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.8017073273658752,
-          "index": 2,
-          "word": "Centers",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9957423210144043,
-          "index": 6,
-          "word": "Pyramid",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9945141077041626,
-          "index": 7,
-          "word": "##s",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9849959015846252,
-          "index": 8,
-          "word": "of",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9091385006904602,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:02:31.208Z"
-    },
-    {
-      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
-      "source": "NVIDIA Blog",
-      "source_domain": "blogs.nvidia.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T16:00:21.000Z",
-      "metaDescription": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale.  Available now, the model combines ",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9227055987281544,
-      "crawledAt": "2026-03-11T16:59:49.359Z",
-      "id": "4wb779",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8770517706871033,
-          "index": 2,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9658520817756653,
-          "index": 4,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9449891448020935,
-          "index": 6,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9663569927215576,
-          "index": 7,
-          "word": "##em",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9882037043571472,
-          "index": 8,
-          "word": "##ot",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex AI systems at scale.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:02:58.478Z"
-    },
-    {
-      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-      "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-      "source": "Hugging Face Blog",
-      "source_domain": "huggingface.co",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T15:50:15.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.3530852643094515,
-      "crawledAt": "2026-03-11T16:59:47.526Z",
-      "id": "rm3ck0",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8648648262023926,
-          "index": 18,
-          "word": "Concept",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:02:58.595Z"
-    },
-    {
-      "title": "NIH director launches \"Scientific Freedom\" lectures with non-scientist",
-      "url": "https://arstechnica.com/science/2026/03/nih-director-launches-scientific-freedom-lectures-with-non-scientist/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T15:33:50.000Z",
-      "metaDescription": "First speaker minimizes climate change, COVID risks—and is a lab leak proponent.",
-      "category": "product-launch",
-      "difficulty": 6,
-      "confidence": 0.9895226126319672,
-      "crawledAt": "2026-03-11T20:39:54.200Z",
-      "id": "er76sq",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9978256225585938,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9598277807235718,
-          "index": 2,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9881288409233093,
-          "index": 3,
-          "word": "##H",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9982030391693115,
-          "index": 7,
-          "word": "Scientific",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9970300197601318,
-          "index": 8,
-          "word": "Freedom",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " First speaker minimizes climate change risks and is a lab leak proponent. First speaker: \"I'm a lab leaker\"",
-      "language": "en",
-      "processed_at": "2026-03-11T20:44:31.214Z"
-    },
-    {
-      "title": "Meta’s Moltbook deal points to a future built around AI agents",
-      "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T15:11:31.000Z",
-      "metaDescription": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9574787947820119,
-      "crawledAt": "2026-03-11T20:39:51.160Z",
-      "id": "nxuu0q",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9945662617683411,
-          "index": 1,
-          "word": "Met",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9632408618927002,
-          "index": 2,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9932475686073303,
-          "index": 5,
-          "word": "Mo",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9550802111625671,
-          "index": 6,
-          "word": "##lt",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9680066108703613,
-          "index": 7,
-          "word": "##book",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9440814852714539,
-          "index": 15,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Meta’s Moltbook acquisition may look odd at first, but it could be good for the company.",
-      "language": "en",
-      "processed_at": "2026-03-11T20:44:42.476Z"
-    },
-    {
-      "title": "The 3 Mechanistic Interpretability Techniques: How to Open AI’s Black Box and See Inside",
-      "url": "https://pub.towardsai.net/the-3-mechanistic-interpretability-techniques-how-to-open-ais-black-box-and-see-inside-246366e49efd?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T15:01:00.000Z",
-      "metaDescription": "Understanding Circuit Discovery, Feature Visualization, and Activation Analysis\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.5415784804854382,
-      "crawledAt": "2026-03-11T17:00:33.000Z",
-      "id": "c0vjnu",
-      "entities": [],
-      "summary": " The World of AI is being used by the U.S. National Institute of Technology. The U.N. has been working with the U-N. in the past year to develop an AI system.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:03:24.367Z"
-    },
-    {
-      "title": "Here's everything we know about Rivian R2 pricing and specs",
-      "url": "https://arstechnica.com/cars/2026/03/heres-everything-we-know-about-rivian-r2-pricing-and-specs/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T15:00:17.000Z",
-      "metaDescription": "The midsize AWD EV goes on sale this spring, single-motor versions in 2027.",
-      "category": "industry-news",
-      "difficulty": 5,
-      "confidence": 0.5171338892068312,
-      "crawledAt": "2026-03-11T16:59:56.066Z",
-      "id": "rhf2w8",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9796172976493835,
-          "index": 8,
-          "word": "R",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9055735468864441,
-          "index": 10,
-          "word": "##ian",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8501753211021423,
-          "index": 11,
-          "word": "R",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The midsize AWD EV goes on sale this spring, with single-motor versions in 2027. The midsized AWD goes onsale this spring.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:03:34.892Z"
-    },
-    {
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
-      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
-      "source": "NVIDIA Blog",
-      "source_domain": "blogs.nvidia.com",
-      "source_category": "company",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T15:00:08.000Z",
-      "metaDescription": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 20.",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.7355590082727315,
-      "crawledAt": "2026-03-11T16:59:49.518Z",
-      "id": "fxccie",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.870173990726471,
-          "index": 2,
-          "word": "##VI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8531034588813782,
-          "index": 3,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The NVIDIA CEO's keynote will be held in San Jose, San Jose. The event will take place on March 20.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:03:44.091Z"
-    },
-    {
-      "title": "The AI Tools That Actually Stuck in 2026",
-      "url": "https://pub.towardsai.net/the-ai-tools-that-actually-stuck-in-2026-and-how-to-use-them-without-losing-your-mind-ae711366f105?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T14:01:02.000Z",
-      "metaDescription": "“The best tool isn’t the most powerful one — it’s the one you actually open every morning.”\nContinue reading on Towards AI »",
-      "category": "developer-tool",
-      "difficulty": 6,
-      "confidence": 0.26234240762331323,
-      "crawledAt": "2026-03-11T17:00:33.130Z",
-      "id": "9iytua",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9936714172363281,
-          "index": 2,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9332417249679565,
-          "index": 3,
-          "word": "Too",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9726130366325378,
-          "index": 4,
-          "word": "##ls",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8970882892608643,
-          "index": 5,
-          "word": "That",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.961489737033844,
-          "index": 6,
-          "word": "Actually",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " “The best tool isn’t the most powerful one,’s the one you actually open every morning.’",
-      "language": "en",
-      "processed_at": "2026-03-11T17:04:56.615Z"
-    },
-    {
-      "title": "Canopii looks to succeed where past indoor farms have not",
-      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T14:00:00.000Z",
-      "metaDescription": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.36586522996799115,
-      "crawledAt": "2026-03-11T16:59:59.258Z",
-      "id": "xr2848",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9962018728256226,
-          "index": 1,
-          "word": "Can",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9774913191795349,
-          "index": 2,
-          "word": "##op",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8873084187507629,
-          "index": 3,
-          "word": "##ii",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Canopii's robotic farms can grow 40,000 pounds of herbs and leafy greens a year. The farms are the size of a basketball court.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:05:20.652Z"
-    },
-    {
-      "title": "Pydantic AI: Build Type-Safe LLM Agents in Python",
-      "url": "https://realpython.com/pydantic-ai/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-11T14:00:00.000Z",
-      "metaDescription": "Pydantic AI is a Python framework for building LLM agents that return validated, structured outputs using Pydantic models. Instead of parsing raw strings from LLMs, you get type-safe objects with auto",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.5624768320319017,
-      "crawledAt": "2026-03-11T17:01:25.176Z",
-      "id": "de5wqp",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8933733105659485,
-          "index": 16,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Pydantic AI is a framework for building LLM agents that return validated, validated, structured outputs. Instead of parsing raw strings from LLMs, you get type-safe objects with auto auto.",
-      "language": "en",
-      "processed_at": "2026-03-11T17:05:36.130Z"
     }
   ],
-  "processedAt": "2026-03-26T13:47:40.563Z",
+  "processedAt": "2026-03-26T17:16:15.478Z",
   "categories": [
+    "product-launch",
     "creative-ai",
-    "developer-tool",
-    "infrastructure",
+    "safety-ethics",
     "ai-agents",
+    "infrastructure",
     "model-release",
     "industry-news",
-    "safety-ethics",
+    "developer-tool",
     "research-paper",
-    "tutorial-guide",
-    "product-launch"
+    "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 15,
-  "existingArticlesKept": 1995,
+  "newArticlesProcessed": 23,
+  "existingArticlesKept": 1992,
   "cleanupApplied": true,
-  "cleanedUpCount": 18,
+  "cleanedUpCount": 16,
   "rollingWindowDays": 15
 }
