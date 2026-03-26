@@ -1,7 +1,7 @@
 {
-  "crawledAt": "2026-03-26T05:45:06.229Z",
+  "crawledAt": "2026-03-26T09:06:18.369Z",
   "totalSources": 70,
-  "totalArticles": 1992,
+  "totalArticles": 1995,
   "aiFilterUsed": true,
   "articles": [
     {
@@ -1318,6 +1318,168 @@
       "summary": " The continuous evolution of system specifications necessitates frequent evaluation of conflicting requirements. The process that is traditionally labour is traditionally a process that requires frequent evaluation.",
       "language": "en",
       "processed_at": "2026-03-26T05:58:08.252Z"
+    },
+    {
+      "title": "Visuospatial Perspective Taking in Multimodal Language Models",
+      "url": "https://arxiv.org/abs/2603.23510",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23510v1 Announce Type: new \nAbstract: As multimodal language models (MLMs) are increasingly used in social and collaborative settings, it is crucial to evaluate their perspective-taking abi",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.31526280841887494,
+      "crawledAt": "2026-03-26T09:06:05.608Z",
+      "id": "vcynok",
+      "entities": [],
+      "summary": "As multimodal language models are increasingly used in social and collaborative settings, it is crucial to evaluate their perspective.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:06.763Z"
+    },
+    {
+      "title": "DISCO: Document Intelligence Suite for COmparative Evaluation",
+      "url": "https://arxiv.org/abs/2603.23511",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23511v1 Announce Type: new \nAbstract: Document intelligence requires accurate text extraction and reliable reasoning over document content. We introduce \\textbf{DISCO}, a \\emph{Document Int",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.36895258279330445,
+      "crawledAt": "2026-03-26T09:06:05.774Z",
+      "id": "9hizw0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9617506861686707,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8554977774620056,
+          "index": 2,
+          "word": "##IS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9589791893959045,
+          "index": 3,
+          "word": "##CO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8766255378723145,
+          "index": 8,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8379939198493958,
+          "index": 9,
+          "word": "Suite",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2603.23511v1. arXiv. arxiv: 2603. 23511v 1.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:19.620Z"
+    },
+    {
+      "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.23514",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23514v1 Announce Type: new \nAbstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodolog",
+      "category": "research-paper",
+      "difficulty": 5,
+      "confidence": 0.25417401674140605,
+      "crawledAt": "2026-03-26T09:06:06.357Z",
+      "id": "p2k241",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8263808488845825,
+          "index": 30,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodologs are used to answer questions.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:51.260Z"
+    },
+    {
+      "title": "Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data",
+      "url": "https://arxiv.org/abs/2603.23515",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23515v1 Announce Type: new \nAbstract: Improving the accuracy and reliability of medical coding reduces clinician burnout and supports revenue cycle processes, freeing providers to focus mor",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.32975571450738916,
+      "crawledAt": "2026-03-26T09:06:06.529Z",
+      "id": "6g4a5f",
+      "entities": [],
+      "summary": " The accuracy and reliability of medical coding reduces clinician burnout. The accuracy of the coding is improved by improving the quality of medical care.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:08:01.350Z"
+    },
+    {
+      "title": "Chitrakshara: A Large Multilingual Multimodal Dataset for Indian languages",
+      "url": "https://arxiv.org/abs/2603.23521",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23521v1 Announce Type: new \nAbstract: Multimodal research has predominantly focused on single-image reasoning, with limited exploration of multi-image scenarios. Recent models have sought t",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3887923747916429,
+      "crawledAt": "2026-03-26T09:06:07.476Z",
+      "id": "qglbpg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8366507291793823,
+          "index": 10,
+          "word": "##ual",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9995757937431335,
+          "index": 17,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Multimodal research has predominantly focused on single-image reasoning, with limited exploration of multi-image scenarios.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:09:01.200Z"
     },
     {
       "title": "The AI Data Illusion: Why “Boring” Tech is the Only Real Enterprise Solution",
@@ -3736,6 +3898,42 @@
       "summary": "Announcement or discussion about new AI model releases and updates.",
       "language": "en",
       "processed_at": "2026-03-25T21:00:31.933Z"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "source": "DeepMind",
+      "source_domain": "deepmind.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:01:39.000Z",
+      "metaDescription": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.503618455491812,
+      "crawledAt": "2026-03-26T09:05:06.578Z",
+      "id": "cmoe4w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9633455872535706,
+          "index": 1,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8281717896461487,
+          "index": 2,
+          "word": "##yr",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Lyria 3 Pro unlocks longer tracks with structural awareness. We're also bringing Lyria to more Google products and surfaces.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:09:09.422Z"
     },
     {
       "title": "Introducing Lyria 3 Pro",
@@ -68455,99 +68653,9 @@
       "summary": " The next phase appears to involve something more ope. Large financial firms have spent years testing artificial intelligence in small projects.",
       "language": "en",
       "processed_at": "2026-03-11T13:19:52.604Z"
-    },
-    {
-      "title": "The 12 Best AI Presentation Makers for Professional Decks of 2026",
-      "url": "https://generativeai.pub/the-12-best-ai-presentation-makers-for-professional-decks-of-2026-faa70716d170?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T07:49:06.000Z",
-      "metaDescription": "Professional decks need clear structure, clean design, and easy editing. These 12 AI tools can help you build better slides faster in 2026.\nContinue reading on Generative AI »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.44050512598302527,
-      "crawledAt": "2026-03-11T08:53:01.169Z",
-      "id": "kjsc2u",
-      "entities": [],
-      "summary": " Professional decks need clear structure, clean design, and easy editing. These 12 AI tools can help you build better slides faster in 2026.",
-      "language": "en",
-      "processed_at": "2026-03-11T08:54:03.240Z"
-    },
-    {
-      "title": "Anthropic vs Pentagon: The AI Ethics Battle Explained",
-      "url": "https://generativeai.pub/anthropic-vs-pentagon-the-ai-ethics-battle-explained-406c2c12472e?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T07:45:52.000Z",
-      "metaDescription": "The conflict between Anthropic and the U.S. Department of War over AI guardrails read further to understand the whole ordeal in depth.\nContinue reading on Generative AI »",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9125919988294596,
-      "crawledAt": "2026-03-11T08:53:01.325Z",
-      "id": "w8eg5r",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.867806613445282,
-          "index": 1,
-          "word": "An",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9814016819000244,
-          "index": 5,
-          "word": "Pentagon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9963890314102173,
-          "index": 8,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9740166664123535,
-          "index": 9,
-          "word": "Ethics",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Anthropic and U.S. Department of War over AI guardrails read further to understand the whole ordeal in depth.",
-      "language": "en",
-      "processed_at": "2026-03-11T08:54:12.778Z"
-    },
-    {
-      "title": "Your AI App Shouldn’t Call OpenAI Directly",
-      "url": "https://generativeai.pub/your-ai-app-shouldnt-call-openai-directly-663e0d272ff4?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-11T07:41:53.000Z",
-      "metaDescription": "How to Build a Production LLM Gateway on AWS (Architecture, Code, and Terraform)\nContinue reading on Generative AI »",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.37308130865381967,
-      "crawledAt": "2026-03-11T08:53:01.509Z",
-      "id": "s9yu1v",
-      "entities": [],
-      "summary": " How to Build a Production LLM Gateway on AWS (Architecture, Code, and Terraform) How to build a ProductionLLM Gateway. How tobuild a Production llM Gateway (Arch Architecture,Code, and Terform)",
-      "language": "en",
-      "processed_at": "2026-03-11T08:54:29.001Z"
     }
   ],
-  "processedAt": "2026-03-26T05:59:32.873Z",
+  "processedAt": "2026-03-26T09:09:22.175Z",
   "categories": [
     "creative-ai",
     "infrastructure",
@@ -68561,9 +68669,9 @@
     "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 49,
-  "existingArticlesKept": 2006,
+  "newArticlesProcessed": 6,
+  "existingArticlesKept": 1992,
   "cleanupApplied": true,
-  "cleanedUpCount": 63,
+  "cleanedUpCount": 3,
   "rollingWindowDays": 15
 }

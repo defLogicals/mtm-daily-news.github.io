@@ -1,7 +1,7 @@
 {
-  "crawledAt": "2026-03-26T05:45:06.229Z",
+  "crawledAt": "2026-03-26T09:06:18.369Z",
   "totalSources": 70,
-  "totalArticles": 58,
+  "totalArticles": 64,
   "aiFilterUsed": true,
   "articles": [
     {
@@ -1320,6 +1320,168 @@
       "processed_at": "2026-03-26T05:58:08.252Z"
     },
     {
+      "title": "Visuospatial Perspective Taking in Multimodal Language Models",
+      "url": "https://arxiv.org/abs/2603.23510",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23510v1 Announce Type: new \nAbstract: As multimodal language models (MLMs) are increasingly used in social and collaborative settings, it is crucial to evaluate their perspective-taking abi",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.31526280841887494,
+      "crawledAt": "2026-03-26T09:06:05.608Z",
+      "id": "vcynok",
+      "entities": [],
+      "summary": "As multimodal language models are increasingly used in social and collaborative settings, it is crucial to evaluate their perspective.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:06.763Z"
+    },
+    {
+      "title": "DISCO: Document Intelligence Suite for COmparative Evaluation",
+      "url": "https://arxiv.org/abs/2603.23511",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23511v1 Announce Type: new \nAbstract: Document intelligence requires accurate text extraction and reliable reasoning over document content. We introduce \\textbf{DISCO}, a \\emph{Document Int",
+      "category": "research-paper",
+      "difficulty": 6,
+      "confidence": 0.36895258279330445,
+      "crawledAt": "2026-03-26T09:06:05.774Z",
+      "id": "9hizw0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9617506861686707,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8554977774620056,
+          "index": 2,
+          "word": "##IS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9589791893959045,
+          "index": 3,
+          "word": "##CO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8766255378723145,
+          "index": 8,
+          "word": "Intelligence",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8379939198493958,
+          "index": 9,
+          "word": "Suite",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "ArXiv:2603.23511v1. arXiv. arxiv: 2603. 23511v 1.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:19.620Z"
+    },
+    {
+      "title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.23514",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23514v1 Announce Type: new \nAbstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodolog",
+      "category": "research-paper",
+      "difficulty": 5,
+      "confidence": 0.25417401674140605,
+      "crawledAt": "2026-03-26T09:06:06.357Z",
+      "id": "p2k241",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8263808488845825,
+          "index": 30,
+          "word": "Models",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodologs are used to answer questions.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:07:51.260Z"
+    },
+    {
+      "title": "Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data",
+      "url": "https://arxiv.org/abs/2603.23515",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23515v1 Announce Type: new \nAbstract: Improving the accuracy and reliability of medical coding reduces clinician burnout and supports revenue cycle processes, freeing providers to focus mor",
+      "category": "safety-ethics",
+      "difficulty": 5,
+      "confidence": 0.32975571450738916,
+      "crawledAt": "2026-03-26T09:06:06.529Z",
+      "id": "6g4a5f",
+      "entities": [],
+      "summary": " The accuracy and reliability of medical coding reduces clinician burnout. The accuracy of the coding is improved by improving the quality of medical care.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:08:01.350Z"
+    },
+    {
+      "title": "Chitrakshara: A Large Multilingual Multimodal Dataset for Indian languages",
+      "url": "https://arxiv.org/abs/2603.23521",
+      "source": "arXiv Computation and Language",
+      "source_domain": "arxiv.org",
+      "source_category": "research",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T04:00:00.000Z",
+      "metaDescription": "arXiv:2603.23521v1 Announce Type: new \nAbstract: Multimodal research has predominantly focused on single-image reasoning, with limited exploration of multi-image scenarios. Recent models have sought t",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.3887923747916429,
+      "crawledAt": "2026-03-26T09:06:07.476Z",
+      "id": "qglbpg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8366507291793823,
+          "index": 10,
+          "word": "##ual",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9995757937431335,
+          "index": 17,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Multimodal research has predominantly focused on single-image reasoning, with limited exploration of multi-image scenarios.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:09:01.200Z"
+    },
+    {
       "title": "The AI Data Illusion: Why “Boring” Tech is the Only Real Enterprise Solution",
       "url": "https://pub.towardsai.net/the-ai-data-illusion-why-boring-tech-is-the-only-real-enterprise-solution-18c5ce0a2ed4?source=rss----98111c9905da---4",
       "source": "Towards AI",
@@ -1751,9 +1913,45 @@
       "summary": " TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x.",
       "language": "en",
       "processed_at": "2026-03-26T02:57:46.875Z"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "source": "DeepMind",
+      "source_domain": "deepmind.google",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-25T16:01:39.000Z",
+      "metaDescription": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.503618455491812,
+      "crawledAt": "2026-03-26T09:05:06.578Z",
+      "id": "cmoe4w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9633455872535706,
+          "index": 1,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8281717896461487,
+          "index": 2,
+          "word": "##yr",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Lyria 3 Pro unlocks longer tracks with structural awareness. We're also bringing Lyria to more Google products and surfaces.",
+      "language": "en",
+      "processed_at": "2026-03-26T09:09:09.422Z"
     }
   ],
-  "processedAt": "2026-03-26T05:59:32.879Z",
+  "processedAt": "2026-03-26T09:09:22.179Z",
   "categories": [
     "creative-ai",
     "infrastructure",
@@ -1765,7 +1963,7 @@
     "model-release"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 49,
-  "dailyArticlesCount": 58,
+  "newArticlesProcessed": 6,
+  "dailyArticlesCount": 64,
   "filterDate": "2026-03-26"
 }
