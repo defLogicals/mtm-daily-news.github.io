@@ -1,0 +1,373 @@
+{
+  "crawledAt": "2026-03-27T02:54:46.773Z",
+  "totalSources": 70,
+  "totalArticles": 9,
+  "aiFilterUsed": true,
+  "articles": [
+    {
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-27T01:18:38.000Z",
+      "metaDescription": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.49114782201586693,
+      "crawledAt": "2026-03-27T02:53:08.282Z",
+      "id": "yn2wnc",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9989451766014099,
+          "index": 7,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989158511161804,
+          "index": 10,
+          "word": "Defense",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979555010795593,
+          "index": 11,
+          "word": "Department",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A federal judge has ordered that the Trump administration rescinds restrictions on AI companies. A federal court has ordered the government to rescind the restrictions.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:54:59.657Z"
+    },
+    {
+      "title": "Improving Deep Neural Learning Networks : Optimization Algorithms",
+      "url": "https://pub.towardsai.net/improving-deep-neural-learning-networks-part-2-optimization-algorithms-79a475632328?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-27T00:01:01.000Z",
+      "metaDescription": "",
+      "category": "developer-tool",
+      "difficulty": 8,
+      "confidence": 0.549029472822246,
+      "crawledAt": "2026-03-27T02:53:41.874Z",
+      "id": "s74xla",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8078314065933228,
+          "index": 4,
+          "word": "Deep",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9715945720672607,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9568591117858887,
+          "index": 6,
+          "word": "##eur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9545304775238037,
+          "index": 7,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9563286900520325,
+          "index": 8,
+          "word": "Learning",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9918017983436584,
+          "index": 9,
+          "word": "Networks",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:54:59.759Z"
+    },
+    {
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "source": "Wired AI",
+      "source_domain": "wired.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T23:33:05.000Z",
+      "metaDescription": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+      "category": "infrastructure",
+      "difficulty": 4,
+      "confidence": 0.4030640010214839,
+      "crawledAt": "2026-03-27T02:53:14.847Z",
+      "id": "mgc4lg",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8070723414421082,
+          "index": 6,
+          "word": "Chain",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:55:19.137Z"
+    },
+    {
+      "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
+      "source": "AWS Machine Learning",
+      "source_domain": "aws.amazon.com",
+      "source_category": "cloud",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T23:08:53.000Z",
+      "metaDescription": "Today, we’re excited to announce that Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6). Customers in New Zealand can now access Anthropic Claude models (Claude",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.5275453442703276,
+      "crawledAt": "2026-03-27T02:53:33.981Z",
+      "id": "f1j0qs",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8047346472740173,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9424402117729187,
+          "index": 8,
+          "word": "Amazon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9514085650444031,
+          "index": 9,
+          "word": "Bed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9658717513084412,
+          "index": 10,
+          "word": "##rock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9989250898361206,
+          "index": 12,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9965551495552063,
+          "index": 13,
+          "word": "Pacific",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amazon Bedrock is now available in the Asia Pacific (New Zealand) Region (ap-southeast-6) Customers in New Zealand can now access Anthropic Claude models (Claude)",
+      "language": "en",
+      "processed_at": "2026-03-27T02:55:32.574Z"
+    },
+    {
+      "title": "Every Business Will Build AI Skills. Most Will Ship Garbage.",
+      "url": "https://pub.towardsai.net/every-business-will-build-ai-skills-most-will-ship-garbage-f1bcf218a8d7?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T23:01:02.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.25303133311072057,
+      "crawledAt": "2026-03-27T02:53:41.939Z",
+      "id": "6lsl2m",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:55:32.681Z"
+    },
+    {
+      "title": "Agentic AI Project: Build a Customer Service Chatbot for a Clinic",
+      "url": "https://pub.towardsai.net/agentic-ai-project-build-a-customer-service-chatbot-for-a-clinic-9744ef4a5b25?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T22:01:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.9117255887218664,
+      "crawledAt": "2026-03-27T02:53:42.008Z",
+      "id": "86hrly",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:55:32.846Z"
+    },
+    {
+      "title": "Elon Musk loses big in court; X boycott perfectly legal",
+      "url": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+      "source": "Ars Technica",
+      "source_domain": "arstechnica.com",
+      "source_category": "news",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T21:50:26.000Z",
+      "metaDescription": "X admonished for \"fishing expedition\" as judge dismisses ad boycott lawsuit.",
+      "category": "industry-news",
+      "difficulty": 6,
+      "confidence": 0.25353697177648776,
+      "crawledAt": "2026-03-27T02:53:11.368Z",
+      "id": "4rvdmy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967531561851501,
+          "index": 1,
+          "word": "El",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9897477030754089,
+          "index": 2,
+          "word": "##on",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9911991357803345,
+          "index": 3,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9766063094139099,
+          "index": 4,
+          "word": "##sk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9951609969139099,
+          "index": 10,
+          "word": "X",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " X admonished for \"fishing expedition\" as judge dismisses ad boycott lawsuit. X admonishes for \"Fishing expedition,\" says judge.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:55:42.853Z"
+    },
+    {
+      "title": "“You Will Lose Your Job to Someone Who Uses AI”",
+      "url": "https://ai.plainenglish.io/you-will-lose-your-job-to-someone-who-uses-ai-de8b1c3635d3?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-26T21:21:00.000Z",
+      "metaDescription": "Jensen Huang just delivered the workforce’s unofficial performance review — and most people didn’t know it was scheduled.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.2603637891803714,
+      "crawledAt": "2026-03-27T02:53:52.643Z",
+      "id": "8ymdx6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8590133786201477,
+          "index": 13,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The workforce's unofficial performance review was delivered to the workforce. Most people didn't know it was scheduled to be delivered.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:56:11.967Z"
+    },
+    {
+      "title": "Plan, divide, and conquer: How weak models excel at long context tasks",
+      "url": "https://www.together.ai/blog/plan-divide-conquer",
+      "source": "Together AI Blog",
+      "source_domain": "together.ai",
+      "source_category": "company",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T00:00:00.000Z",
+      "metaDescription": "As context windows grow, LLM performance degrades in unexpected ways. We show how a \"Divide & Conquer\" framework — breaking long documents into parallel chunks with a planner, workers, and manager — l",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.28839536103186525,
+      "crawledAt": "2026-03-27T02:53:38.599Z",
+      "id": "jsdd3s",
+      "entities": [],
+      "summary": " \"Divide & Conquer\" is a \"Divides & Conquer,\" a \"divide & conquer\" framework. The framework is designed to break long documents into parallel chunks with a planner, workers, and manager.",
+      "language": "en",
+      "processed_at": "2026-03-27T02:57:16.018Z"
+    }
+  ],
+  "processedAt": "2026-03-27T02:57:16.025Z",
+  "categories": [
+    "creative-ai",
+    "developer-tool",
+    "infrastructure",
+    "ai-agents",
+    "industry-news"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 9,
+  "dailyArticlesCount": 9,
+  "filterDate": "2026-03-27"
+}
