@@ -1,9 +1,546 @@
 {
-  "crawledAt": "2026-03-28T05:25:09.158Z",
+  "crawledAt": "2026-03-28T08:50:44.856Z",
   "totalSources": 70,
-  "totalArticles": 48,
+  "totalArticles": 71,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "What will be new in Spud?",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1s5v5ct/what_will_be_new_in_spud/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T08:47:27.000Z",
+      "metaDescription": "Apparently according to news sources, Openai had finished training a new model nicknamed 'Spud' and sources claim Altman said it is going to change the economy. Will this be a consumer focused model w",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3972114772882805,
+      "crawledAt": "2026-03-28T08:50:11.870Z",
+      "id": "j20e2e",
+      "entities": [],
+      "summary": " Openai had finished training a new model nicknamed 'Spud' and sources claim Altman said it is going to change the economy.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:50:56.308Z"
+    },
+    {
+      "title": "Looking for a solid ChatGPT alternative for daily work",
+      "url": "https://www.reddit.com/r/artificial/comments/1s5v317/looking_for_a_solid_chatgpt_alternative_for_daily/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T08:43:11.000Z",
+      "metaDescription": "I was long juggling separate monthly subscriptions for Claude, Gemini, and GPT-4 until the costs and tab-switching became a total mess and I started paying over 100 bucks each mont. Then, I tried cons",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.34759248196662684,
+      "crawledAt": "2026-03-28T08:50:01.499Z",
+      "id": "t4qodn",
+      "entities": [],
+      "summary": " I was long juggling subscriptions for Claude, Gemini, and GPT-4. I started paying over 100 bucks a month for each month. I tried cons, but it became a mess.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:51:11.737Z"
+    },
+    {
+      "title": "We need to teach AI the essence of being human to reduce the risk of misalignment",
+      "url": "https://www.reddit.com/r/artificial/comments/1s5v1kn/we_need_to_teach_ai_the_essence_of_being_human_to/",
+      "source": "r/artificial",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T08:40:27.000Z",
+      "metaDescription": "One part of the alignment problem is that AI does not genuinely understand what it's like to live in the world, even though it can describe it so accurately. If it doesn't understand human life, why p",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.29478156384781196,
+      "crawledAt": "2026-03-28T08:50:01.604Z",
+      "id": "22jk5x",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8224925398826599,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI does not understand what it's like to live in the world, even though it can describe it so accurately. If it doesn't understand what life is like, it's a problem.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:51:24.043Z"
+    },
+    {
+      "title": "OpenAI's \"Spud\" Model Is Done Training — And Terence Tao Just Proved Why This Time Might Be Different",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1s5uubi/openais_spud_model_is_done_training_and_terence/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T08:27:44.000Z",
+      "metaDescription": "submitted by    /u/vinodpandey7  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 8,
+      "confidence": 0.4562318139234536,
+      "crawledAt": "2026-03-28T08:50:12.014Z",
+      "id": "t93wr5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970341324806213,
+          "index": 1,
+          "word": "Open",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9938075542449951,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9513537883758545,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994886517524719,
+          "index": 17,
+          "word": "Terence",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999051570892334,
+          "index": 18,
+          "word": "Tao",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:51:24.135Z"
+    },
+    {
+      "title": "An AI agent trolled a scammer for 4 hours straight",
+      "url": "https://www.reddit.com/r/ChatGPT/comments/1s5uj4p/an_ai_agent_trolled_a_scammer_for_4_hours_straight/",
+      "source": "r/ChatGPT",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T08:08:01.000Z",
+      "metaDescription": "Someone set up an AI agent to handle scam texts for a week. A scammer tried to get him to buy a $500 gift card, and the agent just... committed to the bit.\n It spent hours \"driving\" to the store, send",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9149249590620742,
+      "crawledAt": "2026-03-28T08:50:03.976Z",
+      "id": "xtn1el",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9684661626815796,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A scammer tried to get him to buy a $500 gift card, and the agent just committed to the bit. It spent hours \"driving\" to the store, send an AI agent to handle scam texts.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:51:54.899Z"
+    },
+    {
+      "title": "7 Skills That Help Developers Move Into Higher-Paying Work",
+      "url": "https://python.plainenglish.io/7-skills-that-help-developers-move-into-higher-paying-work-1ca9ad371f30?source=rss----78073def27b8---4",
+      "source": "Python in Plain English",
+      "source_domain": "python.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T07:40:34.000Z",
+      "metaDescription": "Growth beyond basic coding\nContinue reading on Python in Plain English »",
+      "category": "developer-tool",
+      "difficulty": 3,
+      "confidence": 0.3235170857076747,
+      "crawledAt": "2026-03-28T08:49:55.553Z",
+      "id": "vm0061",
+      "entities": [],
+      "summary": " Growth beyond basic coding. Growth beyondbasic coding. Growth beyond simple coding. Read more on Python in Plain English.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:52:02.214Z"
+    },
+    {
+      "title": "The AI releases hype cycle in a nutshell",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s5te4q/the_ai_releases_hype_cycle_in_a_nutshell/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T06:58:30.000Z",
+      "metaDescription": "This might look like a shitpost but beyond the meme lies the truth. \n Pay attention to my point: every new AI feature announcement now follows the exact same script:\n Week one: is pure exuberance (VEO",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.5113641531529107,
+      "crawledAt": "2026-03-28T08:50:05.088Z",
+      "id": "m8p1wp",
+      "entities": [],
+      "summary": "Every new AI feature announcement follows the exact same script as every new feature announcement. This is the latest in a long line of AI announcements.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:52:52.625Z"
+    },
+    {
+      "title": "Featured Work: \"The Midnight Calf Rebellion\"",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1s5svtc/featured_work_the_midnight_calf_rebellion/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T06:27:36.000Z",
+      "metaDescription": "\"The Edo Kunisada Loved: A Midlife Portrait of Modern Tokyo\"\n Featured Work: \"The Midnight Calf Rebellion\"\n [A Reiwa Masterpiece: The Anarchy of Muscle]\n This work vividly captures the \"bodily coup d'",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.43646434627612,
+      "crawledAt": "2026-03-28T08:50:13.301Z",
+      "id": "wgpbs5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.98368901014328,
+          "index": 6,
+          "word": "Midnight",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9957733154296875,
+          "index": 7,
+          "word": "Cal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9973285794258118,
+          "index": 8,
+          "word": "##f",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.991810142993927,
+          "index": 9,
+          "word": "Rebellion",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"The Edo Kunisada Loved: A Midlife Portrait of Modern Tokyo\" \"The Midnight Calf Rebellion\" \"A Reiwa Masterpiece: The Anarchy of Muscle\" \"This work vividly captures the \"bodily coup d''D'D\"",
+      "language": "en",
+      "processed_at": "2026-03-28T08:53:23.272Z"
+    },
+    {
+      "title": "Building Custom Claude Skills For Repeatable AI Workflows",
+      "url": "https://www.analyticsvidhya.com/blog/2026/03/custom-claude-skills-for-repeatable-ai-workflows/",
+      "source": "Analytics Vidhya",
+      "source_domain": "analyticsvidhya.com",
+      "source_category": "tutorial",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T05:40:28.000Z",
+      "metaDescription": "Claude Skills is the latest AI tool that targets AI automation at some level. Anthropic was smart enough to identify one key problem developers face every day – having to rewrite prompts for repetitiv",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6595105919340795,
+      "crawledAt": "2026-03-28T08:50:44.027Z",
+      "id": "i118zq",
+      "entities": [],
+      "summary": " Claude Skills is the latest AI tool that targets AI automation at some level. Anthropic was smart enough to identify one key problem developers face every day.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:53:34.509Z"
+    },
+    {
+      "title": "AI in 2026: How Technology Is Changing Jobs in Ethical and Human-Centered Ways",
+      "url": "https://ai.plainenglish.io/ai-in-2026-how-technology-is-changing-jobs-in-ethical-and-human-centered-ways-a444ac8955a2?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:32:01.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.33955753322780574,
+      "crawledAt": "2026-03-28T08:49:56.169Z",
+      "id": "rxwyxo",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8921876549720764,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:53:34.584Z"
+    },
+    {
+      "title": "Why Letting AI Think Longer Might Matter More Than Making It Bigger",
+      "url": "https://ai.plainenglish.io/why-letting-ai-think-longer-might-matter-more-than-making-it-bigger-ecdf137f5aac?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:31:51.000Z",
+      "metaDescription": "For years, the standard recipe in AI felt obvious: bigger models, more data, more compute, better results. That formula still matters, but…\nContinue reading on Artificial Intelligence in Plain English",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.29929610147022523,
+      "crawledAt": "2026-03-28T08:49:56.257Z",
+      "id": "if7s4v",
+      "entities": [],
+      "summary": "For years, the standard recipe in AI felt obvious: bigger models, more data, more compute, better results. That formula still matters, but it still matters.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:53:47.156Z"
+    },
+    {
+      "title": "The Death of the “Exclusive” AI: Apple’s Big Shift",
+      "url": "https://ai.plainenglish.io/the-death-of-the-exclusive-ai-apples-big-shift-71bf5ed4d459?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:31:25.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9471347910795315,
+      "crawledAt": "2026-03-28T08:49:56.374Z",
+      "id": "bs01yn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9933797717094421,
+          "index": 11,
+          "word": "Apple",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:53:57.750Z"
+    },
+    {
+      "title": "Why Replacing Devs with AI Was a Bad Idea",
+      "url": "https://ai.plainenglish.io/why-replacing-devs-with-ai-was-a-bad-idea-its-going-horribly-wrong-9051f75e3c40?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:31:23.000Z",
+      "metaDescription": "The plan made perfect sense on paper.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.5288071149263857,
+      "crawledAt": "2026-03-28T08:49:56.435Z",
+      "id": "1u5sfv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9572862982749939,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The plan made perfect sense on paper. The plan was designed to make sense on a paper. The plan is based on the idea of a robot.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:07.953Z"
+    },
+    {
+      "title": "Metagraphs for AI agents",
+      "url": "https://ai.plainenglish.io/hey-long-time-no-see-47790bf14c57?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:31:21.000Z",
+      "metaDescription": "",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9841614109116001,
+      "crawledAt": "2026-03-28T08:49:56.471Z",
+      "id": "11piay",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9805433750152588,
+          "index": 6,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:08.018Z"
+    },
+    {
+      "title": "Too Powerful to Release? Inside the Claude Mythos Leak That’s Quietly Alarming the AI Industry",
+      "url": "https://ai.plainenglish.io/too-powerful-to-release-inside-the-claude-mythos-leak-thats-quietly-alarming-the-ai-industry-48ce61795493?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:31:06.000Z",
+      "metaDescription": "There are moments in technology when something leaks that feels bigger than the headline.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.5485573853107926,
+      "crawledAt": "2026-03-28T08:49:56.550Z",
+      "id": "6bf6mb",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8451110124588013,
+          "index": 9,
+          "word": "Claude",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9199770092964172,
+          "index": 10,
+          "word": "My",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9354661107063293,
+          "index": 12,
+          "word": "##os",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8650255799293518,
+          "index": 13,
+          "word": "Lea",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " There are moments in technology when something leaks that feel bigger than the headline. There are also moments in tech when something is bigger than a headline.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:17.663Z"
+    },
+    {
+      "title": "AI Companionship: An Argumentation that does not make sense.",
+      "url": "https://www.reddit.com/r/OpenAI/comments/1s5rupq/ai_companionship_an_argumentation_that_does_not/",
+      "source": "r/OpenAI",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:29:43.000Z",
+      "metaDescription": "I often read here that AI just mirrors or echoing the user if being used as companionship. Furthermore, I read that an AI answer is basically a sequence of most probable words (i.e. tokens) of a user'",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.28787196052388725,
+      "crawledAt": "2026-03-28T08:50:11.193Z",
+      "id": "issvym",
+      "entities": [],
+      "summary": "An AI answer is basically a sequence of most probable words (i.e. tokens) of a user' user'",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:27.912Z"
+    },
+    {
+      "title": "LoRA Fine-Tuning: Custom LLMs on Free Colab",
+      "url": "https://ai.plainenglish.io/lora-fine-tuning-custom-llms-on-free-colab-da855f66dc8a?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:29:08.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 7,
+      "confidence": 0.4219618891211715,
+      "crawledAt": "2026-03-28T08:49:56.597Z",
+      "id": "bm2k58",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9792950749397278,
+          "index": 1,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9131348729133606,
+          "index": 2,
+          "word": "##RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:27.979Z"
+    },
+    {
+      "title": "The AI Agent Bubble: Why It Might Collapse Sooner Than You Think",
+      "url": "https://ai.plainenglish.io/the-ai-agent-bubble-why-it-might-collapse-sooner-than-you-think-50d8c6bb94ab?source=rss----78d064101951---4",
+      "source": "AI in Plain English",
+      "source_domain": "ai.plainenglish.io",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T05:25:44.000Z",
+      "metaDescription": "AI agents look unstoppable — but beneath the hype lies a fragile system that could unravel faster than anyone expects.\nContinue reading on Artificial Intelligence in Plain English »",
+      "category": "ai-agents",
+      "difficulty": 4,
+      "confidence": 0.9919654547259836,
+      "crawledAt": "2026-03-28T08:49:56.733Z",
+      "id": "1eusns",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.979910671710968,
+          "index": 2,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8928787708282471,
+          "index": 3,
+          "word": "Agent",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AI agents look unstoppable, but beneath the hype lies a fragile system that could unravel faster than anyone expects. The system could unravel more quickly than anyone expected.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:54:38.501Z"
+    },
     {
       "title": "Come Create With Us — LTX is sponsoring ADOS Paris this April",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1s5r9io/come_create_with_us_ltx_is_sponsoring_ados_paris/",
@@ -340,6 +877,66 @@
       "summary": " Google, which other services offer good-quality deep research function? I often rely on this feature and compare different tools to support my work, but many are limi.",
       "language": "en",
       "processed_at": "2026-03-28T05:27:49.890Z"
+    },
+    {
+      "title": "Why Mistral's Voxtral is the new gold standard for \"Day 0\" integration",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s5ouyu/why_mistrals_voxtral_is_the_new_gold_standard_for/",
+      "source": "r/LocalLLaMA",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T02:56:43.000Z",
+      "metaDescription": "The Hour-One Win: We moved from \"weights dropped\" to \"robot talking\" in 60 minutes. The API/local implementation is that clean.\n Emotional Nuance: Unlike older TTS models, Voxtral doesn't flatten the ",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.3457360330829229,
+      "crawledAt": "2026-03-28T08:50:06.544Z",
+      "id": "67bb83",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8001424670219421,
+          "index": 3,
+          "word": "##stra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9252229928970337,
+          "index": 4,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9267303943634033,
+          "index": 7,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8257887959480286,
+          "index": 17,
+          "word": "Day",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9897581338882446,
+          "index": 18,
+          "word": "0",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Hour-One Win: We moved from \"weights dropped\" to \"robot talking\" in 60 minutes.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:55:08.795Z"
     },
     {
       "title": "Say No to Congress using AI to mass surveil US Citizens and oppose the extension of the FISA Act",
@@ -689,6 +1286,42 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-28T05:29:42.611Z"
+    },
+    {
+      "title": "My Name is Jebari : Suno 5.5 & Ltx 2.3",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1s5lf21/my_name_is_jebari_suno_55_ltx_23/",
+      "source": "r/StableDiffusion",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T00:17:23.000Z",
+      "metaDescription": "submitted by    /u/Artefact_Design  \n [link]   [comments]",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.27603480548375064,
+      "crawledAt": "2026-03-28T08:50:14.575Z",
+      "id": "msqe5q",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9923465847969055,
+          "index": 4,
+          "word": "Je",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9982162714004517,
+          "index": 7,
+          "word": "Sun",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:55:22.217Z"
     },
     {
       "title": "PentaNet: Pushing beyond BitNet with Native Pentanary {-2, -1, 0, 1, 2} Quantization",
@@ -1240,6 +1873,25 @@
       "processed_at": "2026-03-28T05:33:45.436Z"
     },
     {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "source": "OpenAI Blog",
+      "source_domain": "openai.com",
+      "source_category": "company",
+      "source_priority": "high",
+      "pubDate": "2026-03-27T22:00:00.000Z",
+      "metaDescription": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.25554902311035144,
+      "crawledAt": "2026-03-28T08:49:23.481Z",
+      "id": "t50hdq",
+      "entities": [],
+      "summary": "STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees. Learn how STADLER used ChatGpt to transform work, save time and accelerate productivity across650 employees.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:55:35.819Z"
+    },
+    {
       "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
       "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
       "source": "Ars Technica",
@@ -1478,6 +2130,53 @@
       "processed_at": "2026-03-28T05:35:58.292Z"
     },
     {
+      "title": "Escher's most mind-bending piece",
+      "url": "https://www.youtube.com/shorts/Y7ImxZ_YhJk",
+      "source": "3Blue1Brown",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-27T20:56:02.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.9617703334059585,
+      "crawledAt": "2026-03-28T08:50:22.764Z",
+      "id": "hs6k7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9936560392379761,
+          "index": 1,
+          "word": "E",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:55:35.880Z"
+    },
+    {
+      "title": "Find the perfect gift by shopping with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=th8u0bqYsQk",
+      "source": "OpenAI",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-27T20:55:13.000Z",
+      "metaDescription": "",
+      "category": "product-launch",
+      "difficulty": 3,
+      "confidence": 0.29180046184097164,
+      "crawledAt": "2026-03-28T08:50:27.727Z",
+      "id": "npyn19",
+      "entities": [],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-28T08:55:35.942Z"
+    },
+    {
       "title": "GalaxyAce LoRA Update — Now Supports LTX-2.3 🎬",
       "url": "https://www.reddit.com/r/StableDiffusion/comments/1s5g49l/galaxyace_lora_update_now_supports_ltx23/",
       "source": "r/StableDiffusion",
@@ -1702,18 +2401,20 @@
       "processed_at": "2026-03-28T05:36:47.419Z"
     }
   ],
-  "processedAt": "2026-03-28T05:36:47.429Z",
+  "processedAt": "2026-03-28T08:55:35.955Z",
   "categories": [
     "creative-ai",
+    "ai-agents",
+    "developer-tool",
     "infrastructure",
     "model-release",
-    "ai-agents",
     "industry-news",
     "research-paper",
-    "safety-ethics"
+    "safety-ethics",
+    "product-launch"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 48,
-  "dailyArticlesCount": 48,
+  "newArticlesProcessed": 23,
+  "dailyArticlesCount": 71,
   "filterDate": "2026-03-28"
 }
