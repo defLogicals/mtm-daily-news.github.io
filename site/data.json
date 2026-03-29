@@ -1,9 +1,160 @@
 {
-  "crawledAt": "2026-03-29T08:51:43.999Z",
+  "crawledAt": "2026-03-29T13:10:02.132Z",
   "totalSources": 70,
-  "totalArticles": 2093,
+  "totalArticles": 2090,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "How ChatGPT Works Explained With Minimal Python Knowledge",
+      "url": "https://pub.towardsai.net/how-chatgpt-works-explained-with-minimal-python-knowledge-380f0e24a35c?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T13:01:00.000Z",
+      "metaDescription": "",
+      "category": "creative-ai",
+      "difficulty": 5,
+      "confidence": 0.4923667998942416,
+      "crawledAt": "2026-03-29T13:09:14.917Z",
+      "id": "rqyut5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9269289970397949,
+          "index": 11,
+          "word": "Mini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.964876651763916,
+          "index": 12,
+          "word": "##mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9742007851600647,
+          "index": 13,
+          "word": "Python",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8423774242401123,
+          "index": 14,
+          "word": "Knowledge",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Discussion about AI models and tools mentioned in the title.",
+      "language": "en",
+      "processed_at": "2026-03-29T13:18:14.497Z"
+    },
+    {
+      "title": "Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining",
+      "url": "https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/",
+      "source": "Towards Data Science",
+      "source_domain": "towardsdatascience.com",
+      "source_category": "tutorial",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T13:00:00.000Z",
+      "metaDescription": "What happens when your production model drifts and retraining isn’t an option? This article shows how a self-healing neural network detects drift, adapts in real time using a lightweight adapter, and ",
+      "category": "infrastructure",
+      "difficulty": 7,
+      "confidence": 0.41838034666006374,
+      "crawledAt": "2026-03-29T13:08:53.389Z",
+      "id": "ucnpqq",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8682387471199036,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8453097343444824,
+          "index": 10,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A self-healing neural network detects drift, adapts in real time using a lightweight adapter, and adapts using a lighter adapter.",
+      "language": "en",
+      "processed_at": "2026-03-29T13:18:25.258Z"
+    },
+    {
+      "title": "I Built a Comic Book Analytics Dashboard That Reads Real Data",
+      "url": "https://pub.towardsai.net/i-built-a-comic-book-analytics-dashboard-that-reads-real-data-fa7eccb41305?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T12:31:00.000Z",
+      "metaDescription": "Using just Python and a real CSV\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.3649228166158174,
+      "crawledAt": "2026-03-29T13:09:15.012Z",
+      "id": "y83p18",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9510313272476196,
+          "index": 5,
+          "word": "Book",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9184577465057373,
+          "index": 6,
+          "word": "Ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9516937732696533,
+          "index": 15,
+          "word": "Data",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Using just Python and a real CSV. Using justPython and areal CSV.Continue reading on Towards AI. Using only Python and the real CSV and a Real CSV.",
+      "language": "en",
+      "processed_at": "2026-03-29T13:18:35.869Z"
+    },
+    {
+      "title": "If You Understand These 5 AI Terms, You’re Ahead of 90% of People",
+      "url": "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T12:01:01.000Z",
+      "metaDescription": "Master the core ideas behind AI without getting lost\nContinue reading on Towards AI »",
+      "category": "ai-agents",
+      "difficulty": 3,
+      "confidence": 0.3174952121571236,
+      "crawledAt": "2026-03-29T13:09:15.125Z",
+      "id": "zev948",
+      "entities": [],
+      "summary": " Master the core ideas behind AI without getting lost. Master the key ideas behind the ideas behindAI without gettinglost.",
+      "language": "en",
+      "processed_at": "2026-03-29T13:18:44.607Z"
+    },
     {
       "title": "Why Did AI Actually Take Off?",
       "url": "https://ai.plainenglish.io/why-did-ai-actually-take-off-d9b3405e82ca?source=rss----78d064101951---4",
@@ -71092,313 +71243,15 @@
       "summary": " Developers who understand these early will move faster. Developers who understands these early can move faster. Developers who understanding these early. will move fast faster.",
       "language": "en",
       "processed_at": "2026-03-14T16:41:27.796Z"
-    },
-    {
-      "title": "The Current Status of The Quantum Software Stack",
-      "url": "https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/",
-      "source": "Towards Data Science",
-      "source_domain": "towardsdatascience.com",
-      "source_category": "tutorial",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T13:00:00.000Z",
-      "metaDescription": "How do we program quantum computers today?\nThe post The Current Status of The Quantum Software Stack appeared first on Towards Data Science.",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.2679367762595986,
-      "crawledAt": "2026-03-14T13:05:19.365Z",
-      "id": "a9zd6h",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9975906610488892,
-          "index": 7,
-          "word": "Software",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9898274540901184,
-          "index": 8,
-          "word": "St",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9896631240844727,
-          "index": 9,
-          "word": "##ack",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The post The Current Status of The Quantum Software Stack appeared first on Towards Data Science. The post also appeared on Towards Towards Data science.",
-      "language": "en",
-      "processed_at": "2026-03-14T13:06:43.253Z"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T13:00:00.000Z",
-      "metaDescription": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "category": "infrastructure",
-      "difficulty": 7,
-      "confidence": 0.3117637520247989,
-      "crawledAt": "2026-03-14T16:39:23.589Z",
-      "id": "25jrih",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8744774460792542,
-          "index": 8,
-          "word": "##GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9966166019439697,
-          "index": 15,
-          "word": "Door",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9957247972488403,
-          "index": 16,
-          "word": "##D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9900845885276794,
-          "index": 17,
-          "word": "##ash",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9922022819519043,
-          "index": 19,
-          "word": "Spot",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9944771528244019,
-          "index": 20,
-          "word": "##ify",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9960140585899353,
-          "index": 22,
-          "word": "U",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9822050333023071,
-          "index": 23,
-          "word": "##ber",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-      "language": "en",
-      "processed_at": "2026-03-14T16:41:37.235Z"
-    },
-    {
-      "title": "How I Built an AI Chatbot for SailPoint IdentityIQ",
-      "url": "https://pub.towardsai.net/how-i-built-an-ai-chatbot-for-sailpoint-identityiq-e5cc3c2fac4d?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T12:01:01.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.25356681452486995,
-      "crawledAt": "2026-03-14T13:05:42.177Z",
-      "id": "z4tmau",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8105415105819702,
-          "index": 10,
-          "word": "Sai",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8319717049598694,
-          "index": 11,
-          "word": "##l",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9351769685745239,
-          "index": 12,
-          "word": "##P",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9462838768959045,
-          "index": 13,
-          "word": "##oint",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-14T13:06:43.363Z"
-    },
-    {
-      "title": "Quiz: Splitting, Concatenating, and Joining Python Strings",
-      "url": "https://realpython.com/quizzes/splitting-concatenating-and-joining-strings-python/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-14T12:00:00.000Z",
-      "metaDescription": "How well do you know Python string manipulation? In this quiz, you’ll revisit concepts like string immutability, splitting and joining with different arguments, and building safe string operations for",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3496894628514309,
-      "crawledAt": "2026-03-14T13:06:27.114Z",
-      "id": "2ouv26",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8667137622833252,
-          "index": 14,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " In this quiz, you’ll revisit concepts like string immutability, splitting and joining with different arguments.",
-      "language": "en",
-      "processed_at": "2026-03-14T13:06:53.569Z"
-    },
-    {
-      "title": "Understudy: local-first, desktop agent that learns tasks from gui demonstrations",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rthh7q/understudy_localfirst_desktop_agent_that_learns/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-14T11:53:31.000Z",
-      "metaDescription": "submitted by    /u/bayes-song  \n [link]   [comments]",
-      "category": "tutorial-guide",
-      "difficulty": 5,
-      "confidence": 0.542306062416032,
-      "crawledAt": "2026-03-15T16:40:19.874Z",
-      "id": "bxt10t",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-15T16:59:08.284Z"
-    },
-    {
-      "title": "Persistent memory API for LangChain agents — free beta, looking for feedback",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rtgxl2/persistent_memory_api_for_langchain_agents_free/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T11:23:36.000Z",
-      "metaDescription": "Built a persistent memory layer specifically designed to plug into LangChain and similar agent frameworks. \n **AmPN Memory Store** gives your agents:\n - Store + retrieve memories via REST API\n - Seman",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.9172315425036638,
-      "crawledAt": "2026-03-15T16:40:23.151Z",
-      "id": "45a8q7",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9966350197792053,
-          "index": 7,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9974603056907654,
-          "index": 8,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9919935464859009,
-          "index": 9,
-          "word": "##hai",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.984251081943512,
-          "index": 10,
-          "word": "##n",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Seman is a persistent memory layer that allows agents to retrieve memories via a REST API. Seman is designed to use the same language as LangChain.",
-      "language": "en",
-      "processed_at": "2026-03-15T16:59:42.328Z"
-    },
-    {
-      "title": "Survey: Solving Context Ignorance Without Sacrificing Retrieval Speed in AI Memory",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rtfk37/survey_solving_context_ignorance_without/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T10:02:43.000Z",
-      "metaDescription": "Hi everyone! I’m a final-year undergrad researching AI memory architectures. I've noticed that while semantic caching is incredibly fast, it often suffers from \"context ignorance\" (e.g., returning the",
-      "category": "safety-ethics",
-      "difficulty": 3,
-      "confidence": 0.2503530771237867,
-      "crawledAt": "2026-03-15T16:40:23.555Z",
-      "id": "jf92cf",
-      "entities": [],
-      "summary": " Aims to improve the way memory memory is used, says the author of the book. The book is published in the book \"Aims for the Book of Memory\"",
-      "language": "en",
-      "processed_at": "2026-03-15T17:00:04.138Z"
     }
   ],
-  "processedAt": "2026-03-29T08:52:26.699Z",
+  "processedAt": "2026-03-29T13:19:03.487Z",
   "categories": [
-    "ai-agents",
     "creative-ai",
+    "infrastructure",
+    "ai-agents",
     "developer-tool",
     "safety-ethics",
-    "infrastructure",
     "industry-news",
     "product-launch",
     "research-paper",
@@ -71406,9 +71259,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 9,
-  "existingArticlesKept": 2092,
+  "newArticlesProcessed": 4,
+  "existingArticlesKept": 2093,
   "cleanupApplied": true,
-  "cleanedUpCount": 8,
+  "cleanedUpCount": 7,
   "rollingWindowDays": 15
 }
