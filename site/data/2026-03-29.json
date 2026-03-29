@@ -1,0 +1,81 @@
+{
+  "crawledAt": "2026-03-29T02:58:43.246Z",
+  "totalSources": 70,
+  "totalArticles": 2,
+  "aiFilterUsed": true,
+  "articles": [
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T23:00:00.000Z",
+      "metaDescription": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "category": "creative-ai",
+      "difficulty": 4,
+      "confidence": 0.6109050541178446,
+      "crawledAt": "2026-03-29T02:57:22.456Z",
+      "id": "lf6y0o",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.959499180316925,
+          "index": 1,
+          "word": "Blues",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9353421330451965,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bluesky’s new app Attie uses AI to help people build custom feeds for the social networking network.",
+      "language": "en",
+      "processed_at": "2026-03-29T02:58:55.537Z"
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source": "TechCrunch AI",
+      "source_domain": "techcrunch.com",
+      "source_category": "news",
+      "source_priority": "high",
+      "pubDate": "2026-03-28T20:45:54.000Z",
+      "metaDescription": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "category": "ai-agents",
+      "difficulty": 6,
+      "confidence": 0.7908899404128374,
+      "crawledAt": "2026-03-29T02:57:22.630Z",
+      "id": "6xadan",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9978411793708801,
+          "index": 7,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A new study by Stanford computer scientists attempts to measure the effect of AI on humans. The study is part of a series of studies by computer scientists.",
+      "language": "en",
+      "processed_at": "2026-03-29T02:59:05.882Z"
+    }
+  ],
+  "processedAt": "2026-03-29T02:59:05.892Z",
+  "categories": [
+    "creative-ai",
+    "ai-agents"
+  ],
+  "processingMethod": "ai-powered",
+  "newArticlesProcessed": 2,
+  "dailyArticlesCount": 2,
+  "filterDate": "2026-03-29"
+}
