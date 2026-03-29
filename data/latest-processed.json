@@ -1,9 +1,249 @@
 {
-  "crawledAt": "2026-03-29T02:58:43.246Z",
+  "crawledAt": "2026-03-29T05:46:35.039Z",
   "totalSources": 70,
-  "totalArticles": 2093,
+  "totalArticles": 2092,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Anthropic Leaked Its Own Nuclear Option: Mythos. The Irony Is Killing Me",
+      "url": "https://pub.towardsai.net/anthropic-leaked-its-own-nuclear-option-mythos-the-irony-is-killing-me-2b92f77484a2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:49:29.000Z",
+      "metaDescription": "The company that warns about “unprecedented cybersecurity risks” can’t secure its own blog CMS. Welcome to vibe coding AI in 2026.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3283736739724528,
+      "crawledAt": "2026-03-29T05:45:51.497Z",
+      "id": "6qbj61",
+      "entities": [],
+      "summary": " The company that warns about ‘unprecedented cybersecurity risks’ can’t secure its own blog CMS. Welcome to vibe coding AI in 2026.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:50:57.215Z"
+    },
+    {
+      "title": "LangChain Middleware: The Missing Layer Between Your Agent and Production",
+      "url": "https://pub.towardsai.net/langchain-middleware-the-missing-layer-between-your-agent-and-production-b7a5b8cba4c2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:48:45.000Z",
+      "metaDescription": "How to intercept, control, and extend AI agents without touching the logic that actually matters\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4268772074010765,
+      "crawledAt": "2026-03-29T05:45:51.642Z",
+      "id": "7cfta1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9885477423667908,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9857345223426819,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.983633279800415,
+          "index": 3,
+          "word": "##hai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9695183634757996,
+          "index": 4,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8888089060783386,
+          "index": 5,
+          "word": "Middle",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "How to intercept, control, and extend AI agents without touching the logic that actually matters. How to intercept and control, or extend AI Agents without touching logic that matters.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:08.916Z"
+    },
+    {
+      "title": "Multi-Agent Systems Aren’t Magic — Here’s the Orchestration Problem Nobody Talks About",
+      "url": "https://pub.towardsai.net/multi-agent-systems-arent-magic-here-s-the-orchestration-problem-nobody-talks-about-547d2e3437ca?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:47:51.000Z",
+      "metaDescription": "I built a multi-agent system, thinking it would solve everything. It created three new problems I hadn’t seen coming.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6512088960683998,
+      "crawledAt": "2026-03-29T05:45:51.807Z",
+      "id": "fdmphv",
+      "entities": [],
+      "summary": " I built a multi-agent system, thinking it would solve everything. It created three new problems I hadn't seen coming.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:17.720Z"
+    },
+    {
+      "title": "The KV Cache. Every LLM Running Today Is Built Around One Number Staying Still.",
+      "url": "https://pub.towardsai.net/the-kv-cache-every-llm-running-today-is-built-around-one-number-staying-still-cf2e36d29b5a?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:46:38.000Z",
+      "metaDescription": "What the K and V Matrices Look Like at Token 1, Token 2, Token 3. Until Now. With the Arithmetic.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.46018838464679945,
+      "crawledAt": "2026-03-29T05:45:51.958Z",
+      "id": "1dagz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9277153015136719,
+          "index": 2,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9252787828445435,
+          "index": 3,
+          "word": "##V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9015428423881531,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The K and V Matrices Look Like at Token 1, Token 2, Token 3, Token 1 and Token 3. With the Arithmetic. With theArithmetic.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:31.605Z"
+    },
+    {
+      "title": "The $570K Paradox: What Anthropic’s Most Controversial Job Posting Reveals About the True State of…",
+      "url": "https://pub.towardsai.net/the-570k-paradox-what-anthropics-most-controversial-job-posting-reveals-about-the-true-state-of-d474f41083bb?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:44:55.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.27839588606568494,
+      "crawledAt": "2026-03-29T05:45:52.154Z",
+      "id": "szp5ik",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.481Z"
+    },
+    {
+      "title": "I Built a Breast Cancer Detection System End-to-End.",
+      "url": "https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:42:36.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.26291155601902655,
+      "crawledAt": "2026-03-29T05:45:52.300Z",
+      "id": "3dpodq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9734062552452087,
+          "index": 4,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9765934944152832,
+          "index": 7,
+          "word": "Cancer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9788209199905396,
+          "index": 8,
+          "word": "Det",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8421363234519958,
+          "index": 9,
+          "word": "##ec",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9621060490608215,
+          "index": 11,
+          "word": "System",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.802Z"
+    },
+    {
+      "title": "Technology as a Living Forest: How It Breathes and Connects",
+      "url": "https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:41:58.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9207726174733145,
+      "crawledAt": "2026-03-29T05:45:52.365Z",
+      "id": "kv8jsh",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.936Z"
+    },
     {
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
       "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
@@ -71085,283 +71325,15 @@
       "summary": " The conversation around AI usually starts in the wrong place. The conversation about AI starts in a wrong place, says the author.",
       "language": "en",
       "processed_at": "2026-03-14T08:45:42.963Z"
-    },
-    {
-      "title": "OpenClaw-RL: AI Agent Is Throwing Away Its Best Training Data",
-      "url": "https://pub.towardsai.net/openclaw-rl-ai-agent-is-throwing-away-its-best-training-data-409a87775dad?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T05:06:40.000Z",
-      "metaDescription": "OpenClaw-RL recovers what every agentic system wastes: the next-state signal. And it does it while you’re still talking.\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9879723145967367,
-      "crawledAt": "2026-03-14T05:14:02.230Z",
-      "id": "y2fzw0",
-      "entities": [],
-      "summary": " OpenClaw-RL recovers what every agentic system wastes. And it does it while you're still talking.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:14:42.093Z"
-    },
-    {
-      "title": "Photoshop's new AI rotate tool",
-      "url": "https://www.reddit.com/r/singularity/comments/1rtafxk/photoshops_new_ai_rotate_tool/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-14T04:55:19.000Z",
-      "metaDescription": "submitted by    /u/realmvp77  \n [link]   [comments]",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.314946961285004,
-      "crawledAt": "2026-03-15T16:39:59.926Z",
-      "id": "esd0e2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9903804063796997,
-          "index": 1,
-          "word": "Photo",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9945588111877441,
-          "index": 2,
-          "word": "##sh",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9764375686645508,
-          "index": 3,
-          "word": "##op",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Announcement or discussion about new AI model releases and updates.",
-      "language": "en",
-      "processed_at": "2026-03-15T17:00:21.233Z"
-    },
-    {
-      "title": "10 Mind-Blowing Things GPT-5 Can Do That Most People Don’t Know",
-      "url": "https://ai.plainenglish.io/10-mind-blowing-things-gpt-5-can-do-that-most-people-dont-know-715fbc9c5e60?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:50:46.000Z",
-      "metaDescription": "Part 1 — The First 5 Things That Completely Changed How I Use AI\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6347638025139842,
-      "crawledAt": "2026-03-14T05:14:07.740Z",
-      "id": "jyggly",
-      "entities": [],
-      "summary": " The First 5 Things That Completely Changed How I Use AI. Part 1 — The First Five Things That completely Changed how I Use Artificial Intelligence in Plain English.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:06.544Z"
-    },
-    {
-      "title": "How AI Agents Are Replacing SaaS: The Next Big Shift in Software",
-      "url": "https://pub.towardsai.net/how-ai-agents-are-replacing-saas-the-next-big-shift-in-software-2026-guide-ed587eed3f6e?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:34:42.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9718799574197973,
-      "crawledAt": "2026-03-14T05:14:02.336Z",
-      "id": "wxqfbw",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:06.611Z"
-    },
-    {
-      "title": "Secrets of the Semantic Layer in Big Tech: How Uber, Netflix, and Airbnb Manage Metrics",
-      "url": "https://pub.towardsai.net/secrets-of-the-semantic-layer-in-big-tech-how-uber-netflix-and-airbnb-manage-metrics-1b9f7680ac25?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:15:41.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.32653143308094534,
-      "crawledAt": "2026-03-14T05:14:02.617Z",
-      "id": "z171ok",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8775052428245544,
-          "index": 10,
-          "word": "Big",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9442867040634155,
-          "index": 11,
-          "word": "Tech",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9303737878799438,
-          "index": 17,
-          "word": "Netflix",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:27.396Z"
-    },
-    {
-      "title": "Google Built a Video Game Without a Game Engine.",
-      "url": "https://pub.towardsai.net/google-built-a-video-game-without-a-game-engine-5a945814fb4e?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:15:22.000Z",
-      "metaDescription": "I want to be honest with you about something.\nContinue reading on Towards AI »",
-      "category": "developer-tool",
-      "difficulty": 7,
-      "confidence": 0.31152887531258994,
-      "crawledAt": "2026-03-14T05:14:02.678Z",
-      "id": "s0duv2",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9801701307296753,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.8361055254936218,
-          "index": 4,
-          "word": "Video",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9946517944335938,
-          "index": 5,
-          "word": "Game",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9943536520004272,
-          "index": 6,
-          "word": "Without",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9648038148880005,
-          "index": 7,
-          "word": "a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9831439256668091,
-          "index": 8,
-          "word": "Game",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9828069806098938,
-          "index": 9,
-          "word": "Engine",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I want to be honest with you about something. I want you to share your thoughts with me. I want a bit of your thoughts on AI.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:36.973Z"
-    },
-    {
-      "title": "I Broke RAG at 50K Documents. Here’s What Actually Works at 1 Million.",
-      "url": "https://pub.towardsai.net/i-broke-rag-at-50k-documents-heres-what-actually-works-at-1-million-45094114358f?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:14:29.000Z",
-      "metaDescription": "",
-      "category": "research-paper",
-      "difficulty": 3,
-      "confidence": 0.48857205030663664,
-      "crawledAt": "2026-03-14T05:14:02.729Z",
-      "id": "qstskb",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:37.053Z"
-    },
-    {
-      "title": "Kaiban-Distributed: Actor-Model Agentic Workflow System",
-      "url": "https://pub.towardsai.net/kaiban-distributed-a-scaling-actor-model-agentic-workflow-system-8b5288e7bc17?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-14T04:13:11.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.2959873444814329,
-      "crawledAt": "2026-03-14T05:14:02.775Z",
-      "id": "t81jwm",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8105264902114868,
-          "index": 9,
-          "word": "Actor",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-14T05:15:37.122Z"
     }
   ],
-  "processedAt": "2026-03-29T02:59:05.889Z",
+  "processedAt": "2026-03-29T05:51:42.941Z",
   "categories": [
     "creative-ai",
-    "ai-agents",
     "infrastructure",
-    "safety-ethics",
     "industry-news",
+    "ai-agents",
+    "safety-ethics",
     "product-launch",
     "research-paper",
     "developer-tool",
@@ -71369,9 +71341,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 2,
-  "existingArticlesKept": 2108,
+  "newArticlesProcessed": 7,
+  "existingArticlesKept": 2093,
   "cleanupApplied": true,
-  "cleanedUpCount": 17,
+  "cleanedUpCount": 8,
   "rollingWindowDays": 15
 }

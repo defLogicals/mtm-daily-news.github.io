@@ -1,9 +1,249 @@
 {
-  "crawledAt": "2026-03-29T02:58:43.246Z",
+  "crawledAt": "2026-03-29T05:46:35.039Z",
   "totalSources": 70,
-  "totalArticles": 2,
+  "totalArticles": 9,
   "aiFilterUsed": true,
   "articles": [
+    {
+      "title": "Anthropic Leaked Its Own Nuclear Option: Mythos. The Irony Is Killing Me",
+      "url": "https://pub.towardsai.net/anthropic-leaked-its-own-nuclear-option-mythos-the-irony-is-killing-me-2b92f77484a2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:49:29.000Z",
+      "metaDescription": "The company that warns about “unprecedented cybersecurity risks” can’t secure its own blog CMS. Welcome to vibe coding AI in 2026.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.3283736739724528,
+      "crawledAt": "2026-03-29T05:45:51.497Z",
+      "id": "6qbj61",
+      "entities": [],
+      "summary": " The company that warns about ‘unprecedented cybersecurity risks’ can’t secure its own blog CMS. Welcome to vibe coding AI in 2026.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:50:57.215Z"
+    },
+    {
+      "title": "LangChain Middleware: The Missing Layer Between Your Agent and Production",
+      "url": "https://pub.towardsai.net/langchain-middleware-the-missing-layer-between-your-agent-and-production-b7a5b8cba4c2?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:48:45.000Z",
+      "metaDescription": "How to intercept, control, and extend AI agents without touching the logic that actually matters\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 6,
+      "confidence": 0.4268772074010765,
+      "crawledAt": "2026-03-29T05:45:51.642Z",
+      "id": "7cfta1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9885477423667908,
+          "index": 1,
+          "word": "Lang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9857345223426819,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.983633279800415,
+          "index": 3,
+          "word": "##hai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9695183634757996,
+          "index": 4,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8888089060783386,
+          "index": 5,
+          "word": "Middle",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "How to intercept, control, and extend AI agents without touching the logic that actually matters. How to intercept and control, or extend AI Agents without touching logic that matters.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:08.916Z"
+    },
+    {
+      "title": "Multi-Agent Systems Aren’t Magic — Here’s the Orchestration Problem Nobody Talks About",
+      "url": "https://pub.towardsai.net/multi-agent-systems-arent-magic-here-s-the-orchestration-problem-nobody-talks-about-547d2e3437ca?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:47:51.000Z",
+      "metaDescription": "I built a multi-agent system, thinking it would solve everything. It created three new problems I hadn’t seen coming.\nContinue reading on Towards AI »",
+      "category": "creative-ai",
+      "difficulty": 3,
+      "confidence": 0.6512088960683998,
+      "crawledAt": "2026-03-29T05:45:51.807Z",
+      "id": "fdmphv",
+      "entities": [],
+      "summary": " I built a multi-agent system, thinking it would solve everything. It created three new problems I hadn't seen coming.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:17.720Z"
+    },
+    {
+      "title": "The KV Cache. Every LLM Running Today Is Built Around One Number Staying Still.",
+      "url": "https://pub.towardsai.net/the-kv-cache-every-llm-running-today-is-built-around-one-number-staying-still-cf2e36d29b5a?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:46:38.000Z",
+      "metaDescription": "What the K and V Matrices Look Like at Token 1, Token 2, Token 3. Until Now. With the Arithmetic.\nContinue reading on Towards AI »",
+      "category": "infrastructure",
+      "difficulty": 5,
+      "confidence": 0.46018838464679945,
+      "crawledAt": "2026-03-29T05:45:51.958Z",
+      "id": "1dagz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9277153015136719,
+          "index": 2,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9252787828445435,
+          "index": 3,
+          "word": "##V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9015428423881531,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The K and V Matrices Look Like at Token 1, Token 2, Token 3, Token 1 and Token 3. With the Arithmetic. With theArithmetic.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:31.605Z"
+    },
+    {
+      "title": "The $570K Paradox: What Anthropic’s Most Controversial Job Posting Reveals About the True State of…",
+      "url": "https://pub.towardsai.net/the-570k-paradox-what-anthropics-most-controversial-job-posting-reveals-about-the-true-state-of-d474f41083bb?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:44:55.000Z",
+      "metaDescription": "",
+      "category": "industry-news",
+      "difficulty": 3,
+      "confidence": 0.27839588606568494,
+      "crawledAt": "2026-03-29T05:45:52.154Z",
+      "id": "szp5ik",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.481Z"
+    },
+    {
+      "title": "I Built a Breast Cancer Detection System End-to-End.",
+      "url": "https://pub.towardsai.net/i-built-a-breast-cancer-detection-system-end-to-end-48402465aae9?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:42:36.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 6,
+      "confidence": 0.26291155601902655,
+      "crawledAt": "2026-03-29T05:45:52.300Z",
+      "id": "3dpodq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9734062552452087,
+          "index": 4,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9765934944152832,
+          "index": 7,
+          "word": "Cancer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9788209199905396,
+          "index": 8,
+          "word": "Det",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8421363234519958,
+          "index": 9,
+          "word": "##ec",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9621060490608215,
+          "index": 11,
+          "word": "System",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.802Z"
+    },
+    {
+      "title": "Technology as a Living Forest: How It Breathes and Connects",
+      "url": "https://pub.towardsai.net/technology-as-a-living-forest-how-it-breathes-and-connects-4f3c5ee14d06?source=rss----98111c9905da---4",
+      "source": "Towards AI",
+      "source_domain": "pub.towardsai.net",
+      "source_category": "medium",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T04:41:58.000Z",
+      "metaDescription": "",
+      "category": "infrastructure",
+      "difficulty": 3,
+      "confidence": 0.9207726174733145,
+      "crawledAt": "2026-03-29T05:45:52.365Z",
+      "id": "kv8jsh",
+      "entities": [],
+      "summary": "Community discussion about AI developments and related topics.",
+      "language": "en",
+      "processed_at": "2026-03-29T05:51:42.936Z"
+    },
     {
       "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
       "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
@@ -69,13 +309,15 @@
       "processed_at": "2026-03-29T02:59:05.882Z"
     }
   ],
-  "processedAt": "2026-03-29T02:59:05.892Z",
+  "processedAt": "2026-03-29T05:51:42.945Z",
   "categories": [
     "creative-ai",
+    "infrastructure",
+    "industry-news",
     "ai-agents"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 2,
-  "dailyArticlesCount": 2,
+  "newArticlesProcessed": 7,
+  "dailyArticlesCount": 9,
   "filterDate": "2026-03-29"
 }
