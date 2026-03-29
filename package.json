@@ -1,7 +1,7 @@
 {
-  "name": "ai-news-daily",
-  "version": "2.4.0",
-  "description": "Free AI news aggregator with local LLM categorization and 15-day rolling archive",
+  "name": "mtm-daily-news",
+  "version": "2.5.0",
+  "description": "MTM community digest: Maharashtra-focused RSS, local LLM tags, static JSON + site for the MTM app",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,8 +11,8 @@
     "dev": ".venv/bin/python -m http.server 8000 --directory site --bind 0.0.0.0",
     "test": "node scripts/crawl.js && node scripts/process-clean.js && node scripts/build-site.js"
   },
-  "keywords": ["ai", "news", "aggregator", "rss", "static-site"],
-  "author": "AI News Daily",
+  "keywords": ["mtm", "maharashtra", "msme", "rss", "digest", "github-pages"],
+  "author": "MTM / Deflogicals",
   "license": "MIT",
   "dependencies": {
     "rss-parser": "^3.13.0",
@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ai-news-daily/ai-news-daily.github.io.git"
+    "url": "https://github.com/deflogicals/mtm-daily-news.github.io.git"
   },
   "engines": {
     "node": ">=18.0.0"
   }
-} 
+}

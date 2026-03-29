@@ -53,18 +53,18 @@ process.stderr.write = function(chunk, encoding, fd) {
   return originalStderrWrite.call(process.stderr, chunk, encoding, fd);
 };
 
-// Categories for classification
+// Categories for MTM digest (Maharashtra, MSME, jobs, policy)
 const categories = [
-  'model-release',
-  'research-paper', 
-  'developer-tool',
-  'product-launch',
-  'tutorial-guide',
-  'industry-news',
-  'ai-agents',
-  'creative-ai',
-  'infrastructure',
-  'safety-ethics'
+  'maharashtra-state-local',
+  'msme-industry-trade',
+  'government-schemes',
+  'jobs-recruitment',
+  'education-skills',
+  'tax-compliance-gst',
+  'banking-credit',
+  'policy-regulation',
+  'legal-judiciary',
+  'civic-public-service'
 ];
 
 let classifier, summarizer, ner;
@@ -106,102 +106,103 @@ function classifyCategory(title, source) {
   const titleLower = title.toLowerCase();
   const sourceLower = source.toLowerCase();
   
-  // Model releases
-  if (titleLower.match(/\b(gpt-\d+|claude|gemini|llama|mistral|release|model)\b/) ||
-      sourceLower.includes('openai') || sourceLower.includes('anthropic')) {
-    return { category: 'model-release', confidence: 0.85 };
+  if (titleLower.match(/\b(high court|supreme court|ordinance|petition|verdict|bail)\b/) ||
+      sourceLower.includes('prs')) {
+    return { category: 'legal-judiciary', confidence: 0.88 };
   }
   
-  // Research papers
-  if (titleLower.match(/\b(paper|arxiv|research|study|analysis)\b/) ||
-      sourceLower.includes('arxiv')) {
-    return { category: 'research-paper', confidence: 0.9 };
+  if (titleLower.match(/\b(recruitment|vacancy|ssc|upsc|exam date|admit card|notification)\b/) ||
+      sourceLower.includes('jobs')) {
+    return { category: 'jobs-recruitment', confidence: 0.88 };
   }
   
-  // Developer tools
-  if (titleLower.match(/\b(api|sdk|framework|tool|library|code|programming)\b/) ||
-      sourceLower.includes('hugging')) {
-    return { category: 'developer-tool', confidence: 0.8 };
+  if (titleLower.match(/\b(admission|scholarship|skill|university|board exam|ugc|education)\b/) ||
+      sourceLower.includes('education')) {
+    return { category: 'education-skills', confidence: 0.85 };
   }
   
-  // AI Agents
-  if (titleLower.match(/\b(agent|workflow|automation|autonomous)\b/)) {
-    return { category: 'ai-agents', confidence: 0.85 };
+  if (titleLower.match(/\b(maharashtra|mumbai|pune|thane|nagpur|bmc|mantralaya|shiv sena|ncp)\b/) ||
+      sourceLower.includes('mumbai') || sourceLower.includes('pune') || sourceLower.includes('state_mh')) {
+    return { category: 'maharashtra-state-local', confidence: 0.85 };
   }
   
-  // Tutorials
-  if (titleLower.match(/\b(tutorial|guide|how to|step by step|learn)\b/) ||
-      sourceLower.includes('data science') || sourceLower.includes('mastery')) {
-    return { category: 'tutorial-guide', confidence: 0.8 };
+  if (titleLower.match(/\b(gst|income tax|audit|compliance|itr|duty)\b/)) {
+    return { category: 'tax-compliance-gst', confidence: 0.85 };
   }
   
-  // Creative AI
-  if (titleLower.match(/\b(image|video|audio|creative|art|generate)\b/)) {
-    return { category: 'creative-ai', confidence: 0.75 };
+  if (titleLower.match(/\b(rbi|repo rate|credit|npas|bank loan|nbfc|interest rate)\b/) ||
+      sourceLower.includes('rbi')) {
+    return { category: 'banking-credit', confidence: 0.85 };
   }
   
-  // Default to industry news
-  return { category: 'industry-news', confidence: 0.6 };
+  if (titleLower.match(/\b(msme|udyam|startup|sme|industry|manufacturing|export|midc)\b/) ||
+      sourceLower.includes('companies')) {
+    return { category: 'msme-industry-trade', confidence: 0.82 };
+  }
+  
+  if (titleLower.match(/\b(scheme|subsidy|pm-?kisan|ayushman|mgnrega|welfare|grant)\b/)) {
+    return { category: 'government-schemes', confidence: 0.84 };
+  }
+  
+  if (titleLower.match(/\b(power outage|water supply|disaster|relief|health alert|weather warning)\b/)) {
+    return { category: 'civic-public-service', confidence: 0.78 };
+  }
+  
+  if (titleLower.match(/\b(cabinet|ministry|policy|parliament|bill |ordinance|notification|circular)\b/) ||
+      sourceLower.includes('pib')) {
+    return { category: 'policy-regulation', confidence: 0.8 };
+  }
+  
+  return { category: 'policy-regulation', confidence: 0.55 };
 }
 
-// Extract entities using simple regex patterns
 function extractEntities(title) {
   const entities = [];
-  
-  // Companies/Organizations
-  const companies = ['OpenAI', 'Anthropic', 'Google', 'Meta', 'Microsoft', 'NVIDIA', 'Apple', 'Amazon', 'Tesla', 'Hugging Face', 'LangChain', 'Pinecone', 'Weights & Biases', 'DeepMind', 'Stability AI', 'Midjourney', 'RunwayML'];
-  companies.forEach(company => {
-    if (title.toLowerCase().includes(company.toLowerCase())) {
-      entities.push({ text: company, label: 'ORG' });
+  const orgs = [
+    'RBI', 'SEBI', 'GST Council', 'Ministry of Finance', 'Ministry of MSME',
+    'Maharashtra', 'Mumbai', 'Pune', 'Nagpur', 'State Bank of India', 'SBI',
+    'NABARD', 'SIDBI', 'UIDAI', 'EPFO', 'ESIC', 'NHAI', 'NHM', 'PIB'
+  ];
+  orgs.forEach(org => {
+    if (title.toLowerCase().includes(org.toLowerCase())) {
+      entities.push({ text: org, label: 'ORG' });
     }
   });
-  
-  // AI Models/Products
-  const models = ['GPT-4', 'GPT-5', 'Claude', 'Gemini', 'LLaMA', 'Llama', 'ChatGPT', 'DALL-E', 'Midjourney', 'Stable Diffusion', 'BERT', 'Transformer'];
-  models.forEach(model => {
-    if (title.toLowerCase().includes(model.toLowerCase())) {
-      entities.push({ text: model, label: 'PRODUCT' });
+  const schemes = ['GST', 'Udyam', 'MSME', 'PM-KISAN', 'Ayushman', 'MUDRA', 'Stand Up India'];
+  schemes.forEach(s => {
+    if (title.toLowerCase().includes(s.toLowerCase())) {
+      entities.push({ text: s, label: 'MISC' });
     }
   });
-  
-  // Technologies
-  const technologies = ['AI', 'ML', 'NLP', 'Computer Vision', 'Deep Learning', 'Machine Learning', 'Neural Network', 'Transformer', 'LLM', 'API', 'SDK'];
-  technologies.forEach(tech => {
-    if (title.toLowerCase().includes(tech.toLowerCase())) {
-      entities.push({ text: tech, label: 'TECH' });
+  const tags = ['recruitment', 'tender', 'policy', 'budget', 'court', 'exam'];
+  tags.forEach(tag => {
+    if (title.toLowerCase().includes(tag)) {
+      entities.push({ text: tag, label: 'TECH' });
     }
   });
-  
   return entities;
 }
 
-// Calculate difficulty based on technical terms
+// Reading density: plain news vs legal or fiscal jargon
 function calculateDifficulty(title, entities) {
-  const technicalTerms = ['transformer', 'neural', 'deep learning', 'api', 'sdk', 'algorithm', 'model', 'training', 'inference'];
-  const researchTerms = ['paper', 'study', 'research', 'analysis', 'arxiv'];
-  const advancedTerms = ['rlhf', 'fine-tuning', 'quantization', 'distillation', 'embedding'];
+  const plain = ['inaugurates', 'announces', 'launches', 'flags off', 'visits', 'meets'];
+  const legal = ['ordinance', 'verdict', 'tribunal', 'petition', 'bail', 'section ', 'act ', 'code '];
+  const fiscal = ['repo rate', 'liquidity', 'fiscal deficit', 'securitisation', 'impairment', 'circular'];
   
-  let difficulty = 3; // Base difficulty
-  
+  let difficulty = 4;
   const titleLower = title.toLowerCase();
   
-  // Increase for technical terms
-  technicalTerms.forEach(term => {
-    if (titleLower.includes(term)) difficulty += 1;
+  plain.forEach(term => {
+    if (titleLower.includes(term)) difficulty -= 1;
   });
-  
-  // Increase for research terms
-  researchTerms.forEach(term => {
+  legal.forEach(term => {
+    if (titleLower.includes(term)) difficulty += 2;
+  });
+  fiscal.forEach(term => {
     if (titleLower.includes(term)) difficulty += 2;
   });
   
-  // Increase for advanced terms
-  advancedTerms.forEach(term => {
-    if (titleLower.includes(term)) difficulty += 3;
-  });
-  
-  // Increase based on entities
-  difficulty += entities.length * 0.5;
+  difficulty += Math.min(entities.length, 4) * 0.5;
   
   return Math.min(Math.max(Math.round(difficulty), 1), 10);
 }
@@ -221,8 +222,7 @@ async function generateSummary(title, metaDescription, source, useAI = false) {
     ? metaDescription.trim() 
     : null;
   
-  // For Reddit posts without meaningful content, create topic-based summary from title
-  if (!contentToSummarize && source && source.includes('reddit')) {
+  if (!contentToSummarize && source && source.toLowerCase().includes('reddit')) {
     return createTopicBasedSummary(title);
   }
   
@@ -251,37 +251,24 @@ async function generateSummary(title, metaDescription, source, useAI = false) {
   }
 }
 
-// Create a topic-based summary from title for Reddit posts
 function createTopicBasedSummary(title) {
   const titleLower = title.toLowerCase();
-  
-  // Model/Tool mentions
-  if (titleLower.match(/\b(gpt|chatgpt|claude|gemini|llama|mistral|ollama|lmstudio)\b/)) {
-    return `Discussion about AI models and tools mentioned in the title.`;
+  if (titleLower.match(/\b(recruitment|vacancy|exam|ssc|upsc|admit)\b/)) {
+    return 'Update on jobs, recruitment, or competitive exams relevant to readers.';
   }
-  
-  // Technical questions
-  if (titleLower.match(/\b(how to|help|issue|error|problem|question|which|best|recommend)\b/)) {
-    return `Community discussion seeking help or recommendations on AI-related topics.`;
+  if (titleLower.match(/\b(scheme|subsidy|welfare|grant|ministry)\b/)) {
+    return 'Government scheme, welfare, or policy announcement.';
   }
-  
-  // Model releases
-  if (titleLower.match(/\b(release|releasing|available|launched|new|update)\b/)) {
-    return `Announcement or discussion about new AI model releases and updates.`;
+  if (titleLower.match(/\b(rbi|repo|gst|tax|bank|credit)\b/)) {
+    return 'Banking, tax, or regulatory update for businesses and households.';
   }
-  
-  // Creative/Image generation
-  if (titleLower.match(/\b(image|generate|create|art|stable diffusion|midjourney)\b/)) {
-    return `Discussion about AI-powered creative content generation and tools.`;
+  if (titleLower.match(/\b(maharashtra|mumbai|pune|thane)\b/)) {
+    return 'Maharashtra state or city-level update.';
   }
-  
-  // Research/Papers
-  if (titleLower.match(/\b(paper|research|study|arxiv|analysis)\b/)) {
-    return `Discussion of AI research findings and academic papers.`;
+  if (titleLower.match(/\b(court|ordinance|bill|parliament)\b/)) {
+    return 'Legal or legislative development.';
   }
-  
-  // Default based on source
-  return `Community discussion about AI developments and related topics.`;
+  return 'Public interest update for the MTM community digest.';
 }
 
 // Main processing function
@@ -408,7 +395,7 @@ async function processArticlesWithAI() {
   // Initialize AI models only if we have articles to process
   const useAI = await initializeModels();
   
-  console.log(`🧠 Processing ${finalArticlesToProcess.length} new articles with ${useAI ? 'AI' : 'rule-based'} analysis...`);
+  console.log(`🧠 Processing ${finalArticlesToProcess.length} new articles with ${useAI ? 'LLM' : 'rule-based'} digest tagging...`);
   
   const newlyProcessedArticles = [];
   const newlyRejectedArticles = [];
@@ -615,7 +602,7 @@ async function processArticlesWithAI() {
   }
   console.log(`💾 Saved to: ${latestPath} (${recentArticles.length} articles in 15-day rolling window)`);
   console.log(`📅 Historical backup: ${datePath} (${todaysArticles.length} today's articles)`);
-  console.log('🎉 AI processing completed successfully!');
+  console.log('🎉 Digest tagging completed successfully!');
   
   return latestData;
 }

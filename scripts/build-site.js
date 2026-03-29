@@ -49,14 +49,14 @@ function timeAgo(dateString) {
   return date.toLocaleDateString();
 }
 
-// Generate article HTML - simple version without AI processing for now
+// Generate article HTML - simple article HTML template for now
 function generateArticleHTML(article) {
   const entities = article.entities || [];
   const summary = article.summary || '';
   const difficulty = article.difficulty || 5;
   const confidence = article.confidence || 0;
   const confidenceIcon = confidence > 0.8 ? '✅' : '❓';
-  const confidenceTitle = confidence > 0.8 ? 'High confidence AI categorization' : 'Lower confidence - manual review suggested';
+  const confidenceTitle = confidence > 0.8 ? 'High-confidence topic tag' : 'Lower confidence — treat as tentative';
   
   // Group entities by type
   const orgEntities = entities.filter(e => e.entity.includes('ORG')).map(e => e.word).filter((v, i, a) => a.indexOf(v) === i);
@@ -136,7 +136,7 @@ async function loadDateData(date = null) {
   try {
     return JSON.parse(await fs.readFile(processedPath, 'utf-8'));
   } catch (error) {
-    console.log('⚠️ AI-processed data not found, using raw data');
+    console.log('⚠️ processed data not found, using raw data');
     return JSON.parse(await fs.readFile(rawPath, 'utf-8'));
   }
 }
@@ -166,7 +166,7 @@ async function buildSite(selectedDate = null) {
     } else if (defaultUIDate) {
       console.log(`✅ Defaulting to ${defaultUIDate} articles for initial page load`);
     } else {
-      console.log('✅ Using latest AI-processed data (all articles)');
+      console.log('✅ Using latest processed data (all articles)');
     }
     
     const articles = articlesData.articles || [];
@@ -174,7 +174,7 @@ async function buildSite(selectedDate = null) {
     
     console.log(`📊 Found ${articles.length} articles`);
     
-    // Get category statistics with AI categories
+    // Get category statistics with topic categories
     const categoryStats = {};
     const sourceStats = {};
     const uniqueSources = new Set();
@@ -223,17 +223,17 @@ async function buildSite(selectedDate = null) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI News Daily - Latest AI News from 50+ Sources</title>
-  <meta name="description" content="AI news aggregator collecting ${articles.length} articles from ${uniqueSourceCount}+ sources. Updated ${new Date(crawledAt).toLocaleDateString()}.">
+  <title>MTM Samuday Digest — policy, business & opportunities</title>
+  <meta name="description" content="MTM digest: ${articles.length} curated items for Maharashtra MSME, students & job seekers. Updated ${new Date(crawledAt).toLocaleDateString()}.">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="AI News Daily - Latest AI News Aggregator">
-  <meta property="og:description" content="AI news aggregator from ${uniqueSourceCount}+ sources including Reddit, arXiv, tech blogs, and YouTube">
+  <meta property="og:title" content="MTM Samuday Digest">
+  <meta property="og:description" content="Curated RSS digest from ${uniqueSourceCount}+ Indian policy & business sources for the MTM app community">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://ai-news-daily.github.io">
+  <meta property="og:url" content="https://mtm-daily-news.github.io">
   
   <!-- Favicon -->
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
   
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -241,8 +241,6 @@ async function buildSite(selectedDate = null) {
   <!-- Custom Styles -->
   <link rel="stylesheet" href="style.css">
   
-  <!-- Analytics -->
-  <script src="https://cdn.counter.dev/script.js" data-id="6721f4c7-1553-46c3-8190-a502ae988d59" data-utcoffset="6"></script>
 </head>
 <body>
   <!-- Skip Navigation Link for Accessibility -->
@@ -284,9 +282,9 @@ async function buildSite(selectedDate = null) {
           </svg>
         </div>
         <div class="brand-text">
-          <div class="brand-title">AI News Daily</div>
-          <div class="brand-subtitle brand-subtitle-full">Your daily source for cutting-edge AI breakthroughs • ${articles.length}+ stories curated</div>
-          <div class="brand-subtitle brand-subtitle-medium">${articles.length}+ AI stories</div>
+          <div class="brand-title">MTM Samuday Digest</div>
+          <div class="brand-subtitle brand-subtitle-full">Updates for Maharashtra — MSME, jobs, education & policy • ${articles.length}+ items</div>
+          <div class="brand-subtitle brand-subtitle-medium">${articles.length}+ digest items</div>
           <div class="brand-subtitle brand-subtitle-short">${articles.length}+ stories</div>
         </div>
       </a>
@@ -440,8 +438,8 @@ async function buildSite(selectedDate = null) {
         <div class="mobile-context-section">
           <div class="mobile-context-card">
             <div class="context-header">
-              <h1>🤖 AI News Daily</h1>
-              <p class="context-subtitle">Curated from ${uniqueSourceCount}+ trusted sources • Updated daily</p>
+              <h1>MTM Samuday Digest</h1>
+              <p class="context-subtitle">From ${uniqueSourceCount}+ external sources • For manual QA same as the mobile JSON feed</p>
             </div>
             
             <div class="context-stats">
@@ -543,9 +541,9 @@ async function buildSite(selectedDate = null) {
    <footer class="site-footer">
      <div class="container">
        <p class="mb-0 text-center">
-         © 2025 AI News Daily • 
-         <a href="https://github.com/ai-news-daily/ai-news-daily" target="_blank" rel="noopener" class="footer-link">
-           ⭐ Star us on GitHub
+         © MTM digest • Information only, not legal advice • 
+         <a href="https://github.com/deflogicals/mtm-daily-news.github.io" target="_blank" rel="noopener" class="footer-link">
+           Source on GitHub
          </a>
        </p>
      </div>

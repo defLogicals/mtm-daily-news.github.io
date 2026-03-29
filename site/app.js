@@ -87,7 +87,7 @@ async function loadData(selectedDate = null) {
     console.log(`✅ Loaded ${allArticles.length} articles${selectedDate ? ` for ${selectedDate}` : ''}`);
     console.log(`🔗 Unique sources: ${uniqueSourceCount}`);
     console.log('📊 Source categories:', Object.keys(allArticles.reduce((acc, a) => { acc[a.source_category] = true; return acc; }, {})));
-    console.log('🤖 AI categories:', Object.keys(allArticles.reduce((acc, a) => { acc[a.category] = true; return acc; }, {})));
+    console.log('📂 Topic categories:', Object.keys(allArticles.reduce((acc, a) => { acc[a.category] = true; return acc; }, {})));
   } catch (error) {
     console.error(`❌ Failed to load data${selectedDate ? ` for ${selectedDate}` : ''}:`, error);
     console.error('Error details:', error.message);
@@ -161,15 +161,15 @@ function updatePageMetadata(selectedDate) {
   // Update meta description
   const metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) {
-    const baseDesc = `AI news aggregator collecting ${articleCount} articles from ${sourceCount}+ sources.`;
+    const baseDesc = `MTM digest: ${articleCount} items from ${sourceCount}+ sources (policy, jobs, MSME, Maharashtra).`;
     const dateDesc = isAll ? 'All articles' : `Updated ${shortDateText}`;
     metaDesc.setAttribute('content', `${baseDesc} ${dateDesc}.`);
   }
   
   // Update page title
   const title = isAll 
-    ? 'AI News Daily - Latest AI News from 50+ Sources'
-    : `AI News Daily - Latest AI News for ${dateText}`;
+    ? 'MTM Samuday Digest — policy, business & opportunities'
+    : `MTM Samuday Digest — ${dateText}`;
   document.title = title;
   
   // Update all brand subtitle variants
@@ -178,10 +178,10 @@ function updatePageMetadata(selectedDate) {
   const logoSubtitleShort = document.querySelector('.brand-subtitle-short');
   
   if (logoSubtitleFull) {
-    logoSubtitleFull.textContent = `Your daily source for cutting-edge AI breakthroughs • ${articleCount}+ stories curated`;
+    logoSubtitleFull.textContent = `Maharashtra-focused updates for MSME, students & job seekers • ${articleCount}+ items`;
   }
   if (logoSubtitleMedium) {
-    logoSubtitleMedium.textContent = `${articleCount}+ AI stories`;
+    logoSubtitleMedium.textContent = `${articleCount}+ digest items`;
   }
   if (logoSubtitleShort) {
     logoSubtitleShort.textContent = `${articleCount}+ stories`;

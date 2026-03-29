@@ -13,85 +13,85 @@ env.allowLocalFiles = true;
 env.cacheDir = path.join(__dirname, '../.cache');
 
 const parser = new Parser({
-  timeout: 10000,
-  maxRedirects: 3
+  timeout: 20000,
+  maxRedirects: 5,
+  headers: {
+    'User-Agent': 'Mozilla/5.0 (compatible; MTMDigest/1.0; +https://github.com/deflogicals/mtm-daily-news.github.io)',
+    'Accept': 'application/rss+xml, application/xml;q=0.9,*/*;q=0.8'
+  }
 });
 
-let aiClassifier = null;
+let relevanceClassifier = null;
 
-// Initialize AI classifier for intelligent filtering
-async function initializeAIFilter() {
+// Zero-shot classifier for digest relevance (Maharashtra / MSME / jobs / policy)
+async function initializeRelevanceFilter() {
   try {
-    console.log('🧠 Loading AI classifier for intelligent filtering...');
-    aiClassifier = await pipeline('zero-shot-classification', 'Xenova/distilbert-base-uncased-mnli', {
+    console.log('🧠 Loading relevance classifier for digest filtering...');
+    relevanceClassifier = await pipeline('zero-shot-classification', 'Xenova/distilbert-base-uncased-mnli', {
       cache_dir: env.cacheDir,
       quantized: true
     });
-    console.log('✅ AI classifier ready for content filtering');
+    console.log('✅ Relevance classifier ready');
     return true;
   } catch (error) {
-    console.log('⚠️ AI classifier failed to load, falling back to keyword filtering:', error.message);
+    console.log('⚠️ Classifier failed to load, falling back to keyword filtering:', error.message);
     return false;
   }
 }
 
-// AI-powered content relevance and quality check
-async function isAIRelevantAI(title, description = '') {
-  if (!aiClassifier) return null;
+// Zero-shot relevance: policy, business, jobs, Maharashtra vs fluff
+async function isDigestRelevantAI(title, description = '') {
+  if (!relevanceClassifier) return null;
   
   try {
-    const text = `${title} ${description}`.substring(0, 500); // Limit for performance
+    const text = `${title} ${description}`.substring(0, 500);
     
-    // STAGE 1: Binary AI Relevance Check (more focused, less confusing categories)
     const binaryCategories = [
-      'AI and machine learning related content',
-      'Non-AI technical content', 
-      'General news and entertainment'
+      'News useful for India business policy government jobs education taxes or Maharashtra',
+      'Pure entertainment sports celebrity gossip or lifestyle without economic or policy angle',
+      'Unrelated memes games fiction or foreign celebrity gossip only'
     ];
     
-    const binaryResult = await aiClassifier(text, binaryCategories);
-    const isAIRelated = binaryResult.scores[0] > Math.max(binaryResult.scores[1], binaryResult.scores[2]);
-    const aiConfidence = binaryResult.scores[0];
+    const binaryResult = await relevanceClassifier(text, binaryCategories);
+    const isRelevant = binaryResult.scores[0] > Math.max(binaryResult.scores[1], binaryResult.scores[2]);
+    const relConfidence = binaryResult.scores[0];
     
-    // STAGE 2: If AI-related, get specific AI category for better insights
-    let specificCategory = 'artificial intelligence and machine learning';
-    let specificConfidence = aiConfidence;
+    let specificCategory = 'general policy and economy';
+    let specificConfidence = relConfidence;
     
-    if (isAIRelated) {
-      const aiSpecificCategories = [
-        'LLM and language models',
-        'Computer vision and image AI',
-        'AI tools and developer platforms',
-        'AI research and papers',
-        'AI business and industry news'
+    if (isRelevant) {
+      const specificCategories = [
+        'Maharashtra Mumbai Pune state and local governance',
+        'MSME small business industry credit and startups',
+        'Government schemes subsidies and welfare programs',
+        'Jobs recruitment exams and career announcements',
+        'Education admissions scholarships and skills',
+        'Tax GST banking RBI regulation and compliance',
+        'National parliament courts laws and legal updates'
       ];
       
-      const specificResult = await aiClassifier(text, aiSpecificCategories);
+      const specificResult = await relevanceClassifier(text, specificCategories);
       specificCategory = specificResult.labels[0];
       specificConfidence = Math.max(specificConfidence, specificResult.scores[0]);
     }
     
-    // Apply CATEGORIZATION_CONFIDENCE_THRESHOLD for quality filtering (default 25%)
-    const confidenceThreshold = parseFloat(process.env.CATEGORIZATION_CONFIDENCE_THRESHOLD || '0.25');
-    const meetsQualityThreshold = aiConfidence >= confidenceThreshold;
+    const confidenceThreshold = parseFloat(process.env.CATEGORIZATION_CONFIDENCE_THRESHOLD || '0.22');
+    const meetsQualityThreshold = relConfidence >= confidenceThreshold;
     
-    // Debug logging for better understanding
-    if (isAIRelated && !meetsQualityThreshold) {
-      console.log(`🚫 Quality filtered: "${title.substring(0, 50)}..." (AI confidence: ${(aiConfidence * 100).toFixed(1)}% < ${(confidenceThreshold * 100).toFixed(0)}%)`);
-    } else if (!isAIRelated && aiConfidence > 0.2) {
-      console.log(`❌ AI filtered out: "${title}" (AI confidence: ${aiConfidence.toFixed(2)}, determined as: ${binaryResult.labels[0]})`);
+    if (isRelevant && !meetsQualityThreshold) {
+      console.log(`🚫 Quality filtered: "${title.substring(0, 50)}..." (confidence: ${(relConfidence * 100).toFixed(1)}% < ${(confidenceThreshold * 100).toFixed(0)}%)`);
+    } else if (!isRelevant && relConfidence > 0.2) {
+      console.log(`❌ Filtered out: "${title}" (confidence: ${relConfidence.toFixed(2)}, bucket: ${binaryResult.labels[0]})`);
     }
     
     return {
-      isRelevant: isAIRelated,
-      confidence: aiConfidence,
+      isRelevant,
+      confidence: relConfidence,
       topCategory: specificCategory,
-      aiScore: aiConfidence,
-      nonAiScore: binaryResult.scores[1] + binaryResult.scores[2],
       meetsQualityThreshold
     };
   } catch (error) {
-    console.log('AI classification error:', error.message);
+    console.log('Relevance classification error:', error.message);
     return null;
   }
 }
@@ -103,23 +103,23 @@ async function loadSources() {
   const { 
     sources, 
     medium_blogs,
-    reddit_sources, 
+    article_sources, 
     youtube_channels, 
     newsletters, 
     developer_blogs,
     academic_sources,
-    getting_started
+    job_opportunity
   } = JSON.parse(sourcesData);
   
   return [
     ...sources,
     ...(medium_blogs || []),
-    ...(reddit_sources || []),
+    ...(article_sources || []),
     ...(youtube_channels || []),
     ...(newsletters || []),
     ...(developer_blogs || []),
     ...(academic_sources || []),
-    ...(getting_started || [])
+    ...(job_opportunity || [])
   ];
 }
 
@@ -141,111 +141,81 @@ function cleanTitle(title) {
     .trim();
 }
 
-// Check if content is AI-related
-function isAIRelated(item) {
+function isDigestRelatedItem(item) {
   const text = `${item.title || ''} ${item.description || ''} ${item.content || ''}`.toLowerCase();
   
-  // Exclude obviously non-AI mathematics/science content
   const excludeKeywords = [
-    'fields medal', 'nobel prize', 'pure mathematics', 'number theory',
-    'quantum physics', 'astrophysics', 'cosmology', 'particle physics',
-    'climate change', 'global warming', 'biology', 'chemistry',
-    'sports', 'football', 'basketball', 'soccer', 'tennis'
+    'ipl ', ' ipl', 'world cup', 't20', 'bollywood', 'movie review', 'celebrity wedding',
+    'web series', 'bigg boss', 'recipe ', 'horoscope'
   ];
   
-  const hasExcludeKeyword = excludeKeywords.some(keyword => text.includes(keyword));
-  if (hasExcludeKeyword) {
+  if (excludeKeywords.some(keyword => text.includes(keyword))) {
     return false;
   }
   
-  // AI-related keywords
-  const aiKeywords = [
-    'artificial intelligence', 'ai', 'machine learning', 'ml', 'deep learning',
-    'neural network', 'transformer', 'gpt', 'llm', 'large language model',
-    'chatbot', 'automation', 'algorithm', 'data science', 'computer vision',
-    'natural language processing', 'nlp', 'robotics', 'autonomous',
-    'generative', 'diffusion', 'stable diffusion', 'midjourney', 'dall-e',
-    'openai', 'anthropic', 'claude', 'gemini', 'llama', 'mistral',
-    'agent', 'agentic', 'rag', 'fine-tuning', 'prompt engineering',
-    'embeddings', 'vector', 'classification', 'regression', 'clustering',
-    'reinforcement learning', 'supervised learning', 'unsupervised learning'
+  const keywords = [
+    'maharashtra', 'mumbai', 'pune', 'nagpur', 'nashik', 'aurangabad', 'thane',
+    'msme', 'udyam', 'sme', 'startup', 'gst', 'income tax', 'tax ', ' rbi', 'sebi',
+    'scheme', 'subsidy', 'tender', 'recruitment', 'vacancy', 'job ', 'jobs ', 'exam ',
+    'admission', 'scholarship', 'university', 'skill ', 'policy', 'cabinet', 'parliament',
+    'bill ', 'ordinance', 'high court', 'supreme court', 'minister', 'government',
+    'notification', 'circular', 'loan ', 'credit ', 'bank ', 'economy', 'budget',
+    'export', 'import', 'industry', 'factory', 'midc', 'midc', 'fiscal', 'fdi',
+    'regulation', 'compliance', 'employees', 'labour', 'labor', 'wage', 'pension',
+    'farmers', 'agriculture', 'power sector', 'infrastructure'
   ];
   
-  return aiKeywords.some(keyword => text.includes(keyword));
+  return keywords.some(keyword => text.includes(keyword));
 }
 
-// Filter AI-relevant content
-function isAIRelevant(title, source) {
-  const aiKeywords = [
-    // Core AI terms
-    'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
-    'neural network', 'neural net', 'deep neural', 'artificial neural',
-    
-    // LLMs and models
-    'llm', 'large language model', 'language model', 'foundation model',
-    'gpt', 'claude', 'gemini', 'llama', 'alpaca', 'vicuna', 'falcon',
-    'transformer', 'bert', 'roberta', 't5', 'bart', 'electra',
-    
-    // Companies and products
-    'openai', 'anthropic', 'google ai', 'deepmind', 'meta ai',
-    'hugging face', 'langchain', 'pinecone', 'weaviate', 'chroma',
-    'chatgpt', 'copilot', 'github copilot', 'cursor ai', 'replit ai',
-    'dall-e', 'midjourney', 'stable diffusion', 'runway', 'pika',
-    
-    // Techniques and concepts
-    'fine-tuning', 'fine tuning', 'prompt', 'prompting', 'prompt engineering',
-    'rag', 'retrieval augmented', 'embeddings', 'vector database',
-    'attention', 'self-attention', 'multi-head attention',
-    'backpropagation', 'gradient descent', 'optimization',
-    'reinforcement learning', 'rl', 'rlhf', 'constitutional ai',
-    
-    // Applications
-    'computer vision', 'cv', 'image recognition', 'object detection',
-    'nlp', 'natural language processing', 'natural language',
-    'speech recognition', 'text-to-speech', 'voice synthesis',
-    'generative', 'generation', 'synthesis', 'diffusion',
-    'chatbot', 'agent', 'autonomous', 'automation', 'robotics',
-    
-    // Technical terms
-    'pytorch', 'tensorflow', 'keras', 'transformers',
-    'dataset', 'training', 'inference', 'model', 'algorithm',
-    'benchmark', 'evaluation', 'metrics', 'loss function',
-    'overfitting', 'regularization', 'dropout', 'batch norm'
+function isDigestRelevantTitle(title, source) {
+  const src = source.toLowerCase();
+  const trusted = [
+    'pib', 'rbi', 'prs', 'dd news', 'lokmat', 'esakal', 'pudhari', 'tarun bharat',
+    'nagpur today', 'live nagpur', 'punekar', 'mumbai live', 'navakal', 'deshdoot',
+    'dainik ekmat', 'nagar live', 'jalgaon', 'beed reporter', 'news18',
+    'times now marathi', 'tak.live', 'agrowon',
+    'freshersvoice', 'pagalguy', 'yourstory', 'inc42', 'reddit', 'pib india', 'aaple sarkar'
   ];
-  
-  // Always include content from AI-specific sources
-  const aiSources = [
-    'openai', 'anthropic', 'huggingface', 'hugging face', 'langchain', 
-    'deepmind', 'google ai', 'meta ai', 'nvidia', 'cohere',
-    'replicate', 'gradio', 'wandb', 'weights & biases'
-  ];
-  
-  if (aiSources.some(s => source.toLowerCase().includes(s))) {
+  if (trusted.some(t => src.includes(t))) {
     return true;
   }
-  
   const titleLower = title.toLowerCase();
-  return aiKeywords.some(keyword => titleLower.includes(keyword));
+  const keywords = [
+    'maharashtra', 'mumbai ', 'pune', 'nagpur',
+    'msme', 'udyam', 'sme ', 'startup', 'gst', 'income tax', 'tax ', 'rbi', 'sebi',
+    'scheme', 'subsidy', 'tender', 'recruitment', 'vacancy', 'job ', 'jobs ', 'exam ',
+    'admission', 'scholarship', 'policy', 'cabinet', 'parliament',
+    'bill ', 'court', 'minister', 'government', 'notification', 'loan ', ' bank',
+    'economy', 'budget', 'export', 'industry', 'regulation', 'compliance',
+    'employees', 'labour', 'labor', 'wage', 'pension', 'india ', 'indian ',
+    'education', 'university', 'college', 'skill india', 'skill development'
+  ];
+  return keywords.some(k => titleLower.includes(k));
 }
 
 // Main crawl function
 async function crawlAllSources() {
-  console.log('🤖 Starting AI news crawl...');
+  console.log('📰 Starting MTM digest crawl...');
   
-  // Initialize AI classifier for intelligent filtering
-  const aiFilterReady = await initializeAIFilter();
+  // Initialize zero-shot relevance filter
+  const relevanceFilterReady = await initializeRelevanceFilter();
   
   const sources = await loadSources();
-  console.log(`Found ${sources.length} sources to crawl`);
+  const priorityRank = { highest: 0, high: 1, medium: 2, low: 3 };
+  sources.sort((a, b) =>
+    (priorityRank[a.priority] ?? 2) - (priorityRank[b.priority] ?? 2)
+  );
+  console.log(`Found ${sources.length} sources to crawl (sorted: highest → low priority)`);
   
   // Crawl all sources in parallel (but with some delay to be nice)
   const allArticles = [];
-  const crawlStats = { totalProcessed: 0, qualityFiltered: 0, aiFiltered: 0 };
+  const crawlStats = { totalProcessed: 0, qualityFiltered: 0, irrelevantFiltered: 0 };
   const batchSize = 5; // Process 5 sources at a time
   
   for (let i = 0; i < sources.length; i += batchSize) {
     const batch = sources.slice(i, i + batchSize);
-    const promises = batch.map(source => crawlFeed(source, aiFilterReady, crawlStats));
+    const promises = batch.map(source => crawlFeed(source, relevanceFilterReady, crawlStats));
     const results = await Promise.all(promises);
     
     for (const result of results) {
@@ -266,14 +236,14 @@ async function crawlAllSources() {
   // Sort by publication date (newest first)
   uniqueArticles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   
-  console.log(`📰 Found ${uniqueArticles.length} unique AI articles`);
-  console.log(`🧠 AI filtering: ${aiFilterReady ? 'ENABLED' : 'Fallback to keywords'}`);
-  if (aiFilterReady && crawlStats.qualityFiltered > 0) {
+  console.log(`📰 Found ${uniqueArticles.length} unique digest articles`);
+  console.log(`🧠 Relevance filter: ${relevanceFilterReady ? 'ENABLED' : 'Keyword fallback'}`);
+  if (relevanceFilterReady && crawlStats.qualityFiltered > 0) {
     const threshold = parseFloat(process.env.CRAWL_CONFIDENCE_THRESHOLD || '0.30');
     console.log(`🚫 Quality filtered during crawl: ${crawlStats.qualityFiltered} articles (< ${(threshold * 100).toFixed(0)}% confidence)`);
   }
-  if (aiFilterReady && crawlStats.aiFiltered > 0) {
-    console.log(`❌ AI relevance filtered: ${crawlStats.aiFiltered} articles`);
+  if (relevanceFilterReady && crawlStats.irrelevantFiltered > 0) {
+    console.log(`❌ Relevance filtered out: ${crawlStats.irrelevantFiltered} articles`);
   }
   console.log(`📊 Crawl stats: ${crawlStats.totalProcessed} processed → ${uniqueArticles.length} kept`);
   
@@ -286,7 +256,7 @@ async function crawlAllSources() {
     crawledAt: new Date().toISOString(),
     totalSources: sources.length,
     totalArticles: uniqueArticles.length,
-    aiFilterUsed: aiFilterReady,
+    relevanceFilterUsed: relevanceFilterReady,
     articles: uniqueArticles
   };
   
@@ -298,8 +268,8 @@ async function crawlAllSources() {
   return uniqueArticles;
 }
 
-// Crawl a single RSS feed with AI-powered filtering
-async function crawlFeed(source, useAIFilter = false, stats = null) {
+// Crawl a single RSS feed with relevance filtering
+async function crawlFeed(source, useRelevanceFilter = false, stats = null) {
   try {
     console.log(`Crawling: ${source.name}`);
     
@@ -307,12 +277,21 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
     const articles = [];
     
     // Different limits based on source type
-    const itemLimit = source.category === 'youtube' ? 10 : 
-                     source.category === 'research' ? 15 :
-                     source.category === 'community' ? 25 :
-                     source.category === 'medium' ? 15 :
-                     source.category === 'developer' ? 12 :
-                     source.category === 'agentic' ? 20 : 20;
+    const itemLimit = source.category === 'marathi' ? 24 :
+                     source.category === 'local_mh' ? 20 :
+                     source.category === 'reddit' ? 15 :
+                     source.category === 'youtube' ? 10 :
+                     source.category === 'newsletter' ? 12 :
+                     source.category === 'startup' ? 12 :
+                     source.category === 'community' ? 12 :
+                     source.category === 'jobs' ? 22 :
+                     source.category === 'education' ? 18 :
+                     source.category === 'state_mh' ? 20 :
+                     source.category === 'national' ? 16 :
+                     source.category === 'legal' ? 15 :
+                     source.category === 'msme' ? 18 :
+                     source.category === 'business' ? 16 :
+                     source.category === 'news' ? 14 : 14;
     
     const items = feed.items.slice(0, itemLimit);
     
@@ -324,7 +303,7 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
       
       if (stats) stats.totalProcessed++;
       
-      // Extract description for AI classification
+      // Extract description for relevance check
       let description = '';
       if (item.contentSnippet) {
         description = item.contentSnippet.substring(0, 200);
@@ -334,14 +313,15 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
         description = item.summary.replace(/<[^>]*>/g, '').substring(0, 200);
       }
       
-      // AI-powered filtering (preferred) or fallback to keywords
+      // Classifier (preferred) or keyword fallback
       let isRelevant = false;
       
-      if (useAIFilter) {
+      if (useRelevanceFilter) {
         // Use AI classifier for intelligent filtering with 75% confidence threshold
-        const aiResult = await isAIRelevantAI(title, description);
+        const aiResult = await isDigestRelevantAI(title, description);
         
         if (aiResult) {
+        
           // Apply confidence threshold for quality filtering
           isRelevant = aiResult.isRelevant && aiResult.meetsQualityThreshold;
           
@@ -351,39 +331,37 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
             console.log(`🚫 Quality filtered: "${title.substring(0, 50)}..." (confidence: ${(aiResult.confidence * 100).toFixed(1)}% < ${(threshold * 100).toFixed(0)}%)`);
             if (stats) stats.qualityFiltered++;
           } else if (!aiResult.isRelevant && aiResult.confidence > 0.2) {
-            console.log(`❌ AI filtered out: "${title}" (confidence: ${aiResult.confidence.toFixed(2)}, category: ${aiResult.topCategory})`);
-            if (stats) stats.aiFiltered++;
+            console.log(`❌ Filtered out: "${title}" (confidence: ${aiResult.confidence.toFixed(2)}, category: ${aiResult.topCategory})`);
+            if (stats) stats.irrelevantFiltered++;
           }
         } else {
           // AI failed, fallback to keyword filtering
-          isRelevant = isAIRelevant(title, source.name);
+          isRelevant = isDigestRelevantTitle(title, source.name);
         }
       } else {
         // Fallback keyword filtering with improved logic
-        const basicAIRelevance = isAIRelevant(title, source.name);
+        const basicDigest = isDigestRelevantTitle(title, source.name);
         
-        if (source.category === 'youtube' || source.category === 'research' || 
-            source.category === 'tutorial' || source.category === 'newsletter') {
-          // Educational sources: broader keywords but still filtered
-          const educationalAIKeywords = [
-            'ai', 'artificial intelligence', 'machine learning', 'ml', 'deep learning',
-            'neural', 'algorithm', 'model', 'data science', 'automation', 'robotics',
-            'computer science', 'programming', 'coding', 'software', 'tech', 'agent'
+        if (source.category === 'jobs' || source.category === 'education') {
+          const broad = [
+            'job', 'exam', 'result', 'admission', 'recruit', 'vacancy', 'course',
+            'scholarship', 'university', 'college', 'skill', 'career', 'trainee'
           ];
-          const hasEducationalAI = educationalAIKeywords.some(keyword => 
-            title.toLowerCase().includes(keyword)
-          );
-          isRelevant = basicAIRelevance || hasEducationalAI;
+          const broadHit = broad.some(k => title.toLowerCase().includes(k.trim()));
+          isRelevant = basicDigest || broadHit;
+        } else if (source.category === 'reddit') {
+          const rkeys = [
+            'job', 'hiring', 'recruit', 'vacancy', 'exam', 'government', 'policy', 'scheme',
+            'mumbai', 'pune', 'maharashtra', 'thane', 'nagpur', 'nashik', 'msme', 'tax', 'metro', 'bmc'
+          ];
+          isRelevant = basicDigest || rkeys.some(k => title.toLowerCase().includes(k));
         } else {
-          // News/business sources: stricter AI relevance
-          isRelevant = basicAIRelevance;
+          isRelevant = basicDigest;
         }
         
-        // Hard exclusions for clearly non-AI content
         const excludeTerms = [
-          'fields medal', 'nobel prize', 'pure mathematics', 'number theory',
-          'sports', 'football', 'basketball', 'soccer', 'tennis', 'olympics',
-          'politics', 'election', 'climate change', 'global warming'
+          'ipl ', ' ipl', 't20 world cup', 'match preview', 'bollywood', 'box office',
+          'movie review', 'celebrity', 'bigg boss', 'web series trailer'
         ];
         const hasExcludedTerm = excludeTerms.some(term => 
           title.toLowerCase().includes(term)
@@ -397,13 +375,21 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
       if (!isRelevant) continue;
       
       // Different time windows based on source type (max 15 days to align with cleanup)
-      const daysBack = source.category === 'youtube' ? 14 :
-                      source.category === 'research' ? 15 :  // Reduced from 30 to prevent reprocessing
-                      source.category === 'community' ? 3 :
-                      source.category === 'medium' ? 7 :
-                      source.category === 'developer' ? 14 :
-                      source.category === 'tutorial' ? 14 :
-                      source.category === 'agentic' ? 10 : 7;
+      const daysBack = source.category === 'marathi' ? 5 :
+                      source.category === 'local_mh' ? 7 :
+                      source.category === 'reddit' ? 4 :
+                      source.category === 'youtube' ? 14 :
+                      source.category === 'newsletter' ? 7 :
+                      source.category === 'startup' ? 7 :
+                      source.category === 'community' ? 5 :
+                      source.category === 'jobs' ? 10 :
+                      source.category === 'education' ? 10 :
+                      source.category === 'state_mh' ? 7 :
+                      source.category === 'national' ? 7 :
+                      source.category === 'legal' ? 14 :
+                      source.category === 'msme' ? 7 :
+                      source.category === 'business' ? 7 :
+                      source.category === 'news' ? 5 : 7;
       
       const pubDate = new Date(item.pubDate || item.isoDate || item.published || Date.now());
       
@@ -444,7 +430,7 @@ async function crawlFeed(source, useAIFilter = false, stats = null) {
       });
     }
     
-    console.log(`✓ ${source.name}: ${articles.length} AI articles found`);
+    console.log(`✓ ${source.name}: ${articles.length} articles kept`);
     return { articles, stats };
     
   } catch (error) {

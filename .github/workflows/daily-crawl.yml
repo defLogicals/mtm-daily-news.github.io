@@ -1,4 +1,4 @@
-name: Daily AI News Crawl with LLM
+name: "MTM digest crawl and build"
 
 on:
   schedule:
@@ -136,7 +136,7 @@ jobs:
           <?xml version="1.0" encoding="UTF-8"?>
           <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
             <url>
-              <loc>https://ai-news-daily.github.io/</loc>
+              <loc>https://mtm-daily-news.github.io/</loc>
               <changefreq>daily</changefreq>
               <priority>1.0</priority>
               <lastmod>$(date -u +%Y-%m-%dT%H:%M:%S+00:00)</lastmod>
@@ -150,7 +150,7 @@ jobs:
           User-agent: *
           Allow: /
           
-          Sitemap: https://ai-news-daily.github.io/sitemap.xml
+          Sitemap: https://mtm-daily-news.github.io/sitemap.xml
           EOF
           
       - name: Optimize and validate
@@ -179,7 +179,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --local user.email "ai-news-bot@users.noreply.github.com"
-          git config --local user.name "AI News Bot"
+          git config --local user.name "MTM digest bot"
           
           # Stash any uncommitted changes (including untracked files) before pulling
           git stash push -u -m "Auto-stash before pull" || echo "Nothing to stash"
@@ -258,7 +258,7 @@ jobs:
           sleep 60  # Wait for deployment
           
           # Check if site is accessible
-          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://ai-news-daily.github.io/" || echo "000")
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://mtm-daily-news.github.io/" || echo "000")
           
           if [ "$STATUS" = "200" ]; then
             echo "✅ Site is healthy (HTTP $STATUS)"
