@@ -1,9 +1,1305 @@
 {
-  "crawledAt": "2026-03-30T15:12:43.470Z",
+  "crawledAt": "2026-03-30T16:54:25.211Z",
   "totalSources": 75,
-  "totalArticles": 56,
+  "totalArticles": 129,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Poomedai Ramaiah: a lone voice amid the electoral cacophony",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-lone-voice-amid-the-electoral-cacophony/article70802876.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:49:48.000Z",
+      "metaDescription": "A short story by writer Jeyamohan seeks to capture the character of Poomedai Ramaiah, an Independent candidate in many elections, who would move around the streets of Nagercoil on his bicycle, putting",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2901940872494451,
+      "crawledAt": "2026-03-30T16:53:40.435Z",
+      "id": "dhdmu7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9989892244338989,
+          "index": 1,
+          "word": "Po",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985767006874084,
+          "index": 4,
+          "word": "Rama",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.98546302318573,
+          "index": 5,
+          "word": "##iah",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Short story by writer Jeyamohan seeks to capture the character of Poomedai Ramaiah, an Independent candidate in many elections.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:54:50.634Z"
+    },
+    {
+      "title": "Satara SP Tushar Doshi sent on leave to ensure impartial probe: CM",
+      "url": "https://indianexpress.com/article/mumbai/satara-sp-tushar-doshi-sent-on-leave-ensure-impartial-probe-cm-fadnavis-10610210/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T16:48:07.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2565065003157469,
+      "crawledAt": "2026-03-30T16:52:50.569Z",
+      "id": "puk0nu",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9218028783798218,
+          "index": 4,
+          "word": "Tu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9548311829566956,
+          "index": 7,
+          "word": "Do",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8105523586273193,
+          "index": 19,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:54:50.959Z"
+    },
+    {
+      "title": "Theosophical Society land ‘sale’ triggers political row in Chittoor",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/theosophical-society-land-row-triggers-political-controversy-in-chittoor/article70803236.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:47:59.000Z",
+      "metaDescription": "YSRCP senior leader and Andhra Pradesh State Mudaliyar Sangham president alleges that some members within his own party carried out encroachment, sparking sharp reactions",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3117719498470728,
+      "crawledAt": "2026-03-30T16:53:40.653Z",
+      "id": "m4sadk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978305697441101,
+          "index": 1,
+          "word": "Theo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9935811758041382,
+          "index": 2,
+          "word": "##so",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949037432670593,
+          "index": 3,
+          "word": "##phic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983527660369873,
+          "index": 4,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970771074295044,
+          "index": 5,
+          "word": "Society",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " YSRCP senior leader and Andhra Pradesh State Mudaliyar Sangham president alleges some members within his party carried out encroachment.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:55:02.830Z"
+    },
+    {
+      "title": "Karnataka MLAs to get three free IPL tickets and two free tickets for international matches",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-mlas-to-get-three-free-ipl-tickets-and-two-free-tickets-for-international-matches/article70804126.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:47:47.000Z",
+      "metaDescription": "MLAs cutting across partylines had demanded tickets for IPL matches being held in Bengaluru",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3132848951814161,
+      "crawledAt": "2026-03-30T16:53:41.313Z",
+      "id": "lzgx2t",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994620084762573,
+          "index": 1,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MLAs cutting across partylines had demanded tickets for matches being held in Bengaluru. MLAs cut across party lines had demanded ticket tickets for Bengaluru matches.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:55:33.464Z"
+    },
+    {
+      "title": "Gram Panchayat Officer Awards: परभणीत आदर्श ग्रामपंचायत अधिकारी पुरस्कारांचे वितरण",
+      "url": "https://agrowon.esakal.com/agro-special/parbhani-gram-panchayat-officer-awards-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T16:30:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.3734096372616375,
+      "crawledAt": "2026-03-30T16:52:23.752Z",
+      "id": "nljnzf",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:56:47.361Z"
+    },
+    {
+      "title": "K'taka High Court refuses to interfere with the arrest of a yoga teacher facing cheating allegations",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/ktaka-high-court-refuses-to-interfere-with-the-arrest-of-a-yoga-teacher-facing-cheating-allegations-3950031",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-30T16:20:37.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3624601371679225,
+      "crawledAt": "2026-03-30T16:54:17.100Z",
+      "id": "42e53b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8244189620018005,
+          "index": 1,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8861338496208191,
+          "index": 5,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.803340494632721,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:57:21.879Z"
+    },
+    {
+      "title": "Assam CM claims BJP ensured community harmony, targets Congress",
+      "url": "https://www.thehindubusinessline.com/news/elections/assam-cm-claims-bjp-ensured-community-harmony-targets-congress/article70804211.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:16:07.000Z",
+      "metaDescription": "Addressing rallies, he targeted the opposition over its alleged neglect of indigenous communities and highlighted BJP’s development efforts in regions like Majuli",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.300128403246357,
+      "crawledAt": "2026-03-30T16:53:44.049Z",
+      "id": "sxd3s7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9960048794746399,
+          "index": 1,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8791120648384094,
+          "index": 2,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9818513989448547,
+          "index": 3,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992529153823853,
+          "index": 5,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.99407958984375,
+          "index": 6,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9978012442588806,
+          "index": 12,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " He targeted the opposition over its alleged neglect of indigenous communities. He highlighted BJP's development efforts in regions like Majuli.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:58:08.032Z"
+    },
+    {
+      "title": "Ashwini Vaishnaw proposes Centre of Excellence at GSV, DGCA MoU to boost aviation training",
+      "url": "https://www.deccanherald.com/india/ashwini-vaishnaw-proposes-centre-of-excellence-at-gsv-dgca-mou-to-boost-aviation-training-3949989",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-30T16:12:08.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.41766556650361725,
+      "crawledAt": "2026-03-30T16:54:17.457Z",
+      "id": "3xivsb",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8836446404457092,
+          "index": 3,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.913733959197998,
+          "index": 4,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9168002009391785,
+          "index": 5,
+          "word": "##ais",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8559649586677551,
+          "index": 6,
+          "word": "##hn",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9513987898826599,
+          "index": 7,
+          "word": "##aw",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9980970025062561,
+          "index": 13,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9255190491676331,
+          "index": 14,
+          "word": "##SV",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9971241354942322,
+          "index": 16,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9898512959480286,
+          "index": 18,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9908286333084106,
+          "index": 19,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.930056631565094,
+          "index": 20,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:58:34.766Z"
+    },
+    {
+      "title": "Pick an activity which puts you out of breath, study finds protection against eight major diseases",
+      "url": "https://www.deccanherald.com/health/pick-an-activity-which-puts-you-out-of-breath-study-finds-protection-against-eight-major-diseases-3949641",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-30T16:12:00.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3636879576867791,
+      "crawledAt": "2026-03-30T16:54:17.567Z",
+      "id": "3y6by7",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:58:34.935Z"
+    },
+    {
+      "title": "Don’t overlook litigation practice, sky is the limit: Ex-CJI Lalit",
+      "url": "https://indianexpress.com/article/cities/pune/dont-overlook-litigation-practice-sky-is-the-limit-ex-cji-lalit-10610167/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T16:10:12.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.9682127445885299,
+      "crawledAt": "2026-03-30T16:52:48.200Z",
+      "id": "hkbsho",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9563490152359009,
+          "index": 16,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:58:35.280Z"
+    },
+    {
+      "title": "Draft IT Rules widen govt oversight to user-generated news content",
+      "url": "https://www.thehindubusinessline.com/news/draft-it-rules-widen-govt-oversight-to-user-generated-news-content/article70803765.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:05:42.000Z",
+      "metaDescription": "Internet societies say such rules should be immediately withdrawn",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.9841427653720444,
+      "crawledAt": "2026-03-30T16:53:44.566Z",
+      "id": "7vk50k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9135159254074097,
+          "index": 2,
+          "word": "IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.994296133518219,
+          "index": 3,
+          "word": "Rules",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Internet societies say such rules should be immediately withdrawn. Internet societies have called for such rules to be immediately pulled. Internet society say such Rules should be immediate withdrawn.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:59:18.923Z"
+    },
+    {
+      "title": "Telangana wants ban on herbcide Paraquat",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/telangana-govt-wants-ban-on-herbcide-paraquat/article70804110.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:03:45.000Z",
+      "metaDescription": "The State government said that the use of highly toxic chemicals like Paraquat contradicted sustainable and natural farming methods",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.2951138975508195,
+      "crawledAt": "2026-03-30T16:53:38.221Z",
+      "id": "jatpgk",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8376486301422119,
+          "index": 8,
+          "word": "Para",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The State government said that the use of highly toxic chemicals like Paraquat contradicted sustainable and natural farming methods. The State Government said that use of toxic chemicals such as Paraqu at contradicted sustainable methods.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:59:43.951Z"
+    },
+    {
+      "title": "Swadeshi technologies and a long-term approach to innovation important for India: IIT-M’s Kamakoti",
+      "url": "https://www.thehindubusinessline.com/news/swadeshi-technologies-and-a-long-term-approach-to-innovation-important-for-india-iit-ms-kamakoti/article70803873.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:03:36.000Z",
+      "metaDescription": "IIT Madras has seen strong demand not just from computer science and allied courses, but also from core engineering companies, says Kamakoti",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.25032195538877844,
+      "crawledAt": "2026-03-30T16:53:44.782Z",
+      "id": "itwadq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8074378967285156,
+          "index": 1,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8365229368209839,
+          "index": 2,
+          "word": "##wa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994547963142395,
+          "index": 16,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.986038863658905,
+          "index": 18,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9579809904098511,
+          "index": 19,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864047169685364,
+          "index": 21,
+          "word": "M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " IIT Madras has seen strong demand not just from computer science and allied courses, but also from core engineering companies.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:59:55.269Z"
+    },
+    {
+      "title": "Iran War | 50,000 Troops In West Asia: Is US Preparing For Iran Entry?",
+      "url": "https://www.youtube.com/shorts/kZmIJGLEuXQ",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T16:00:53.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.28521889106525106,
+      "crawledAt": "2026-03-30T16:53:59.445Z",
+      "id": "19z5jy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9892843961715698,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.845129668712616,
+          "index": 2,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9544199109077454,
+          "index": 9,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9932470917701721,
+          "index": 10,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9374078512191772,
+          "index": 18,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T16:59:55.663Z"
+    },
+    {
+      "title": "Non-violation complaints under WTO's TRIPS agreement: An explainer",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/non-violation-complaints-under-wtos-trips-agreement-an-explainer/articleshow/129905687.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:53:41.000Z",
+      "metaDescription": "World Trade Organisation members could not agree to extend a safeguard on intellectual property rules. This means the moratorium on non-violation complaints under the TRIPS Agreement has expired. This",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.5751035283347772,
+      "crawledAt": "2026-03-30T16:52:40.660Z",
+      "id": "ce792h",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994937777519226,
+          "index": 6,
+          "word": "W",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986274838447571,
+          "index": 7,
+          "word": "##TO",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " World Trade Organisation members could not agree to extend a safeguard on intellectual property rules. This means the moratorium on non-violation complaints under the TRIPS Agreement has expired.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:00:07.467Z"
+    },
+    {
+      "title": "Inside NASA's Artemis II Mission That Sends Humans Back Toward Moon",
+      "url": "https://www.ndtv.com/world-news/inside-nasas-artemis-ii-mission-that-sends-humans-back-toward-moon-11287601#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:42:50.000Z",
+      "metaDescription": "More than a symbolic return, Artemis II is designed as a carefully staged, crewed test flight, validating every major system required for sustained human exploration of deep space.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2939312327886166,
+      "crawledAt": "2026-03-30T16:53:49.748Z",
+      "id": "yuvs66",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974802136421204,
+          "index": 2,
+          "word": "NASA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9851943254470825,
+          "index": 5,
+          "word": "Artemis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9983636736869812,
+          "index": 6,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8411963582038879,
+          "index": 7,
+          "word": "Mission",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9154090285301208,
+          "index": 14,
+          "word": "Moon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Artemis II is designed as a carefully staged, crewed test flight. It validates every major system required for sustained human exploration of deep space.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:00:46.873Z"
+    },
+    {
+      "title": "'India Is Free Of Naxal Violence': Amit Shah's Big Declaration In Parliament",
+      "url": "https://www.ndtv.com/india-news/eradication-of-maoist-naxals-parliament-shadow-of-red-terror-lifted-bastar-on-path-of-development-amit-shah-11286777#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:42:32.000Z",
+      "metaDescription": "Amit Shah said \"Naxalism in the country is now on the verge of extinction\"",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.4644072134772758,
+      "crawledAt": "2026-03-30T16:53:53.318Z",
+      "id": "q390sq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8222663402557373,
+          "index": 2,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996783137321472,
+          "index": 12,
+          "word": "Am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992676377296448,
+          "index": 13,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999447762966156,
+          "index": 14,
+          "word": "Shah",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Amit Shah said \"Naxalism in the country is now on the verge of extinction\" Amit Shah says \"Nxalism\" in the nation is now \"on the verge\" of extinction.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:00:59.995Z"
+    },
+    {
+      "title": "CAPF Bill weakens legislature, ignores judiciary, against federal structure: Opposition in Rajya Sabha",
+      "url": "https://indianexpress.com/article/india/capf-bill-weakens-legislature-judiciary-federal-structure-oppn-rajya-sabha-10610114/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:41:58.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.40633199246813806,
+      "crawledAt": "2026-03-30T16:52:46.001Z",
+      "id": "ci91o6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.865562379360199,
+          "index": 1,
+          "word": "CA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9053369760513306,
+          "index": 19,
+          "word": "Raj",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8635833263397217,
+          "index": 21,
+          "word": "Sabha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:00.143Z"
+    },
+    {
+      "title": "US Marine who lost both legs in Afghanistan in 2010 now leads 'Geek Squad': 'Nothing is truly ever deleted'",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-marine-who-lost-both-legs-in-afghanistan-in-2010-now-leads-geek-squad-nothing-is-truly-ever-deleted/articleshow/129905323.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:39:30.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.8985880355503514,
+      "crawledAt": "2026-03-30T16:53:46.712Z",
+      "id": "3d6njc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9801347851753235,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997543692588806,
+          "index": 8,
+          "word": "Afghanistan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9897717237472534,
+          "index": 14,
+          "word": "Gee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9018117785453796,
+          "index": 15,
+          "word": "##k",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9943026304244995,
+          "index": 16,
+          "word": "Squad",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:19.152Z"
+    },
+    {
+      "title": "RBI Payments Vision 2028: The Silent Revolution That Could Make India the World’s Digital…",
+      "url": "https://medium.com/@politicalsciencesolution/rbi-payments-vision-2028-the-silent-revolution-that-could-make-india-the-worlds-digital-8b471d595abe?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:38:44.000Z",
+      "metaDescription": "What if I told you that the way India pays for everything — from chai to global trade — is about to change forever?\nContinue reading on Medium »",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.43128564018153526,
+      "crawledAt": "2026-03-30T16:54:00.033Z",
+      "id": "rqa356",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.995295524597168,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8070042133331299,
+          "index": 2,
+          "word": "Pay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9479231834411621,
+          "index": 3,
+          "word": "##ments",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8907104730606079,
+          "index": 10,
+          "word": "Revolution",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9915894865989685,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India pays for everything — from chai to global trade — is about to change forever? What if I told you that the way India pays is aboutto change forever.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:33.558Z"
+    },
+    {
+      "title": "Indian gas maker INOX Air Products plans $1 billion IPO, appoints bankers, sources say",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-maker-inox-air-products-plans-1-billion-ipo-appoints-bankers-sources-say/articleshow/129905280.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:35:57.000Z",
+      "metaDescription": "Indian industrial and medical gas maker ​INOX Air Products is planning ​to launch a $1 billion initial public offering in ​Mumbai, and has appointed Kotak, JPMorgan and Citi to manage the IPO, three s",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3379099516770646,
+      "crawledAt": "2026-03-30T16:52:33.706Z",
+      "id": "lnfy6r",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9966405630111694,
+          "index": 1,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993791580200195,
+          "index": 4,
+          "word": "IN",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993333220481873,
+          "index": 6,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992591738700867,
+          "index": 7,
+          "word": "Products",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8329085111618042,
+          "index": 12,
+          "word": "IP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Indian industrial and medical gas maker ​INOX Air Products is planning to launch a $1 billion initial public offering in Mumbai.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:45.474Z"
+    },
+    {
+      "title": "Amid West Asia war, why Spain has banned US military aircraft from its airspace",
+      "url": "https://indianexpress.com/article/explained/explained-global/iran-spain-airspace-ban-us-military-pedro-sanchez-10610064/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:31:50.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2507441101823356,
+      "crawledAt": "2026-03-30T16:53:29.115Z",
+      "id": "t7gv8t",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9553148746490479,
+          "index": 3,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9897844791412354,
+          "index": 4,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997779726982117,
+          "index": 8,
+          "word": "Spain",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9377330541610718,
+          "index": 11,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:59.113Z"
+    },
+    {
+      "title": "Carbon Credit Workshop: मराठवाडा कृषी विद्यापीठात कार्बन क्रेडिट कार्यशाळा",
+      "url": "https://agrowon.esakal.com/agro-special/carbon-credit-workshop-marathwada-agriculture-university-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:30:00.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.25994832016687863,
+      "crawledAt": "2026-03-30T16:52:24.081Z",
+      "id": "vzw7lm",
+      "entities": [],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:01:59.476Z"
+    },
+    {
+      "title": "4 Travel books that will make your journey even better",
+      "url": "https://yourstory.com/2026/03/travel-books-read-journey",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T15:30:00.000Z",
+      "metaDescription": "Discover four perfect travel books that inspire, entertain and reflect—making every journey richer, more meaningful and unforgettable.",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.27577809219030786,
+      "crawledAt": "2026-03-30T16:54:02.310Z",
+      "id": "7m9ltt",
+      "entities": [],
+      "summary": " Discover four perfect travel books that inspire, entertain and reflect. Make every journey richer, more meaningful and unforgettable. Discover four travel books to inspire, inspire and reflect.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:02:09.833Z"
+    },
+    {
+      "title": "PMC nod to Rs 135.57 cr water supply scheme for Keshavnagar – Mundhwa area",
+      "url": "https://indianexpress.com/article/cities/pune/pmc-nod-to-rs-135-57-cr-water-supply-scheme-for-keshavnagar-mundhwa-area-10610097/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:20:50.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.27286374720932804,
+      "crawledAt": "2026-03-30T16:52:48.421Z",
+      "id": "pceizi",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988580346107483,
+          "index": 1,
+          "word": "PM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9937956929206848,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.991451621055603,
+          "index": 15,
+          "word": "Ke",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.990549623966217,
+          "index": 18,
+          "word": "##nagar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.987013578414917,
+          "index": 20,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9786673784255981,
+          "index": 22,
+          "word": "##hwa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:02:37.857Z"
+    },
+    {
+      "title": "Nagpur Mahavitaran | नागपूर जिल्ह्यात 53 कोटींची थकबाकी: महावितरणचा 'हाय व्होल्टेज' शॉक",
+      "url": "https://pudhari.news/maharashtra/vidarbha/nagpur/nagpur-mahavitaran-unpaid-bills-53-crore-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-03-30T15:17:48.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.45738452324627893,
+      "crawledAt": "2026-03-30T16:52:13.521Z",
+      "id": "pbu7ja",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9262465238571167,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.93182772397995,
+          "index": 3,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9906260967254639,
+          "index": 4,
+          "word": "Ma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9826761484146118,
+          "index": 5,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8969618082046509,
+          "index": 6,
+          "word": "##vi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9459995031356812,
+          "index": 7,
+          "word": "##tara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8886461853981018,
+          "index": 8,
+          "word": "##n",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:02:48.936Z"
+    },
+    {
+      "title": "Shinde revives ‘Shivshahi’ push; new urban mission aims to make Mumbai slum-free",
+      "url": "https://indianexpress.com/article/cities/mumbai/shinde-revives-shivshahi-push-new-urban-mission-aims-to-make-mumbai-slum-free-10610089/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T15:15:05.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5222661811903374,
+      "crawledAt": "2026-03-30T16:52:50.821Z",
+      "id": "jwaf0f",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8318061232566833,
+          "index": 1,
+          "word": "Shin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999528706073761,
+          "index": 19,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:02:49.339Z"
+    },
     {
       "title": "DGP appeals to Maoists to surrender and join mainstream",
       "url": "https://www.thehindu.com/news/national/telangana/dgp-appeals-to-maoists-to-surrender-and-join-mainstream/article70802578.ece",
@@ -2511,20 +3807,1868 @@
       "summary": "The Finance Minister says the government will pay for the locker rent in case of loss. The government has said it will not pay for a loss of a locker.",
       "language": "en",
       "processed_at": "2026-03-30T15:35:38.051Z"
+    },
+    {
+      "title": "Can mice save astronauts on Mars? Scientists discover surprising fitness solution in space",
+      "url": "https://timesofindia.indiatimes.com/science/can-mice-save-astronauts-on-mars-scientists-discover-surprising-fitness-solution-in-space/articleshow/129895508.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T09:30:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.4733961398976519,
+      "crawledAt": "2026-03-30T16:53:48.734Z",
+      "id": "4ec3ld",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.995718777179718,
+          "index": 7,
+          "word": "Mars",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:03:45.899Z"
+    },
+    {
+      "title": "Want minister’s answer on why we were not consulted on Transgender Bill: Advisory body member Dr Aparna Lalingkar",
+      "url": "https://indianexpress.com/article/cities/pune/dr-aparna-lalingkar-nctp-transgender-bill-2026-consultation-row-10609450/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T09:23:20.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.25622559909140236,
+      "crawledAt": "2026-03-30T16:52:49.365Z",
+      "id": "ulabzq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9864051938056946,
+          "index": 13,
+          "word": "Trans",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9173716306686401,
+          "index": 14,
+          "word": "##gen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9230074882507324,
+          "index": 15,
+          "word": "##der",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9388160705566406,
+          "index": 16,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995567202568054,
+          "index": 22,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9774259328842163,
+          "index": 24,
+          "word": "##na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990554451942444,
+          "index": 25,
+          "word": "Lal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9916999936103821,
+          "index": 26,
+          "word": "##ing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.986613392829895,
+          "index": 27,
+          "word": "##kar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:04:12.723Z"
+    },
+    {
+      "title": "What are FD-backed credit cards? Are they worth it? Benefits, risks and best options",
+      "url": "https://www.livemint.com/money/personal-finance/what-are-fd-backed-credit-cards-are-they-worth-it-benefits-risks-and-best-options-11774859443724.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T09:16:56.000Z",
+      "metaDescription": "FD-backed credit cards offer a simple way to build a credit score using fixed deposits, with easy approval, steady interest earnings, and manageable risks when used responsibly and strategically. Here",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.8700354640482033,
+      "crawledAt": "2026-03-30T16:52:38.305Z",
+      "id": "lut50s",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9869709014892578,
+          "index": 3,
+          "word": "F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " FD-backed credit cards offer a simple way to build a credit score using fixed deposits. They offer easy approval, steady interest earnings, and manageable risks when used responsibly and strategically.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:04:46.697Z"
+    },
+    {
+      "title": "Maharashtra Weather | राज्यात पुढील दोन दिवस अवकाळीचा तडाखा; पुणे, सातारा आणि सांगलीला ‘ऑरेंज अलर्ट’",
+      "url": "https://www.tarunbharat.com/unseasonal-rains-to-hit-the-state-for-the-next-two-days-orange-alert-for-pune-satara-and-sangli-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-03-30T09:16:44.000Z",
+      "metaDescription": "सोलापूरसह पश्चिम महाराष्ट्रात गारपिटीचा इशारा पुणे -राज्यात पुढील दोन दिवस अवकाळी पावसाची तीव्रता वाढणार असून, यामध्ये पुढील दोन दिवसांत काही जिल्ह्यांना गारपिटीसह जोरदार पावसाचा ऑरेंज अलर्ट देण्यात आ",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3436974348219858,
+      "crawledAt": "2026-03-30T16:52:18.578Z",
+      "id": "ybyqz7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9306578636169434,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The World Cup is a competition for the world's most popular sports event. The event is held in the United States.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:04:57.814Z"
+    },
+    {
+      "title": "Your Ultimate Partner for UPSC Success — Vishnu IAS Academy",
+      "url": "https://medium.com/@vishnuiasacademy569/your-ultimate-partner-for-upsc-success-vishnu-ias-academy-ab919d07810f?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-03-30T08:36:13.000Z",
+      "metaDescription": "Preparing for the UPSC Civil Services Examination is not just about studying hard — it’s about studying smart with the right guidance…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2780035043646466,
+      "crawledAt": "2026-03-30T16:54:19.453Z",
+      "id": "pbxlee",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9837878346443176,
+          "index": 5,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9449548125267029,
+          "index": 6,
+          "word": "##SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9688777923583984,
+          "index": 9,
+          "word": "Vishnu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9413161277770996,
+          "index": 10,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9667718410491943,
+          "index": 11,
+          "word": "##AS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9543768763542175,
+          "index": 12,
+          "word": "Academy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Preparing for the UPSC Civil Services Examination is not just about studying hard — it's about studying smart with the right guidance.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:05:26.471Z"
+    },
+    {
+      "title": "How FCNR accounts offer safe, stable returns for NRIs — key features explained",
+      "url": "https://www.livemint.com/money/personal-finance/how-fcnr-accounts-offer-safe-stable-returns-for-nris-key-features-explained-11774853994462.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T08:18:28.000Z",
+      "metaDescription": "FCNR accounts allow NRIs to invest in foreign currencies, offering tax-exempt interest in India. Loans against these deposits are available, but restrictions apply. Interest rates are competitive, and",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.2635860623860384,
+      "crawledAt": "2026-03-30T16:52:38.533Z",
+      "id": "wb0k7w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9940441250801086,
+          "index": 2,
+          "word": "FC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9452378749847412,
+          "index": 3,
+          "word": "##NR",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "FCNR accounts allow NRIs to invest in foreign currencies, offering tax-exempt interest in India. Interest rates are competitive, and restrictions apply.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:06:18.457Z"
+    },
+    {
+      "title": "7 personal finance rules you can't ignore to make your FY27 successful",
+      "url": "https://www.livemint.com/money/personal-finance/7-personal-finance-rules-you-cant-ignore-to-make-your-fy27-successful-11774853267767.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T07:48:50.000Z",
+      "metaDescription": "Master personal finance rules to make FY27 successful by tracking spending, managing debt, building emergency funds, investing smartly, reviewing insurance, automating savings and planning taxes effic",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.44442681706485593,
+      "crawledAt": "2026-03-30T16:52:38.754Z",
+      "id": "phx5fa",
+      "entities": [],
+      "summary": " Master personal finance rules to make FY27 successful by tracking spending, managing debt, building emergency funds, investing smartly and reviewing insurance.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:06:39.236Z"
+    },
+    {
+      "title": "MSME Online Registration: A Must-Step for Every Small Business in India",
+      "url": "https://medium.com/@drnandanipriya/msme-online-registration-a-must-step-for-every-small-business-in-india-7bdc777da67a?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T07:38:38.000Z",
+      "metaDescription": "Content:\nContinue reading on Medium »",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3100725425480292,
+      "crawledAt": "2026-03-30T16:54:00.280Z",
+      "id": "gnqbrj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9388954639434814,
+          "index": 1,
+          "word": "MS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9706670641899109,
+          "index": 2,
+          "word": "##ME",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.998202919960022,
+          "index": 16,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:06:47.704Z"
+    },
+    {
+      "title": "He sold butter on a bicycle, now his GRB is India’s ghee king",
+      "url": "https://yourstory.com/2026/03/he-sold-butter-bicycle-grb-indias-ghee-king-gr-balasubramaniam",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T07:35:54.000Z",
+      "metaDescription": "GRB Dairy Foods is on course to achieving Rs 1,400 crore in annual revenue. The company sells ghee, sweets, snacks, and spices in more than 40 countries. And more importantly, it has never taken a sin",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25892211184904557,
+      "crawledAt": "2026-03-30T16:54:03.488Z",
+      "id": "ynld1n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9889816641807556,
+          "index": 10,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8419817090034485,
+          "index": 11,
+          "word": "##RB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996926188468933,
+          "index": 13,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " GRB Dairy Foods is on course to achieve Rs 1,400 crore in annual revenue. The company sells ghee, sweets, snacks, and spices in more than 40 countries.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:06:58.698Z"
+    },
+    {
+      "title": "Summer Health Tips: उन्हाळ्यात फ्रीजचे पाणी नकोय? थंड पाण्यासाठी ‘असा’ निवडा योग्य माठ; पाहा सोप्या टिप्स",
+      "url": "https://www.navakal.in/lekh/how-to-choose-best-clay-pot-for-cool-water-in-summer-tips/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T07:30:00.000Z",
+      "metaDescription": "Summer Health Tips: उन्हाळ्याचा पारा जसा वाढू लागतो, तशी थंड पाण्याची तहानही वाढते. अनेकजण फ्रीजमधील अतिथंड पाण्याऐवजी माठातील नैसर्गिकरित्या थंड झालेले पाणी पिण्याला पसंती देतात. माठातील पाणी केवळ घश",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.46108859924136253,
+      "crawledAt": "2026-03-30T16:53:12.549Z",
+      "id": "ceqh6o",
+      "entities": [],
+      "summary": " The World Health Tips. Summer Health Tips: ’s health Tips:  ‘I’m “’t’d like to see how much I’ve had to do with my health,’",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:26.126Z"
+    },
+    {
+      "title": "Press Conference on Census-2027",
+      "url": "https://www.youtube.com/watch?v=cf84JWmY8Ck",
+      "source": "YouTube — PIB India (official)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T07:27:31.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.26986075323689446,
+      "crawledAt": "2026-03-30T16:52:54.428Z",
+      "id": "un9pa9",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:26.204Z"
+    },
+    {
+      "title": "Race against rain: Maharashtra farmers urged to move rabi harvest to safety immediately",
+      "url": "https://indianexpress.com/article/cities/mumbai/imd-maharashtra-weather-alert-rain-thunderstorm-rabi-crop-advisory-10609229/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T07:27:13.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3710434872687706,
+      "crawledAt": "2026-03-30T16:52:51.522Z",
+      "id": "3dltrn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997172951698303,
+          "index": 5,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:26.354Z"
+    },
+    {
+      "title": "LPG And PNG Gas : आखाती युद्धाचे सावट आणि इंधन संकट: एलपीजी की पीएनजी? सर्वसामान्यांसमोर निवडीचा पेच? वाचा एलपीजी आणि पीएनजी यात नेमका फरक काय..",
+      "url": "https://www.navakal.in/desh-videsh/lpg-and-png-gas-the-shadow-of-the-gulf-war-and-the-fuel-crisis-lpg-or-png-a-dilemma-for-the-common-man-read-what-is-the-exact-difference-between-lpg-and-png/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T07:22:00.000Z",
+      "metaDescription": "LPG And PNG Gas : आखाती देशांमध्ये उद्भवलेल्या युद्धजन्य परिस्थितीचा थेट परिणाम जागतिक बाजारपेठेवर झाला असून, भारतासारख्या विकसनशील देशात इंधनाच्या प्रश्नाने उग्र रूप धारण केले आहे. विशेषतः द्रवीभूत प",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5245933048782434,
+      "crawledAt": "2026-03-30T16:53:13.038Z",
+      "id": "wy91gx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972827434539795,
+          "index": 1,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9904928803443909,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9042971730232239,
+          "index": 4,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864354133605957,
+          "index": 5,
+          "word": "##NG",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " LPG And PNG Gas. LPG and PNG Gas. LPG & PNG Gas: The company is based in PNG.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:36.725Z"
+    },
+    {
+      "title": "Mumbai heat: BMC turns to cool roof coating to cut heat in buildings",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-heat-bmc-turns-to-cool-roof-coating-to-cut-heat-in-buildings-10609184/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T07:17:57.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.370568426642414,
+      "crawledAt": "2026-03-30T16:52:51.624Z",
+      "id": "za8kug",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995632767677307,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9991859197616577,
+          "index": 4,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9911993741989136,
+          "index": 5,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:36.840Z"
+    },
+    {
+      "title": "Women’s Health Tips: वयाची 30 ओलांडलीये? महिलांमध्ये कॅल्शिअमच्या कमतरतेमुळे उद्भवू शकतात गंभीर आजार; ‘हे’ 5 संकेत ओळखा",
+      "url": "https://www.navakal.in/lekh/calcium-deficiency-symptoms-in-women-after-30-diet-tips-prevention-marathi-news/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T07:00:00.000Z",
+      "metaDescription": "Women’s Health Tips: धावपळीच्या जीवनशैलीत महिला अनेकदा स्वतःच्या आरोग्याकडे दुर्लक्ष करतात. विशेषतः वयाची 30 ओलांडल्यानंतर शरीरातील कॅल्शिअमची पातळी खालावल्याने हाडे कमकुवत होण्याची प्रक्रिया सुरू होत",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.395200832431336,
+      "crawledAt": "2026-03-30T16:53:13.362Z",
+      "id": "3agc3h",
+      "entities": [],
+      "summary": " The Women’s Health Tips: The Women's Health Tips. Women‘s Health tips: The Health Tips are a guide to women's health.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:47.739Z"
+    },
+    {
+      "title": "From company cars to interest-free loans: CA explains what’s changing for salaried employees from April 1",
+      "url": "https://www.livemint.com/money/personal-finance/from-company-cars-to-interest-free-loans-ca-explains-what-s-changing-for-salaried-employees-from-april-1-11774847440396.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T06:58:50.000Z",
+      "metaDescription": "According to an X post by CA Nitin Kaushik, who claims to be an expert in tax and financing, the new Income Tax Rules will to some extent shrink your take-home salary.",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.28254754680114114,
+      "crawledAt": "2026-03-30T16:52:39.006Z",
+      "id": "56mk8f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957315921783447,
+          "index": 10,
+          "word": "CA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " New Income Tax Rules will shrink your take-home salary. The rules will also shrink yourTake-home salaries.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:07:54.952Z"
+    },
+    {
+      "title": "The 12% surcharge: who's affected and who benefits from the new share buyback rules?",
+      "url": "https://www.livemint.com/money/personal-finance/buyback-tax-india-finance-bill-2026-capital-gains-promoter-surcharge-11774846098582.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T06:53:11.000Z",
+      "metaDescription": "A flat 12% surcharge on buyback gains has replaced the old slab-based system, creating a surprising divide between small promoters and the corporate elite.",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.2658522021284811,
+      "crawledAt": "2026-03-30T16:52:39.227Z",
+      "id": "opgfx5",
+      "entities": [],
+      "summary": " A flat 12% surcharge on buyback gains has replaced the old slab-based system. The new slab-style system has created a divide between small promoters and the corporate elite.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:08:05.775Z"
+    },
+    {
+      "title": "‘Don’t move Kalakar Katta, regulate traffic’: NGO makes case for saving Pune’s popular cultural gathering spot",
+      "url": "https://indianexpress.com/article/cities/pune/dont-move-regulate-ngo-for-saving-punes-cultural-gathering-spot-kalakar-katta-10609128/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T06:36:28.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.8804877217335094,
+      "crawledAt": "2026-03-30T16:52:49.643Z",
+      "id": "vzl4no",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9953201413154602,
+          "index": 6,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9147147536277771,
+          "index": 9,
+          "word": "Kat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9970315098762512,
+          "index": 21,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:08:05.938Z"
+    },
+    {
+      "title": "Mohit Kamboj Daughter Birthday Party : राजकीय मतभेद विरघळले; मोहित कंबोज यांच्या कन्येच्या शाही वाढदिवस सोहळ्यात दिग्गज नेत्यांसह बॉलिवूड ताऱ्यांची मांदियाळी",
+      "url": "https://www.navakal.in/maharashtra/mohit-kamboj-daughter-birthday-party-mohit-kamboj-daughter-mishka-birthday-party-aaditya-thackeray-raj-thackeray-devendra-fadnavis/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T06:28:05.000Z",
+      "metaDescription": "Mohit Kamboj Daughter Birthday Party : भारतीय जनता पक्षाचे धडाडीचे नेते आणि प्रसिद्ध उद्योजक मोहित कंबोज यांची कन्या मिश्का कंबोज हिचा सोळावा वाढदिवस नुकताच मुंबईतील एका आलिशान पंचतारांकित हॉटेलमध्ये ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2502887184504207,
+      "crawledAt": "2026-03-30T16:53:14.013Z",
+      "id": "n28th8",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.99834805727005,
+          "index": 1,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8034323453903198,
+          "index": 2,
+          "word": "##hit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9953978061676025,
+          "index": 3,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mohit Kamboj Daughter Birthday Party held at Mohit's daughter's birthday party. The party will be held at the home of Mohit.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:08:41.501Z"
+    },
+    {
+      "title": "The Importance of Udyam Registration for Business Opportunities",
+      "url": "https://medium.com/@driving0404/the-importance-of-udyam-registration-for-business-opportunities-79980c33328a?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T06:17:06.000Z",
+      "metaDescription": "Every business aims to grow by exploring new opportunities, but without proper recognition, it can be difficult to achieve this goal.\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26285329903803,
+      "crawledAt": "2026-03-30T16:54:00.635Z",
+      "id": "xcjauv",
+      "entities": [],
+      "summary": " Every business aims to grow by exploring new opportunities, but without proper recognition, it can be difficult to achieve this goal.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:09:04.885Z"
+    },
+    {
+      "title": "Inside PHDCCI: How Policy Dialogues Translate into Actionable Impact",
+      "url": "https://medium.com/@phdchamber77/inside-phdcci-how-policy-dialogues-translate-into-actionable-impact-d15b4ff47628?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T06:12:13.000Z",
+      "metaDescription": "In today’s dynamic global economy, where policy decisions shape business landscapes overnight, Indian industry needs a trusted bridge…\nContinue reading on Medium »",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2847056832224901,
+      "crawledAt": "2026-03-30T16:54:00.813Z",
+      "id": "h1w4ea",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8184263706207275,
+          "index": 2,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9009903073310852,
+          "index": 9,
+          "word": "Dialogue",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In today’s dynamic global economy, where policy decisions shape business landscapes overnight, Indian industry needs a trusted bridge.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:09:15.084Z"
+    },
+    {
+      "title": "Telkom Indonesia Boosts MSME Competitiveness, 556,500 Packages Produced through PackFest Program",
+      "url": "https://medium.com/@telkomsustainability/telkom-indonesia-boosts-msme-competitiveness-556-500-packages-produced-through-packfest-program-3ebf2b2c1d85?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T05:55:16.000Z",
+      "metaDescription": "Jakarta — Product packaging plays a strategic role in enhancing MSME competitiveness, not only as a means of product protection but also…\nContinue reading on Medium »",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3024493354239626,
+      "crawledAt": "2026-03-30T16:54:01.285Z",
+      "id": "ycfesc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9968220591545105,
+          "index": 1,
+          "word": "Tel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976038932800293,
+          "index": 2,
+          "word": "##ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972668886184692,
+          "index": 3,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986490607261658,
+          "index": 4,
+          "word": "Indonesia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9534135460853577,
+          "index": 5,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9215543866157532,
+          "index": 8,
+          "word": "MS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Product packaging plays a strategic role in enhancing MSME competitiveness, not only as a means of product protection but also as a way of product packaging.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:09:54.074Z"
+    },
+    {
+      "title": "Paying on time isn’t enough, credit utilisation matters too: HDB Financial CCO Rohit Patwardhan",
+      "url": "https://www.livemint.com/money/personal-finance/paying-on-time-isn-t-enough-credit-utilisation-matters-too-hdb-financial-cco-rohit-patwardhan-credit-score-11774847094483.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-30T05:33:23.000Z",
+      "metaDescription": "Paying EMIs on time alone isn’t enough, high credit utilisation and frequent loan applications can still hurt your credit score by signalling over-dependence on credit.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5833605006402061,
+      "crawledAt": "2026-03-30T16:52:39.720Z",
+      "id": "lir408",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981330633163452,
+          "index": 17,
+          "word": "HD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9931914210319519,
+          "index": 18,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.994297981262207,
+          "index": 22,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9081064462661743,
+          "index": 24,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9974359273910522,
+          "index": 25,
+          "word": "Pat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9882537722587585,
+          "index": 26,
+          "word": "##ward",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Paying EMIs on time alone isn't enough, says expert. High credit utilisation and frequent loan applications can still hurt your credit score.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:10:11.133Z"
+    },
+    {
+      "title": "Fino In Freefall, And A Race Against The Clock",
+      "url": "https://inc42.com/features/fino-in-freefall-and-a-race-against-the-clock/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T05:30:47.000Z",
+      "metaDescription": "The year began with a bang for Fino Payments Bank when the Reserve Bank of India cleared Rishi Gupta’s reappointment…",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25254842732752153,
+      "crawledAt": "2026-03-30T16:54:05.841Z",
+      "id": "cl4zik",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8367133736610413,
+          "index": 4,
+          "word": "Free",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9487404227256775,
+          "index": 10,
+          "word": "Against",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9815087914466858,
+          "index": 11,
+          "word": "The",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9843302369117737,
+          "index": 12,
+          "word": "Clock",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The year began with a bang for Fino Payments Bank when the Reserve Bank of India cleared Rishi Gupta’s reappointment.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:10:34.066Z"
+    },
+    {
+      "title": "Trust, not technology, is helping startups make inroads into the Indian hinterland",
+      "url": "https://www.livemint.com/companies/start-ups/india-startups-bharat-tier-2-market-inroads-business-price-conscious-customer-internet-upi-penetration-trust-tech-11774594443932.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T05:26:16.000Z",
+      "metaDescription": "Startups in India focus on trust and technology in targeting small town India. Companies like Wealthy and Supernova have adapted business models to local nuances, highlighting the importance of relati",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3802219607586865,
+      "crawledAt": "2026-03-30T16:53:19.035Z",
+      "id": "s5o6gv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9997038841247559,
+          "index": 15,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Startups in India focus on trust and technology in targeting small town India. Companies like Wealthy and Supernova have adapted business models to local nuances.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:10:53.631Z"
+    },
+    {
+      "title": "Kitchen Tips: सावधान! तुमच्या किचनमधील ‘ही’ भांडी वाढवू शकतात आजार; आरोग्यासाठी आजच करा बदल",
+      "url": "https://www.navakal.in/lekh/kitchen-cookware-replacement-guide-healthy-cooking-tips-2026/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T05:00:00.000Z",
+      "metaDescription": "Kitchen Tips: आपण घराच्या सजावटीसाठी पडदे, सतरंज्या किंवा भिंतींचा रंग वेळोवेळी बदलतो, पण स्वयंपाकघरातील भांड्यांकडे मात्र अनेकदा दुर्लक्ष होते. जोपर्यंत अन्न शिजतेय, तोपर्यंत भांडी बदलण्याची गरज नाही",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2649679385097183,
+      "crawledAt": "2026-03-30T16:53:15.512Z",
+      "id": "eux6h9",
+      "entities": [],
+      "summary": "   ‘ ’s “’   ” ‚’   - ‬’S. ‘I’m.’: � ‪’",
+      "language": "en",
+      "processed_at": "2026-03-30T17:11:10.312Z"
+    },
+    {
+      "title": "Beginner’s Guide to Cloud Computing Career in Amaravati and Chhatrapati Sambhajinagar",
+      "url": "https://medium.com/@apathade866/beginners-guide-to-cloud-computing-career-in-amaravati-and-chhatrapati-sambhajinagar-134c8f9a8ecc?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T04:23:13.000Z",
+      "metaDescription": "Cloud computing is a great career option for beginners who want to enter the IT field in Amaravati and Chhatrapati Sambhajinagar.\nContinue reading on Medium »",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9508677321609392,
+      "crawledAt": "2026-03-30T16:53:55.994Z",
+      "id": "6agsoc",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8867583274841309,
+          "index": 9,
+          "word": "Computing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8266085386276245,
+          "index": 16,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cloud computing is a great career option for beginners who want to enter the IT field in Amaravati and Chhatrapati Sambhajinagar.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:11:22.555Z"
+    },
+    {
+      "title": "RBI’s new forex cap to stem rupee slide: Why are banks worried?",
+      "url": "https://indianexpress.com/article/explained/explained-economics/rbi-forex-exposure-cap-rupee-explained-10608912/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T04:06:17.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.4281638600982476,
+      "crawledAt": "2026-03-30T16:53:29.586Z",
+      "id": "fzb2zg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9993327856063843,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:11:22.681Z"
+    },
+    {
+      "title": "US Treasury to consult with insurance regulators on private credit lenders, sources say",
+      "url": "https://www.livemint.com/companies/us-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-11774830917693.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T00:35:17.000Z",
+      "metaDescription": "USA-TREASURY/CREDIT MARKET (EXCLUSIVE, PIX):EXCLUSIVE-US Treasury to consult with insurance regulators on private credit lenders, sources say",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.44603039548888235,
+      "crawledAt": "2026-03-30T16:53:19.231Z",
+      "id": "3w0bpw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979120492935181,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9951373934745789,
+          "index": 2,
+          "word": "Treasury",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The U.S. Treasury will consult with insurance regulators on private credit lenders, sources say. Sources say the Treasury is looking at private lenders.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:12:07.447Z"
+    },
+    {
+      "title": "IFC to up India investments 30% to $7 bn this fiscal, focus on local push, jobs",
+      "url": "https://www.livemint.com/companies/world-bank-ifc-india-investment-fy26-development-financing-municipal-jobs-11774763449555.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-30T00:15:23.000Z",
+      "metaDescription": "International Finance Corporation plans to raise India investments by 30% to $7 billion this fiscal, focusing on infrastructure, e-mobility, cities, and MSMEs. The lender has already committed $5.2 bi",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.297130764045393,
+      "crawledAt": "2026-03-30T16:53:19.716Z",
+      "id": "te7bn9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990732669830322,
+          "index": 1,
+          "word": "IF",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958833456039429,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999715268611908,
+          "index": 5,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " International Finance Corporation plans to raise India investments by 30% to $7 billion this fiscal. The lender has already committed $5.2 bi-bodies.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:12:30.375Z"
+    },
+    {
+      "title": "CTG Duty Free Looks to Earnings Catalyst to Snap 39% Rout",
+      "url": "https://www.livemint.com/companies/ctg-duty-free-looks-to-earnings-catalyst-to-snap-39-rout-11774826763347.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-29T23:26:03.000Z",
+      "metaDescription": "China Tourism Group Duty Free Corp.’s shares may be poised to shift course after a weak run this year, as stabilizing sales and improving demand from its key Hainan business support the outlook, analy",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.302863859717574,
+      "crawledAt": "2026-03-30T16:53:19.950Z",
+      "id": "6ie5vp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967222809791565,
+          "index": 1,
+          "word": "CT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9901807904243469,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9902091026306152,
+          "index": 3,
+          "word": "Duty",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9930159449577332,
+          "index": 4,
+          "word": "Free",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8903041481971741,
+          "index": 11,
+          "word": "Cat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8474679589271545,
+          "index": 12,
+          "word": "##aly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " China Tourism Group Duty Free Corp. shares may shift course after a weak run this year. The company's sales and demand are improving, analysts say.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:12:40.296Z"
+    },
+    {
+      "title": "April 1 Financial Rule Change Highlights: Income tax, salary, PAN, gratuity to undergo massive overhaul as FY27 starts",
+      "url": "https://www.livemint.com/money/personal-finance/april-1-2026-financial-rule-change-fy27-live-updates-salary-income-tax-act-pan-itr-labour-law-tds-bank-lpg-price-fastag-11774749687949.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-29T02:52:05.000Z",
+      "metaDescription": "April 1 Financial Changes Highlights: A host of new changes are coming into effect from 1 April, 2026, as the new financial year begins. Follow Mint's LIVE coverage of 1 April financial rule changes.",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3052872553428506,
+      "crawledAt": "2026-03-30T16:52:40.439Z",
+      "id": "fdqvg",
+      "entities": [],
+      "summary": "New financial changes are coming into effect from 1 April 2026. Follow Mint's LIVE coverage of 1 April financial changes.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:12:49.990Z"
+    },
+    {
+      "title": "Musk in Modi-Trump call, says New York Times; Govt says only the leaders spoke. What are Musk’s interests here?",
+      "url": "https://indianexpress.com/article/explained/musk-in-call-with-trump-modi-nyt-govt-says-only-the-two-leaders-spoke-10607012/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T22:30:27.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3236541858253359,
+      "crawledAt": "2026-03-30T16:53:30.518Z",
+      "id": "emmkhc",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9965894222259521,
+          "index": 1,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9936582446098328,
+          "index": 7,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9946691989898682,
+          "index": 11,
+          "word": "New",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9929560422897339,
+          "index": 12,
+          "word": "York",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9876676797866821,
+          "index": 13,
+          "word": "Times",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9739239811897278,
+          "index": 15,
+          "word": "Govt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.99602210521698,
+          "index": 24,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:12:50.177Z"
+    },
+    {
+      "title": "‘Cuba is next’: Amidst West Asia conflict, Trump turns his gaze to the Caribbean",
+      "url": "https://indianexpress.com/article/explained/explained-global/us-cuba-tensions-explained-trump-sanctions-blackouts-10606737/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T14:23:58.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28729521022041077,
+      "crawledAt": "2026-03-30T16:53:30.633Z",
+      "id": "50sksx",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998036026954651,
+          "index": 2,
+          "word": "Cuba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9350603818893433,
+          "index": 10,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9799028038978577,
+          "index": 11,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9989767074584961,
+          "index": 14,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995388388633728,
+          "index": 20,
+          "word": "Caribbean",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:13:01.038Z"
+    },
+    {
+      "title": "UPSC CSE — my two cents",
+      "url": "https://purudubey.medium.com/upsc-cse-my-two-cents-2d67d4c9cf87?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "purudubey.medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-03-28T11:18:53.000Z",
+      "metaDescription": "There are two kinds of blogs on the UPSC CSE — those that prescribe and those that describe. I believe in the latter.\nContinue reading on Medium »",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.2907211984515051,
+      "crawledAt": "2026-03-30T16:54:19.833Z",
+      "id": "vo7xnp",
+      "entities": [],
+      "summary": " There are two kinds of blogs on the UPSC CSE — those that prescribe and those that describe. I believe in the latter.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:13:49.002Z"
+    },
+    {
+      "title": "Best UPSC Coaching in India — Why Vishnu IAS Academy is the Right Choice for Aspirants",
+      "url": "https://medium.com/@vishnuiasacademy9/best-upsc-coaching-in-india-why-vishnu-ias-academy-is-the-right-choice-for-aspirants-a393c2d1d46e?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-03-28T11:05:26.000Z",
+      "metaDescription": "🏆 Best UPSC Coaching in India — Complete Guide for Aspirants\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.27648781351300356,
+      "crawledAt": "2026-03-30T16:54:20.016Z",
+      "id": "xn0p12",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9905211925506592,
+          "index": 2,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9441011548042297,
+          "index": 3,
+          "word": "##SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.95274418592453,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8663891553878784,
+          "index": 10,
+          "word": "Vishnu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9599883556365967,
+          "index": 11,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8942180871963501,
+          "index": 12,
+          "word": "##AS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8840757012367249,
+          "index": 13,
+          "word": "Academy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The U.S. Coaching in India is one of the world's most popular sporting events. The U-S.C. Coaches in India are one of India's most successful sports teams.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:14:01.837Z"
+    },
+    {
+      "title": "How to Build a Career in Machine Learning in Chhatrapati Sambhajinagar",
+      "url": "https://medium.com/@apathade866/how-to-build-a-career-in-machine-learning-in-chhatrapati-sambhajinagar-487e0d90799b?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T04:59:25.000Z",
+      "metaDescription": "Machine Learning is one of the fastest-growing career options in today’s digital world. From AI chatbots to recommendation systems like…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.423639664449649,
+      "crawledAt": "2026-03-30T16:53:56.412Z",
+      "id": "2htixb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9186239838600159,
+          "index": 11,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9112884998321533,
+          "index": 15,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Machine Learning is one of the fastest-growing career options in today’s digital world. From AI chatbots to recommendation systems like recommendation systems, it's a growing trend.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:14:32.784Z"
+    },
+    {
+      "title": "Women building high-trust businesses; Antler India’s bet on startups",
+      "url": "https://yourstory.com/2026/03/women-building-high-trust-businesses",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-28T02:00:00.000Z",
+      "metaDescription": "Healthcare, aviation, and consumer hardware are industries where trust is not a brand value but a baseline requirement. The margin for error is small, capital demands are high, and credibility takes y",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2597079286342956,
+      "crawledAt": "2026-03-30T16:54:01.907Z",
+      "id": "4ili25",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998381495475769,
+          "index": 8,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949096441268921,
+          "index": 9,
+          "word": "##tler",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.976249635219574,
+          "index": 10,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Healthcare, aviation, and consumer hardware are industries where trust is not a brand value but a baseline requirement. The margin for error is small, and capital demands are high, and credibility takes y.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:14:45.526Z"
+    },
+    {
+      "title": "India, US review next steps in trade pact talks",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-review-next-steps-in-trade-pact-talks/articleshow/129853750.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-27T19:13:27.000Z",
+      "metaDescription": "Commerce and Industry Minister Piyush Goyal met with US Trade Representative Jamieson Greer and Chinese counterpart Wang Wentao on the sidelines of the WTO Ministerial Conference. Discussions focused ",
+      "category": "msme-industry-trade",
+      "difficulty": 7,
+      "confidence": 0.2911073923251556,
+      "crawledAt": "2026-03-30T16:52:34.874Z",
+      "id": "sqfpw8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998414516448975,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990353584289551,
+          "index": 3,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Commerce and Industry Minister Piyush Goyal met with US Trade Representative Jamieson Greer and Chinese counterpart Wang Wentao.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:15:06.826Z"
+    },
+    {
+      "title": "The Dream Every Afghan Medical Student Carries",
+      "url": "https://medium.com/@study_in_maharashtra/the-dream-every-afghan-medical-student-carries-b9240c900472?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-27T14:04:27.000Z",
+      "metaDescription": "His name is Ahmad. He is 20 years old. He is from Kabul. And like thousands of Afghan students before him, he had one dream to become a…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.29265752873207435,
+      "crawledAt": "2026-03-30T16:53:56.816Z",
+      "id": "sqrf4x",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9746214747428894,
+          "index": 4,
+          "word": "Afghan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ahmad is 20 years old. He is from Kabul, Afghanistan. He had one dream to become a professional student.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:15:46.406Z"
+    },
+    {
+      "title": "From Thailand to Maharashtra:",
+      "url": "https://medium.com/@study_in_maharashtra/from-thailand-to-maharashtra-b5a30ba25f5a?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-27T13:51:19.000Z",
+      "metaDescription": "The Choice That Changes Everything\nContinue reading on Medium »",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.32792653425781143,
+      "crawledAt": "2026-03-30T16:53:56.917Z",
+      "id": "cxbejv",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998016357421875,
+          "index": 2,
+          "word": "Thailand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995747208595276,
+          "index": 4,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Choice That Changes Everything. The Choice that Changes Everything is published on Medium. The Choice This Changes Everything. The choice That Changes Something is published every day.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:15:56.773Z"
+    },
+    {
+      "title": "Unlocking Success in Geography Optional: Daily Answer Writing and Crash Course Strategy",
+      "url": "https://medium.com/@amit.aspireias/unlocking-success-in-geography-optional-daily-answer-writing-and-crash-course-strategy-d8914fdf0beb?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-03-27T12:49:06.000Z",
+      "metaDescription": "Choosing Geography Optional for the UPSC Mains examination is often seen as a smart decision due to its logical structure, scoring…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.44454945009815017,
+      "crawledAt": "2026-03-30T16:54:20.411Z",
+      "id": "nnjccs",
+      "entities": [],
+      "summary": " The UPSC Mains examination is often seen as a smart decision due to its logical structure. Choosing Geography Optional for the UPSCMains examination.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:16:08.546Z"
+    },
+    {
+      "title": "The state of renewable energy in Maharashtra’s — Part 2",
+      "url": "https://sonam-raina.medium.com/the-state-of-renewable-energy-in-maharashtras-part-2-ef68a884e8bc?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "sonam-raina.medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-27T12:12:48.000Z",
+      "metaDescription": "Here’s a quick rehash of what was discussed in part one of Maharashtra’s renewable energy story. Maharashtra runs on 58 GW of installed…\nContinue reading on Medium »",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.4829221423774906,
+      "crawledAt": "2026-03-30T16:53:57.123Z",
+      "id": "qwd4tl",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994691610336304,
+          "index": 7,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Maharashtra runs on 58 GW of energy supply. Maharashtra runs a total of 58 GW. Maharashtra runs one of the world's largest renewable energy projects.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:16:17.621Z"
+    },
+    {
+      "title": "Best Institute for Graphic Design Course in Chhatrapati Sambhajinagar",
+      "url": "https://medium.com/@apathade866/best-institute-for-graphic-design-course-in-chhatrapati-sambhajinagar-2026-guide-aae2052d5c0e?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-27T06:41:48.000Z",
+      "metaDescription": "Graphic design is one of the most in-demand creative skills today, and choosing the right institute in Chhatrapati Sambhajinagar can shape…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.32594376962895855,
+      "crawledAt": "2026-03-30T16:53:57.342Z",
+      "id": "66jaow",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9333499073982239,
+          "index": 1,
+          "word": "Best",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9650601148605347,
+          "index": 2,
+          "word": "Institute",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9797136187553406,
+          "index": 3,
+          "word": "for",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9832007884979248,
+          "index": 4,
+          "word": "Graphic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9515432119369507,
+          "index": 5,
+          "word": "Design",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9943536520004272,
+          "index": 8,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9619612693786621,
+          "index": 9,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9397909045219421,
+          "index": 10,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8143891096115112,
+          "index": 11,
+          "word": "##ati",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9926629066467285,
+          "index": 12,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9239306449890137,
+          "index": 14,
+          "word": "##jin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Graphic design is one of the most in-demand creative skills today, and choosing the right institute in Chhatrapati Sambhajinagar can shape…",
+      "language": "en",
+      "processed_at": "2026-03-30T17:16:27.687Z"
+    },
+    {
+      "title": "Deemed Conveyance in Maharashtra: What Happens When the Builder Simply Doesn’t Show Up?",
+      "url": "https://medium.com/@shefalisinghchauhan/deemed-conveyance-in-maharashtra-what-happens-when-the-builder-simply-doesnt-show-up-59baa08a0eab?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-03-26T12:20:07.000Z",
+      "metaDescription": "A real case from the Collector’s office\nContinue reading on Medium »",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2589773106097656,
+      "crawledAt": "2026-03-30T16:53:57.495Z",
+      "id": "a98u2h",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993406534194946,
+          "index": 7,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A real case from the Collector’s office from the collector’'s office. A real cases from the collectors office.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:16:37.131Z"
+    },
+    {
+      "title": "Democracy withheld? Satirical X handles critical of govt blocked in India",
+      "url": "https://www.altnews.in/democracy-withheld-satirical-x-handles-critical-of-govt-blocked-in-india/",
+      "source": "Alt News — fact-check",
+      "source_domain": "altnews.in",
+      "source_category": "newsletter",
+      "source_priority": "low",
+      "pubDate": "2026-03-24T04:59:19.000Z",
+      "metaDescription": "On March 18, several X accounts — many of which frequently posted satirical or parody content critical of the BJP government and Prime Minister Narendra Modi — were withheld in...\nThe post Democracy w",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.6836943005728251,
+      "crawledAt": "2026-03-30T16:54:24.413Z",
+      "id": "52yiru",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997327923774719,
+          "index": 17,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Several X accounts — many of which frequently posted satirical or parody content critical of the BJP government and Prime Minister Narendra Modi — were withheld in the post Democracy w. The post Democracy was published March 18.",
+      "language": "en",
+      "processed_at": "2026-03-30T17:18:04.293Z"
     }
   ],
-  "processedAt": "2026-03-30T15:36:19.816Z",
+  "processedAt": "2026-03-30T17:18:04.300Z",
   "categories": [
+    "maharashtra-state-local",
+    "msme-industry-trade",
+    "government-schemes",
     "legal-judiciary",
     "education-skills",
-    "government-schemes",
+    "policy-regulation",
     "jobs-recruitment",
-    "msme-industry-trade",
     "banking-credit",
-    "maharashtra-state-local"
+    "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 56,
-  "dailyArticlesCount": 56,
+  "newArticlesProcessed": 73,
+  "dailyArticlesCount": 129,
   "filterDate": "2026-03-30"
 }
