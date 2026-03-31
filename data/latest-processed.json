@@ -1,9 +1,2097 @@
 {
-  "crawledAt": "2026-03-31T13:11:14.603Z",
+  "crawledAt": "2026-03-31T16:56:05.469Z",
   "totalSources": 75,
-  "totalArticles": 2258,
+  "totalArticles": 2271,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "DA case: Special court seeks explanation from three officials for misleading report",
+      "url": "https://www.deccanherald.com/india/karnataka/da-case-special-court-seeks-explanation-from-three-officials-for-misleading-report-3951322",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:51:27.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3808191966919216,
+      "crawledAt": "2026-03-31T16:55:59.781Z",
+      "id": "u0m9he",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9906721711158752,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8779906034469604,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:56:20.209Z"
+    },
+    {
+      "title": "Personal data isn’t collected: Home Ministry on security agencies using open-source intelligence from public sources",
+      "url": "https://www.thehindu.com/news/national/personal-data-isnt-collected-home-ministry-on-security-agencies-using-open-source-intelligence-from-public-sources/article70808426.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:48:30.000Z",
+      "metaDescription": "“Publicly available information on the internet and social media platforms is used for intelligence gathering. No private or personal information is gathered from social media. Hence, privacy is never",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2637055467358601,
+      "crawledAt": "2026-03-31T16:55:15.031Z",
+      "id": "vu4hzy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9911711812019348,
+          "index": 8,
+          "word": "Home",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9791227579116821,
+          "index": 9,
+          "word": "Ministry",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " “Publicly available information on the internet and social media platforms is used for intelligence gathering. “No private or personal information is gathered from social media. Hence, privacy is never privacy is ever.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:56:35.399Z"
+    },
+    {
+      "title": "Jagan assures justice to victims of political violence in Gurazala",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-assures-justice-to-victims-of-political-violence-in-gurazala/article70807524.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:48:28.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3160169754381654,
+      "crawledAt": "2026-03-31T16:55:15.129Z",
+      "id": "wyh1h5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991561770439148,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9936464428901672,
+          "index": 12,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9732527732849121,
+          "index": 14,
+          "word": "##zal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8575489521026611,
+          "index": 15,
+          "word": "##a",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:56:35.516Z"
+    },
+    {
+      "title": "Supreme Court verdict on SC status for converts a BJP conspiracy: Sharmila",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/supreme-court-verdict-on-sc-status-for-converts-a-bjp-conspiracy-sharmila/article70807849.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:48:23.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.9203765420973626,
+      "crawledAt": "2026-03-31T16:55:15.229Z",
+      "id": "v30jmv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9590443968772888,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8279462456703186,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.974801778793335,
+          "index": 5,
+          "word": "SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9962685704231262,
+          "index": 10,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9836573600769043,
+          "index": 11,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9977037906646729,
+          "index": 14,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9150539040565491,
+          "index": 15,
+          "word": "##har",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:56:35.680Z"
+    },
+    {
+      "title": "Food delivery agent on bike killed after being hit by Mercedes in Faridabad",
+      "url": "https://www.deccanherald.com/india/haryana/food-delivery-agent-on-bike-killed-after-being-hit-by-mercedes-in-faridabad-3951274",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:47:33.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.44890331888465757,
+      "crawledAt": "2026-03-31T16:55:59.999Z",
+      "id": "ub1ti7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9977041482925415,
+          "index": 13,
+          "word": "Far",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9811466336250305,
+          "index": 14,
+          "word": "##ida",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8517827987670898,
+          "index": 15,
+          "word": "##bad",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:56:35.843Z"
+    },
+    {
+      "title": "Frequent ejaculations can restore sperm health, Oxford study suggests",
+      "url": "https://www.deccanherald.com/health/frequent-ejaculations-can-restore-sperm-health-oxford-study-suggests-3951099",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:37:27.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.26250055782168374,
+      "crawledAt": "2026-03-31T16:56:00.457Z",
+      "id": "ryybdg",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8719007968902588,
+          "index": 13,
+          "word": "Oxford",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:57:06.281Z"
+    },
+    {
+      "title": "Agro Processing Industry: उत्पादक कंपनीच्या माध्यमातून शेतीमालावर प्रक्रिया करावी : कळसाईत",
+      "url": "https://agrowon.esakal.com/agro-special/farmer-producer-company-fpo-agro-processing-export-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T16:30:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.3573849737925577,
+      "crawledAt": "2026-03-31T16:54:04.069Z",
+      "id": "a3vwna",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8688821792602539,
+          "index": 3,
+          "word": "Process",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8552821278572083,
+          "index": 4,
+          "word": "##ing",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:57:23.175Z"
+    },
+    {
+      "title": "44 Maoists surrender in Bastar; Chhattisgarh now Maoists-free, asserts CM",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/44-maoists-surrender-in-bastar-chhattisgarh-now-maoists-free-asserts-cm/article70808239.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:28:32.000Z",
+      "metaDescription": "The surrender led to recoveries of a large cache of arms and ammunitions apart from cash amounting to ₹3 crore and gold worth over ₹11 crore on the day that the Centre had set as the deadline for elim",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.33876899586703973,
+      "crawledAt": "2026-03-31T16:55:16.625Z",
+      "id": "1ab67i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9987685084342957,
+          "index": 2,
+          "word": "Mao",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9936502575874329,
+          "index": 6,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9571114182472229,
+          "index": 7,
+          "word": "##star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9980452656745911,
+          "index": 9,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9922549724578857,
+          "index": 10,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9851110577583313,
+          "index": 11,
+          "word": "##tis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9938787221908569,
+          "index": 12,
+          "word": "##garh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9990037083625793,
+          "index": 14,
+          "word": "Mao",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9906006455421448,
+          "index": 15,
+          "word": "##ists",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8696091771125793,
+          "index": 20,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The surrender led to recoveries of a large cache of arms and ammunitions apart from cash amounting to �3 crore and gold worth over ₹11 crore.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:57:37.862Z"
+    },
+    {
+      "title": "15 sentenced to life imprisonment in murder case",
+      "url": "https://www.thehindu.com/news/national/telangana/15-sentenced-to-life-imprisonment-in-murder-case/article70808283.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:28:28.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.40635646198423214,
+      "crawledAt": "2026-03-31T16:55:16.704Z",
+      "id": "qshyxv",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:57:37.953Z"
+    },
+    {
+      "title": "Shah spreading falsehoods about Maoism in Chhattisgarh, says Baghel",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/shah-spreading-falsehoods-about-maoism-in-chhattisgarh-says-baghel/article70807979.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:28:22.000Z",
+      "metaDescription": "Remarks by the Union Home Minister about previous Congress governments in Chhattisgarh not supporting efforts against Maoism is untrue, says the former Chief Minister",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2575816298740546,
+      "crawledAt": "2026-03-31T16:55:17.048Z",
+      "id": "qak9sk",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9970247149467468,
+          "index": 1,
+          "word": "Shah",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9984716176986694,
+          "index": 7,
+          "word": "Mao",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.819450855255127,
+          "index": 8,
+          "word": "##ism",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994951486587524,
+          "index": 10,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9945096969604492,
+          "index": 11,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9950904846191406,
+          "index": 12,
+          "word": "##tis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9969008564949036,
+          "index": 13,
+          "word": "##garh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994345903396606,
+          "index": 16,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Remarks by Union Home Minister about previous Congress governments in Chhattisgarh not supporting efforts against Maoism is untrue, says the former Chief Minister.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:57:58.615Z"
+    },
+    {
+      "title": "Fino Payments Bank’s Compliance Officer Aashish Pathak Quits",
+      "url": "https://inc42.com/buzz/fino-payments-banks-compliance-officer-aashish-pathak-quits/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:25:38.000Z",
+      "metaDescription": "Amid an extended period of leadership turmoil, Fino Payments Bank’s chief compliance officer (CCO), principal officer and principal node officer…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.7532208288639339,
+      "crawledAt": "2026-03-31T16:55:43.982Z",
+      "id": "bhg8vk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9993166327476501,
+          "index": 1,
+          "word": "Fin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982776045799255,
+          "index": 2,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991759657859802,
+          "index": 3,
+          "word": "Pay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989939332008362,
+          "index": 4,
+          "word": "##ments",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989234805107117,
+          "index": 5,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994102120399475,
+          "index": 12,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8626840710639954,
+          "index": 13,
+          "word": "##ashi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8126834034919739,
+          "index": 14,
+          "word": "##sh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992436170578003,
+          "index": 15,
+          "word": "Path",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9836220741271973,
+          "index": 16,
+          "word": "##ak",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Fino Payments Bank’s chief compliance officer (CCO), principal officer and principal node officer…. Amid an extended period of leadership turmoil, Fino Payment Bank�’S chief compliance Officer (CCCO) is principal officer, principal officer.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:16.403Z"
+    },
+    {
+      "title": "Defamation case: Satyaki seeks directions to Centre for info on Rahul’s 2023 London visit",
+      "url": "https://indianexpress.com/article/cities/pune/defamation-case-satyaki-directions-centre-info-rahul-london-visit-10612136/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T16:22:36.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3710899241120125,
+      "crawledAt": "2026-03-31T16:54:29.941Z",
+      "id": "ag988b",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999653697013855,
+          "index": 6,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9550853967666626,
+          "index": 8,
+          "word": "##aki",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9943667054176331,
+          "index": 12,
+          "word": "Centre",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992168545722961,
+          "index": 16,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9560149908065796,
+          "index": 17,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992587566375732,
+          "index": 22,
+          "word": "London",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:27.680Z"
+    },
+    {
+      "title": "Insult to the pride of Pimpri-Chinchwad citizens will not be tolerated: MLA Jagtap",
+      "url": "https://indianexpress.com/article/cities/pune/bjp-mla-jagtap-pcmc-commissioner-pimpri-chinchwad-identity-10612135/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T16:21:19.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5582754189130192,
+      "crawledAt": "2026-03-31T16:54:30.069Z",
+      "id": "rvfu6n",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9409838318824768,
+          "index": 12,
+          "word": "Chin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8627114295959473,
+          "index": 13,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8603188395500183,
+          "index": 14,
+          "word": "##wa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9988003373146057,
+          "index": 24,
+          "word": "J",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:27.877Z"
+    },
+    {
+      "title": "BJP Attacks Himachal Government Over Entry Tax Hike, Chief Minister Responds",
+      "url": "https://www.ndtv.com/india-news/bjp-attacks-himachal-government-over-entry-tax-hike-chief-minister-responds-11292930#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:17:21.000Z",
+      "metaDescription": "Responding to the controversy, Chief Minister Sukhvinder Singh Sukhu assured that the government will take a \"rational decision\" on the matter.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3867033822054188,
+      "crawledAt": "2026-03-31T16:55:33.809Z",
+      "id": "caiha1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992027878761292,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9295231103897095,
+          "index": 2,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9697261452674866,
+          "index": 5,
+          "word": "Him",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9708422422409058,
+          "index": 6,
+          "word": "##achal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Chief Minister Sukhvinder Singh Sukhu says the government will take a \"rational decision\" on the matter.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:37.265Z"
+    },
+    {
+      "title": "Converting dry leaf waste into cooking gas: IIT Bombay's innovation reduces dependence on LPG",
+      "url": "https://www.deccanherald.com/india/maharashtra/converting-dry-leaf-waste-into-cooking-gas-iit-bombays-innovation-reduces-dependence-on-lpg-3951151",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:12:48.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3060810342202557,
+      "crawledAt": "2026-03-31T16:56:01.148Z",
+      "id": "58xxwp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984439015388489,
+          "index": 11,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9835310578346252,
+          "index": 12,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950147271156311,
+          "index": 13,
+          "word": "Bombay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9586610198020935,
+          "index": 20,
+          "word": "LP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:48.250Z"
+    },
+    {
+      "title": "From tennis court to politics: Leander Paes joins BJP",
+      "url": "https://www.deccanherald.com/india/west-bengal/from-tennis-court-to-politics-leander-paes-joins-bjp-3951254",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:07:29.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3627638585547883,
+      "crawledAt": "2026-03-31T16:56:01.239Z",
+      "id": "kn7uke",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996128678321838,
+          "index": 7,
+          "word": "Lea",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9744579792022705,
+          "index": 8,
+          "word": "##nder",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994990229606628,
+          "index": 9,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8766665458679199,
+          "index": 10,
+          "word": "##es",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988701343536377,
+          "index": 12,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994748055934906,
+          "index": 13,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:48.392Z"
+    },
+    {
+      "title": "State can't adopt artificial classifications to deny benefits of regularisation: Supreme Court",
+      "url": "https://www.deccanherald.com/india/state-cant-adopt-artificial-classifications-to-deny-benefits-of-regularisation-supreme-court-3951253",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-31T16:06:12.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.6018344547727181,
+      "crawledAt": "2026-03-31T16:56:01.343Z",
+      "id": "2d67ap",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974823594093323,
+          "index": 16,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9875441193580627,
+          "index": 17,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:58:48.550Z"
+    },
+    {
+      "title": "IndiGo taps ex‑British Airways CEO Walsh to steer airline through turbulence",
+      "url": "https://www.livemint.com/companies/people/indigo-taps-ex-british-airways-ceo-william-willie-walsh-to-steer-airline-through-turbulence-11774952769862.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:56:07.000Z",
+      "metaDescription": "William “Willie” Walsh is expected to join the airline by 3 August, following his tenure at the Iata, which ends on 31 July.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2793339904027571,
+      "crawledAt": "2026-03-31T16:54:55.852Z",
+      "id": "l1kj7n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.995502233505249,
+          "index": 1,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969521164894104,
+          "index": 3,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965033531188965,
+          "index": 4,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998439610004425,
+          "index": 9,
+          "word": "British",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960330724716187,
+          "index": 10,
+          "word": "Airways",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9985232949256897,
+          "index": 12,
+          "word": "Walsh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " William “Willie’s’ tenure at Iata ends on 31 July. Walsh is expected to join the airline by 3 August.",
+      "language": "en",
+      "processed_at": "2026-03-31T16:59:49.689Z"
+    },
+    {
+      "title": "Piyush Goyal accuses DMK govt of ruining Tamil Nadu finances ahead of polls",
+      "url": "https://www.thehindubusinessline.com/news/piyush-goyal-accuses-dmk-govt-of-ruining-tamil-nadu-finances-ahead-of-polls/article70808032.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:42:44.000Z",
+      "metaDescription": "He warned that Tamil Nadu is being pushed towards debt",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.38457023751477654,
+      "crawledAt": "2026-03-31T16:55:23.148Z",
+      "id": "4tn4y7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999323308467865,
+          "index": 1,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.967156171798706,
+          "index": 3,
+          "word": "##sh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991205334663391,
+          "index": 4,
+          "word": "Go",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9975953102111816,
+          "index": 5,
+          "word": "##yal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998359739780426,
+          "index": 9,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965923428535461,
+          "index": 10,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976466298103333,
+          "index": 11,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990134239196777,
+          "index": 18,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.998755931854248,
+          "index": 19,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tamil Nadu is being pushed towards debt, warns Tamil Nadu has been pushed towards debts. Tamil Nadu's economy is being push towards debt.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:00:39.591Z"
+    },
+    {
+      "title": "Developing countries, LDCs can no longer be rule-takers at WTO: Commerce Secretary",
+      "url": "https://www.thehindubusinessline.com/news/developing-countries-ldcs-can-no-longer-be-rule-takers-at-wto-commerce-secretary/article70808180.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:40:44.000Z",
+      "metaDescription": "Commerce Secretary highlighted issues where progress was made but there was no consensus such as WTO reforms, TRIPS NVSC (non-violation complaint), and e-commerce.",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.35245894672577005,
+      "crawledAt": "2026-03-31T16:55:17.476Z",
+      "id": "516j2q",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9831985831260681,
+          "index": 6,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9092862606048584,
+          "index": 18,
+          "word": "W",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Commerce Secretary highlighted issues where progress was made but there was no consensus such as WTO reforms, TRIPS NVSC and e-commerce.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:00:48.874Z"
+    },
+    {
+      "title": "Inverted duty structure posing challenging for MSME sector: Empower India",
+      "url": "https://www.thehindubusinessline.com/economy/inverted-duty-structure-posing-challenging-for-msme-sector-empower-india/article70807901.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:40:10.000Z",
+      "metaDescription": "The exclusion of input services and capital goods from the refund mechanism has compounded the challenge, creating a structural disadvantage that threatens the viability of businesses across manufactu",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.35287604218035734,
+      "crawledAt": "2026-03-31T16:55:17.678Z",
+      "id": "558xu7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.996267557144165,
+          "index": 8,
+          "word": "MS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9777785539627075,
+          "index": 9,
+          "word": "##ME",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9963277578353882,
+          "index": 12,
+          "word": "Em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.990121603012085,
+          "index": 13,
+          "word": "##power",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9898271560668945,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The exclusion of input services and capital goods from the refund mechanism has compounded the challenge. It threatens the viability of businesses across manufactu.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:00:59.334Z"
+    },
+    {
+      "title": "Indian refiners face prospect of margin squeeze as govt reinstates export duties",
+      "url": "https://www.thehindubusinessline.com/economy/indian-refiners-face-prospect-of-margin-squeeze-as-govt-reinstates-export-duties/article70807454.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:37:04.000Z",
+      "metaDescription": "Industry observers say the benefits from cut in excise duties on both petrol and diesel to support OMCs is likely to be offset by the windfall tax on export of diesel and ATF due to dip in refining ma",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3402408377041792,
+      "crawledAt": "2026-03-31T16:55:17.917Z",
+      "id": "yzclkw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996743202209473,
+          "index": 1,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Industry observers say benefits from cut in excise duties on both petrol and diesel to support OMCs will be offset by windfall tax on export of diesel and ATF due to dip in refining.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:01:12.594Z"
+    },
+    {
+      "title": "Maharashtra Ready Reckoner rates unchanged, Minister Bawankule says move to boost construction sector",
+      "url": "https://indianexpress.com/article/pune/maharashtra-ready-reckoner-rates-unchanged-bawankule-boost-construction-10612093/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T15:36:37.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.47969882005470244,
+      "crawledAt": "2026-03-31T16:54:30.186Z",
+      "id": "fcszs2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9925925135612488,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8809459209442139,
+          "index": 2,
+          "word": "Ready",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944385886192322,
+          "index": 3,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9680371880531311,
+          "index": 4,
+          "word": "##ck",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995259642601013,
+          "index": 11,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9754851460456848,
+          "index": 12,
+          "word": "##wan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9953157901763916,
+          "index": 13,
+          "word": "##ku",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:01:12.735Z"
+    },
+    {
+      "title": "Mumbai Metro Lines 2B, 9 To Begin Partial Operations From Friday",
+      "url": "https://www.ndtv.com/india-news/mumbai-metro-lines-2b-9-to-begin-partial-operations-from-friday-11292713#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:30:08.000Z",
+      "metaDescription": "Transport planners expect the partial openings to substantially reduce travel time for thousands of daily commuters who currently depend on overcrowded suburban trains and traffic-clogged arterial roa",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3462578089973522,
+      "crawledAt": "2026-03-31T16:55:31.138Z",
+      "id": "jceiks",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978550672531128,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9933434724807739,
+          "index": 2,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Transport planners expect partial openings to substantially reduce travel time for thousands of daily commuters. Thousands currently depend on suburban trains and traffic-clogged arterial roa.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:01:47.509Z"
+    },
+    {
+      "title": "How do I secure my business recipe and brand for the next generation?",
+      "url": "https://www.livemint.com/money/personal-finance/how-do-i-secure-my-business-recipe-and-brand-for-the-next-generation-succession-property-11774937177715.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T15:01:46.000Z",
+      "metaDescription": "A 70-year-old soft drink entrepreneur seeks advice on passing on his recipe, brand name, logo and other intellectual property to his children through structured estate planning.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9072543367658988,
+      "crawledAt": "2026-03-31T16:54:20.736Z",
+      "id": "64eo0x",
+      "entities": [],
+      "summary": " 70-year-old soft drink entrepreneur seeks advice on passing on his recipe, brand name, logo and other intellectual property to his children.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:03:29.452Z"
+    },
+    {
+      "title": "PM Modi lands at Deesa airbase, signals operationalisation near Pakistan border",
+      "url": "https://www.thehindubusinessline.com/news/pm-modi-lands-at-deesa-airbase-signals-operationalisation-near-pakistan-border/article70807445.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:01:41.000Z",
+      "metaDescription": "The base is expected to enhance India’s surveillance, response capability, and combat readiness along the western frontier, while also boosting local economic activity and infrastructure development.",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.2698299634293138,
+      "crawledAt": "2026-03-31T16:55:23.951Z",
+      "id": "4mdg6y",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9986340999603271,
+          "index": 6,
+          "word": "Dee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9852724671363831,
+          "index": 7,
+          "word": "##sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998128414154053,
+          "index": 15,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The base is expected to enhance India’s surveillance, response capability, and combat readiness along the western frontier.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:03:39.604Z"
+    },
+    {
+      "title": "PMC appeals to citizens to take part in Census 2027 self-enumeration",
+      "url": "https://indianexpress.com/article/cities/pune/pmc-appeals-citizens-to-take-part-in-census-2027-self-enumeration-10612017/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T14:53:04.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.3694722276005622,
+      "crawledAt": "2026-03-31T16:54:30.499Z",
+      "id": "9rk9d4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998799204826355,
+          "index": 1,
+          "word": "PM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9879175424575806,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9832131266593933,
+          "index": 10,
+          "word": "Census",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:04:09.325Z"
+    },
+    {
+      "title": "Bots in the poll battlefield – from sentiment tracking to targeted messaging",
+      "url": "https://www.thehindubusinessline.com/news/bots-in-the-poll-battlefield-from-sentiment-tracking-to-targeted-messaging/article70807848.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:45:40.000Z",
+      "metaDescription": "From generating digital posters in a jiffy to decoding data, AI has entered political war rooms as a mainstream campaign tool",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.37718932949519296,
+      "crawledAt": "2026-03-31T16:55:24.633Z",
+      "id": "tru304",
+      "entities": [],
+      "summary": " AI has entered political war rooms as a mainstream campaign tool. From generating digital posters in a jiffy to decoding data, AI has become a mainstream tool.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:04:47.928Z"
+    },
+    {
+      "title": "Parbhani Crime : शेतजमिनीच्या वादातून मारहाण; दोघांवर गुन्हा",
+      "url": "https://pudhari.news/maharashtra/marathwada/parbhani/parbhani-assault-case-over-land-dispute-two-booked-dc95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-03-31T14:39:56.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3142397841032793,
+      "crawledAt": "2026-03-31T16:53:53.185Z",
+      "id": "7ljdhv",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:05:10.377Z"
+    },
+    {
+      "title": "\"Political Vultures\": PM Modi Slams Congress Over Response To Iran War",
+      "url": "https://www.ndtv.com/india-news/political-vultures-pm-narendra-modi-slams-congress-over-response-to-iran-war-11292462#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:37:58.000Z",
+      "metaDescription": "\"Certain national parties in our nation are busy playing 'bread-and-butter' politics with these issues. Leading them is the Congress,\" PM Narendra Modi",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.348324656890162,
+      "crawledAt": "2026-03-31T16:55:31.698Z",
+      "id": "imybmj",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995018243789673,
+          "index": 9,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989022016525269,
+          "index": 13,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9956761598587036,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9934883117675781,
+          "index": 18,
+          "word": "War",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PM Narendra Modi: \"Certain national parties are playing 'bread-and-butter' politics with these issues\"",
+      "language": "en",
+      "processed_at": "2026-03-31T17:05:20.314Z"
+    },
+    {
+      "title": "Congress launches organisational restructuring drive in state",
+      "url": "https://indianexpress.com/article/cities/pune/congress-launches-organisational-restructuring-drive-in-state-10611990/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T14:31:07.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.46508498601185255,
+      "crawledAt": "2026-03-31T16:54:30.676Z",
+      "id": "9qzymt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983845949172974,
+          "index": 1,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:05:55.313Z"
+    },
+    {
+      "title": "Dead Sea Facts | मृत समुद्र : जिथे जीवसृष्टी संपते, सुरू होते एक वेगळीच दुनिया!",
+      "url": "https://pudhari.news/ampstories/web-stories/dead-sea-facts-unique-world-saltiest-water-floating-health-benefits-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-03-31T14:30:39.000Z",
+      "metaDescription": "Dead Sea Facts | मृत समुद्र : जिथे जीवसृष्टी संपते, सुरू होते एक वेगळीच दुनिया!",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2657002820622271,
+      "crawledAt": "2026-03-31T16:53:53.504Z",
+      "id": "fuburp",
+      "entities": [],
+      "summary": " The Dead Sea Facts are a collection of facts from the Dead Sea. They include: “The Sea Facts’s’",
+      "language": "en",
+      "processed_at": "2026-03-31T17:06:04.515Z"
+    },
+    {
+      "title": "Know no one here, need help with visa: Indian Uber Eats driver jailed for raping customer in Lincolnshire",
+      "url": "https://timesofindia.indiatimes.com/world/uk/know-no-one-here-need-help-with-visa-indian-uber-eats-driver-jailed-for-raping-customer-in-lincolnshire/articleshow/129929057.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:30:24.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.361581477412809,
+      "crawledAt": "2026-03-31T16:55:27.139Z",
+      "id": "sht9c7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9993237853050232,
+          "index": 11,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9215925335884094,
+          "index": 14,
+          "word": "Eat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9957637786865234,
+          "index": 23,
+          "word": "Lincolnshire",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:06:04.671Z"
+    },
+    {
+      "title": "Nvidia deal spree continues; Jensen Huang-led company to invest $2 billion in Marvell as AI race heats up",
+      "url": "https://www.livemint.com/companies/news/nvidia-deal-spree-continues-jensen-huang-led-company-to-invest-2-billion-in-marvell-as-ai-race-heats-up-11774963365447.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:27:48.000Z",
+      "metaDescription": "Nvidia has announced that it will invest $2 billion in Marvell Technology to expand its AI partnership, including work on silicon photonics. The deal boosts Marvell’s shares and strengthens efforts to",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.27502637250814094,
+      "crawledAt": "2026-03-31T16:54:56.120Z",
+      "id": "pruadp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9838943481445312,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9795414805412292,
+          "index": 2,
+          "word": "##vid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9448144435882568,
+          "index": 3,
+          "word": "##ia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9921594262123108,
+          "index": 9,
+          "word": "Jensen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.960256040096283,
+          "index": 10,
+          "word": "Huang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9401916265487671,
+          "index": 20,
+          "word": "Marvel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8729627132415771,
+          "index": 21,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8662412762641907,
+          "index": 23,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nvidia has announced that it will invest $2 billion in Marvell Technology to expand its AI partnership. The deal boosts Marvell’s shares and strengthens efforts to strengthen efforts to work on silicon photonics.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:06:30.165Z"
+    },
+    {
+      "title": "Shirdi : शिर्डीच्या आकाशात विमानाचा थरार !; पुढे घडले असे काही…",
+      "url": "https://deshdoot.com/delhi-to-shirdi-airplane-sky-hovering-shirdi/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:13:20.000Z",
+      "metaDescription": "रांजणगाव देशमुख |वार्ताहर| Ranjangaon Deshmukh दिल्लीहून शिर्डीच्या (Delhi to Shirdi Plane) दिशेने निघालेल्या इंडिगो कंपनीच्या विमानाचा सोमवारी रात्री मोठा थरार पाहायला मिळाला. खराब हवामान आणि कमी दृश",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3309297555252091,
+      "crawledAt": "2026-03-31T16:54:38.011Z",
+      "id": "vox89y",
+      "entities": [],
+      "summary": " The World War II plane is a part of the U.S. Air Force Air Force. The U.N. Airline is a U.K. mission in the world's largest aircraft carrier.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:07:39.182Z"
+    },
+    {
+      "title": "Karnataka ends EV tax holiday, links levies to vehicle cost in policy shift",
+      "url": "https://www.thehindubusinessline.com/news/karnataka-ends-ev-tax-holiday-links-levies-to-vehicle-cost-in-policy-shift/article70807371.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:07:53.000Z",
+      "metaDescription": "The rollback reverses a nearly decade-long policy stance",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.6097828670560355,
+      "crawledAt": "2026-03-31T16:55:25.321Z",
+      "id": "mvawpu",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994529485702515,
+          "index": 1,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8779537677764893,
+          "index": 3,
+          "word": "E",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The rollback reverses a nearly decade-long policy stance. The rollbacks reverses an almost decade- long policy stance.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:07:59.049Z"
+    },
+    {
+      "title": "GST liability on intermediary services shifts to recipient from supplier",
+      "url": "https://www.thehindubusinessline.com/economy/gst-liability-on-intermediary-services-shifts-to-recipient-from-supplier/article70807433.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T14:05:42.000Z",
+      "metaDescription": "Simultaneously, CBIC has introduced major e-commerce export and courier reforms, scrapping the ₹10 lakh cap and easing returns to boost ease of doing business and exports",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9421060959716971,
+      "crawledAt": "2026-03-31T16:55:19.546Z",
+      "id": "owozun",
+      "entities": [],
+      "summary": " CBIC has introduced major e-commerce export and courier reforms, scrapping the ₹10 lakh cap and easing returns to boost ease of doing business and exports.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:08:13.977Z"
+    },
+    {
+      "title": "Women Empowerment: औसा तालुक्यातील चाळीस गावात महिला अस्मिता भवन",
+      "url": "https://agrowon.esakal.com/agro-special/asmita-bhavan-ausa-latur-women-empowerment-scheme-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T14:00:00.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.2608786123451823,
+      "crawledAt": "2026-03-31T16:54:05.164Z",
+      "id": "w95dwr",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:08:22.876Z"
+    },
+    {
+      "title": "End of a chapter: Why 55 iconic AH Wheeler bookstalls are vanishing from Mumbai railway stations this week",
+      "url": "https://indianexpress.com/article/cities/mumbai/ah-wheeler-bookstalls-vanishing-from-mumbai-railway-stations-this-week-10611953/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T14:00:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3593466533974338,
+      "crawledAt": "2026-03-31T16:54:25.375Z",
+      "id": "fqtm35",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993903040885925,
+          "index": 19,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:08:23.078Z"
+    },
+    {
+      "title": "Your gold jewellery in bank lockers may not be fully insured. Here's how you can truly secure it",
+      "url": "https://www.livemint.com/money/personal-finance/gold-jewellery-bank-lockers-no-full-liability-how-you-secure-options-jewellery-insurance-gold-etf-gold-overdraft-invest-11774949911500.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T13:54:29.000Z",
+      "metaDescription": "Indian households hold 25,000 to 30,000 tonnes of gold, mostly in jewellery and coins, with significant wealth gains from rising gold prices. Here's how to navigate the questions over storage, safety,",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.577941193104489,
+      "crawledAt": "2026-03-31T16:54:21.264Z",
+      "id": "ea3dtd",
+      "entities": [],
+      "summary": " Indian households hold 25,000 to 30,000 tonnes of gold, mostly in jewellery and coins. Indian households have significant wealth gains from rising gold prices.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:09:18.818Z"
+    },
+    {
+      "title": "How Karnataka’s new law against honour killing affirms absolute right of adults to choose their partners",
+      "url": "https://indianexpress.com/article/explained/explained-law/karnataka-honour-killing-bill-2026-10611917/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T13:53:16.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.41103831404316776,
+      "crawledAt": "2026-03-31T16:55:20.296Z",
+      "id": "c9dwa6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999631404876709,
+          "index": 2,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:09:18.962Z"
+    },
+    {
+      "title": "Antler-Backed Covrzy Shuts Down Due To Cash Crunch",
+      "url": "https://inc42.com/buzz/antler-backed-covrzy-shuts-down-due-to-cash-crunch/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T13:50:54.000Z",
+      "metaDescription": "Antler-backed insurtech startup Covrzy has shut shop after being operational for about three years. Cofounder and CEO Ankit Kamra told…",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.659004279472348,
+      "crawledAt": "2026-03-31T16:55:44.410Z",
+      "id": "3ukfxx",
+      "entities": [],
+      "summary": " Antler-backed insurtech startup Covrzy has shut shop after being operational for about three years. Cofounder and CEO Ankit Kamra said the company has been in operation for about 3 years.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:09:42.786Z"
+    },
+    {
+      "title": "Retired Brigadier’s killing: Govt cracks down on officers, tightens control on bar regulations",
+      "url": "https://indianexpress.com/article/india/blot-on-the-state-govt-cracks-down-on-bars-and-suspends-officers-after-brigadiers-senseless-murder-in-dehradun-10611888/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T13:31:32.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.38345774256354787,
+      "crawledAt": "2026-03-31T16:54:28.067Z",
+      "id": "77wi11",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:10:25.919Z"
+    },
+    {
+      "title": "Best Foods To Eat In Summer: उन्हाळ्यात 'या' ८ सुपरफूड्सचे करा सेवन, शरीराला मिळेल थंडावा",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/best-foods-to-eat-in-summer-8-superfoods-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T13:29:49.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.2749884076065922,
+      "crawledAt": "2026-03-31T16:54:05.499Z",
+      "id": "ujqgr5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:10:43.385Z"
+    },
+    {
+      "title": "‘Must have courage to tell our friends they’re wrong’: Salman Khurshid weighs in on India’s foreign policy amid West Asia war",
+      "url": "https://indianexpress.com/article/india/salman-khurshid-india-foreign-policy-west-asia-10611716/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T13:17:34.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3227048652450608,
+      "crawledAt": "2026-03-31T16:54:28.216Z",
+      "id": "nfbaco",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996444582939148,
+          "index": 15,
+          "word": "Sal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992799162864685,
+          "index": 17,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9064013361930847,
+          "index": 20,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998123049736023,
+          "index": 24,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.944620668888092,
+          "index": 30,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9833096265792847,
+          "index": 31,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:11:15.816Z"
+    },
+    {
+      "title": "Lightning strike Parbhani|जिंतूर तालुक्यात वीज कोसळून बैल ठार; शेतकऱ्याचे मोठे नुकसान",
+      "url": "https://pudhari.news/maharashtra/marathwada/parbhani/parbhani-jintur-unseasonal-rain-lightning-strike-bullock-killed-raikheda-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-03-31T13:15:14.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2910726642373781,
+      "crawledAt": "2026-03-31T16:53:54.256Z",
+      "id": "fqc6v0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9706493616104126,
+          "index": 3,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8727392554283142,
+          "index": 5,
+          "word": "##hani",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:11:28.461Z"
+    },
+    {
+      "title": "Lt Gen Dhiraj Seth set to become Vice Chief of Army",
+      "url": "https://indianexpress.com/article/cities/pune/lt-gen-dhiraj-seth-set-to-become-vice-chief-of-army-10611863/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T13:09:29.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2573990506693627,
+      "crawledAt": "2026-03-31T16:54:30.770Z",
+      "id": "kz2f5m",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996730089187622,
+          "index": 3,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9853563904762268,
+          "index": 5,
+          "word": "##aj",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997351169586182,
+          "index": 6,
+          "word": "Seth",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9156529903411865,
+          "index": 13,
+          "word": "Army",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:11:29.001Z"
+    },
     {
       "title": "Case booked against TVK candidate in Poonamallee for alleged sexual harrasment",
       "url": "https://www.thehindu.com/news/cities/chennai/case-booked-against-tvk-candidate-in-poonamallee-for-alleged-sexual-harrasment/article70807166.ece",
@@ -240,6 +2328,74 @@
       "processed_at": "2026-03-31T13:12:17.320Z"
     },
     {
+      "title": "Senior Bureaucrat Vir Vikram Yadav Appointed New Aviation Body Chief",
+      "url": "https://www.ndtv.com/india-news/senior-bureaucrat-vir-vikram-yadav-appointed-new-aviation-body-dgca-chief-11291758#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T13:02:41.000Z",
+      "metaDescription": "Faiz Ahmed Kidwai, a 1996 batch IAS officer of the Madhya Pradesh cadre, was appointed DGCA chief in January last year.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2626720300938893,
+      "crawledAt": "2026-03-31T16:55:32.603Z",
+      "id": "r7depv",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996308088302612,
+          "index": 4,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.890907883644104,
+          "index": 5,
+          "word": "##ir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983130097389221,
+          "index": 6,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9961357712745667,
+          "index": 7,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.995268702507019,
+          "index": 8,
+          "word": "##ram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993024468421936,
+          "index": 9,
+          "word": "Ya",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Faiz Ahmed Kidwai, a 1996 batch IAS officer, was appointed DGCA chief in January last year.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:11:49.873Z"
+    },
+    {
       "title": "Andhra govt to provide free electricity to weavers, powerlooms",
       "url": "https://www.thehindubusinessline.com/news/national/andhra-govt-to-provide-free-electricity-to-weavers-powerlooms/article70807186.ece",
       "source": "The Hindu Business Line — News",
@@ -266,6 +2422,42 @@
       "summary": " Eligible handloom weaver families are projected to save approximately ₹8,640 per year. Powerloom operators could save up to � 21,600 annually.",
       "language": "en",
       "processed_at": "2026-03-31T13:12:56.687Z"
+    },
+    {
+      "title": "How Big An Issue Is 'Justice For Zubeen Garg' In The Assam Election?",
+      "url": "https://www.ndtv.com/india-news/how-big-an-issue-is-justice-for-zubeen-garg-in-assam-election-11291776#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T12:59:57.000Z",
+      "metaDescription": "Many in Assam suspect a conspiracy surrounding his death, which is why a 'Justice for Zubeen' campaign emerged and why his death became the focus of a political row.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.40601413728606195,
+      "crawledAt": "2026-03-31T16:55:32.823Z",
+      "id": "q2g049",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9408244490623474,
+          "index": 18,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9749611020088196,
+          "index": 19,
+          "word": "Election",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Many in Assam suspect a conspiracy surrounding the death of the man. The man's death was the focus of a 'Justice for Zubeen' campaign.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:12:17.765Z"
     },
     {
       "title": "Former MD convicted in disproportionate assets case",
@@ -452,6 +2644,34 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-03-31T13:14:22.205Z"
+    },
+    {
+      "title": "Explained: How India Can Turn Its Solar Potential Into National Security Asset",
+      "url": "https://www.ndtv.com/india-news/explained-how-india-can-turn-its-solar-potential-into-national-security-asset-11291718#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T12:37:44.000Z",
+      "metaDescription": "The latest geopolitical tensions affecting key oil route, the Strait of Hormuz, have sent a ripple through global fuel markets. For import-dependent economies like India, such disruptions quickly tran",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.34720996593042885,
+      "crawledAt": "2026-03-31T16:55:33.041Z",
+      "id": "yo6z4t",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994677901268005,
+          "index": 6,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The latest geopolitical tensions affecting key oil route, the Strait of Hormuz, have sent a ripple through global fuel markets. For import-dependent economies like India, such disruptions quickly tranan tran transh.",
+      "language": "en",
+      "processed_at": "2026-03-31T17:12:57.877Z"
     },
     {
       "title": "Goa Cyber Crime News | राज्यात सायबर गुन्ह्यांत ६५ टक्के वाढ",
@@ -79503,1513 +81723,19 @@
       "summary": " Nvidia CEO Jensen Huang urged Frore to develop liquid-cooling tech for chips. That shift helped it raise $143 million.",
       "language": "en",
       "processed_at": "2026-03-16T20:56:55.508Z"
-    },
-    {
-      "title": "F1 in China: I've never seen so many people in those grandstands",
-      "url": "https://arstechnica.com/cars/2026/03/f1-in-china-ive-never-seen-so-many-people-in-those-grandstands/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T17:11:42.000Z",
-      "metaDescription": "Formula 1's new style of racing puts on an entertaining sprint weekend in Shanghai.",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.2649326606695227,
-      "crawledAt": "2026-03-16T20:45:43.871Z",
-      "id": "tk7us2",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.925954282283783,
-          "index": 1,
-          "word": "F1",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9997381567955017,
-          "index": 3,
-          "word": "China",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Formula 1's new style of racing puts on an entertaining sprint weekend in Shanghai. F1's new racing style puts on a sprint weekend.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:57:37.352Z"
-    },
-    {
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "source": "MIT Technology Review",
-      "source_domain": "technologyreview.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T17:06:21.000Z",
-      "metaDescription": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.46254916541324914,
-      "crawledAt": "2026-03-16T20:45:48.775Z",
-      "id": "s6nfc5",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9983936548233032,
-          "index": 2,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9949482679367065,
-          "index": 3,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.969489336013794,
-          "index": 4,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.999671220779419,
-          "index": 12,
-          "word": "Iran",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " It’s been just over two weeks since OpenAI reached a controver. It�'s been just two weeks.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:57:49.074Z"
-    },
-    {
-      "title": "RTX 5090 black screens and intermittent crashes",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvfde6/rtx_5090_black_screens_and_intermittent_crashes/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T17:05:49.000Z",
-      "metaDescription": "Hey everyone. I have an RTX 5090 Astral, and it's been having issues that I'll describe below, along with all the steps I've already tried (none of which helped). I'd like to know if anyone has any id",
-      "category": "model-release",
-      "difficulty": 4,
-      "confidence": 0.8303742312557537,
-      "crawledAt": "2026-03-16T17:10:23.914Z",
-      "id": "y9sh0d",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9448981881141663,
-          "index": 1,
-          "word": "R",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I'd like to know if anyone has any id. I've already tried all the things I've tried to do. I'll describe the steps that I've been trying to take.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:11:30.285Z"
-    },
-    {
-      "title": "5 Critical Shifts D&A Leaders Must Make to Drive Analytics and AI Success",
-      "url": "https://www.kdnuggets.com/2026/03/gartner/5-critical-shifts-da-leaders-must-make-to-drive-analytics-and-ai-success",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T17:00:51.000Z",
-      "metaDescription": "Access the complimentary Gartner insights now and discover how to make the shifts that matter most for analytics and AI success.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.33376710238479695,
-      "crawledAt": "2026-03-16T20:47:52.946Z",
-      "id": "u4jt03",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9838761687278748,
-          "index": 5,
-          "word": "D",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9927941560745239,
-          "index": 6,
-          "word": "&",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9757262468338013,
-          "index": 7,
-          "word": "A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Gartner is a partner with Google and Google in the U.S. Gartners are a partner in Google's iReport.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:58:04.337Z"
-    },
-    {
-      "title": "What are the technical differences between how document AI search tools handle vector retrieval across large private libraries?",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rvf7jf/what_are_the_technical_differences_between_how/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T17:00:15.000Z",
-      "metaDescription": "Trying to understand the architectural differences between several private document search tools at a technical level before committing to one for a serious long term use case.\n ꓚսrrеոtꓲу ꓲооkіոց аt f",
-      "category": "research-paper",
-      "difficulty": 4,
-      "confidence": 0.326858394228259,
-      "crawledAt": "2026-03-16T17:10:13.919Z",
-      "id": "9xwwnd",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9691767692565918,
-          "index": 9,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " architectural differences between several private document search tools at a technical level before committing to one for a serious long term use case.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:11:37.903Z"
-    },
-    {
-      "title": "Building AI for better healthcare — the OpenAI Podcast Ep. 14",
-      "url": "https://www.youtube.com/watch?v=VAzryGwnJW8",
-      "source": "OpenAI",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T17:00:00.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.3299486183331706,
-      "crawledAt": "2026-03-16T17:10:32.389Z",
-      "id": "f8el50",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8430129885673523,
-          "index": 8,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9891799688339233,
-          "index": 9,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9359336495399475,
-          "index": 10,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9808982014656067,
-          "index": 11,
-          "word": "Po",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:11:38.027Z"
-    },
-    {
-      "title": "TraceML: see what is slowing PyTorch training while the run is still active",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rvf5y4/traceml_see_what_is_slowing_pytorch_training/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:58:44.000Z",
-      "metaDescription": "Live Terminal Display\n I have been building TraceML, an open-source runtime visibility tool for PyTorch training.\n Repo: https://github.com/traceopt-ai/traceml/\n The goal is simple: when a run feels s",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.2605948002123187,
-      "crawledAt": "2026-03-16T17:10:14.144Z",
-      "id": "tui2xz",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9799638986587524,
-          "index": 8,
-          "word": "P",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9672223329544067,
-          "index": 10,
-          "word": "##T",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9373235702514648,
-          "index": 11,
-          "word": "##or",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The goal is to run a run when a run feels s s s. The goal of this is to be a run that feels like a run.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:11:48.652Z"
-    },
-    {
-      "title": "I made a weird AI thing where you draw something dumb and turn it into a playable mini game in about 10-60 minutes",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rvf5c3/i_made_a_weird_ai_thing_where_you_draw_something/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:58:11.000Z",
-      "metaDescription": "I’ve been messing around with an idea that’s honestly been way more fun than I expected. Im calling it Draw2Play\n The basic concept is everyone draws something dumb, weird, or random, then AI helps tu",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.9065888918089354,
-      "crawledAt": "2026-03-16T20:46:36.714Z",
-      "id": "jlv9v7",
-      "entities": [],
-      "summary": " The basic concept is called Draw2Play. The idea is to create a game that lets you draw random ideas.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:58:14.391Z"
-    },
-    {
-      "title": "Innovative techniques",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rvf1tx/innovative_techniques/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:54:46.000Z",
-      "metaDescription": "submitted by    /u/UniqueDrop150  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7118672478920093,
-      "crawledAt": "2026-03-16T17:10:14.225Z",
-      "id": "falu9i",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:11:57.553Z"
-    },
-    {
-      "title": "Neuromatch Academy is hiring paid, virtual Teaching Assistants for July 2026 - NeuroAI TAs especially needed!",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rvewd5/neuromatch_academy_is_hiring_paid_virtual/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:49:22.000Z",
-      "metaDescription": "Neuromatch Academy has it's virtual TA applications open until 22 March for their July 2026 courses.\n NeuroAI (13–24 July) is where we need the most help right now. If you have a background at the int",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.2570763833991114,
-      "crawledAt": "2026-03-16T17:10:14.450Z",
-      "id": "slyfk4",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9976584315299988,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9260387420654297,
-          "index": 2,
-          "word": "##eur",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9951210021972656,
-          "index": 3,
-          "word": "##oma",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9967870116233826,
-          "index": 4,
-          "word": "##tch",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9959152936935425,
-          "index": 5,
-          "word": "Academy",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8072180151939392,
-          "index": 21,
-          "word": "##o",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Neuromatch Academy has it's virtual TA applications open until 22 March for their 2026 courses. NeuroAI is where we need the most help right now.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:09.166Z"
-    },
-    {
-      "title": "Workflow included : LTX 2.3 at it's finest.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvevxw/workflow_included_ltx_23_at_its_finest/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:48:56.000Z",
-      "metaDescription": "workflow:\n https://aurelm.com/2026/03/15/snails/\n    submitted by    /u/aurelm  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.7229725308077555,
-      "crawledAt": "2026-03-16T17:10:24.077Z",
-      "id": "qgxusd",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:09.291Z"
-    },
-    {
-      "title": "100 years later, where is Robert Goddard's first liquid-fueled rocket?",
-      "url": "https://arstechnica.com/space/2026/03/100-years-later-where-is-robert-goddards-first-liquid-fuel-rocket/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:38:45.000Z",
-      "metaDescription": "\"He didn't preserve it as a sacred object... \"",
-      "category": "product-launch",
-      "difficulty": 4,
-      "confidence": 0.4934781735705585,
-      "crawledAt": "2026-03-16T20:45:44.106Z",
-      "id": "qa5pkp",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.998799204826355,
-          "index": 7,
-          "word": "Robert",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9975771903991699,
-          "index": 8,
-          "word": "Goddard",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:58:23.866Z"
-    },
-    {
-      "title": "10 Things Claude AI Can Do That Most People Don’t Know",
-      "url": "https://ai.plainenglish.io/10-things-claude-ai-can-do-that-most-people-dont-know-ec884396fa0f?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T16:21:51.000Z",
-      "metaDescription": "Artificial intelligence tools are evolving so quickly that most people barely scratch the surface of what they can actually do.\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6268091381517437,
-      "crawledAt": "2026-03-16T17:09:42.219Z",
-      "id": "dmwr6j",
-      "entities": [],
-      "summary": " Artificial intelligence tools are evolving so quickly that most people barely scratch the surface of what they can actually do. Most people barely scratches the surface.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:35.243Z"
-    },
-    {
-      "title": "Agentic pipeline that builds complete Godot games from a text prompt",
-      "url": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T16:17:39.000Z",
-      "metaDescription": "Open source: https://github.com/htdt/godogen\n    submitted by    /u/crush-name  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.39193781609456674,
-      "crawledAt": "2026-03-16T17:09:52.447Z",
-      "id": "ps36mc",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8061608672142029,
-          "index": 7,
-          "word": "God",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:35.653Z"
-    },
-    {
-      "title": "We’re building a deterministic authorization layer for AI agents before they touch tools, APIs, or money",
-      "url": "https://www.reddit.com/r/artificial/comments/1rvdy8f/were_building_a_deterministic_authorization_layer/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T16:16:29.000Z",
-      "metaDescription": "Most discussions about AI agents focus on planning, memory, or tool use.\n But many failures actually happen one step later: when the agent executes real actions.\n Typical problems we've seen:\n runaway",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.9363831042831996,
-      "crawledAt": "2026-03-16T17:09:53.605Z",
-      "id": "6jat9h",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8563273549079895,
-          "index": 13,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Most discussions about AI agents focus on planning, memory, or tool use. But many failures actually happen one step later when the agent executes real actions. Typical problems we've seen: runaway runaway.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:48.419Z"
-    },
-    {
-      "title": "US Treasury publishes AI risk Guidebook for financial institutions",
-      "url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
-      "source": "AI News",
-      "source_domain": "artificialintelligence-news.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:15:00.000Z",
-      "metaDescription": "The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading ‘Resource",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.5749090298080152,
-      "crawledAt": "2026-03-16T17:09:12.540Z",
-      "id": "91imbn",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9939773082733154,
-          "index": 1,
-          "word": "US",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9907770156860352,
-          "index": 2,
-          "word": "Treasury",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.996137261390686,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9902053475379944,
-          "index": 5,
-          "word": "risk",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9671136140823364,
-          "index": 6,
-          "word": "Guide",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8931797742843628,
-          "index": 7,
-          "word": "##book",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The US Treasury has published several documents designed for the US financial services sector. The documents suggest a structured approach to managing AI risks in operations and policy.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:12:57.699Z"
-    },
-    {
-      "title": "OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert",
-      "url": "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T16:00:00.000Z",
-      "metaDescription": "An attacker embeds a single instruction inside a forwarded email. An OpenClaw agent summarizes that email as part of a normal task. The hidden instruction tells the agent to forward credentials to an ",
-      "category": "infrastructure",
-      "difficulty": 6,
-      "confidence": 0.383025443636492,
-      "crawledAt": "2026-03-16T20:45:54.770Z",
-      "id": "bf6r8f",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9735033512115479,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9356998205184937,
-          "index": 2,
-          "word": "##C",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8606581091880798,
-          "index": 3,
-          "word": "##law",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9159185886383057,
-          "index": 7,
-          "word": "E",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9510384202003479,
-          "index": 10,
-          "word": "DL",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9833069443702698,
-          "index": 13,
-          "word": "I",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " An attacker embeds a single instruction inside a forwarded email. The hidden instruction tells the agent to forward credentials to an OpenClaw agent.",
-      "language": "en",
-      "processed_at": "2026-03-16T20:58:33.443Z"
-    },
-    {
-      "title": "Can Comfy Org stop breaking frontend every other update?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvcue7/can_comfy_org_stop_breaking_frontend_every_other/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T15:37:19.000Z",
-      "metaDescription": "Rearranging subgraph widgets don't work and now they removed Flux 2 Conditoning node and replaced with Reference Conditioning mode without backward compatiblity which means any old workflow is fucking",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.3235317186415944,
-      "crawledAt": "2026-03-16T17:10:20.886Z",
-      "id": "3osrln",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.992915689945221,
-          "index": 2,
-          "word": "Co",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9470017552375793,
-          "index": 3,
-          "word": "##m",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.995758593082428,
-          "index": 4,
-          "word": "##fy",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9974256157875061,
-          "index": 5,
-          "word": "Or",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9876337647438049,
-          "index": 6,
-          "word": "##g",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Rearranging subgraph widgets don't work and now they removed Flux 2 Conditoning node and replaced with Reference Conditioning mode without backward compatiblity.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:13:42.266Z"
-    },
-    {
-      "title": "Unified Design to access any LLMs",
-      "url": "https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T15:17:57.000Z",
-      "metaDescription": "Looking at the guidance on how people are handling this very common scenario. We are trying to see how in our company people are using these frontier models, getting team subscriptions and allow them ",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.9048207843682698,
-      "crawledAt": "2026-03-16T17:09:52.759Z",
-      "id": "pv2xzm",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9969467520713806,
-          "index": 1,
-          "word": "Unified",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9928742051124573,
-          "index": 2,
-          "word": "Design",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9299724698066711,
-          "index": 6,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " We are trying to see how in our company people are using these frontier models, getting team subscriptions and allowing them to allow them to get team subscriptions.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:14:12.780Z"
-    },
-    {
-      "title": "I built a crash recovery layer for LangGraph — your agent won't send the same email twice",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rvc3wv/i_built_a_crash_recovery_layer_for_langgraph_your/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T15:10:17.000Z",
-      "metaDescription": "Here's a scenario. Your AI agent is running a 5-step task. Step 3 sends an email to your CEO. Step 4 records that the email was sent. The process crashes between step 3 and step 4.\n Now what?\n The ema",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.34211191194961654,
-      "crawledAt": "2026-03-16T17:10:10.152Z",
-      "id": "h25okp",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9833138585090637,
-          "index": 8,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9831226468086243,
-          "index": 9,
-          "word": "##G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9850581884384155,
-          "index": 10,
-          "word": "##rap",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.837501049041748,
-          "index": 11,
-          "word": "##h",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Your AI agent is running a 5-step task. Step 3 sends an email to your CEO. Step 4 records that the email was sent. The process crashes between step 3 and step 4.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:14:32.260Z"
-    },
-    {
-      "title": "you should definitely check out these open-source repo if you are building Ai agents",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rvc2gd/you_should_definitely_check_out_these_opensource/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T15:08:46.000Z",
-      "metaDescription": "1. Activepieces\n Open-source automation + AI agents platform with MCP support.\n Good alternative to Zapier with AI workflows.\n Supports hundreds of integrations.\n 2. Cherry Studio\n AI productivity stu",
-      "category": "ai-agents",
-      "difficulty": 3,
-      "confidence": 0.9450067050674612,
-      "crawledAt": "2026-03-16T17:10:09.209Z",
-      "id": "pz9ewl",
-      "entities": [],
-      "summary": " The Open-source automation and AI agents platform with MCP support. Good alternative to Zapier with AI workflows.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:14:40.266Z"
-    },
-    {
-      "title": "Studybay just took my money and sent me a garbage paper",
-      "url": "https://www.reddit.com/r/deeplearning/comments/1rvc12g/studybay_just_took_my_money_and_sent_me_a_garbage/",
-      "source": "r/deeplearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T15:07:18.000Z",
-      "metaDescription": "I want to share my study bay review because I honestly wish someone warned me earlier.\n I first found studybay while scrolling Reddit. A couple people were saying good things in comments, and when i g",
-      "category": "research-paper",
-      "difficulty": 8,
-      "confidence": 0.3509836231119556,
-      "crawledAt": "2026-03-16T17:10:13.751Z",
-      "id": "ymyb1k",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9853336811065674,
-          "index": 1,
-          "word": "Study",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9403712749481201,
-          "index": 2,
-          "word": "##bay",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I want to share my study bay review because I honestly wish someone warned me earlier. I first found studybay while scrolling Reddit.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:14:49.084Z"
-    },
-    {
-      "title": "PixlStash 1.0.0b2. A self‑hosted image manager for AI creators",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvbis7/pixlstash_100b2_a_selfhosted_image_manager_for_ai/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:48:38.000Z",
-      "metaDescription": "I’ve been working on this for a while and I’m finally at a beta stage with PixlStash, an open source self‑hosted image manager built with ComfyUI users in mind.\n If you generate a lot of images in Com",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2613205287328507,
-      "crawledAt": "2026-03-16T17:10:21.609Z",
-      "id": "nik5hs",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9690477848052979,
-          "index": 22,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " PixlStash is a self-hosted image manager for ComfyUI users. If you generate a lot of images, you can use it to create a new image.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:14:59.983Z"
-    },
-    {
-      "title": "How Workhuman built multi-tenant self-service reporting using Amazon Quick Sight embedded dashboards",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-workhuman-built-multi-tenant-self-service-reporting-using-amazon-quick-sight-embedded-dashboards/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:48:16.000Z",
-      "metaDescription": "This post explores how Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. We go through their architecture approach, implementation strategy, a",
-      "category": "infrastructure",
-      "difficulty": 5,
-      "confidence": 0.379701875215375,
-      "crawledAt": "2026-03-16T17:09:21.292Z",
-      "id": "b7njhr",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9232138395309448,
-          "index": 13,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.973768949508667,
-          "index": 14,
-          "word": "Quick",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9858633875846863,
-          "index": 15,
-          "word": "Si",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9564536213874817,
-          "index": 16,
-          "word": "##ght",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Workhuman transformed their analytics delivery model and the key lessons learned from their implementation. This post explores how Workhuman transform their analytics model and how they learned from the implementation.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:09.594Z"
-    },
-    {
-      "title": "We open-sourced cryptographic identity and delegation for AI agents",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rvb6gw/we_opensourced_cryptographic_identity_and/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T14:35:47.000Z",
-      "metaDescription": "AI agents authenticate with API keys. But API keys only prove who an agent is, not what it's allowed to do or who authorized it.\n When you have agents delegating to other agents (Human -> Manager -> W",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9393657790338475,
-      "crawledAt": "2026-03-16T17:10:10.345Z",
-      "id": "1egzgx",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9687718152999878,
-          "index": 12,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " API keys only prove who an agent is, not what it's allowed to do or who authorized it. When you have agents delegating to other agents, you can't say what it is.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:31.545Z"
-    },
-    {
-      "title": "Small tease - will done in the next day or so LTX-2.3 easy prompt Several small updates + music overhaul with 44 pre-set styles. - Low quality videos just for testing.",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rvb5yl/small_tease_will_done_in_the_next_day_or_so_ltx23/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:35:14.000Z",
-      "metaDescription": "All very basic prompts like\n \"bollywood item song, a woman performs with full choreography in an ornate palace set, colourful, celebratory, she sings in Hindi\"\n \"she sings about how her day has been, ",
-      "category": "product-launch",
-      "difficulty": 3,
-      "confidence": 0.31972556308331024,
-      "crawledAt": "2026-03-16T17:10:22.074Z",
-      "id": "dka7my",
-      "entities": [],
-      "summary": " A woman performs with full choreography in an ornate palace set, colourful, celebratory, she sings in Hindi. She sings about how her day has been, \"she sings aboutHow her day is been\"",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:43.471Z"
-    },
-    {
-      "title": "Building Scalable AI Solutions: Insights from Top ML Consulting Firms",
-      "url": "https://ai.plainenglish.io/building-scalable-ai-solutions-insights-from-top-ml-consulting-firms-2b6edf45ef74?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T14:34:55.000Z",
-      "metaDescription": "",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.2997790563112137,
-      "crawledAt": "2026-03-16T17:09:42.285Z",
-      "id": "tb3bps",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.811279833316803,
-          "index": 13,
-          "word": "M",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9670981764793396,
-          "index": 14,
-          "word": "##L",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9501997232437134,
-          "index": 15,
-          "word": "Consul",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:43.581Z"
-    },
-    {
-      "title": "Driving Business Innovation with Machine Learning Consulting Services",
-      "url": "https://ai.plainenglish.io/driving-business-innovation-with-machine-learning-consulting-services-c33e72ea9140?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T14:34:33.000Z",
-      "metaDescription": "",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.29901131966762795,
-      "crawledAt": "2026-03-16T17:09:42.341Z",
-      "id": "fx6lp3",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9680591821670532,
-          "index": 5,
-          "word": "Machine",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9990224242210388,
-          "index": 6,
-          "word": "Learning",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9989732503890991,
-          "index": 7,
-          "word": "Consul",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9984095096588135,
-          "index": 8,
-          "word": "##ting",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.996593177318573,
-          "index": 9,
-          "word": "Services",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:43.701Z"
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T14:30:55.000Z",
-      "metaDescription": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in th",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.25091593305022303,
-      "crawledAt": "2026-03-16T17:08:55.843Z",
-      "id": "2davkf",
-      "entities": [
-        {
-          "entity": "B-PER",
-          "score": 0.9994789958000183,
-          "index": 4,
-          "word": "Jensen",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9995639324188232,
-          "index": 5,
-          "word": "Huang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.997235894203186,
-          "index": 8,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9883530139923096,
-          "index": 9,
-          "word": "##vid",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9306139945983887,
-          "index": 10,
-          "word": "##ia",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.992113471031189,
-          "index": 11,
-          "word": "GT",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9943718314170837,
-          "index": 12,
-          "word": "##C",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Huang's keynote will focus on Nvidia's role in the future of computing. GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:15:54.774Z"
-    },
-    {
-      "title": "NVIDIA Just Released a 120B Model That Runs Like a 12B",
-      "url": "https://pub.towardsai.net/nvidia-just-released-a-120b-model-that-runs-like-a-12b-1879f1ce3d52?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T14:01:04.000Z",
-      "metaDescription": "And the Architecture Behind It Is Genuinely Weird\nContinue reading on Towards AI »",
-      "category": "model-release",
-      "difficulty": 5,
-      "confidence": 0.8810203264879549,
-      "crawledAt": "2026-03-16T17:09:31.956Z",
-      "id": "o0tptg",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9945074319839478,
-          "index": 1,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.984498918056488,
-          "index": 3,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Architecture Behind It Is Genuinely Weird. And the Architecture Behind it Is Gen genuinely Weird. And the architecture Behind It is Genuineally Weird.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:03.272Z"
-    },
-    {
-      "title": "AI Music Generation Goes Consumer with Google’s MusicFX DJ",
-      "url": "https://www.kdnuggets.com/ai-music-generation-goes-consumer-with-googles-musicfx-dj",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:00:50.000Z",
-      "metaDescription": "Google's MusicFX DJ turns AI music generation into an interactive, consumer-friendly experience, creating real-time music from text prompts.",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.6036491688476854,
-      "crawledAt": "2026-03-16T17:11:15.336Z",
-      "id": "nzxqqh",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8765583634376526,
-          "index": 1,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9979676604270935,
-          "index": 7,
-          "word": "Google",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Google's MusicFX DJ creates real-time music from text messages. The music is a form of music that can be played in real-life.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:13.412Z"
-    },
-    {
-      "title": "Knowledge Distillation in Neural Networks - Explained!",
-      "url": "https://www.youtube.com/watch?v=BUCSTKQOzcM",
-      "source": "Code Emporium",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:00:15.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 8,
-      "confidence": 0.7159115066825574,
-      "crawledAt": "2026-03-16T17:10:39.037Z",
-      "id": "blya8h",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.9780596494674683,
-          "index": 9,
-          "word": "##al",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9915197491645813,
-          "index": 10,
-          "word": "Networks",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:13.523Z"
-    },
-    {
-      "title": "Spyder: Your IDE for Data Science Development in Python",
-      "url": "https://realpython.com/spyder-ide/",
-      "source": "Real Python",
-      "source_domain": "realpython.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T14:00:00.000Z",
-      "metaDescription": "There are many different integrated development environments (IDEs) to choose from for Python development. One popular option for data-focused work is Spyder, an open-source Python IDE geared toward s",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.9804347907928014,
-      "crawledAt": "2026-03-16T17:11:11.710Z",
-      "id": "ntrbqh",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.993135392665863,
-          "index": 8,
-          "word": "Data",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9950312376022339,
-          "index": 9,
-          "word": "Science",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9953716993331909,
-          "index": 10,
-          "word": "Development",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.8532459735870361,
-          "index": 12,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " There are many different integrated development environments (IDEs) to choose from for Python development. Spyder is an open-source Python IDE geared toward s.S.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:25.105Z"
-    },
-    {
-      "title": "‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images",
-      "url": "https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T13:58:37.000Z",
-      "metaDescription": "submitted by    /u/boppinmule  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.2695306702503486,
-      "crawledAt": "2026-03-16T17:09:51.840Z",
-      "id": "5vv6pl",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9644886255264282,
-          "index": 2,
-          "word": "Pokémon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9941292405128479,
-          "index": 3,
-          "word": "Go",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:25.234Z"
-    },
-    {
-      "title": "I'm sorry if I'm late to the party, but is there a curated website list for AI news that are focused on actual technical news, without taking sides on any of the factions ?",
-      "url": "https://www.reddit.com/r/artificial/comments/1rva00k/im_sorry_if_im_late_to_the_party_but_is_there_a/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T13:50:55.000Z",
-      "metaDescription": "In other words, some trustworthy links that you can read on daily/weekly basis to be objectively informed about AI. I'm not interested for the market.\n    submitted by    /u/sobfoo  \n [link]   [commen",
-      "category": "industry-news",
-      "difficulty": 4,
-      "confidence": 0.5770435286751079,
-      "crawledAt": "2026-03-16T17:09:53.229Z",
-      "id": "nt4y66",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9901067018508911,
-          "index": 22,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:25.668Z"
-    },
-    {
-      "title": "NBC News survey finds Americans hate AI even more than ICE",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rv9rsl/nbc_news_survey_finds_americans_hate_ai_even_more/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-16T13:41:49.000Z",
-      "metaDescription": "submitted by    /u/Cybernews_com  \n [link]   [comments]",
-      "category": "industry-news",
-      "difficulty": 6,
-      "confidence": 0.29794869250251954,
-      "crawledAt": "2026-03-16T17:09:55.987Z",
-      "id": "2imrm5",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9947160482406616,
-          "index": 1,
-          "word": "NBC",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9836480617523193,
-          "index": 2,
-          "word": "News",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9995791912078857,
-          "index": 5,
-          "word": "Americans",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9882000684738159,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9798113703727722,
-          "index": 11,
-          "word": "I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9259342551231384,
-          "index": 12,
-          "word": "##CE",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:38.796Z"
-    },
-    {
-      "title": "Making music with AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1rv9rcn/making_music_with_ai/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-16T13:41:26.000Z",
-      "metaDescription": "I have MS, so I've never really been able to play instruments. I can't sing. So music was just something I fantasized about. I was always making songs in my head, they just never went anywhere.\n First",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.9548772733499654,
-      "crawledAt": "2026-03-16T17:09:52.298Z",
-      "id": "j8pqrh",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9900920391082764,
-          "index": 4,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I have MS, so I've never really been able to play instruments. I can't sing, so music was just something I fantasized about. I was always making songs in my head, they just never went anywhere.",
-      "language": "en",
-      "processed_at": "2026-03-16T17:16:51.587Z"
     }
   ],
-  "processedAt": "2026-03-31T13:37:43.866Z",
+  "processedAt": "2026-03-31T17:13:30.847Z",
   "categories": [
     "legal-judiciary",
-    "education-skills",
-    "maharashtra-state-local",
-    "jobs-recruitment",
     "government-schemes",
+    "jobs-recruitment",
+    "education-skills",
     "msme-industry-trade",
-    "civic-public-service",
+    "maharashtra-state-local",
     "banking-credit",
     "policy-regulation",
+    "civic-public-service",
     "creative-ai",
     "infrastructure",
     "ai-agents",
@@ -81022,9 +81748,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 60,
-  "existingArticlesKept": 2230,
+  "newArticlesProcessed": 50,
+  "existingArticlesKept": 2258,
   "cleanupApplied": true,
-  "cleanedUpCount": 32,
+  "cleanedUpCount": 37,
   "rollingWindowDays": 15
 }
