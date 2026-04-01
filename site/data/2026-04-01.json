@@ -1,9 +1,1191 @@
 {
-  "crawledAt": "2026-04-01T02:11:31.449Z",
+  "crawledAt": "2026-04-01T05:55:29.157Z",
   "totalSources": 75,
-  "totalArticles": 36,
+  "totalArticles": 68,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "NMC Under Fire: Laxminagar Zone Reports Just 85.16 sq m Pothole Repairs Despite Multiple Complaints",
+      "url": "https://thelivenagpur.com/2026/04/01/nmc-under-fire-laxminagar-zone-reports-just-85-16-sq-m-pothole-repairs-despite-multiple-complaints/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T05:46:13.000Z",
+      "metaDescription": "In a surprising development, the Laxminagar Zone of the Nagpur Municipal Corporation (NMC) has proposed repairs…",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.28643406296526175,
+      "crawledAt": "2026-04-01T05:53:16.012Z",
+      "id": "cckrhv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9934541583061218,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8560269474983215,
+          "index": 2,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Laxminagar Zone of the Nagpur Municipal Corporation (NMC) has proposed repairs. The LAXminagar zone of the NMC has proposed repair.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:56:29.436Z"
+    },
+    {
+      "title": "Sambhajinagar News : मनपाची ४५० कोटींची विक्रमी वसुली",
+      "url": "https://pudhari.news/maharashtra/marathwada/chhatrapati-sambhajinagar/municipal-corporations-record-recovery-of-450-crores-np88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T05:45:45.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.28007920096980815,
+      "crawledAt": "2026-04-01T05:53:06.177Z",
+      "id": "pg04am",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982373714447021,
+          "index": 1,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9968145489692688,
+          "index": 2,
+          "word": "##bha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975513219833374,
+          "index": 3,
+          "word": "##jin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970642328262329,
+          "index": 4,
+          "word": "##aga",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975335597991943,
+          "index": 5,
+          "word": "##r",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973769783973694,
+          "index": 6,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:56:29.574Z"
+    },
+    {
+      "title": "Nagpur–Nanded Air Service Resumes; Low Occupancy on First Day",
+      "url": "https://thelivenagpur.com/2026/04/01/nagpur-nanded-air-service-resumes-low-occupancy-on-first-day/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T05:43:34.000Z",
+      "metaDescription": "After a long wait of several months, air connectivity between Nagpur and Nanded resumed on Tuesday.…",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.44846125032318507,
+      "crawledAt": "2026-04-01T05:53:16.184Z",
+      "id": "s2yn83",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.937772810459137,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8629713654518127,
+          "index": 2,
+          "word": "##g",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9575605988502502,
+          "index": 3,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.993960440158844,
+          "index": 5,
+          "word": "Nan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9854063987731934,
+          "index": 6,
+          "word": "##ded",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979478716850281,
+          "index": 7,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9968730211257935,
+          "index": 8,
+          "word": "Service",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9078037142753601,
+          "index": 19,
+          "word": "First",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9844183921813965,
+          "index": 20,
+          "word": "Day",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Air connectivity between Nagpur and Nanded resumed on Tuesday. Nanded has been in the air for several months.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:57:00.708Z"
+    },
+    {
+      "title": "US report flags high import duties, non-tariff barriers in India",
+      "url": "https://www.thehindubusinessline.com/economy/us-report-flags-high-import-duties-non-tariff-barriers-in-india/article70810082.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:36:40.000Z",
+      "metaDescription": "US Trade Representative’s 2026 National Trade Estimate Report highlights issues related to tariffs, non-tariff barriers, intellectual property, services, digital trade and transparency",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.34367848873897405,
+      "crawledAt": "2026-04-01T05:54:26.845Z",
+      "id": "xirje3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991080164909363,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999671220779419,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US Trade Representative’s 2026 National Trade Estimate Report highlights issues related to tariffs, non-tariff barriers, intellectual property, intellectualproperty, services, digital trade and transparency.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:57:12.522Z"
+    },
+    {
+      "title": "US lists India’s preference for domestic satellites for DTH, localised internet shutdown as trade barrier",
+      "url": "https://www.deccanherald.com/world/us/us-lists-indias-preference-for-domestic-satellites-for-dth-localised-internet-shutdown-as-trade-barrier-3951712",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T05:36:03.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.301445778567084,
+      "crawledAt": "2026-04-01T05:55:22.841Z",
+      "id": "8p3tw8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9975212216377258,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997758269309998,
+          "index": 3,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9842181205749512,
+          "index": 11,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:57:12.655Z"
+    },
+    {
+      "title": "Iran Foreign Minister, President Appear In Public, Spell Out How War Can End",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-iran-foreign-minister-president-appear-in-public-spell-out-how-war-can-end-11294905#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:32:19.000Z",
+      "metaDescription": "The last time the two top leaders were seen on the streets of Tehran was on \"Iranian Quds Day\" with Iran's security chief Ali Larijani, days before he was killed in US-Israeli strikes.",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.42537720172439464,
+      "crawledAt": "2026-04-01T05:54:42.209Z",
+      "id": "4hf1y",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998152852058411,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The last time the two leaders were seen together was on \"Iranian Quds Day\" Iran's security chief Ali Larijani was killed by the U.S. in the U-S.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:57:46.545Z"
+    },
+    {
+      "title": "Healthcare’s AI Test",
+      "url": "https://inc42.com/features/healthcares-ai-test/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:30:52.000Z",
+      "metaDescription": "Healthcare AI is almost always framed as a promise — sharper diagnostics, faster decisions, better outcomes. In India, that promise…",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.4528239005478161,
+      "crawledAt": "2026-04-01T05:54:51.995Z",
+      "id": "tnc99r",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9789695143699646,
+          "index": 4,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9907147288322449,
+          "index": 5,
+          "word": "Test",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Healthcare AI is almost always framed as a promise — sharper diagnostics, faster diagnostics and better outcomes. In India, that promise is often framed as promise.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:58:11.198Z"
+    },
+    {
+      "title": "Banking Rules Change : 1 एप्रिलपासून खिशावर होणार परिणाम! बँकेच्या 4 नियमांमध्ये मोठे बदल; ग्राहकांना मिळणार दिलासा",
+      "url": "https://www.navakal.in/arthmitra/banking-rules-change-marathi-news/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:30:00.000Z",
+      "metaDescription": "Banking Rules Change : नवीन आर्थिक वर्षाची सुरुवात १ एप्रिलपासून होत असून, यासोबतच कर्ज, क्रेडिट स्कोअर आणि वारसदार (नॉमिनी) यांच्याशी संबंधित अनेक नियमांमध्ये मोठे बदल करण्यात आले आहेत. भारतीय रिझर्व",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2963031848661282,
+      "crawledAt": "2026-04-01T05:53:56.734Z",
+      "id": "96vfaf",
+      "entities": [],
+      "summary": " The Bankers' Banking Rules Change. The Banker's new rules include a new system of banking rules.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:58:31.326Z"
+    },
+    {
+      "title": "Looking into the continuing costs of India’s COVID-19 policy",
+      "url": "https://www.thehindu.com/news/national/looking-into-the-continuing-costs-of-indias-covid-19-policy/article70808627.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:28:51.000Z",
+      "metaDescription": "Six years since the COVID-19 pandemic, the question that three books collectively pose is not whether India’s response succeeded or failed; the evidence on that is substantial. It is whether those who",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.305680371957105,
+      "crawledAt": "2026-04-01T05:54:24.912Z",
+      "id": "t6jacl",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997857809066772,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9400569796562195,
+          "index": 10,
+          "word": "CO",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The question is whether India's response to the pandemic was successful or not. It is not clear whether the response was successful.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:58:52.803Z"
+    },
+    {
+      "title": "Why a second global shipping chokepoint could soon live up to its name as the ‘Gate of Tears’",
+      "url": "https://www.downtoearth.org.in/energy/why-a-second-global-shipping-chokepoint-could-soon-live-up-to-its-name-as-the-gate-of-tears",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T05:25:31.000Z",
+      "metaDescription": "Iran’s closure of Strait of Hormuz has jolted energy markets, and attention is shifting to Bab el-Mandeb Strait, where Iran-aligned Houthi forces in Yemen could again threaten Red Sea shipping. Even l",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.36618598675857433,
+      "crawledAt": "2026-04-01T05:55:20.263Z",
+      "id": "hod31i",
+      "entities": [],
+      "summary": " Iran’s closure of Strait of Hormuz has jolted energy markets, and attention is shifting to Bab el-Mandeb Strait. Houthi forces in Yemen could again threaten Red Sea shipping.",
+      "language": "en",
+      "processed_at": "2026-04-01T05:59:51.906Z"
+    },
+    {
+      "title": "T.N. Assembly election: BJP may try to split DMK alliance even if it gets a majority: Thol. Thirumavalavan",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-bjp-may-try-to-split-the-dmk-even-if-it-gets-a-majority-says-thol-thirumavalavan/article70807139.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:25:02.000Z",
+      "metaDescription": "‘I’ve wanted to contest in the Assembly election since 2021. How we function in the Assembly shapes the public perception. Going to Parliament is an honour. But, when I look at Tamil Nadu politics, th",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2528881001217331,
+      "crawledAt": "2026-04-01T05:54:25.564Z",
+      "id": "7bvlsb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9881611466407776,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974721670150757,
+          "index": 3,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8937475681304932,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954951405525208,
+          "index": 5,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992722868919373,
+          "index": 8,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9867197275161743,
+          "index": 9,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.99894118309021,
+          "index": 14,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9940028786659241,
+          "index": 15,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976817965507507,
+          "index": 16,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9621278643608093,
+          "index": 25,
+          "word": "T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tamil Nadu has been in the Assembly since 2011. Tamil Nadu is a state of the Tamil Nadu state of Tamil Nadu.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:00:01.035Z"
+    },
+    {
+      "title": "Why F1 finds itself in an existential battle, balancing new rules with driver complaints",
+      "url": "https://indianexpress.com/article/explained/explained-sports/why-f1-finds-itself-in-an-existential-battle-10612884/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:24:53.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 4,
+      "confidence": 0.6572874270624137,
+      "crawledAt": "2026-04-01T05:54:29.817Z",
+      "id": "gqt2si",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:00:01.331Z"
+    },
+    {
+      "title": "Credit guarantee boost to help revive microfinance growth, says Muthoot Microfin CEO Sadaf Sayeed",
+      "url": "https://www.livemint.com/companies/news/credit-guarantee-boost-microfinance-growth-muthoot-microfinance-ceo-sadaf-sayeed-lenders-financial-inclusion-nbfc-mfis-11775016730907.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:13:55.000Z",
+      "metaDescription": "Sadaf Sayeed, chief executive officer of Muthoot Microfinance said the move could unlock lending, revive financial inclusion and support sectoral growth.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.6167419399412675,
+      "crawledAt": "2026-04-01T05:54:05.139Z",
+      "id": "1iug2s",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972419142723083,
+          "index": 13,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.984106719493866,
+          "index": 15,
+          "word": "##oot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982573390007019,
+          "index": 16,
+          "word": "Micro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9930576086044312,
+          "index": 17,
+          "word": "##fin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996808767318726,
+          "index": 19,
+          "word": "Sad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996266961097717,
+          "index": 21,
+          "word": "Say",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9975970983505249,
+          "index": 22,
+          "word": "##eed",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sadaf Sayeed, chief executive officer of Muthoot Microfinance said the move could unlock lending, revive financial inclusion and support sectoral growth.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:01:13.219Z"
+    },
+    {
+      "title": "Raja Shivaji Movie Teaser: ‘या’ तारखेला घुमणार स्वराज्याचा सिंहनाद! रितेश देशमुखच्या ‘राजा शिवाजी’ चित्रपटाचा टीझर एकदा पाहाच",
+      "url": "https://www.navakal.in/manoranjan/riteish-deshmukh-raja-shivaji-movie-teaser-release-cast-release-date-details/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T05:00:00.000Z",
+      "metaDescription": "Raja Shivaji Movie Teaser: मराठी चित्रपटसृष्टीतील बहुप्रतिक्षित आणि भव्य ऐतिहासिक चित्रपट ‘राजा शिवाजी’चा अंगावर शहारे आणणारा टीझर अखेर प्रदर्शित झाला आहे. अभिनेता रितेश देशमुख याने केवळ या चित्रपटाचे",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3898480956368968,
+      "crawledAt": "2026-04-01T05:53:57.070Z",
+      "id": "pyz62k",
+      "entities": [
+        {
+          "entity": "I-PER",
+          "score": 0.8678799867630005,
+          "index": 2,
+          "word": "Shiva",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Raja Shivaji Movie Teaser:  ‘’s’  ’ ” “’S’Raja Shiv’",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:04.115Z"
+    },
+    {
+      "title": "Maharashtra Banana Farmers Crisis: केळी उत्पादक शेतकरी संकटात; दोन रुपये किलो भावाने विक्री",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/ahilyanagar/banana-farmers-crisis-price-drop-war-impact-srigonda-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T04:58:34.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5009483007614152,
+      "crawledAt": "2026-04-01T05:53:09.313Z",
+      "id": "hgray",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9906165599822998,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9928406476974487,
+          "index": 2,
+          "word": "Ban",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.99183589220047,
+          "index": 3,
+          "word": "##ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966522455215454,
+          "index": 4,
+          "word": "Farmers",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9717591404914856,
+          "index": 5,
+          "word": "Crisis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:04.383Z"
+    },
+    {
+      "title": "Parner Credit Society Profit: पारनेर पतसंस्थेची भरारी; 5.32 कोटींचा नफा, ठेवी 251 कोटींवर",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/ahilyanagar/parner-credit-society-profit-deposits-financial-growth-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T04:52:47.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.8640312188887631,
+      "crawledAt": "2026-04-01T05:53:10.047Z",
+      "id": "rt2ey6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9854791164398193,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9492056369781494,
+          "index": 2,
+          "word": "##rner",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983121752738953,
+          "index": 3,
+          "word": "Credit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9959931969642639,
+          "index": 4,
+          "word": "Society",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:21.071Z"
+    },
+    {
+      "title": "Unidentified militant killed in Ganderbal encounter, operation underway",
+      "url": "https://www.deccanherald.com/india/jammu-and-kashmir/unidentified-militant-killed-in-ganderbal-encounter-operation-underway-3951764",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T04:47:45.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.27441732712931854,
+      "crawledAt": "2026-04-01T05:55:23.768Z",
+      "id": "kcw41k",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:49.956Z"
+    },
+    {
+      "title": "Stock markets surge in early trade on hopes of potential de-escalation in West Asia war",
+      "url": "https://www.deccanherald.com/business/markets/stock-markets-surge-in-early-trade-on-hopes-of-potential-de-escalation-in-west-asia-war-3951756",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T04:46:56.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.31153259622437984,
+      "crawledAt": "2026-04-01T05:55:23.879Z",
+      "id": "9fepiy",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9415881037712097,
+          "index": 17,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9769211411476135,
+          "index": 18,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:50.130Z"
+    },
+    {
+      "title": "Shrirampur Law And Order: श्रीरामपूरमध्ये तणाव वाढला; आमदारांचा पोलिसांना इशारा",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/ahilyanagar/shrirampur-law-order-tension-mla-warning-police-action-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T04:46:34.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30701916890557845,
+      "crawledAt": "2026-04-01T05:53:10.720Z",
+      "id": "c75tmf",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:03:59.328Z"
+    },
+    {
+      "title": "Kishori Pednekar slams Neelam Gorehe : नीलम गोर्‍हे काळ्या हृदयाची व खोटारडी बाई ! किशोरी पेडणेकरांची खालच्या पातळीची टीका",
+      "url": "https://www.navakal.in/news/kishori-pednekar-slams-neelam-gorehe/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T04:30:00.000Z",
+      "metaDescription": "Kishori Pednekar slams Neelam Gorehe – भोंदूबाबा अशोक खरात प्रकरणात शिंदे गटाच्या नेत्या नीलम गोर्‍हे यांचे नाव आल्याने राजकीय वर्तुळात खळबळ उडाली आहे. सामाजिक कार्यकर्त्या तृप्ती देसाई यांनी गोर्‍हें",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.28132758271488684,
+      "crawledAt": "2026-04-01T05:53:58.475Z",
+      "id": "vk6qci",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993095993995667,
+          "index": 1,
+          "word": "Ki",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989255666732788,
+          "index": 4,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.983807384967804,
+          "index": 5,
+          "word": "##ed",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9460548162460327,
+          "index": 6,
+          "word": "##ne",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9870288968086243,
+          "index": 7,
+          "word": "##kar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994004368782043,
+          "index": 10,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9876981973648071,
+          "index": 11,
+          "word": "##eel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8669807314872742,
+          "index": 12,
+          "word": "##am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995062947273254,
+          "index": 13,
+          "word": "Gore",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kishori Pednekar slams Neelam Gorehe. Kishor Pednear slams Neeram Gore he.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:04:54.809Z"
+    },
+    {
+      "title": "ICICI Bank hit by Rs 23 crore gold loan scam",
+      "url": "https://thelivenagpur.com/2026/04/01/icici-bank-hit-by-rs-23-crore-gold-loan-scam/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T04:18:44.000Z",
+      "metaDescription": "A major gold loan fraud has surfaced at ICICI Bank in Nagpur, where fake gold ornaments…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5135052963847205,
+      "crawledAt": "2026-04-01T05:53:16.338Z",
+      "id": "tsg2hl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9995623230934143,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969268441200256,
+          "index": 2,
+          "word": "##CI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999233067035675,
+          "index": 3,
+          "word": "##CI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987561702728271,
+          "index": 4,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A major gold loan fraud has surfaced at ICICI Bank in Nagpur, where fake gold ornaments are found.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:05:26.653Z"
+    },
+    {
+      "title": "FinMin notifies custom duty relief on SEZ goods sold domestically",
+      "url": "https://www.thehindubusinessline.com/economy/finmin-notifies-custom-duty-relief-on-sez-goods-sold-domestically/article70809879.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T04:09:56.000Z",
+      "metaDescription": "Duty to be lowered to 5-12.5%; relief effective for one year",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.2994554441809423,
+      "crawledAt": "2026-04-01T05:54:27.571Z",
+      "id": "my7e91",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8703561425209045,
+          "index": 2,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Duty to be lowered to 5-12.5%; relief effective for one year. Relief effective for a year.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:05:44.897Z"
+    },
+    {
+      "title": "Trump Ready To Leave Iran Without Deal, Israel Vows To \"Crush Terror Regime\"",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-trump-says-us-ready-to-leave-iran-without-deal-israel-indicate-other-plans-11294370#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T04:06:09.000Z",
+      "metaDescription": "Since the beginning of the war, several reports have suggested that the Israeli prime minister was responsible for convincing Trump to attack Iran.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.27641226065892854,
+      "crawledAt": "2026-04-01T05:54:43.712Z",
+      "id": "54jrhf",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9295303225517273,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9984326362609863,
+          "index": 5,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8037642240524292,
+          "index": 7,
+          "word": "Deal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994869828224182,
+          "index": 9,
+          "word": "Israel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9277132153511047,
+          "index": 14,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Several reports have suggested that the Israeli prime minister was responsible for convincing Trump to attack Iran. Since the beginning of the war, several reports have claimed that the prime minister is responsible for the attack.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:06:07.316Z"
+    },
+    {
+      "title": "Madhya Pradesh: Ujjwala gave them smoke-free kitchens, but now, dung-cake stoves are back",
+      "url": "https://indianexpress.com/article/india/madhya-pradesh-ujjwala-smoke-free-kitchens-now-dung-cake-stoves-10612416/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T03:35:15.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.36671954427296427,
+      "crawledAt": "2026-04-01T05:53:34.207Z",
+      "id": "1p9kh0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993224143981934,
+          "index": 1,
+          "word": "Madhya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992841482162476,
+          "index": 2,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9820290803909302,
+          "index": 4,
+          "word": "U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:06:29.506Z"
+    },
+    {
+      "title": "Dosa to pizza chains realize there are no easy ways out of LPG shortage",
+      "url": "https://www.livemint.com/companies/dominos-kfc-wow-momo-lpg-crisis-menu-changes-investor-impact-11774939848857.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T03:30:48.000Z",
+      "metaDescription": "Quick-service restaurants find that the piped-gas network is confined to a few cities, and the transition to electric cooking is hampered by higher operating costs and a spike in upfront equipment pri",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.29669768403957186,
+      "crawledAt": "2026-04-01T05:54:05.553Z",
+      "id": "p78p86",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9573948979377747,
+          "index": 14,
+          "word": "LP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The piped-gas network is confined to a few cities, and the transition to electric cooking is hampered by higher operating costs and a spike in upfront equipment.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:06:47.490Z"
+    },
+    {
+      "title": "Agriculture Department Reform: आकृतिबंधाच्या काही मुद्द्यांवर संघटनांचे एकमत",
+      "url": "https://agrowon.esakal.com/agro-special/agriculture-department-restructuring-final-stage-india-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T03:30:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.4967796953991899,
+      "crawledAt": "2026-04-01T05:53:14.622Z",
+      "id": "4hcvmx",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:06:47.607Z"
+    },
+    {
+      "title": "Video: Chain Snatchers Attack Woman With Knife In Delhi",
+      "url": "https://www.ndtv.com/delhi-news/video-chain-snatchers-attack-woman-with-knife-in-delhi-11287330#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T02:55:15.000Z",
+      "metaDescription": "Woman suffers minor injuries after gold chain snatching attempt in Delhi.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9628991681984451,
+      "crawledAt": "2026-04-01T05:54:44.497Z",
+      "id": "oa64y2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.950481653213501,
+          "index": 4,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9980555176734924,
+          "index": 13,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Woman suffers minor injuries after gold chain snatching attempt in Delhi. Woman suffers injuries after Gold chain snatch attempt in New Delhi.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:08:11.194Z"
+    },
     {
       "title": "Two ug degree…Can I do one offline and one online degree simultaneously",
       "url": "https://www.reddit.com/r/Indian_Academia/comments/1s97hrf/two_ug_degreecan_i_do_one_offline_and_one_online/",
@@ -148,6 +1330,74 @@
       "processed_at": "2026-04-01T02:13:21.032Z"
     },
     {
+      "title": "Transgender Persons Amendment Act 2026: Looking back at a decade of legal battles over gender identity",
+      "url": "https://indianexpress.com/article/explained/explained-law/transgender-amendment-act-2026-gender-identity-10612104/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T01:37:56.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.2862852890139688,
+      "crawledAt": "2026-04-01T05:54:30.205Z",
+      "id": "pm4rlp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.986842930316925,
+          "index": 1,
+          "word": "Trans",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8022865653038025,
+          "index": 2,
+          "word": "##gen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9074188470840454,
+          "index": 3,
+          "word": "##der",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9967381358146667,
+          "index": 4,
+          "word": "Persons",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9975711107254028,
+          "index": 5,
+          "word": "Amendment",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9964048862457275,
+          "index": 6,
+          "word": "Act",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:09:05.216Z"
+    },
+    {
       "title": "How to deal with ‘digital arrest’? Mumbai cyber cops are knocking on doors of senior citizens",
       "url": "https://indianexpress.com/article/cities/mumbai/how-to-deal-with-digital-arrest-mumbai-cyber-cops-are-knocking-on-doors-of-senior-citizens-10612421/",
       "source": "Indian Express — Mumbai",
@@ -210,6 +1460,42 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-01T02:13:22.002Z"
+    },
+    {
+      "title": "Mumbai Metro network hits 90 km, set to cross 120 km by year-end — A guide to what opens next, what’s delayed",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-metro-network-hits-90-km-set-to-cross-120-km-by-2026-a-guide-to-what-opens-next-whats-delayed-10612348/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T01:30:01.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.7602103408160276,
+      "crawledAt": "2026-04-01T05:53:38.274Z",
+      "id": "tgjary",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999046266078949,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987154006958008,
+          "index": 2,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:09:05.434Z"
     },
     {
       "title": "Musk Must Face Class Action Over Late Disclosure Of Twitter Stake: Court",
@@ -1397,21 +2683,162 @@
       "summary": " A streamer named Durpee82 offered a rare prize on his channel. The odds of winning were very low. Durpee 82 agreed to cover the expenses for the expenses.",
       "language": "en",
       "processed_at": "2026-04-01T02:22:37.920Z"
+    },
+    {
+      "title": "Social media content creator Santosh Pandit booked for sexual harassment of woman journalist",
+      "url": "https://indianexpress.com/article/cities/pune/content-creator-booked-for-sexual-harassment-10612261/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-03-31T18:39:28.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.37518233173773874,
+      "crawledAt": "2026-04-01T05:53:36.074Z",
+      "id": "61kizv",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993101358413696,
+          "index": 5,
+          "word": "Santos",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.949553370475769,
+          "index": 6,
+          "word": "##h",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994856715202332,
+          "index": 7,
+          "word": "Pan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9951231479644775,
+          "index": 8,
+          "word": "##dit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:09:24.034Z"
+    },
+    {
+      "title": "India faces fertilizer risk the most if Iran war prolongs, say analysts",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-faces-fertilizer-risk-the-most-if-iran-war-prolongs-say-analysts/article70808165.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T15:52:35.000Z",
+      "metaDescription": "The timing of the war is critical with the demand window fast approaching, says BMI",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.30951025946989846,
+      "crawledAt": "2026-04-01T05:54:28.285Z",
+      "id": "arwqyp",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999848484992981,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998520612716675,
+          "index": 10,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The timing of the war is critical with the demand window fast approaching, says BMI. The demand window is fast approaching.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:09:48.887Z"
+    },
+    {
+      "title": "Uttar Pradesh to adapt ambitious water reuse policy, with CSE providing crucial technical support",
+      "url": "https://www.downtoearth.org.in/water/uttar-pradesh-to-adapt-ambitious-water-reuse-policy-with-cse-providing-crucial-technical-support",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-03-28T11:49:52.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3306252655732054,
+      "crawledAt": "2026-04-01T05:55:20.786Z",
+      "id": "glv9gi",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9990139603614807,
+          "index": 1,
+          "word": "Uttar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992980360984802,
+          "index": 2,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988495707511902,
+          "index": 12,
+          "word": "CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9940612316131592,
+          "index": 13,
+          "word": "##E",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T06:09:57.921Z"
     }
   ],
-  "processedAt": "2026-04-01T02:23:03.089Z",
+  "processedAt": "2026-04-01T06:09:57.931Z",
   "categories": [
-    "education-skills",
     "maharashtra-state-local",
-    "civic-public-service",
-    "government-schemes",
-    "legal-judiciary",
-    "msme-industry-trade",
     "jobs-recruitment",
-    "policy-regulation"
+    "msme-industry-trade",
+    "government-schemes",
+    "education-skills",
+    "legal-judiciary",
+    "policy-regulation",
+    "banking-credit",
+    "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 36,
-  "dailyArticlesCount": 36,
+  "newArticlesProcessed": 32,
+  "dailyArticlesCount": 68,
   "filterDate": "2026-04-01"
 }
