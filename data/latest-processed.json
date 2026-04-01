@@ -1,9 +1,2233 @@
 {
-  "crawledAt": "2026-04-01T05:55:29.157Z",
+  "crawledAt": "2026-04-01T09:02:16.944Z",
   "totalSources": 75,
-  "totalArticles": 2231,
+  "totalArticles": 2270,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Central Railway night block: मुंबईकरांनो लक्ष द्या! आज, उद्या ‌‘मरे’वर रात्रकालीन ब्लॉक",
+      "url": "https://pudhari.news/maharashtra/mumbai/prabhadevi-flyover-night-block-central-railway-mumbai-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:53:24.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2661506307970171,
+      "crawledAt": "2026-04-01T08:59:43.176Z",
+      "id": "9d7zp1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9883416295051575,
+          "index": 1,
+          "word": "Central",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9921363592147827,
+          "index": 2,
+          "word": "Railway",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:35.130Z"
+    },
+    {
+      "title": "End of an era: Why Mumbai’s iconic AH Wheeler bookstalls are being shut down",
+      "url": "https://indianexpress.com/article/explained/mumbai-ah-wheeler-western-railway-bookstalls-closure-10613221/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:49:58.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.27402008489377294,
+      "crawledAt": "2026-04-01T09:01:13.505Z",
+      "id": "ac1ezp",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991356134414673,
+          "index": 7,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:50.697Z"
+    },
+    {
+      "title": "Crime News: मैत्रिणीशी संबंध ठेवायला लावते, अश्लील व्हिडीओ दाखवून तशीच कृत्य कर म्हणते; पत्नीविरुद्ध पतीची पोलिसांत तक्रार",
+      "url": "https://pudhari.news/national/husband-files-fir-against-wife-sexual-harassment-bengaluru-case-relationship-mk96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:47:05.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.34460067572659514,
+      "crawledAt": "2026-04-01T08:59:43.538Z",
+      "id": "e8wwed",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:51.182Z"
+    },
+    {
+      "title": "Adinath Chavan Retirement: आम्ही चालवू हा पुढे वारसा...",
+      "url": "https://agrowon.esakal.com/agro-special/adinath-chavan-retirement-agrowon-sakal-media-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T08:45:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.26217294646697775,
+      "crawledAt": "2026-04-01T08:59:56.305Z",
+      "id": "trw7xh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9768519401550293,
+          "index": 1,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8647568821907043,
+          "index": 4,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:51.556Z"
+    },
+    {
+      "title": "Trump News | Trump Plans To Attend Supreme Court Hearing On His Bid To Limit Birthright Citizenship",
+      "url": "https://www.youtube.com/watch?v=BHFN95BkiJM",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:42:41.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28960760394164664,
+      "crawledAt": "2026-04-01T09:01:46.772Z",
+      "id": "5geih2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963912963867188,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9880373477935791,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9859309196472168,
+          "index": 4,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.987260639667511,
+          "index": 9,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9648078680038452,
+          "index": 10,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:51.904Z"
+    },
+    {
+      "title": "Land Acquisition HC Judgment: भूसंपादनावर हायकोर्टाचा धक्कादायक निर्णय; शेतकऱ्यांना दिलासा",
+      "url": "https://pudhari.news/maharashtra/pune/baramati-phaltan-highway-land-acquisition-hc-judgment-farmers-relief-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:40:47.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.5067911724480406,
+      "crawledAt": "2026-04-01T08:59:43.658Z",
+      "id": "xb4p5p",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:02:52.101Z"
+    },
+    {
+      "title": "Kerala Assembly polls: Pinarayi Vijayan slams ‘Congress-BJP nexus’ over G. Sudhakaran’s rebel bid in Ambalappuzha",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-pinarayi-vijayan-slams-congress-bjp-nexus-over-g-sudhakarans-rebel-bid-in-ambalappuzha/article70810535.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:40:20.000Z",
+      "metaDescription": "Kerala CM casts G. Sudhakaran’s candidature as UDF-backed Independent in Ambalappuzha as ‘a stark example of the convergence of Congress and BJP’s transactional political lines’",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2656149144045104,
+      "crawledAt": "2026-04-01T09:01:15.601Z",
+      "id": "hs8hnr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987457394599915,
+          "index": 1,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9929485321044922,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995957612991333,
+          "index": 5,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9323958158493042,
+          "index": 7,
+          "word": "##ay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9786025881767273,
+          "index": 8,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988370537757874,
+          "index": 9,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9661067724227905,
+          "index": 10,
+          "word": "##an",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.992795467376709,
+          "index": 14,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992310404777527,
+          "index": 16,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9922471046447754,
+          "index": 17,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9997529983520508,
+          "index": 23,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.83484947681427,
+          "index": 24,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996198415756226,
+          "index": 25,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9980873465538025,
+          "index": 26,
+          "word": "##dha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9777842164039612,
+          "index": 27,
+          "word": "##kara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9837540984153748,
+          "index": 28,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9862905740737915,
+          "index": 34,
+          "word": "Am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9288910031318665,
+          "index": 35,
+          "word": "##bal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9862688779830933,
+          "index": 36,
+          "word": "##ap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9675558805465698,
+          "index": 37,
+          "word": "##pu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9250069260597229,
+          "index": 39,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kerala CM casts G. Sudhakaran's candidature as UDF-backed Independent in Ambalappuzha.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:01.752Z"
+    },
+    {
+      "title": "Bollywood Prank King Ajay Devgn: बॉलिवूडचा 'प्रँक किंग'! शूटिंग सोडून अजय देवगणने अभिनेत्रींसोबत केलं असं काही की...",
+      "url": "https://pudhari.news/soneri/ajay-devgn-bollywood-actress-pranks-april-fool-special-news-ss88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:38:49.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2769249377888001,
+      "crawledAt": "2026-04-01T08:59:44.021Z",
+      "id": "6red2y",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9759777784347534,
+          "index": 1,
+          "word": "Bollywood",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992396831512451,
+          "index": 5,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8697158694267273,
+          "index": 6,
+          "word": "##jay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985548257827759,
+          "index": 7,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9793882369995117,
+          "index": 8,
+          "word": "##gn",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:15.304Z"
+    },
+    {
+      "title": "How one undisclosed campaign vehicle led to an election being set aside in Tamil Nadu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-one-undisclosed-campaign-vehicle-led-to-an-election-being-set-aside-in-tamil-nadu/article70806801.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:37:51.000Z",
+      "metaDescription": "In 1991, while AIADMK candidate R. Puthunainar Athithan was celebrating his victory in the Chernamahadevi constituency, his rival P.H. Pandian filed an election petition in the Madras High Court, accu",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3182428287941242,
+      "crawledAt": "2026-04-01T09:01:16.463Z",
+      "id": "7w5nqi",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994308948516846,
+          "index": 14,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992164373397827,
+          "index": 15,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " R.P. Puthunainar Athithan won the Chernamahadevi constituency in 1991. P.H. Pandian filed an election petition in the Madras High Court.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:37.765Z"
+    },
+    {
+      "title": "Commercial LPG prices rise 10%; government caps ATF hike on domestic flights at 25%",
+      "url": "https://www.thehindu.com/news/national/jet-fuel-prices-rise-doubled-commercial-lpg-price-increased/article70809777.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:37:15.000Z",
+      "metaDescription": "The government stated that OMCs’ under-recovery from cylinders presently stand at ₹380 for every cylinder",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2706184177304306,
+      "crawledAt": "2026-04-01T09:01:16.653Z",
+      "id": "k8phbs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9461045861244202,
+          "index": 2,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9846047163009644,
+          "index": 11,
+          "word": "AT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9066218137741089,
+          "index": 12,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " OMCs’ under-recovery from cylinders presently stand at ₹380 for every cylinder.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:50.351Z"
+    },
+    {
+      "title": "Hyderabad Launches Mega Anti-Encroachment Drive, Reclaims Public Land Worth Crores",
+      "url": "https://www.youtube.com/shorts/QvwWo6rTmwY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:30:11.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.34071599721003604,
+      "crawledAt": "2026-04-01T09:01:47.021Z",
+      "id": "z40w2l",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.993989884853363,
+          "index": 1,
+          "word": "Hyderabad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.946732759475708,
+          "index": 5,
+          "word": "Anti",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8926570415496826,
+          "index": 7,
+          "word": "En",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8559701442718506,
+          "index": 9,
+          "word": "##roach",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8888037204742432,
+          "index": 10,
+          "word": "##ment",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:51.208Z"
+    },
+    {
+      "title": "Murtizapur APMC Scam: मूर्तिजापूर बाजार समितीत १.८८ कोटींचा खरेदी घोटाळा",
+      "url": "https://agrowon.esakal.com/agro-special/murtizapur-apmc-1-88-crore-purchase-scam-akola-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T08:30:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2542063442228535,
+      "crawledAt": "2026-04-01T08:59:56.452Z",
+      "id": "1x92g",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9493610262870789,
+          "index": 1,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9546485543251038,
+          "index": 3,
+          "word": "##iza",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9408844709396362,
+          "index": 4,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9570764303207397,
+          "index": 5,
+          "word": "AP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952911734580994,
+          "index": 6,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9593911170959473,
+          "index": 7,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:03:51.438Z"
+    },
+    {
+      "title": "Nashik Water Shutdown | नाशिकमध्ये पाणीपुरवठ्याचा दोन दिवसांचा 'शटडाउन'",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashik-city-water-supply-shutdown-april-4-5-for-simhastha-kumbh-mela-and-smart-city-works-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:17:40.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3026472554857933,
+      "crawledAt": "2026-04-01T08:59:44.764Z",
+      "id": "jzyn3o",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.886472761631012,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:04:34.564Z"
+    },
+    {
+      "title": "Rs 20 Payment, File Download: How Mumbai Judge Lost Rs 93,000 To Fake App Scam",
+      "url": "https://www.ndtv.com/mumbai-news/mumbai-rs-20-payment-file-download-how-judge-lost-rs-93-000-to-fake-app-scam-11295729#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:15:16.000Z",
+      "metaDescription": "The Mumbai city court judge noticed an issue with his phone's screen on March 30, leading him to contact a number listed online as customer care service.",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.30364980741699293,
+      "crawledAt": "2026-04-01T09:01:36.929Z",
+      "id": "mwefg1",
+      "entities": [],
+      "summary": " Mumbai court judge noticed an issue with his phone's screen on March 30. He contacted a number listed online as customer care service.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:04:53.892Z"
+    },
+    {
+      "title": "Jet Fuel Prices More Than Doubled, Government Shields Domestic Airlines",
+      "url": "https://www.youtube.com/watch?v=MYNiZs7hyQY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:15:11.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.8412607941202799,
+      "crawledAt": "2026-04-01T09:01:47.228Z",
+      "id": "yrgwhk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9960378408432007,
+          "index": 10,
+          "word": "Government",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9943855404853821,
+          "index": 11,
+          "word": "Shields",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9959906339645386,
+          "index": 12,
+          "word": "Domestic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9867016673088074,
+          "index": 13,
+          "word": "Airlines",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:04:54.002Z"
+    },
+    {
+      "title": "Maharashtra Cooperative Elections: सहकारी संस्थांच्या निवडणुका ३१ मेपर्यंत पुढे ढकलल्या",
+      "url": "https://agrowon.esakal.com/agro-special/cooperative-elections-postponed-maharashtra-may-31-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T08:15:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.46540023988468626,
+      "crawledAt": "2026-04-01T08:59:56.563Z",
+      "id": "28afk4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9387772083282471,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:04:54.190Z"
+    },
+    {
+      "title": "Pune Crime: आंबेगावात दरोडेखोरांचा धुमाकूळ; शेतकऱ्याची हत्या",
+      "url": "https://pudhari.news/maharashtra/pune/ambegaon-thorandale-farmer-murder-dacoity-mancher-pune-sk04ambegaon-thorandale-farmer-murder-dacoity-mancher-pune",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T08:08:55.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2844657393482099,
+      "crawledAt": "2026-04-01T08:59:45.094Z",
+      "id": "80jbft",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9796127080917358,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:06:26.323Z"
+    },
+    {
+      "title": "World Bank-funded health scheme in Kerala might need more scrutiny",
+      "url": "https://www.thehindu.com/news/national/kerala/world-bank-funded-health-scheme-in-kerala-might-need-more-scrutiny/article70803804.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:06:30.000Z",
+      "metaDescription": "The ₹3,464-crore World Bank- assisted  Kerala Health System Improvement Programme commits the State to a 25-year-loan with a five-year grace period. Public health experts have pointed out the red flag",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3745418724157996,
+      "crawledAt": "2026-04-01T09:01:17.441Z",
+      "id": "a8y0cw",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9902735352516174,
+          "index": 2,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.99969881772995,
+          "index": 8,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kerala Health System Improvement Programme commits the State to a 25-year-loan with a five-year grace period. Public health experts have pointed out the red flag.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:06:47.571Z"
+    },
+    {
+      "title": "Man beaten to death in Jharkhand over 'love triangle'",
+      "url": "https://www.deccanherald.com/india/jharkhand/man-beaten-to-death-in-jharkhand-over-love-triangle-3951920",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T08:03:13.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2717635763702647,
+      "crawledAt": "2026-04-01T09:02:11.087Z",
+      "id": "ki0ik2",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995005130767822,
+          "index": 6,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9853067994117737,
+          "index": 8,
+          "word": "##kha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:07:00.985Z"
+    },
+    {
+      "title": "‘Smiling, mingling, taking selfies’: Iran’s top leaders Pezeshkian and Araghchi make public appearance as war rages on",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/smiling-mingling-taking-selfies-irans-top-leaders-pezeshkian-and-araghchi/articleshow/129945285.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T08:00:11.000Z",
+      "metaDescription": "Iranian President Pezeshkian and Foreign Minister Araghchi made a public appearance at pro-regime rallies amid high regional tensions and threats. Araghchi highlighted popular unity, while the leaders",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.4421307654069855,
+      "crawledAt": "2026-04-01T09:01:30.389Z",
+      "id": "guv4xh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998130798339844,
+          "index": 12,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9989946484565735,
+          "index": 17,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8429436087608337,
+          "index": 19,
+          "word": "##esh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9182470440864563,
+          "index": 20,
+          "word": "##ki",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9083080887794495,
+          "index": 21,
+          "word": "##an",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9966738820075989,
+          "index": 23,
+          "word": "Ara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9718528985977173,
+          "index": 24,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8140968084335327,
+          "index": 25,
+          "word": "##chi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " President Pezeshkian and Foreign Minister Araghchi made a public appearance at pro-regime rallies. Araghchchi highlighted popular unity, while the leaders highlighted popularunity.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:07:15.119Z"
+    },
+    {
+      "title": "PM Modi visits tea garden in poll-bound Assam, interacts with women workers",
+      "url": "https://www.thehindu.com/elections/assam-assembly/pm-modi-in-assam-rallies-for-bjp-candidates-tea-garden-women-workers-april-1-2026/article70810383.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:58:13.000Z",
+      "metaDescription": "Prime Minister Narendra Modi is on a day-long visit to the State to address two campaign rallies for BJP candidates",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2636261195417657,
+      "crawledAt": "2026-04-01T09:01:17.643Z",
+      "id": "yzj4yo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9990535378456116,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.846892774105072,
+          "index": 3,
+          "word": "##di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996104836463928,
+          "index": 11,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Narendra Modi is on a day-long visit to the State to address two campaign rallies for BJP candidates.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:07:35.317Z"
+    },
+    {
+      "title": "BJP candidate's flex board in Guruvayur sparks buzz after 'Hindu MLA' row",
+      "url": "https://www.deccanherald.com/india/kerala/bjp-candidates-flex-board-in-guruvayur-sparks-buzz-after-hindu-mla-row-3951904",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T07:56:39.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.30476079515539145,
+      "crawledAt": "2026-04-01T09:02:11.636Z",
+      "id": "t0flwv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988728165626526,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9753008484840393,
+          "index": 2,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9951095581054688,
+          "index": 10,
+          "word": "Guru",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.931565523147583,
+          "index": 11,
+          "word": "##va",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9232317209243774,
+          "index": 12,
+          "word": "##yu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9994999170303345,
+          "index": 18,
+          "word": "Hindu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:07:45.937Z"
+    },
+    {
+      "title": "Malayalam filmmaker Ranjith remanded to judicial custody in sexual harassment case",
+      "url": "https://www.thehindu.com/news/national/kerala/malayalam-filmmaker-ranjith-remanded-after-arrest-in-sexual-harassment-case/article70809916.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:48:48.000Z",
+      "metaDescription": "Director claims he has been ‘framed’ in the case",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26110453187716515,
+      "crawledAt": "2026-04-01T09:01:18.289Z",
+      "id": "cnk5xq",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9992493987083435,
+          "index": 1,
+          "word": "Malayalam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992200136184692,
+          "index": 3,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.837945818901062,
+          "index": 4,
+          "word": "##nji",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8983230590820312,
+          "index": 5,
+          "word": "##th",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:08:10.210Z"
+    },
+    {
+      "title": "Mechanization Subsidy: राज्य कृषी यांत्रिकीकरण योजनेसाठी ७०० कोटी रुपयांच्या निधीला सुधारित प्रशासकीय मान्यता",
+      "url": "https://agrowon.esakal.com/agro-special/maharashtra-approves-700-crore-agricultural-mechanization-plan-ds98",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T07:45:56.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.6094073701157866,
+      "crawledAt": "2026-04-01T08:59:56.812Z",
+      "id": "6teefh",
+      "entities": [],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:08:42.859Z"
+    },
+    {
+      "title": "Shahuwadi accident | शाहूवाडी तालुक्यात भीषण अपघात! मलकापूर-कोपार्डे मार्गावर दोन दुचाकींची धडक; तरुण जागीच ठार",
+      "url": "https://www.tarunbharat.com/horrific-accident-in-shahuwadi-taluka-two-bikes-collide-on-malkapur-koparde-road-youth-dies-on-the-spot-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T07:45:19.000Z",
+      "metaDescription": "शिरगावचा ३४ वर्षीय तरुण अपघातात दगावला शाहूवाडी : मलकापूर ते कोपार्डे मार्गावर सोमवारी रात्री झालेल्या अपघातात तरुण जागीच ठार झाला. किरण भगवान पोतदार (वय ३४ शिरगाव ता. शाहूवाडी) असे मृताचे नाव आहे. या",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2853156300457817,
+      "crawledAt": "2026-04-01T08:59:48.997Z",
+      "id": "x65a25",
+      "entities": [],
+      "summary": " The World Cup 2014 is the first time the World Cup has been held in the U.S. since 2008.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:09:00.994Z"
+    },
+    {
+      "title": "NASA Artemis II Mission : चंद्राच्या दिशेने मानवाचे ऐतिहासिक पाऊल; नासाचा नवा प्रयोग Artemis II- १० दिवसांची हि मोहीम कशी असेल? वाचा सविस्तर",
+      "url": "https://www.navakal.in/desh-videsh/nasa-artemis-ii-mission-nasa-artemis-ii-moon-mission-80-percent-possibility-of-favourable-weather/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:41:39.000Z",
+      "metaDescription": "NASA Artemis II Mission : अंतराळ विज्ञानाच्या इतिहासात एक नवा अध्याय रचण्यासाठी अमेरिकेची अंतराळ संशोधन संस्था ‘नासा’ (NASA) सज्ज झाली आहे. तब्बल पन्नास वर्षांच्या प्रदीर्घ प्रतीक्षेनंतर, मानव पुन्हा ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2626225330691138,
+      "crawledAt": "2026-04-01T09:00:49.727Z",
+      "id": "ng74ee",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9431583881378174,
+          "index": 1,
+          "word": "NASA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9233183264732361,
+          "index": 3,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.940937876701355,
+          "index": 48,
+          "word": "II",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "NASA's Artemis II Mission is based in the United States. The mission is called the Artemis II mission. It is the first time the mission has been held in the U.S.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:09:14.059Z"
+    },
+    {
+      "title": "BJP’s Nishikant Dubey issues ‘unconditional apology’ after outrage over remarks on Biju Patnaik",
+      "url": "https://indianexpress.com/article/india/bjps-nishikant-dubey-issues-unconditional-apology-after-outrage-over-remarks-on-biju-patnaik-10613142/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T07:41:31.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26043199437111064,
+      "crawledAt": "2026-04-01T09:00:26.041Z",
+      "id": "p0faqn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994147419929504,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9792566299438477,
+          "index": 2,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993666410446167,
+          "index": 5,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9591884016990662,
+          "index": 6,
+          "word": "##shi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9970306158065796,
+          "index": 7,
+          "word": "##kan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9772443771362305,
+          "index": 8,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999400794506073,
+          "index": 9,
+          "word": "Dub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9878033399581909,
+          "index": 10,
+          "word": "##ey",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9956923723220825,
+          "index": 23,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.953788161277771,
+          "index": 24,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9708403944969177,
+          "index": 25,
+          "word": "##ju",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983766078948975,
+          "index": 26,
+          "word": "Pat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9108200669288635,
+          "index": 27,
+          "word": "##nai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:09:14.242Z"
+    },
+    {
+      "title": "Financial Year End: मंत्रालयात मार्च-एंडचा धमाका; चार दिवसांत 951 जीआर जारी",
+      "url": "https://pudhari.news/maharashtra/mumbai/maharashtra-951-government-resolutions-march-end-2026-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-01T07:38:37.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.549277049106217,
+      "crawledAt": "2026-04-01T08:59:47.665Z",
+      "id": "plh9ut",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:09:14.744Z"
+    },
+    {
+      "title": "West Bengal Assembly election: Candidates scrub utensils, fry fritters to seek votes",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-assembly-election-candidates-scrub-utensils-fry-fritters-to-seek-votes/article70810235.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:27:37.000Z",
+      "metaDescription": "One candidate washed utensils in a village home, while another carried buckets of water for an elderly woman, and the third shaved a voter at a roadside saloon",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2887547430912337,
+      "crawledAt": "2026-04-01T09:01:19.171Z",
+      "id": "f3idh9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9651259779930115,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9778577089309692,
+          "index": 2,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8907482028007507,
+          "index": 3,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " One candidate washed utensils in a village home, while another carried buckets of water for an elderly woman, and the third shaved a voter at a roadside saloon.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:10:57.859Z"
+    },
+    {
+      "title": "Goa nightclub fire: Local court grants bail to Luthra brothers",
+      "url": "https://indianexpress.com/article/india/goa-nightclub-fire-luthra-brothers-bail-10613115/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T07:27:26.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 7,
+      "confidence": 0.30055767512179293,
+      "crawledAt": "2026-04-01T09:00:26.143Z",
+      "id": "3vbi4s",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997342228889465,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9900194406509399,
+          "index": 10,
+          "word": "Lu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:10:57.968Z"
+    },
+    {
+      "title": "Rahuri Bypoll : भाजपच्या अक्षय कर्डिलेंविरोधात राहुरी पोटनिवडणुकीसाठी शरद पवारांची राष्ट्रवादी उमेदवार देणार; ‘या’ नेत्याचे नाव निश्चित!",
+      "url": "https://deshdoot.com/maharashtra-political-news-sharad-pawars-ncp-has-confirmed-the-name-of-this-candidate-for-the-by-election-to-rahuri-assembly-constituency/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:25:58.000Z",
+      "metaDescription": "मुंबई | Mumbai राज्यातील बारामती आणि राहुरी विधानसभा मतदारसंघाच्या पोटनिवडणुकीची घोषणा केंद्रीय निवडणूक आयोगाकडून काही दिवसांपूर्वी करण्यात आली होती. त्यानुसार या दोन्ही मतदारसंघात २३ एप्रिल २०२६ रोजी",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3025333391656575,
+      "crawledAt": "2026-04-01T09:00:36.732Z",
+      "id": "mlu0t8",
+      "entities": [],
+      "summary": "Mumbai. The city of Mumbai is located in the Indian capital of Mumbai. The city is located on the outskirts of the city.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:11:18.186Z"
+    },
+    {
+      "title": "Video: Woman Sets Vehicles On Fire Near Orissa High Court",
+      "url": "https://www.ndtv.com/india-news/video-woman-sets-vehicles-on-fire-near-orissa-high-court-11295474#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:25:26.000Z",
+      "metaDescription": "Vehicles caught fire near Orissa High Court after a woman used petrol to ignite flames, police probe underway.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3116147149573038,
+      "crawledAt": "2026-04-01T09:01:38.452Z",
+      "id": "y2jfwe",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9971534013748169,
+          "index": 11,
+          "word": "Or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.823217511177063,
+          "index": 12,
+          "word": "##issa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.964850664138794,
+          "index": 13,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9954336285591125,
+          "index": 14,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vehicles caught fire near Orissa High Court after a woman used petrol to ignite flames. Police are investigating the incident.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:11:27.782Z"
+    },
+    {
+      "title": "Land Measurement: जमिनीच्या पोटहिश्श्याची मोजणी २०० रुपयांत, दोनच सुनावण्यांमध्ये वाद निकाली निघणार, मंत्री बावनकुळेंची माहिती",
+      "url": "https://agrowon.esakal.com/agro-special/land-subdivision-measurement-200-rupees-maharashtra-hearing-resolution-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T07:25:04.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3136712108965177,
+      "crawledAt": "2026-04-01T08:59:57.241Z",
+      "id": "geuqsn",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:11:28.047Z"
+    },
+    {
+      "title": "Fertiliser shock looms as Strait of Hormuz shipping disruption ripples through supply chains, warns UNCTAD",
+      "url": "https://www.downtoearth.org.in/food/fertiliser-shock-looms-as-strait-of-hormuz-shipping-disruption-ripples-through-supply-chains-warns-unctad",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-01T07:16:29.000Z",
+      "metaDescription": "UNCTAD warns that near-paralysis of shipping in Strait of Hormuz is driving up fertiliser and energy costs, threatening global food security. India, a major food producer but heavily dependent on Gulf",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.27117131160094315,
+      "crawledAt": "2026-04-01T09:02:07.038Z",
+      "id": "eyg1wy",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9900912642478943,
+          "index": 9,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9881982803344727,
+          "index": 10,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9936631321907043,
+          "index": 11,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9867922067642212,
+          "index": 12,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9950558543205261,
+          "index": 13,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9981443881988525,
+          "index": 23,
+          "word": "UN",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974575042724609,
+          "index": 24,
+          "word": "##CT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9917823076248169,
+          "index": 25,
+          "word": "##AD",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UNCTAD warns that near-paralysis of shipping in Strait of Hormuz is driving up fertiliser and energy costs. India is a major food producer but heavily dependent on Gulf Gulf.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:12:51.884Z"
+    },
+    {
+      "title": "Rising Heat with Spells of Rain: IMD Forecasts Mixed Summer in Vidarbha",
+      "url": "https://thelivenagpur.com/2026/04/01/rising-heat-with-spells-of-rain-imd-forecasts-mixed-summer-in-vidarbha/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T07:12:38.000Z",
+      "metaDescription": "Vidarbha is expected to experience a complex summer pattern this year, with the India Meteorological Department…",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.28650747763714496,
+      "crawledAt": "2026-04-01T08:59:59.778Z",
+      "id": "ylsket",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.993594765663147,
+          "index": 10,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9829765558242798,
+          "index": 11,
+          "word": "##MD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.995880663394928,
+          "index": 18,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9847320914268494,
+          "index": 19,
+          "word": "##ida",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9424479007720947,
+          "index": 20,
+          "word": "##rb",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.806186318397522,
+          "index": 21,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vidarbha is expected to experience a complex summer pattern this year, with the India Meteorological Department. Vidarb Ha is expected.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:13:14.314Z"
+    },
+    {
+      "title": "Jagan Reddy Questions \"One Capital\" Push As Centre Tables Amaravati Bill",
+      "url": "https://www.ndtv.com/india-news/amaravati-bill-reignites-andhra-capital-war-as-jagan-reddy-questions-one-capital-push-11295384#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:10:22.000Z",
+      "metaDescription": "The Bill aims to amend the Andhra Pradesh Reorganisation Act, 2014, adding the phrase, \"Amaravati shall be the new capital.\"",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.5633277886743927,
+      "crawledAt": "2026-04-01T09:01:38.908Z",
+      "id": "38bk4l",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991787672042847,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.980682373046875,
+          "index": 2,
+          "word": "##agan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988932013511658,
+          "index": 3,
+          "word": "Reddy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9662086963653564,
+          "index": 15,
+          "word": "Amar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9825538992881775,
+          "index": 16,
+          "word": "##ava",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Bill aims to amend the Andhra Pradesh Reorganisation Act, 2014. The phrase, \"Amaravati shall be the new capital\"",
+      "language": "en",
+      "processed_at": "2026-04-01T09:13:25.590Z"
+    },
+    {
+      "title": "India set for searing summer as Iran war strains energy supplies",
+      "url": "https://www.thehindubusinessline.com/news/india-set-for-searing-summer-as-iran-war-strains-energy-supplies/article70809986.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T07:10:21.000Z",
+      "metaDescription": "While temperatures will stay relatively mild through April, several parts of the country are likely to see an increase in heat wave days in May and June",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.31894377915764616,
+      "crawledAt": "2026-04-01T09:01:33.569Z",
+      "id": "q0029i",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998469352722168,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998494386672974,
+          "index": 8,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Temperatures will stay relatively mild through April. Several parts of the country are likely to see an increase in heat wave days in May and June.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:13:35.433Z"
+    },
+    {
+      "title": "Where to Learn Full Stack Development in Chhatrapati Sambhajinagar Complete Guide",
+      "url": "https://medium.com/@apathade866/where-to-learn-full-stack-development-in-chhatrapati-sambhajinagar-complete-guide-134fbf475cb8?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:51:31.000Z",
+      "metaDescription": "Full stack development is one of the most popular career options for students and job seekers today. Many learners are searching for the…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.5664503450866267,
+      "crawledAt": "2026-04-01T09:01:43.188Z",
+      "id": "nuvg2",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9061247706413269,
+          "index": 6,
+          "word": "St",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8731773495674133,
+          "index": 10,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Full stack development is one of the most popular career options for students and job seekers. Full stack development has become a popular career choice for students.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:14:58.513Z"
+    },
+    {
+      "title": "Cochin Shipyard shares rally 15%, add Rs 4,700 crore to market value: What’s behind the surge?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-rally-15-add-rs-4700-crore-to-market-value-whats-behind-the-surge/articleshow/129944030.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:46:09.000Z",
+      "metaDescription": "Cochin Shipyard shares surged approximately 15% after its inclusion in the NSE's F&O segment, boosting liquidity and trading volumes. This rally aligns with a broader bullish trend in shipyard stocks,",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2534962717600961,
+      "crawledAt": "2026-04-01T09:00:10.551Z",
+      "id": "ws7urd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979708790779114,
+          "index": 1,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9755489230155945,
+          "index": 2,
+          "word": "##chin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9939544200897217,
+          "index": 3,
+          "word": "Shipyard",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cochin Shipyard shares surged after its inclusion in the NSE's F&O segment. This rally aligns with a broader bullish trend in shipyard stocks.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:15:19.255Z"
+    },
+    {
+      "title": "Shocking Mumbai Incident: 4-year-old assaulted in Vasai West, brutal act caught on camera",
+      "url": "https://thelivenagpur.com/2026/04/01/shocking-mumbai-incident-4-year-old-assaulted-in-vasai-west-brutal-act-caught-on-camera/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:42:26.000Z",
+      "metaDescription": "A disturbing incident in Vasai West has sparked widespread outrage after CCTV footage emerged showing a…",
+      "category": "maharashtra-state-local",
+      "difficulty": 8,
+      "confidence": 0.31890852231372746,
+      "crawledAt": "2026-04-01T09:00:00.124Z",
+      "id": "eci348",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991452693939209,
+          "index": 3,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987213015556335,
+          "index": 13,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8605941534042358,
+          "index": 14,
+          "word": "##asa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8413169384002686,
+          "index": 15,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9985330700874329,
+          "index": 16,
+          "word": "West",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CCTV footage has sparked widespread outrage after CCTV footage emerged showing a… A disturbing incident in Vasai West has sparked outrage.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:15:27.910Z"
+    },
+    {
+      "title": "Trump cares deeply about US-India relationship: US envoy to India",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-cares-deeply-about-us-india-relationship-us-envoy-to-india/article70809911.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:30:36.000Z",
+      "metaDescription": "“Back in the US for a few days. First stop, meeting with our GREAT President in the White House. The President deeply cares about the relationship between the US and India,” Gor said in a post on X",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.357079766347154,
+      "crawledAt": "2026-04-01T09:01:33.818Z",
+      "id": "befmc6",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.998374879360199,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9435011148452759,
+          "index": 5,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9953688979148865,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992263317108154,
+          "index": 10,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996994733810425,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The President deeply cares about the relationship between the US and India, he says. \"The President deeply care about the relationships between the U.S. and India,\" he says.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:16:25.679Z"
+    },
+    {
+      "title": "Woman 'Not Guilty' For Husband's Suicide Over Marital Disputes: Bombay Court",
+      "url": "https://www.ndtv.com/india-news/woman-not-guilty-for-husbands-suicide-over-marital-disputes-bombay-high-court-11295185#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:26:31.000Z",
+      "metaDescription": "The Nagpur Bench of the Bombay High Court noted that if a man dies by suicide due to marital differences, his wife cannot be held guilty of abetment to suicide.",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30392615190397104,
+      "crawledAt": "2026-04-01T09:01:39.312Z",
+      "id": "uylsxi",
+      "entities": [],
+      "summary": " The Nagpur Bench of the Bombay High Court noted that if a man dies by suicide due to marital differences, his wife cannot be held guilty of abetment to suicide.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:17:09.096Z"
+    },
+    {
+      "title": "Explained: Why global brokerages are hitting panic button on India. FII exodus, oil shock ringing alarm?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-global-brokerages-are-hitting-the-panic-button-on-india-fii-exodus-and-oil-shock-raising-alarms/articleshow/129943613.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:24:21.000Z",
+      "metaDescription": "Equity market has shifted sharply from optimism to crisis mode, marked by a record $13 billion FII outflow in March—the worst ever. The sell-off has been driven by a surge in oil prices following Gulf",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.28766787665747207,
+      "crawledAt": "2026-04-01T09:00:10.019Z",
+      "id": "335phz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997479915618896,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8525969386100769,
+          "index": 16,
+          "word": "F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Equity market has shifted from optimism to crisis mode, marked by a record $13 billion outflow in March. The sell-off has been driven by a surge in oil prices following Gulf oil prices.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:18:00.285Z"
+    },
+    {
+      "title": "Child Psychology : आपल्या मुलांना मारु नका? कारण वाचून व्हाल थक्क",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/child-psychology-negative-effects-of-corporal-punishment-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:23:06.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.33789345595598846,
+      "crawledAt": "2026-04-01T08:59:57.906Z",
+      "id": "uqdpq5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:18:00.613Z"
+    },
+    {
+      "title": "BRICS-led Development Bank touts yuan funding for Global South",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/brics-led-development-bank-touts-yuan-funding-for-global-south/article70809950.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:17:20.000Z",
+      "metaDescription": "Chinese bond market is now one of the most cost-effective funding sources in the world, says bank official",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.6864609673477304,
+      "crawledAt": "2026-04-01T09:01:34.233Z",
+      "id": "daip5z",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9945921301841736,
+          "index": 1,
+          "word": "BR",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9829792380332947,
+          "index": 2,
+          "word": "##IC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9910262823104858,
+          "index": 3,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993619322776794,
+          "index": 6,
+          "word": "Development",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993184208869934,
+          "index": 7,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.943081796169281,
+          "index": 14,
+          "word": "Global",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9770238995552063,
+          "index": 15,
+          "word": "South",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Chinese bond market is now one of the most cost-effective funding sources in the world, says bank official. Chinese bond Market is now a cost- effective funding source, says official.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:18:59.937Z"
+    },
+    {
+      "title": "FY27 Begins: Post Office TD rates up to 7.5% outpace bank FDs in April–June quarter",
+      "url": "https://www.livemint.com/money/personal-finance/fy27-begins-post-office-td-rates-up-to-7-5-outpace-bank-fds-in-april-june-quarter-11775020017470.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:14:53.000Z",
+      "metaDescription": "Post Office Time Deposit rates for FY27 offer stable, government-backed returns, often higher than bank fixed deposits, making Post Office Time Deposit a reliable choice for conservative investors see",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.6187255299035058,
+      "crawledAt": "2026-04-01T09:00:18.859Z",
+      "id": "lwb3pj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9894317388534546,
+          "index": 7,
+          "word": "Post",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9812383651733398,
+          "index": 8,
+          "word": "Office",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Post Office Time Deposit rates for FY27 offer stable, government-backed returns, often higher than bank fixed deposits.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:19:20.990Z"
+    },
+    {
+      "title": "Bank Holiday 1 April 2026: Why branches are shut and what still works",
+      "url": "https://indianexpress.com/article/india/bank-holiday-1-april-2026-why-branches-are-shut-and-what-still-works-10612923/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T06:09:53.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.2991247557712089,
+      "crawledAt": "2026-04-01T09:00:26.375Z",
+      "id": "9jjf2l",
+      "entities": [],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:19:21.111Z"
+    },
+    {
+      "title": "Oracle slashes 30,000 jobs: How much severance was offered? Which departments were affected? Key questions answered",
+      "url": "https://www.livemint.com/companies/news/oracle-slashes-30-000-jobs-how-much-severance-pay-were-offered-which-dept-were-affected-key-question-answered-11775018754012.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:09:49.000Z",
+      "metaDescription": "Oracle, employing 162,000, announced $50 billion in debt and equity fundraising, alongside 30,000 layoffs. The layoffs, affecting various roles, are not performance-related, and the stock price has fa",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2591295284698249,
+      "crawledAt": "2026-04-01T09:00:58.567Z",
+      "id": "jgi947",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983822703361511,
+          "index": 1,
+          "word": "Oracle",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Oracle announces $50 billion in debt and equity fundraising, alongside 30,000 layoffs. The layoffs, affecting various roles, are not performance-related, and the stock price has fa.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:19:32.826Z"
+    },
+    {
+      "title": "Automotive metal forming market to reach $95 billion by FY30: Report",
+      "url": "https://www.thehindubusinessline.com/economy/automotive-metal-forming-market-to-reach-95-billion-by-fy30-report/article70810181.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T06:01:46.000Z",
+      "metaDescription": "The industry has crossed a critical threshold in recent years, surpassing $80 billion in size in FY25 and transitioning from being a net importer to become a net exporter, according a report by Avendu",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.3355968482816906,
+      "crawledAt": "2026-04-01T09:01:26.571Z",
+      "id": "9glzby",
+      "entities": [],
+      "summary": " The industry has crossed a critical threshold in recent years, surpassing $80 billion in size in FY25. The industry is transitioning from being a net importer to become a net exporter.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:19:46.019Z"
+    },
     {
       "title": "NMC Under Fire: Laxminagar Zone Reports Just 85.16 sq m Pothole Repairs Despite Multiple Complaints",
       "url": "https://thelivenagpur.com/2026/04/01/nmc-under-fire-laxminagar-zone-reports-just-85-16-sq-m-pothole-repairs-despite-multiple-complaints/",
@@ -538,6 +2762,50 @@
       "processed_at": "2026-04-01T06:00:01.331Z"
     },
     {
+      "title": "No More Parking Headaches in Mumbai? BMCs ‘Book-Your- Parking Spot’ Plan Could Change Your Daily Drive",
+      "url": "https://indianexpress.com/article/cities/mumbai/bmcs-book-parking-spot-plan-change-daily-drive-10612894/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-01T05:24:31.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.7892358999647401,
+      "crawledAt": "2026-04-01T09:00:23.333Z",
+      "id": "lsu10a",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9979918003082275,
+          "index": 9,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8869118094444275,
+          "index": 11,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9680219888687134,
+          "index": 17,
+          "word": "Your",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:21:00.251Z"
+    },
+    {
       "title": "Credit guarantee boost to help revive microfinance growth, says Muthoot Microfin CEO Sadaf Sayeed",
       "url": "https://www.livemint.com/companies/news/credit-guarantee-boost-microfinance-growth-muthoot-microfinance-ceo-sadaf-sayeed-lenders-financial-inclusion-nbfc-mfis-11775016730907.html",
       "source": "Livemint — Companies",
@@ -1060,6 +3328,34 @@
       "processed_at": "2026-04-01T06:06:07.316Z"
     },
     {
+      "title": "Pink Moon to appear in UAE skies soon: Check out dates, timings, observation points and best desert spots for viewing",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-news-pink-moon-to-appear-in-uae-skies-soon-check-out-dates-timings-observation-points-and-best-spots-for-viewing/articleshow/129940603.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T03:45:24.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.26811967385759083,
+      "crawledAt": "2026-04-01T09:01:32.319Z",
+      "id": "m2r25q",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995630383491516,
+          "index": 6,
+          "word": "UAE",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:21:10.458Z"
+    },
+    {
       "title": "Madhya Pradesh: Ujjwala gave them smoke-free kitchens, but now, dung-cake stoves are back",
       "url": "https://indianexpress.com/article/india/madhya-pradesh-ujjwala-smoke-free-kitchens-now-dung-cake-stoves-10612416/",
       "source": "Indian Express — India",
@@ -1185,6 +3481,34 @@
       "summary": " Woman suffers minor injuries after gold chain snatching attempt in Delhi. Woman suffers injuries after Gold chain snatch attempt in New Delhi.",
       "language": "en",
       "processed_at": "2026-04-01T06:08:11.194Z"
+    },
+    {
+      "title": "Myanmar resistance groups pledge to oust military-backed civilian government",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/myanmar-resistance-groups-pledge-to-oust-military-backed-civilian-government/articleshow/129939401.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T02:15:18.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.49869694515204677,
+      "crawledAt": "2026-04-01T09:01:32.417Z",
+      "id": "f7mbfz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997907876968384,
+          "index": 1,
+          "word": "Myanmar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:21:10.868Z"
     },
     {
       "title": "Two ug degree…Can I do one offline and one online degree simultaneously",
@@ -1813,6 +4137,66 @@
       "summary": " The outlook for FY27 is heavily dependent on the West Asia conflict's West Asian conflict. The outlook is also heavily dependent.",
       "language": "en",
       "processed_at": "2026-04-01T02:16:07.175Z"
+    },
+    {
+      "title": "Netanyahu says building 'new alliances with important countries' in West Asia amid Iran war",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-says-building-new-alliances-with-important-countries-in-west-asia-amid-iran-war/articleshow/129938640.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-01T00:06:30.000Z",
+      "metaDescription": "In an address in Hebrew ahead of Pesach, Netanyahu said the Iranian regime would collapse “sooner or later” and that Israel is building “new alliances with important countries in the region” to counte",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3663076657550487,
+      "crawledAt": "2026-04-01T09:01:32.676Z",
+      "id": "bzznhs",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997254014015198,
+          "index": 1,
+          "word": "Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8535658717155457,
+          "index": 2,
+          "word": "##any",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9986122250556946,
+          "index": 14,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9981702566146851,
+          "index": 15,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999754786491394,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Netanyahu said the Iranian regime would collapse “sooner or later’s “Sooner or Later’",
+      "language": "en",
+      "processed_at": "2026-04-01T09:21:23.011Z"
     },
     {
       "title": "Postings in Northeast, J-K, PMO: Who was the retired Brigadier killed by stray bullet in Dehradun?",
@@ -5576,6 +7960,90 @@
       "summary": "Legal or legislative development.",
       "language": "en",
       "processed_at": "2026-03-31T16:58:48.550Z"
+    },
+    {
+      "title": "Zetwerk kicks off IPO plans with confidential SEBI filing",
+      "url": "https://yourstory.com/2026/03/zetwerk-kicks-off-ipo-plans-with-confidential-sebi-filing",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-03-31T16:04:48.000Z",
+      "metaDescription": "Zetwerk aims to raise between Rs 4,000 crore and Rs 5,000 crore. through the IPO.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.40953941988435133,
+      "crawledAt": "2026-04-01T09:01:51.422Z",
+      "id": "s11a78",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9993813633918762,
+          "index": 1,
+          "word": "Z",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8962724804878235,
+          "index": 2,
+          "word": "##et",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998900294303894,
+          "index": 3,
+          "word": "##wer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976409673690796,
+          "index": 4,
+          "word": "##k",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9937766194343567,
+          "index": 7,
+          "word": "IP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.958051323890686,
+          "index": 8,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9588947296142578,
+          "index": 12,
+          "word": "SE",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8349195718765259,
+          "index": 13,
+          "word": "##BI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Zetwerk aims to raise between Rs 4,000 crore and Rs 5,000 million through the IPO.",
+      "language": "en",
+      "processed_at": "2026-04-01T09:21:43.389Z"
     },
     {
       "title": "IndiGo taps ex‑British Airways CEO Walsh to steer airline through turbulence",
@@ -80712,473 +83180,19 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-17T13:33:50.381Z"
-    },
-    {
-      "title": "Is memory speed everything? A quick comparison between the RTX 6000 96GB and the AMD W7800 48GB x2.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw1k8r/is_memory_speed_everything_a_quick_comparison/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T09:15:50.000Z",
-      "metaDescription": "I recently purchased two 48GB AMD w7800 cards. At €1,475 + VAT each, it seemed like a good deal compared to using the slower but very expensive RAM.\n 864GB/sec vs. 1,792GB/sec is a big difference, but",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.26882710333923965,
-      "crawledAt": "2026-03-17T13:25:46.635Z",
-      "id": "qugo9q",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9213448166847229,
-          "index": 11,
-          "word": "R",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.953152596950531,
-          "index": 20,
-          "word": "AM",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Two 48GB AMD w7800 cards seemed like a good deal. At €1,475 each, it seemed like like a great deal compared to using slower but very expensive RAM.",
-      "language": "en",
-      "processed_at": "2026-03-17T13:34:15.760Z"
-    },
-    {
-      "title": "Build Microsoft Foundry Agents with Python SDK: Part 1",
-      "url": "https://generativeai.pub/build-microsoft-foundry-agents-with-python-sdk-part-1-d6ddf568a910?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T09:08:25.000Z",
-      "metaDescription": "",
-      "category": "developer-tool",
-      "difficulty": 5,
-      "confidence": 0.884875411065753,
-      "crawledAt": "2026-03-17T13:25:41.259Z",
-      "id": "jxa2r3",
-      "entities": [
-        {
-          "entity": "I-ORG",
-          "score": 0.9672729969024658,
-          "index": 4,
-          "word": "Found",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9931045770645142,
-          "index": 8,
-          "word": "Python",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T13:34:26.800Z"
-    },
-    {
-      "title": "Difference between ChatGPT interface with Tools and ReAct Agent",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rw1f40/difference_between_chatgpt_interface_with_tools/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T09:06:42.000Z",
-      "metaDescription": "Since ReAct is basically \"Reasoning and Acting (calling Tools)\" and some models like GPT-5.4 allocate internal reasoning tokens before producing a response and has the ability to call tools, isnt usin",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.28505103854302816,
-      "crawledAt": "2026-03-17T13:25:58.303Z",
-      "id": "cj25b5",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9163102507591248,
-          "index": 4,
-          "word": "Cha",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8011224865913391,
-          "index": 6,
-          "word": "##GP",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " ReAct is basically \"Reasoning and Acting\" and some models like GPT-5.4 allocate internal reasoning tokens before producing a response.",
-      "language": "en",
-      "processed_at": "2026-03-17T13:34:38.920Z"
-    },
-    {
-      "title": "How to Build a Kubernetes Incident Response AI Agent with LangGraph & Postgres",
-      "url": "https://generativeai.pub/how-to-build-a-kubernetes-incident-response-ai-agent-with-langgraph-postgres-c9a8c9e3838b?source=rss----440100e76000---4",
-      "source": "Generative AI",
-      "source_domain": "generativeai.pub",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T09:05:32.000Z",
-      "metaDescription": "Build a production-ready Kubernetes incident response agent using LangGraph and PostgreSQL checkpointers. Learn how to implement…\nContinue reading on Generative AI »",
-      "category": "ai-agents",
-      "difficulty": 7,
-      "confidence": 0.9041433175021604,
-      "crawledAt": "2026-03-17T13:25:41.417Z",
-      "id": "jxxhh6",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9883212447166443,
-          "index": 15,
-          "word": "Lang",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9872213006019592,
-          "index": 16,
-          "word": "##G",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9845371246337891,
-          "index": 17,
-          "word": "##rap",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9809353947639465,
-          "index": 18,
-          "word": "##h",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9936416745185852,
-          "index": 19,
-          "word": "&",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.974193274974823,
-          "index": 20,
-          "word": "Post",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.939572274684906,
-          "index": 21,
-          "word": "##g",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Build a production-ready Kubernetes incident response agent using LangGraph and Post-GPS. Use these tools to help with the task.",
-      "language": "en",
-      "processed_at": "2026-03-17T13:35:02.467Z"
-    },
-    {
-      "title": "Attention Residuals by Kimi Team",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rw1eag/r_attention_residuals_by_kimi_team/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T09:05:17.000Z",
-      "metaDescription": "arXiv:2603.15031 [cs.CL]: https://arxiv.org/abs/2603.15031\n Abstract: Residual connections with PreNorm are standard in modern LLMs, yet they accumulate all layer outputs with fixed unit weights. This",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.43560089032364113,
-      "crawledAt": "2026-03-17T13:25:52.795Z",
-      "id": "xsx3kj",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9341791272163391,
-          "index": 9,
-          "word": "Kim",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9099540114402771,
-          "index": 11,
-          "word": "Team",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " This is the latest in a long line of connections with PreNorms. This is not the first time these connections have been used in modern LLMs.",
-      "language": "en",
-      "processed_at": "2026-03-17T13:35:13.546Z"
-    },
-    {
-      "title": "What happened to all the user-submitted workflows on Openart.ai?",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rw0vpk/what_happened_to_all_the_usersubmitted_workflows/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T08:32:09.000Z",
-      "metaDescription": "It looks like the site has turned into yet another shitty paid generation platform.\n    submitted by    /u/Enshitification  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6018552114601268,
-      "crawledAt": "2026-03-17T09:00:39.352Z",
-      "id": "udzv96",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:12.301Z"
-    },
-    {
-      "title": "I built an open-source AI memory layer because LLMs keep forgetting important things",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rw0tps/i_built_an_opensource_ai_memory_layer_because/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T08:28:24.000Z",
-      "metaDescription": "I got frustrated that most AI memory systems treat every piece of information equally. Your blood type has the same priority as what you had for lunch. Contradictions pile up silently. Old but critica",
-      "category": "infrastructure",
-      "difficulty": 4,
-      "confidence": 0.2851480939979243,
-      "crawledAt": "2026-03-17T09:00:48.928Z",
-      "id": "m2j6hz",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.937242329120636,
-          "index": 7,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.90345299243927,
-          "index": 11,
-          "word": "LL",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " I got frustrated that most AI memory systems treat every piece of information equally. Your blood type has the same priority as what you had for lunch.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:22.598Z"
-    },
-    {
-      "title": "Me, trying to get a human job…",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rw0o0l/me_trying_to_get_a_human_job/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T08:17:56.000Z",
-      "metaDescription": "Sharing the memory of my first job interview 😅\n    submitted by    /u/Soggy_Barnacle7288  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.36788910510595213,
-      "crawledAt": "2026-03-17T09:00:49.067Z",
-      "id": "127k46",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:22.685Z"
-    },
-    {
-      "title": "using chatgpt as a thinking partner for decisions and it's changed how i make choices",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rw0lse/using_chatgpt_as_a_thinking_partner_for_decisions/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T08:13:41.000Z",
-      "metaDescription": "this isn't about chatgpt writing things for me. it's about chatgpt helping me think.\n i'm a small business owner and i make dozens of decisions a week that don't have obvious right answers. should i h",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.4667907384201667,
-      "crawledAt": "2026-03-17T09:00:21.987Z",
-      "id": "v7lb4c",
-      "entities": [],
-      "summary": " This isn't about chatgpt writing things for me, it's about chatGpt helping me think. This isn’t about chat gpt writing. It's about chattinggpt helping us think. I make dozens of decisions a week that don't have obvious right answers.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:40.931Z"
-    },
-    {
-      "title": "THIS IS THE REALEST THING LOL",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rw097d/this_is_the_realest_thing_lol/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T07:51:21.000Z",
-      "metaDescription": "submitted by    /u/Dramatic-Shower-6608  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.5990352368442726,
-      "crawledAt": "2026-03-17T09:00:21.528Z",
-      "id": "mvpnnr",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:41.023Z"
-    },
-    {
-      "title": "KAIST humanoid V0.7 can moonwalk",
-      "url": "https://www.reddit.com/r/singularity/comments/1rvzydl/kaist_humanoid_v07_can_moonwalk/",
-      "source": "r/singularity",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T07:32:16.000Z",
-      "metaDescription": "source: https://www.youtube.com/watch?v=9qZcTMARvpk\n    submitted by    /u/GraceToSentience  \n [link]   [comments]",
-      "category": "product-launch",
-      "difficulty": 3,
-      "confidence": 0.357431720372559,
-      "crawledAt": "2026-03-17T09:00:18.058Z",
-      "id": "unf2jm",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:41.158Z"
-    },
-    {
-      "title": "OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business - WSJ",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rvzrlt/openai_to_cut_back_on_side_projects_in_push_to/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T07:20:07.000Z",
-      "metaDescription": "Are general users cooked? Will this direction actually dig them out of the hole they are in? Let’s hear your thoughts!\n    submitted by    /u/TonyHMeow  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.3227607760493617,
-      "crawledAt": "2026-03-17T09:00:48.044Z",
-      "id": "2yfsdy",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8595049977302551,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:41.340Z"
-    },
-    {
-      "title": "Build agents with Raw python or use frameworks like langgraph?",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rvzds0/build_agents_with_raw_python_or_use_frameworks/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T06:56:38.000Z",
-      "metaDescription": "If you've built or are building a multi-agent application right now, are you using plain Python from scratch, or a framework like LangGraph, CrewAI, AutoGen, or something similar?\n I'm especially inte",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.2532381611038586,
-      "crawledAt": "2026-03-17T09:00:40.028Z",
-      "id": "3ehg63",
-      "entities": [],
-      "summary": " If you've built or are building a multi-agent application right now, are you using plain Python from scratch or a framework like LangGraph, CrewAI, AutoGen, or something similar? I'm especially inte.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:02:57.624Z"
-    },
-    {
-      "title": "A petri dish of human brain cells is currently playing Doom. Should we be worried?",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rvz6t6/a_petri_dish_of_human_brain_cells_is_currently/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-17T06:44:25.000Z",
-      "metaDescription": "A new report from The Guardian reveals that scientists at Cortical Labs have successfully taught a petri dish containing 200.000 living human brain cells to play the 1993 video game Doom. Built on a g",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.37570603681259035,
-      "crawledAt": "2026-03-17T09:00:22.663Z",
-      "id": "yq2skd",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9846294522285461,
-          "index": 12,
-          "word": "Doom",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Scientists at Cortical Labs have taught a petri dish containing 200,000 living brain cells to play the 1993 video game Doom.",
-      "language": "en",
-      "processed_at": "2026-03-17T09:03:28.214Z"
-    },
-    {
-      "title": "A petri dish of human brain cells is currently playing Doom. Should we be worried?",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rvz6eh/a_petri_dish_of_human_brain_cells_is_currently/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-17T06:43:41.000Z",
-      "metaDescription": "A new report from The Guardian reveals that scientists at Cortical Labs have successfully taught a petri dish containing 200.000 living human brain cells to play the 1993 video game Doom. Built on a g",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.37570603681259035,
-      "crawledAt": "2026-03-17T20:49:35.326Z",
-      "id": "yutw0v",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9846294522285461,
-          "index": 12,
-          "word": "Doom",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Scientists at Cortical Labs have taught a petri dish containing 200,000 living brain cells to play the 1993 video game Doom.",
-      "language": "en",
-      "processed_at": "2026-03-17T20:59:02.648Z"
     }
   ],
-  "processedAt": "2026-04-01T06:09:57.926Z",
+  "processedAt": "2026-04-01T09:21:43.520Z",
   "categories": [
     "maharashtra-state-local",
-    "jobs-recruitment",
-    "msme-industry-trade",
-    "government-schemes",
-    "education-skills",
     "legal-judiciary",
-    "policy-regulation",
-    "banking-credit",
+    "government-schemes",
+    "jobs-recruitment",
     "civic-public-service",
+    "banking-credit",
+    "msme-industry-trade",
+    "policy-regulation",
+    "education-skills",
     "creative-ai",
     "infrastructure",
     "ai-agents",
@@ -81191,9 +83205,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 32,
-  "existingArticlesKept": 2278,
+  "newArticlesProcessed": 54,
+  "existingArticlesKept": 2231,
   "cleanupApplied": true,
-  "cleanedUpCount": 79,
+  "cleanedUpCount": 15,
   "rollingWindowDays": 15
 }
