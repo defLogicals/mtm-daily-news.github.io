@@ -1,9 +1,861 @@
 {
-  "crawledAt": "2026-04-03T16:38:09.283Z",
+  "crawledAt": "2026-04-03T20:33:52.565Z",
   "totalSources": 75,
-  "totalArticles": 2550,
+  "totalArticles": 2552,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "City police to prepare database of cases involving bike taxi captains, gig workers",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/city-police-to-prepare-database-of-cases-involving-bike-taxi-captains-gig-workers-3955665",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-03T20:14:07.000Z",
+      "metaDescription": "City police to prepare database of cases involving bike taxi captains, gig workers",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.48119904515305917,
+      "crawledAt": "2026-04-03T20:33:44.700Z",
+      "id": "6t8o9n",
+      "entities": [],
+      "summary": " City police to prepare database of cases involving bike taxi captains, gig workers. City police will prepare database for cases involving taxi captains and gig workers.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:34:05.088Z"
+    },
+    {
+      "title": "Great Nicobar Project: Draft o ‘relocate’ affected Nicobarese families creates confusion",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/gni-project-draft-plantorelocateproject-affectednicobaresefamiliescreates-confusion/article70819645.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T20:11:47.000Z",
+      "metaDescription": "Absence of clarity on relocation sites, numbers, consent process raises concern among tribal communities.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.9819890750087695,
+      "crawledAt": "2026-04-03T20:33:05.827Z",
+      "id": "l1w1pc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9645625352859497,
+          "index": 1,
+          "word": "Great",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8447369933128357,
+          "index": 2,
+          "word": "Nico",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9648591876029968,
+          "index": 3,
+          "word": "##bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9816133975982666,
+          "index": 4,
+          "word": "Project",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9954008460044861,
+          "index": 12,
+          "word": "Nico",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9682084918022156,
+          "index": 13,
+          "word": "##bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9925590753555298,
+          "index": 14,
+          "word": "##ese",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Absence of clarity on relocation sites, numbers, consent process raises concern among tribal communities. Absence on relocation Sites, numbers and consent process raise concern among Tribal communities.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:34:15.486Z"
+    },
+    {
+      "title": "Mumbai Indians vs Delhi Capitals: High-Scoring Clash Expected",
+      "url": "https://www.youtube.com/watch?v=If5W2MfOSDc",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T20:05:30.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.25911013341307626,
+      "crawledAt": "2026-04-03T20:33:30.364Z",
+      "id": "4v8pa3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9916898608207703,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9954820871353149,
+          "index": 4,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950975179672241,
+          "index": 5,
+          "word": "Capital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9557110667228699,
+          "index": 6,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:34:25.141Z"
+    },
+    {
+      "title": "The War In The Skies: Internet's Aviationist David Cenciotti Exclusive with Shiv Aroor",
+      "url": "https://www.youtube.com/watch?v=yQh1_iEkiXg",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T20:05:11.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2668247719520027,
+      "crawledAt": "2026-04-03T20:33:30.498Z",
+      "id": "a8kibi",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9871712327003479,
+          "index": 3,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9936562180519104,
+          "index": 4,
+          "word": "The",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9799059629440308,
+          "index": 5,
+          "word": "Ski",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9900387525558472,
+          "index": 6,
+          "word": "##es",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995056390762329,
+          "index": 13,
+          "word": "David",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997416138648987,
+          "index": 14,
+          "word": "Ce",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983788132667542,
+          "index": 15,
+          "word": "##nc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9968414902687073,
+          "index": 16,
+          "word": "##iot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9853500127792358,
+          "index": 21,
+          "word": "Shi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9972362518310547,
+          "index": 22,
+          "word": "##v",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989701509475708,
+          "index": 23,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9941664338111877,
+          "index": 24,
+          "word": "##roo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:34:25.366Z"
+    },
+    {
+      "title": "Eduverse | Rewiring higher learning through human ingenuity",
+      "url": "https://www.deccanherald.com/education/rewiring-higher-learning-through-human-ingenuity-3955535",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-03T19:49:32.000Z",
+      "metaDescription": "Rewiring higher\nlearning through human ingenuity",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.9832118162626567,
+      "crawledAt": "2026-04-03T20:33:45.174Z",
+      "id": "x4ok0t",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:34:40.246Z"
+    },
+    {
+      "title": "V.C. Asokan assumes charge as ED, Southern Region, IOC",
+      "url": "https://www.thehindu.com/news/cities/chennai/vc-asokan-assumes-charge-as-ed-southern-region-ioc/article70820484.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T19:38:50.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3544154590924799,
+      "crawledAt": "2026-04-03T20:33:06.832Z",
+      "id": "n67k7d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9954999685287476,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907812476158142,
+          "index": 3,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8087612986564636,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9884220361709595,
+          "index": 5,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.992282509803772,
+          "index": 6,
+          "word": "##oka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9797759056091309,
+          "index": 7,
+          "word": "##n",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9697274565696716,
+          "index": 11,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.999062716960907,
+          "index": 17,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9834505915641785,
+          "index": 18,
+          "word": "##OC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:35:09.527Z"
+    },
+    {
+      "title": "YSRCP seeks suspension of police CI over remark against party leader",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-seeks-suspension-of-police-ci-over-remark-against-party-leader/article70819503.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T19:20:13.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3152098013483359,
+      "crawledAt": "2026-04-03T20:33:07.448Z",
+      "id": "d8su7e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998803436756134,
+          "index": 1,
+          "word": "Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995985746383667,
+          "index": 3,
+          "word": "##CP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:35:30.718Z"
+    },
+    {
+      "title": "A.P. students bag seven medals at India Skill Competition",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-students-bag-seven-medals-at-india-skill-competition/article70820036.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T19:18:49.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 8,
+      "confidence": 0.2901206564546117,
+      "crawledAt": "2026-04-03T20:33:07.577Z",
+      "id": "ccubfj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9112236499786377,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9862313866615295,
+          "index": 3,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9646050333976746,
+          "index": 11,
+          "word": "Ski",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9880726337432861,
+          "index": 12,
+          "word": "##ll",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9954957365989685,
+          "index": 13,
+          "word": "Competition",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:35:30.877Z"
+    },
+    {
+      "title": "Guntur woman cracks civil judge exam",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-woman-cracks-civil-judge-exam/article70820260.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T19:17:16.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2507159554432241,
+      "crawledAt": "2026-04-03T20:33:07.660Z",
+      "id": "ftd3nt",
+      "entities": [],
+      "summary": "Update on jobs, recruitment, or competitive exams relevant to readers.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:35:31.004Z"
+    },
+    {
+      "title": "Delhi High Court asks CBDT to clarify tax on partners’ bonuses, stays recovery",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/delhi-high-court-asks-cbdt-to-clarify-tax-on-partners-bonuses-stays-recovery/articleshow/130008616.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-03T19:09:36.000Z",
+      "metaDescription": "Tax authorities nationwide are demanding taxes on partner bonuses and performance pay. Professional firms argue this income is already taxed. The Delhi High Court has intervened, directing the Central",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5129756730152256,
+      "crawledAt": "2026-04-03T20:32:00.561Z",
+      "id": "7dbmap",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8437188267707825,
+          "index": 3,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9953473806381226,
+          "index": 5,
+          "word": "CB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9804559946060181,
+          "index": 6,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9908227324485779,
+          "index": 7,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Delhi High Court has intervened, directing the Central Court. Tax authorities are demanding taxes on partner bonuses and performance pay.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:36:08.964Z"
+    },
+    {
+      "title": "Textile exporters urge govt to waive cotton import duty",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/textile-exporters-urge-govt-to-waive-cotton-import-duty/articleshow/130008620.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-03T19:03:42.000Z",
+      "metaDescription": "Indian textile and garment exporters are calling for the removal of an 11% import duty on cotton. Domestic cotton prices have surged, impacting export margins and competitiveness. This rise is linked ",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.3041848679393792,
+      "crawledAt": "2026-04-03T20:32:00.784Z",
+      "id": "9ijocq",
+      "entities": [],
+      "summary": " Indian textile and garment exporters are calling for the removal of an 11% import duty on cotton. Domestic cotton prices have surged, impacting export margins and competitiveness.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:36:20.165Z"
+    },
+    {
+      "title": "Minister asks CFTRI to 'reach Gen Z', boost digital outreach of food innovation",
+      "url": "https://www.deccanherald.com/india/karnataka/mysuru/minister-asks-cftri-to-reach-gen-z-boost-digital-outreach-of-food-innovation-3955598",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-03T18:29:17.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.7196813876811222,
+      "crawledAt": "2026-04-03T20:33:45.795Z",
+      "id": "byx44y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988840818405151,
+          "index": 3,
+          "word": "CF",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998096764087677,
+          "index": 4,
+          "word": "##TR",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9915897846221924,
+          "index": 5,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:36:59.053Z"
+    },
+    {
+      "title": "How TenderKart Is Solving Tender Discovery, Competitor Analysis, and Pricing Intelligence for MSMEs…",
+      "url": "https://medium.com/@tenderkart.in/how-tenderkart-is-solving-tender-discovery-competitor-analysis-and-pricing-intelligence-for-msmes-55e5deb10610?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T18:13:53.000Z",
+      "metaDescription": "India’s government procurement market is massive — over ₹20 lakh crore annually flows through central, state, and PSU tenders.\nContinue reading on Medium »",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.3817062518317809,
+      "crawledAt": "2026-04-03T20:33:31.382Z",
+      "id": "g20ldz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9565580487251282,
+          "index": 2,
+          "word": "Ten",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9249839782714844,
+          "index": 4,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India’s government procurement market is massive — over ₹20 lakh crore annually flows through central, state, and PSU tenders.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:37:11.194Z"
+    },
+    {
+      "title": "West Bengal Assembly Elections 2026 | Poll Vault: Roll dice, play elections",
+      "url": "https://www.deccanherald.com/india/west-bengal/west-bengal-assembly-elections-2026-poll-vault-roll-dice-play-elections-3955534",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-03T17:23:39.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.26174817777775405,
+      "crawledAt": "2026-04-03T20:33:46.380Z",
+      "id": "rvl9wv",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8201444745063782,
+          "index": 3,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9433865547180176,
+          "index": 4,
+          "word": "Elections",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:38:17.341Z"
+    },
+    {
+      "title": "Indian Navy commissions 3rd nuclear submarine INS Aridhaman boosting deterrence",
+      "url": "https://www.deccanherald.com/india/indian-navy-commissions-3rd-nuclear-submarine-ins-aridhaman-boosting-deterrence-3955517",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-03T17:16:26.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.26788262188392054,
+      "crawledAt": "2026-04-03T20:33:46.486Z",
+      "id": "bqdpx1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9940071702003479,
+          "index": 1,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9618697166442871,
+          "index": 2,
+          "word": "Navy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9789894819259644,
+          "index": 7,
+          "word": "IN",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:38:27.453Z"
+    },
+    {
+      "title": "Beed News | ‘तीन पाणी योजनांनंतरही धारूरकरांचा घसा कोरडा’ ; नागरिकांची पाण्यासाठी भटकंती सुरुच!",
+      "url": "https://pudhari.news/maharashtra/marathwada/beed/beed-news-dharur-water-scarcity-crisis-three-schemes-failure-drinking-water-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-03T17:09:19.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.25005419519119065,
+      "crawledAt": "2026-04-03T20:31:42.832Z",
+      "id": "jltque",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956172704696655,
+          "index": 1,
+          "word": "Bee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9009451866149902,
+          "index": 2,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9941232800483704,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:38:50.982Z"
+    },
+    {
+      "title": "Fast track services with AI, expedite water supply projects: Ashwini Bhide to civic officials",
+      "url": "https://indianexpress.com/article/cities/mumbai/bmc-ai-e-governance-mumbai-water-supply-ashwini-bhide-manori-desalination-plant-10617900/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-03T16:47:59.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.7253161914347246,
+      "crawledAt": "2026-04-03T20:32:13.551Z",
+      "id": "9iqcq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9738963842391968,
+          "index": 5,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9980747103691101,
+          "index": 14,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9133442044258118,
+          "index": 17,
+          "word": "B",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:39:08.327Z"
+    },
+    {
+      "title": "Iran-US War : इराणचे तेलवाहू जहाज अचानक भारताऐवजी चीनकडे",
+      "url": "https://pudhari.news/international/iran-oil-tanker-diverted-to-china-instead-of-india-amid-rising-tensions-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-03T16:39:09.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2566785576804111,
+      "crawledAt": "2026-04-03T20:31:43.179Z",
+      "id": "upfq7h",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8307273983955383,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9942214488983154,
+          "index": 3,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8604622483253479,
+          "index": 4,
+          "word": "War",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-03T20:39:08.676Z"
+    },
     {
       "title": "CCI Cotton Procurement: ‘सीसीआय’ची ११.०५ लाख क्विंटल,खाजगीत ९.३८ लाख क्विंटल कापूस खरेदी",
       "url": "https://agrowon.esakal.com/agro-special/cotton-procurement-cci-parbhani-price-drop-abhi47",
@@ -96327,729 +97179,19 @@
       "summary": "2026 is reshaping technology, work, and the global economy. Why the hype era is finally over? How 2026 is changing the world's future?",
       "language": "en",
       "processed_at": "2026-03-20T02:40:57.682Z"
-    },
-    {
-      "title": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
-      "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T20:31:00.000Z",
-      "metaDescription": "Cursor, a San Francisco AI coding platform from startup Anysphere valued at $29.3 billion, has launched Composer 2, a new in-house coding model now available inside its agentic AI coding environment, ",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.896282150883966,
-      "crawledAt": "2026-03-19T20:46:44.327Z",
-      "id": "ok666c",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8188565373420715,
-          "index": 9,
-          "word": "Composer",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9502383470535278,
-          "index": 10,
-          "word": "2",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-PER",
-          "score": 0.9521693587303162,
-          "index": 16,
-          "word": "Claude",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-PER",
-          "score": 0.9169776439666748,
-          "index": 17,
-          "word": "Opus",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9511537551879883,
-          "index": 24,
-          "word": "GP",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Cursor, a San Francisco AI coding platform, is valued at $29.3 billion. Cursor is a new in-house coding model for the company.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:48:44.185Z"
-    },
-    {
-      "title": "Millions of iPhones can be hacked with a new tool found in the wild",
-      "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T20:11:36.000Z",
-      "metaDescription": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.3730985908072991,
-      "crawledAt": "2026-03-20T02:37:03.473Z",
-      "id": "91z34w",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8845841288566589,
-          "index": 4,
-          "word": "iPhone",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers. The technique has been used in use in Russia by hackers.",
-      "language": "en",
-      "processed_at": "2026-03-20T02:41:08.228Z"
-    },
-    {
-      "title": "GPAI Meets Agentic AI: Why Your MCP Deployment Triggers EU AI Act Obligations",
-      "url": "https://pub.towardsai.net/gpai-meets-agentic-ai-why-your-mcp-deployment-triggers-eu-ai-act-obligations-7a38e381d30f?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T20:01:01.000Z",
-      "metaDescription": "If your agentic AI calls Claude or GPT through MCP, you are a downstream deployer — and the regulatory chain now extends to your…\nContinue reading on Towards AI »",
-      "category": "ai-agents",
-      "difficulty": 6,
-      "confidence": 0.9745511517108294,
-      "crawledAt": "2026-03-19T20:47:10.571Z",
-      "id": "17fjmr",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9871435761451721,
-          "index": 1,
-          "word": "GP",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9793314933776855,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8172620534896851,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9862804412841797,
-          "index": 21,
-          "word": "EU",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.989645779132843,
-          "index": 22,
-          "word": "AI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9959512948989868,
-          "index": 23,
-          "word": "Act",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " If your agentic AI calls Claude or GPT through MCP, you are a downstream deployer. The regulatory chain now extends to your… Your agenticAI calls Claude and GPT.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:48:58.995Z"
-    },
-    {
-      "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
-      "url": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T19:45:22.000Z",
-      "metaDescription": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
-      "category": "industry-news",
-      "difficulty": 3,
-      "confidence": 0.3015219849486412,
-      "crawledAt": "2026-03-20T02:37:03.714Z",
-      "id": "2u5k6z",
-      "entities": [],
-      "summary": "Where we are today in space warfare is very similar to where air superiority was in the 1930s. \"Where we're today inspace warfare isvery similar to when air superiority were in the 30s\"",
-      "language": "en",
-      "processed_at": "2026-03-20T02:41:33.352Z"
-    },
-    {
-      "title": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
-      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
-      "source": "VentureBeat",
-      "source_domain": "venturebeat.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T19:20:00.000Z",
-      "metaDescription": "A rogue AI agent at Meta took action without approval and exposed sensitive company and user data to employees who were not authorized to access it. Meta confirmed the incident to The Information on M",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.6382700230144213,
-      "crawledAt": "2026-03-19T20:46:44.497Z",
-      "id": "19n5e6",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9973039627075195,
-          "index": 1,
-          "word": "Met",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9913347363471985,
-          "index": 2,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9973877668380737,
-          "index": 17,
-          "word": "I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.832821786403656,
-          "index": 18,
-          "word": "##AM",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A rogue AI agent at Meta exposed sensitive company and user data to employees who were not authorized to access it. Meta confirmed the incident to The Information on M.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:07.569Z"
-    },
-    {
-      "title": "OpenAI is acquiring open source Python tool-maker Astral",
-      "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T18:44:58.000Z",
-      "metaDescription": "Codex maker says it will \"continue to support these open source projects\" after deal closes.",
-      "category": "developer-tool",
-      "difficulty": 6,
-      "confidence": 0.49455331732991376,
-      "crawledAt": "2026-03-19T20:46:36.002Z",
-      "id": "6tp2ju",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9986395239830017,
-          "index": 1,
-          "word": "Open",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9950574636459351,
-          "index": 2,
-          "word": "##A",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9918013215065002,
-          "index": 3,
-          "word": "##I",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9855149388313293,
-          "index": 8,
-          "word": "Python",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9976742267608643,
-          "index": 12,
-          "word": "As",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9509403705596924,
-          "index": 13,
-          "word": "##tral",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Codex maker says it will \"continue to support these open source projects\" after deal closes. Codex maker: \"We will continue to support\"",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:27.015Z"
-    },
-    {
-      "title": "I Built Postman for AI Agents — Local, Free, and Open Source",
-      "url": "https://pub.towardsai.net/i-built-postman-for-ai-agents-local-free-and-open-source-be1d7e44015c?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T18:01:00.000Z",
-      "metaDescription": "",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.524041630111666,
-      "crawledAt": "2026-03-19T20:47:10.709Z",
-      "id": "u1iia1",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8378052711486816,
-          "index": 1,
-          "word": "I",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:27.141Z"
-    },
-    {
-      "title": "Rethinking open source mentorship in the AI era",
-      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "source_domain": "github.blog",
-      "source_category": "company",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T18:00:00.000Z",
-      "metaDescription": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.\nThe post Rethinking open source mentorship i",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.6597541486001526,
-      "crawledAt": "2026-03-19T20:46:34.350Z",
-      "id": "mu4sqw",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9939047694206238,
-          "index": 10,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The 3 Cs framework helps maintainers mentor more strategically... without burning out. As contribution volume grows, mentorship signals are harder to read.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:37.504Z"
-    },
-    {
-      "title": "Meta decides not to kill Horizon Worlds VR after all",
-      "url": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T17:50:40.000Z",
-      "metaDescription": "VR will be on life support while mobile remains the focus, though.",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.3983775451625972,
-      "crawledAt": "2026-03-19T20:46:36.097Z",
-      "id": "pybjdl",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9508976936340332,
-          "index": 1,
-          "word": "Met",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9535288214683533,
-          "index": 7,
-          "word": "Horizon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8618630766868591,
-          "index": 8,
-          "word": "Worlds",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " VR will be on life support while mobile remains the focus, though. VR will remain the focus while mobile will be the focus.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:54.777Z"
-    },
-    {
-      "title": "AIStudio: Major upgrade with Auth and Database",
-      "url": "https://www.youtube.com/watch?v=sTsf-k-qXs0",
-      "source": "Prompt Engineering",
-      "source_domain": "youtube.com",
-      "source_category": "youtube",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T17:49:26.000Z",
-      "metaDescription": "",
-      "category": "infrastructure",
-      "difficulty": 7,
-      "confidence": 0.7062586589259772,
-      "crawledAt": "2026-03-19T20:47:35.523Z",
-      "id": "rtba0o",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8979443907737732,
-          "index": 2,
-          "word": "##S",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9679850935935974,
-          "index": 3,
-          "word": "##tu",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8295685052871704,
-          "index": 4,
-          "word": "##dio",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.9921906590461731,
-          "index": 9,
-          "word": "Au",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9480466246604919,
-          "index": 10,
-          "word": "##th",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9811733961105347,
-          "index": 11,
-          "word": "and",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9365275502204895,
-          "index": 12,
-          "word": "Database",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:49:54.880Z"
-    },
-    {
-      "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
-      "url": "https://arstechnica.com/tech-policy/2026/03/afroman-keeps-trolling-cops-after-winning-lemon-pound-cake-defamation-case/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T17:45:28.000Z",
-      "metaDescription": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
-      "category": "creative-ai",
-      "difficulty": 4,
-      "confidence": 0.4614318215322143,
-      "crawledAt": "2026-03-19T20:46:36.212Z",
-      "id": "3txwlz",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9466047883033752,
-          "index": 10,
-          "word": "Lemon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.9381105899810791,
-          "index": 11,
-          "word": "Pound",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Cops asked the jury for millions after Afroman used raid footage in music videos. Cops asked for millions of people to watch the footage.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:04.512Z"
-    },
-    {
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "source": "Ars Technica",
-      "source_domain": "arstechnica.com",
-      "source_category": "news",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T17:28:26.000Z",
-      "metaDescription": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.6013139549973208,
-      "crawledAt": "2026-03-19T20:46:36.323Z",
-      "id": "bwr9p7",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9965509176254272,
-          "index": 1,
-          "word": "Google",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9981886744499207,
-          "index": 14,
-          "word": "Android",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The \"advanced flow\" will be available before verification begins later this year. The \"Advanced flow\" is available before enforcement begins later in the year.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:14.432Z"
-    },
-    {
-      "title": "Run NVIDIA Nemotron 3 Super on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
-      "source": "AWS Machine Learning",
-      "source_domain": "aws.amazon.com",
-      "source_category": "cloud",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T17:25:44.000Z",
-      "metaDescription": "This post explores the technical characteristics of the Nemotron 3 Super model and discusses potential application use cases. It also provides technical guidance to get started using this model for yo",
-      "category": "infrastructure",
-      "difficulty": 7,
-      "confidence": 0.4219823680609541,
-      "crawledAt": "2026-03-19T20:46:59.577Z",
-      "id": "g7c0qd",
-      "entities": [
-        {
-          "entity": "B-LOC",
-          "score": 0.8082550168037415,
-          "index": 3,
-          "word": "##VI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8479866981506348,
-          "index": 4,
-          "word": "##DI",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.888338029384613,
-          "index": 8,
-          "word": "##ot",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-MISC",
-          "score": 0.8742424249649048,
-          "index": 10,
-          "word": "3",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-LOC",
-          "score": 0.9147530198097229,
-          "index": 13,
-          "word": "Amazon",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.96485435962677,
-          "index": 14,
-          "word": "Bed",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-LOC",
-          "score": 0.9106953144073486,
-          "index": 15,
-          "word": "##rock",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The Nemotron 3 Super Model is a model for yo-yo. It is a version of the Nemoton 3 model that has been designed to be used in the future.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:28.229Z"
-    },
-    {
-      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-      "source": "TechCrunch AI",
-      "source_domain": "techcrunch.com",
-      "source_category": "news",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T17:24:13.000Z",
-      "metaDescription": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-      "category": "ai-agents",
-      "difficulty": 5,
-      "confidence": 0.5446275794815371,
-      "crawledAt": "2026-03-19T20:46:31.439Z",
-      "id": "d443oc",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9987503290176392,
-          "index": 1,
-          "word": "Met",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9901676774024963,
-          "index": 2,
-          "word": "##a",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9903368949890137,
-          "index": 6,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, and reduce over-enforcement.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:36.918Z"
-    },
-    {
-      "title": "Multimodal RAG + Gemini Embedding 2 + GPT-5.4 Just Revolutionized AI Forever",
-      "url": "https://pub.towardsai.net/multimodal-rag-gemini-embedding-2-gpt-5-4-just-revolutionized-ai-forever-d60ef8952c06?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-19T17:01:03.000Z",
-      "metaDescription": "During the weekend, I scrolled through Twitter to see what was happening in the AI community. Google has announced its first native…\nContinue reading on Towards AI »",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.947758257161381,
-      "crawledAt": "2026-03-19T20:47:10.878Z",
-      "id": "tocpye",
-      "entities": [],
-      "summary": "Google has announced its first native native AI community. Google has announced the first native version of its new AI system.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:47.996Z"
-    },
-    {
-      "title": "Abacus AI Honest Review And Pricing: The AI That Lets You Vibe Code, Build Agents & Replace 10+ Tools?",
-      "url": "https://www.kdnuggets.com/2026/03/abacus/abacus-ai-honest-review-and-pricing-the-ai-that-lets-you-vibe-code-build-agents-replace-10-tools",
-      "source": "KDnuggets",
-      "source_domain": "kdnuggets.com",
-      "source_category": "tutorial",
-      "source_priority": "medium",
-      "pubDate": "2026-03-19T17:00:25.000Z",
-      "metaDescription": "A detailed Abacus AI review exploring Abacus AI features, vibe coding AI, DeepAgent, and how this AI agent platform helps build applications and automate workflows faster.",
-      "category": "ai-agents",
-      "difficulty": 4,
-      "confidence": 0.9508258402745131,
-      "crawledAt": "2026-03-19T20:48:14.070Z",
-      "id": "3kckos",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.8692565560340881,
-          "index": 1,
-          "word": "A",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " A detailed Abacus AI review explores Abacus' AI features, vibe coding AI, and how this AI platform helps build applications and automate workflows.",
-      "language": "en",
-      "processed_at": "2026-03-19T20:50:57.403Z"
     }
   ],
-  "processedAt": "2026-04-03T16:57:38.564Z",
+  "processedAt": "2026-04-03T20:39:40.056Z",
   "categories": [
     "jobs-recruitment",
+    "maharashtra-state-local",
+    "msme-industry-trade",
     "education-skills",
     "legal-judiciary",
-    "maharashtra-state-local",
     "government-schemes",
+    "policy-regulation",
     "civic-public-service",
     "banking-credit",
-    "msme-industry-trade",
-    "policy-regulation",
     "creative-ai",
     "infrastructure",
     "ai-agents",
@@ -97062,9 +97204,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 50,
-  "existingArticlesKept": 2525,
+  "newArticlesProcessed": 18,
+  "existingArticlesKept": 2550,
   "cleanupApplied": true,
-  "cleanedUpCount": 25,
+  "cleanedUpCount": 16,
   "rollingWindowDays": 15
 }
