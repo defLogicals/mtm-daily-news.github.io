@@ -1,9 +1,1191 @@
 {
-  "crawledAt": "2026-04-04T01:53:16.522Z",
+  "crawledAt": "2026-04-04T05:22:13.919Z",
   "totalSources": 75,
-  "totalArticles": 21,
+  "totalArticles": 49,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Meet Orion, The Living Life Spacecraft Carrying Artemis II Astronauts To Moon",
+      "url": "https://www.ndtv.com/world-news/meet-orion-the-living-life-spacecraft-carrying-artemis-ii-astronauts-to-moon-11309509#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T05:07:42.000Z",
+      "metaDescription": "Orion lifted off atop NASA's Space Launch System, carrying four astronauts on Artemis II, humanity's first crewed journey around the Moon in more than half a century.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.29018763425761607,
+      "crawledAt": "2026-04-04T05:21:42.034Z",
+      "id": "yb5n56",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8465320467948914,
+          "index": 6,
+          "word": "Life",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.931524932384491,
+          "index": 12,
+          "word": "II",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Orion lifted off atop NASA's Space Launch System, carrying four astronauts. humanity's first crewed journey around the Moon in more than half a century.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:22:46.334Z"
+    },
+    {
+      "title": "Goa News | कायद्यानुसार आमदार कार्यकाळ वर्षाचा",
+      "url": "https://pudhari.news/goa/goa-news-mla-term-limit-legislative-assembly-duration-law-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T05:05:53.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2686433938053014,
+      "crawledAt": "2026-04-04T05:20:02.767Z",
+      "id": "buvr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990801215171814,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980168342590332,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:22:56.374Z"
+    },
+    {
+      "title": "SIP or lumpsum? Expert suggests best approach for first-time mutual fund investors with Rs 10,000",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/sip-or-lumpsum-expert-suggests-best-approach-for-first-time-mutual-fund-investors-with-rs-10000/articleshow/130013216.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T04:47:27.000Z",
+      "metaDescription": "For new investors, especially students and young professionals with modest amounts like Rs 10,000, a Systematic Investment Plan (SIP) is generally recommended over a lump sum. Financial expert Harshva",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.4324713377837098,
+      "crawledAt": "2026-04-04T05:20:22.513Z",
+      "id": "nsp88o",
+      "entities": [],
+      "summary": " A Systematic Investment Plan (SIP) is generally recommended over a lump sum. Financial expert Harshva.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:24:09.555Z"
+    },
+    {
+      "title": "Iran War: Escalation Over Exit?; Why Trump Is Worried: NDTV Decodes; Ukraine's Guns Running Dry",
+      "url": "https://www.youtube.com/watch?v=pnFrgD0l0bE",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:45:04.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2806426074754108,
+      "crawledAt": "2026-04-04T05:21:52.512Z",
+      "id": "wuwot",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9869131445884705,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8758351802825928,
+          "index": 2,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8598182797431946,
+          "index": 7,
+          "word": "Over",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8493232131004333,
+          "index": 8,
+          "word": "Exit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9959949254989624,
+          "index": 18,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9287258982658386,
+          "index": 19,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9879133701324463,
+          "index": 20,
+          "word": "##TV",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997788071632385,
+          "index": 24,
+          "word": "Ukraine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:24:35.161Z"
+    },
+    {
+      "title": "Goa rain news | राज्याच्या काही भागांत दुसऱ्या दिवशीही पावसाची हजेरी",
+      "url": "https://pudhari.news/goa/goa-rain-news-unseasonal-rainfall-imd-forecast-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T04:44:38.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2573060368501618,
+      "crawledAt": "2026-04-04T05:20:03.857Z",
+      "id": "o59dvb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993380904197693,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:24:35.379Z"
+    },
+    {
+      "title": "Value food",
+      "url": "https://www.downtoearth.org.in/food/value-food",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T04:32:19.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.30284372440315865,
+      "crawledAt": "2026-04-04T05:22:06.074Z",
+      "id": "41d30f",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:32.873Z"
+    },
+    {
+      "title": "Jammu Earthquake News | Tremors Felt In Srinagar, Residents Alarmed",
+      "url": "https://www.youtube.com/shorts/iIcGp8yLxhQ",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:30:23.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2644555352001871,
+      "crawledAt": "2026-04-04T05:21:52.956Z",
+      "id": "3yjtp1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970566034317017,
+          "index": 1,
+          "word": "Jammu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9711767435073853,
+          "index": 2,
+          "word": "Earth",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976572394371033,
+          "index": 3,
+          "word": "##qua",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978616237640381,
+          "index": 4,
+          "word": "##ke",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960277080535889,
+          "index": 5,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999036967754364,
+          "index": 13,
+          "word": "Sri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9987142086029053,
+          "index": 14,
+          "word": "##nagar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:33.191Z"
+    },
+    {
+      "title": "Pune Rain Update: खडकवासला परिसरात विक्रमी १०४ मिमी पाऊस",
+      "url": "https://agrowon.esakal.com/agro-special/khadakwasla-104mm-rainfall-record-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T04:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2704799861180831,
+      "crawledAt": "2026-04-04T05:20:08.853Z",
+      "id": "i0sw3l",
+      "entities": [],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:33.397Z"
+    },
+    {
+      "title": "Taking strict action for violation of MCC, poll rules in physical, digital space: Kerala CEO",
+      "url": "https://www.thehindubusinessline.com/news/elections/taking-strict-action-for-violation-of-mcc-poll-rules-in-physical-digital-space-kerala-ceo/article70822338.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:29:38.000Z",
+      "metaDescription": "Kelkar said that after the elections were announced, it was made clear to all political parties and candidates that they shall abide by the Model Code of Conduct and \"any violations will be dealt with",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.45388324637506094,
+      "crawledAt": "2026-04-04T05:21:32.889Z",
+      "id": "ngj9y7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986520409584045,
+          "index": 7,
+          "word": "MCC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996012449264526,
+          "index": 17,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kelkar said that after the elections were announced, it was made clear to all political parties and candidates that they shall abide by the Model Code of Conduct.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:55.664Z"
+    },
+    {
+      "title": "PCMC RTO Environment Tax: पिंपरी-चिंचवडमध्ये आरटीओची धडक मोहीम; पर्यावरण कर न भरल्यास कडक कारवाई",
+      "url": "https://pudhari.news/pimpri-chinchwad/pimpri-chinchwad-rto-environment-tax-drive-penalty-old-vehicles-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T04:27:47.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2775742318430783,
+      "crawledAt": "2026-04-04T05:20:04.776Z",
+      "id": "p1s1n9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967017769813538,
+          "index": 1,
+          "word": "PC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8993574976921082,
+          "index": 2,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.943461000919342,
+          "index": 3,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9655254483222961,
+          "index": 4,
+          "word": "##TO",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:55.869Z"
+    },
+    {
+      "title": "How a Canadian telecom firm won a Rs 152-crore patent infringement suit in Delhi HC",
+      "url": "https://indianexpress.com/article/explained/explained-law/delhi-hc-rosenberger-patent-infringement-152-crore-10618322/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:27:40.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.284994471772131,
+      "crawledAt": "2026-04-04T05:21:29.646Z",
+      "id": "9oj6kd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.999745786190033,
+          "index": 3,
+          "word": "Canadian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999029278755188,
+          "index": 18,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:25:56.037Z"
+    },
+    {
+      "title": "Shivali-Rasika |शिवालीचा डॅशिंग अंदाज की रसिकाचा मालवणी गोडवा; चाहत्यांची कोणाला पसंती?",
+      "url": "https://pudhari.news/ampstories/web-stories/shivali-parab-kalyanchi-chulbuli-rasika-vengurlekar-maharashtrachi-hasyajatra-foreign-tour-ss88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T04:24:49.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2899788902444992,
+      "crawledAt": "2026-04-04T05:20:04.971Z",
+      "id": "x965rm",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:26:21.874Z"
+    },
+    {
+      "title": "Maharashtra reshuffles 25 IAS officers; key cities get new Collectors, Commissioners",
+      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-reshuffles-25-ias-officers-key-cities-get-new-collectors-commissioners/article70819306.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:22:20.000Z",
+      "metaDescription": "In Chhatrapati Sambhajinagar, Municipal Commissioner G. Shrikant has been moved to Navi Mumbai, where he will serve as Chief Executive Officer of the Jal Jeevan Mission",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.309544316515648,
+      "crawledAt": "2026-04-04T05:21:25.231Z",
+      "id": "869bv2",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997589588165283,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9980484843254089,
+          "index": 6,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9721598625183105,
+          "index": 7,
+          "word": "##AS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Shrikant has been moved to Navi Mumbai, where he will serve as Chief Executive Officer of Jal Jeevan Mission.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:27:07.872Z"
+    },
+    {
+      "title": "Pimpri Chinchwad Investment Fraud: पिंपरी-चिंचवडमध्ये गुंतवणूक फसवणुकीचा सुळसुळाट; 44 लाखांचा गंडा",
+      "url": "https://pudhari.news/pimpri-chinchwad/pimpri-chinchwad-share-market-fraud-44-lakh-investment-scam-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T04:18:31.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2866197247011078,
+      "crawledAt": "2026-04-04T05:20:05.362Z",
+      "id": "6jvn1t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982990622520447,
+          "index": 1,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9888171553611755,
+          "index": 3,
+          "word": "##ri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990545511245728,
+          "index": 4,
+          "word": "Chin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985495805740356,
+          "index": 5,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988053441047668,
+          "index": 6,
+          "word": "##wa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977811574935913,
+          "index": 7,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956144690513611,
+          "index": 8,
+          "word": "Investment",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8508859872817993,
+          "index": 9,
+          "word": "Fr",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:27:08.197Z"
+    },
+    {
+      "title": "CBSE’s recent curriculum not academic reform but calculated attempt at linguistic imposition: Stalin",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cbses-recent-curriculum-not-academic-reform-but-calculated-attempt-at-linguistic-imposition-stalin/article70822294.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T04:06:24.000Z",
+      "metaDescription": "Stalin said under the guise of promoting “Indian languages,” the BJP-led NDA government is aggressively advancing a centralising agenda that privileges Hindi while systematically marginalising India’s",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.4068791432327825,
+      "crawledAt": "2026-04-04T05:21:25.452Z",
+      "id": "1qysr4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990200400352478,
+          "index": 1,
+          "word": "CBS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9946399331092834,
+          "index": 2,
+          "word": "##E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9855727553367615,
+          "index": 19,
+          "word": "Stalin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Stalin said under guise of promoting “Indian languages, the BJP-led NDA government is aggressively advancing a centralising agenda that privileges Hindi.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:28:00.327Z"
+    },
+    {
+      "title": "Wall Street Week Ahead: Inflation in focus for markets jostled by Middle East war signals",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-in-focus-for-markets-jostled-by-middle-east-war-signals/articleshow/130012703.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T03:55:56.000Z",
+      "metaDescription": "Upcoming inflation data and initial company earnings will reveal the Middle East war's impact on the U.S. economy and corporations. Investors are closely watching oil prices and their effect on inflat",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3638896626651292,
+      "crawledAt": "2026-04-04T05:20:22.970Z",
+      "id": "2ngq51",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8328378200531006,
+          "index": 1,
+          "word": "Wall",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9641964435577393,
+          "index": 2,
+          "word": "Street",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9852908849716187,
+          "index": 3,
+          "word": "Week",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9985233545303345,
+          "index": 17,
+          "word": "Middle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.992617130279541,
+          "index": 18,
+          "word": "East",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Initial company earnings will reveal the Middle East war's impact on the U.S. economy and corporations. Investors are closely watching oil prices and their effect on oil prices.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:29:12.894Z"
+    },
+    {
+      "title": "ConfluxCapital, the Best Cryptocurrency Trading Bot: Earning 39% More Than Traditional Manual Traders on Average",
+      "url": "https://www.deccanherald.com/dhbrandspot/confluxcapital-the-best-cryptocurrency-trading-bot-earning-39-more-than-traditional-manual-traders-on-average-3955841",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T03:53:01.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.31188893170332255,
+      "crawledAt": "2026-04-04T05:22:07.595Z",
+      "id": "aieiej",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8960005044937134,
+          "index": 1,
+          "word": "Con",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9148881435394287,
+          "index": 3,
+          "word": "##lux",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9575029015541077,
+          "index": 4,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9169067144393921,
+          "index": 5,
+          "word": "##ap",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:29:24.986Z"
+    },
+    {
+      "title": "Trump administration can't make colleges provide race-related data, judge rules",
+      "url": "https://www.deccanherald.com/world/us/trump-administration-cant-make-colleges-provide-race-related-data-judge-rules-3955844",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T03:47:02.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.47434545279691404,
+      "crawledAt": "2026-04-04T05:22:07.699Z",
+      "id": "sp9kmh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9978248476982117,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:29:25.281Z"
+    },
+    {
+      "title": "Political Crime Case: आमदार प्रवीण तायडेंच्या भावाला ठार मारण्याचा कट",
+      "url": "https://agrowon.esakal.com/agro-special/bachchu-kadu-murder-plot-case-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T03:45:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.5792675889562574,
+      "crawledAt": "2026-04-04T05:20:09.054Z",
+      "id": "if6eyz",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:29:25.663Z"
+    },
+    {
+      "title": "Action Likely Against Schools for Non-Cooperation in Census Work",
+      "url": "https://thelivenagpur.com/2026/04/04/action-likely-against-schools-for-non-cooperation-in-census-work/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T03:30:55.000Z",
+      "metaDescription": "Authorities have warned of legal action against educational institutions, including reputed schools, for failing to cooperate…",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.25959242169002306,
+      "crawledAt": "2026-04-04T05:20:12.500Z",
+      "id": "u8srj7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9878093004226685,
+          "index": 1,
+          "word": "Action",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9885852932929993,
+          "index": 2,
+          "word": "Like",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9861042499542236,
+          "index": 3,
+          "word": "##ly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9919266700744629,
+          "index": 4,
+          "word": "Against",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956502914428711,
+          "index": 5,
+          "word": "Schools",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9782750010490417,
+          "index": 6,
+          "word": "for",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9879722595214844,
+          "index": 7,
+          "word": "Non",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9710587859153748,
+          "index": 8,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8670030832290649,
+          "index": 9,
+          "word": "Cooperation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8624334335327148,
+          "index": 11,
+          "word": "Census",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Authorities have warned of legal action against educational institutions, including reputed schools, for failing to cooperate. Authorities have also warned of a legal action.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:29:47.008Z"
+    },
+    {
+      "title": "Artemis II's Moonbound Astronauts Capture Earth's Brilliant Blue Beauty",
+      "url": "https://www.ndtv.com/world-news/nasa-artemis-ii-astronauts-capture-earths-brilliant-blue-beauty-from-orion-spacecraft-ahead-of-moon-visit-11309249#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T03:16:00.000Z",
+      "metaDescription": "NASA released the Artemis II crew's first downlinked images Friday, 1 1/2 days into the first astronaut moonshot in more than half a century.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2954324648853302,
+      "crawledAt": "2026-04-04T05:21:43.261Z",
+      "id": "tfx4mz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8989649415016174,
+          "index": 5,
+          "word": "Moon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9330223202705383,
+          "index": 6,
+          "word": "##bound",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9520187377929688,
+          "index": 7,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9289175271987915,
+          "index": 9,
+          "word": "##aut",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.913561999797821,
+          "index": 16,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9699433445930481,
+          "index": 19,
+          "word": "Blue",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9169446229934692,
+          "index": 20,
+          "word": "Beauty",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Artemis II crew is 1 1 1/2 days into the first astronaut moonshot in more than half a century.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:31:14.850Z"
+    },
+    {
+      "title": "Pak Reduces Petrol Prices, Announces Free Public Transport Amid Energy Crisis",
+      "url": "https://www.ndtv.com/world-news/pakistan-pm-shehbaz-sharif-reduces-petrol-prices-announces-free-public-transport-amid-energy-crisis-iran-war-11309232#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T03:15:40.000Z",
+      "metaDescription": "Shehbaz Sharif's announcement came after street protests and long queues at fuel stations triggered by a late-night decision to impose a 42.7-percent rise in petrol prices.",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.26677912544343924,
+      "crawledAt": "2026-04-04T05:21:43.470Z",
+      "id": "iyftsb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.906772792339325,
+          "index": 1,
+          "word": "Pak",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8136273622512817,
+          "index": 15,
+          "word": "Transport",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9824745655059814,
+          "index": 19,
+          "word": "Crisis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Shehbaz Sharif's announcement came after a late-night decision to impose a 42.7-percent rise in petrol prices.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:31:24.979Z"
+    },
+    {
+      "title": "From ethanol to bio-isobutanol: India’s next leap",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/from-ethanol-to-bio-isobutanol-indias-next-leap/article70820442.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T03:10:38.000Z",
+      "metaDescription": "Unlike petrol, where ethanol has found a natural fit, diesel requires fuels that can integrate seamlessly into existing engines and infrastructure while maintaining fuel characteristics",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.29333601297329953,
+      "crawledAt": "2026-04-04T05:21:26.973Z",
+      "id": "rlaz5r",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998161792755127,
+          "index": 12,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " diesel requires fuels that can integrate seamlessly into existing engines and infrastructure. Unlike petrol, diesel requires fuel characteristics to maintain fuel characteristics.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:31:35.443Z"
+    },
+    {
+      "title": "White House seeks $1.5 trillion defence budget, proposes deep cuts to social spending",
+      "url": "https://www.thehindubusinessline.com/news/world/white-house-seeks-15-trillion-defence-budget-proposes-deep-cuts-to-social-spending/article70822238.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T02:45:49.000Z",
+      "metaDescription": "The plan focuses on military expansion, nuclear modernisation and a new missile defence system, while cutting non-defence spending by 10 per cent",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.49236601847364814,
+      "crawledAt": "2026-04-04T05:21:33.785Z",
+      "id": "wp5la4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9854345321655273,
+          "index": 1,
+          "word": "White",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9895123243331909,
+          "index": 2,
+          "word": "House",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The plan focuses on military expansion, nuclear modernisation and a new missile defence system. Cutting non-defence spending by 10 per cent, while cutting non-Defence spending.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:32:35.213Z"
+    },
+    {
+      "title": "Banana Care: अवकाळी पावसानंतर केळीमध्ये कोणत्या उपाययोजना कराव्या?",
+      "url": "https://agrowon.esakal.com/video/banana-crop-management-after-unseasonal-rain",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T02:30:00.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.27723397704138275,
+      "crawledAt": "2026-04-04T05:20:09.610Z",
+      "id": "ww61od",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:32:56.091Z"
+    },
+    {
+      "title": "Tamil Nadu Man Shot Dead By Son-In-Law Over Child's Custody Amid Divorce",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-man-shot-dead-by-son-in-law-over-childs-custody-amid-divorce-11309131#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T02:09:14.000Z",
+      "metaDescription": "A senior police officer told NDTV that the couple has two children - a son and a daughter - and the dispute centred around the custody of the boy.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.27498356772503607,
+      "crawledAt": "2026-04-04T05:21:39.871Z",
+      "id": "rygxbb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9968264698982239,
+          "index": 1,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9975947141647339,
+          "index": 2,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The couple has two children, a son and a daughter, police say. The dispute is over the custody of the boy, a police officer says.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:34:15.931Z"
+    },
+    {
+      "title": "Para-athlete Komal Tyagi sprinting ahead; The economics of domestic labour",
+      "url": "https://yourstory.com/2026/04/para-athlete-komal-tyagi-sprinting-ahead",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T02:00:00.000Z",
+      "metaDescription": "By 2024, Komal was close to walking away from the sport entirely. The training centre provided a ground, a coach, and accommodation, but there was an additional financial burden. She needed specialise",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.33388619752823445,
+      "crawledAt": "2026-04-04T05:21:49.986Z",
+      "id": "s9dd45",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997377395629883,
+          "index": 4,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9800512790679932,
+          "index": 5,
+          "word": "##mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994463920593262,
+          "index": 6,
+          "word": "Ty",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9952713847160339,
+          "index": 7,
+          "word": "##agi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Komal was close to walking away from the sport entirely. The training centre provided a ground, a coach, and accommodation.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:34:37.527Z"
+    },
     {
       "title": "Trump moves to pay 'each and every' DHS workers as funding crisis drags on",
       "url": "https://www.deccanherald.com/world/us/trump-moves-to-pay-each-and-every-dhs-workers-as-funding-crisis-drags-on-3955801",
@@ -808,6 +1990,66 @@
       "processed_at": "2026-04-04T01:59:30.319Z"
     },
     {
+      "title": "Elizabeth Warren questions MrBeast’s teen banking app over crypto concerns",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/elizabeth-warren-questions-mrbeasts-teen-banking-app-over-crypto-concerns/articleshow/130008917.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-03T19:22:41.000Z",
+      "metaDescription": "Senator Elizabeth Warren has formally questioned MrBeast's company, Beast Industries, regarding their new money app, Step, for young people. Concerns center on the app potentially encouraging cryptocu",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2991690228676864,
+      "crawledAt": "2026-04-04T05:21:35.722Z",
+      "id": "qf8dzk",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999268114566803,
+          "index": 1,
+          "word": "Elizabeth",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990423917770386,
+          "index": 2,
+          "word": "Warren",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9229115843772888,
+          "index": 4,
+          "word": "Mr",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8957760334014893,
+          "index": 6,
+          "word": "##eas",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9463679194450378,
+          "index": 7,
+          "word": "##t",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Senator Elizabeth Warren has questioned Beast Industries's new money app, Step, for young people. Concerns center on the app potentially encouraging cryptocu.",
+      "language": "en",
+      "processed_at": "2026-04-04T05:35:48.147Z"
+    },
+    {
       "title": "A girl’s murder unravels into ‘sacrificial killing’, turns Hazaribagh into political battleground",
       "url": "https://indianexpress.com/article/india/young-girl-murder-sacrificial-killing-hazaribagh-10617593/",
       "source": "Indian Express — India",
@@ -852,18 +2094,20 @@
       "processed_at": "2026-04-04T01:59:49.707Z"
     }
   ],
-  "processedAt": "2026-04-04T01:59:49.719Z",
+  "processedAt": "2026-04-04T05:35:48.154Z",
   "categories": [
     "jobs-recruitment",
-    "government-schemes",
     "maharashtra-state-local",
-    "policy-regulation",
+    "msme-industry-trade",
+    "government-schemes",
     "education-skills",
+    "policy-regulation",
     "legal-judiciary",
+    "banking-credit",
     "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 21,
-  "dailyArticlesCount": 21,
+  "newArticlesProcessed": 28,
+  "dailyArticlesCount": 49,
   "filterDate": "2026-04-04"
 }
