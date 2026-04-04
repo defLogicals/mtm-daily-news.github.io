@@ -1,9 +1,780 @@
 {
-  "crawledAt": "2026-04-04T16:32:48.249Z",
+  "crawledAt": "2026-04-04T20:27:43.727Z",
   "totalSources": 75,
-  "totalArticles": 176,
+  "totalArticles": 198,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Tax dept DEO booked for forging summons, misusing officer's digital signature",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/tax-dept-deo-booked-for-forging-summons-misusing-officer-s-digital-signature-3956582",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T20:07:12.000Z",
+      "metaDescription": "Tax dept DEO booked for forging summons, misusing officer's digital signature",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.35981377026537786,
+      "crawledAt": "2026-04-04T20:27:35.315Z",
+      "id": "ab5x4q",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963052272796631,
+          "index": 4,
+          "word": "DE",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8762891888618469,
+          "index": 5,
+          "word": "##O",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tax dept DEO booked for forging summons, misusing officer's digital signature. DEO booking for forging summon, misused officer'sdigital signature.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:28:09.231Z"
+    },
+    {
+      "title": "Drunk teen driver kills 19-year-old biker in late-night crash",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/drunk-teen-driver-kills-19-year-old-biker-in-late-night-crash-3956583",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T20:01:46.000Z",
+      "metaDescription": "Drunk teen driver kills 19-year-old biker in late-night crash",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2995938955357346,
+      "crawledAt": "2026-04-04T20:27:35.463Z",
+      "id": "6ocovz",
+      "entities": [],
+      "summary": " Drunk teen driver kills 19-year-old biker in late-night crash in late night crash. Drunk teenDriver kills 19.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:28:21.921Z"
+    },
+    {
+      "title": "Chandigarh grenade blast case solved, claims Punjab DGP",
+      "url": "https://www.thehindu.com/news/national/punjab/chandigarh-grenade-blast-case-solved-claims-punjab-dgp/article70823641.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:57:07.000Z",
+      "metaDescription": "Five accused have been arrested; police recovered one hand grenade and one (point).30 bore Zigana pistol from their possession",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3107945381918376,
+      "crawledAt": "2026-04-04T20:26:54.326Z",
+      "id": "b7ugd1",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8997786045074463,
+          "index": 1,
+          "word": "Chan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8283149003982544,
+          "index": 3,
+          "word": "##garh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9903312921524048,
+          "index": 10,
+          "word": "Punjab",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8632487654685974,
+          "index": 12,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Five accused have been arrested; police recovered one hand grenade and one (point) 30 bore Zigana pistol from their possession.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:28:32.652Z"
+    },
+    {
+      "title": "Mobile thefts during IPL: 9 more suspects arrested; 75 phones recovered",
+      "url": "https://www.deccanherald.com/india/mobile-thefts-during-ipl-9-more-suspects-arrested-75-phones-recovered-3956581",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T19:55:49.000Z",
+      "metaDescription": "Mobile thefts during IPL: 9 more suspects arrested; 75 phones recovered",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.27628312651211556,
+      "crawledAt": "2026-04-04T20:27:35.611Z",
+      "id": "f86q93",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9428297877311707,
+          "index": 5,
+          "word": "IP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "9 more suspects arrested; 75 phones recovered. 75 phones were recovered. 9 more suspects were arrested. 75 phones are recovered.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:28:41.849Z"
+    },
+    {
+      "title": "UP man kills wife with axe over domestic dispute, booked",
+      "url": "https://www.deccanherald.com/india/uttar-pradesh/up-man-kills-wife-with-axe-over-domestic-dispute-booked-3956588",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T19:53:07.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3167598642825763,
+      "crawledAt": "2026-04-04T20:27:35.702Z",
+      "id": "1x1t5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9704349040985107,
+          "index": 1,
+          "word": "UP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:28:41.949Z"
+    },
+    {
+      "title": "What are the concerns over the FCRA Bill?",
+      "url": "https://www.thehindu.com/news/national/what-are-the-concerns-over-the-fcra-bill/article70824614.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:46:50.000Z",
+      "metaDescription": "How does the Home Ministry regulate foreign donations to NGOs in India? What are the key changes proposed to the Foreign Contribution (Regulation) Amendment Bill, 2026? Why has the Opposition objected",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.5839604797717877,
+      "crawledAt": "2026-04-04T20:26:54.528Z",
+      "id": "kbnruw",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8417089581489563,
+          "index": 7,
+          "word": "FC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8679701685905457,
+          "index": 8,
+          "word": "##RA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Opposition objected to the changes proposed to the Foreign Contribution (Regulation Amendment Bill, 2026) What are the key changes proposed for the Foreigncontribution (regulation) Amendment Bill.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:15.208Z"
+    },
+    {
+      "title": "Maharashtra Turns to Kerosene Amid LPG Crisis: Nagpur Gets Zero Allocation — For Now",
+      "url": "https://thelivenagpur.com/2026/04/05/maharashtra-turns-to-kerosene-amid-lpg-crisis-nagpur-gets-zero-allocation-for-now/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T19:44:47.000Z",
+      "metaDescription": "As the Middle East conflict continues to disrupt LPG supply chains, Maharashtra has taken an unprecedented…",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.46610712379144137,
+      "crawledAt": "2026-04-04T20:25:51.230Z",
+      "id": "c5icpw",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.977352499961853,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Middle East conflict continues to disrupt LPG supply chains in Maharashtra. Maharashtra has taken an unprecedented step to disrupt supply chains.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:24.174Z"
+    },
+    {
+      "title": "Surge in demand for biogas units amid LPG crisis",
+      "url": "https://www.thehindu.com/news/national/kerala/surge-in-demand-for-biogas-units-amid-lpg-crisis/article70823062.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:28:32.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2961405610990385,
+      "crawledAt": "2026-04-04T20:26:54.835Z",
+      "id": "rlkc1n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9969838261604309,
+          "index": 10,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9917260408401489,
+          "index": 11,
+          "word": "##G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:37.096Z"
+    },
+    {
+      "title": "KKCCI urges govt. to fast-track implementation of PM MITRA textile park",
+      "url": "https://www.thehindu.com/news/national/karnataka/kkcci-urges-govt-to-fast-track-implementation-of-pm-mitra-textile-park/article70823572.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:21:04.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.8411838125447212,
+      "crawledAt": "2026-04-04T20:26:55.138Z",
+      "id": "584p1j",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978828430175781,
+          "index": 1,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987089216709137,
+          "index": 2,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9948256015777588,
+          "index": 3,
+          "word": "##CC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9722047448158264,
+          "index": 4,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9332070350646973,
+          "index": 17,
+          "word": "MIT",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:47.575Z"
+    },
+    {
+      "title": "Will stand with State government on development issues: Kumaraswamy",
+      "url": "https://www.thehindu.com/news/national/karnataka/will-stand-with-state-government-on-developmental-issues-kumaraswamy/article70823539.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:17:50.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3375572255456259,
+      "crawledAt": "2026-04-04T20:26:55.343Z",
+      "id": "f6jk7z",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9986529350280762,
+          "index": 10,
+          "word": "Kumar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9128149747848511,
+          "index": 11,
+          "word": "##as",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:47.892Z"
+    },
+    {
+      "title": "Close contest between three-time MLA and new face with family legacy",
+      "url": "https://www.thehindu.com/news/national/karnataka/close-contest-between-three-time-mla-and-new-face-with-family-legacy/article70819726.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T19:15:06.000Z",
+      "metaDescription": "Among the key issues before the people is the long-pending demand of increased compensation for those who lost land to the Upper Krishna Project; another issue is the plan to expand the irrigated area",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.2645903793679567,
+      "crawledAt": "2026-04-04T20:26:55.688Z",
+      "id": "1v6q3p",
+      "entities": [],
+      "summary": "Long-pending demand for increased compensation for those who lost land to the Upper Krishna Project. Another issue is the plan to expand the irrigated area.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:29:58.737Z"
+    },
+    {
+      "title": "Mysuru water charges up 30%, former mayor calls timing ‘disastrous’",
+      "url": "https://www.deccanherald.com/india/karnataka/mysuru/mysuru-water-charges-up-30-former-mayor-calls-timing-disastrous-3956578",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T18:53:44.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3123191102970755,
+      "crawledAt": "2026-04-04T20:27:36.362Z",
+      "id": "qiry1a",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:30:10.829Z"
+    },
+    {
+      "title": "‘I was obligated...’: Illegal immigrant accused of slitting wife’s throat in Dallas",
+      "url": "https://timesofindia.indiatimes.com/world/us/i-was-obligated-to-do-it-illegal-immigrant-accused-of-slitting-wifes-throat-one-month-after-marriage-in-dallas/articleshow/130025091.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T18:28:30.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.27797985827827865,
+      "crawledAt": "2026-04-04T20:27:03.700Z",
+      "id": "xl49fe",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.997929573059082,
+          "index": 26,
+          "word": "Dallas",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:31:21.182Z"
+    },
+    {
+      "title": "Floats Weren't Armed, Weather Inputs Missing: Pawan Hans Chopper Crash Probe",
+      "url": "https://www.ndtv.com/india-news/mayabunder-andaman-floats-werent-armed-weather-inputs-missing-pawan-hans-chopper-crash-probe-11312198#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T18:13:12.000Z",
+      "metaDescription": "The helicopter crashed near Mayabunder in the Andaman and Nicobar Islands, killing a passenger.",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2661089008173154,
+      "crawledAt": "2026-04-04T20:27:06.563Z",
+      "id": "z94sv",
+      "entities": [],
+      "summary": " The helicopter crashed near Mayabunder in the Andaman and Nicobar Islands, killing a passenger. The passenger died in the crash.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:31:51.646Z"
+    },
+    {
+      "title": "Sam Pepper faces animal abuse claims after livestream clip with pet squirrel Potato draws heavy backlash online",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/sam-pepper-faces-animal-abuse-claims-after-livestream-clip-with-pet-squirrel-potato-draws-heavy-backlash-online/articleshow/130024550.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T17:43:32.000Z",
+      "metaDescription": "Sam Pepper is facing backlash after a livestream clip showed him grabbing and shouting at his pet squirrel, Potato. The video, shared on Reddit, led to many accusing him of animal abuse. Pepper respon",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.30880016545598,
+      "crawledAt": "2026-04-04T20:27:03.571Z",
+      "id": "2szvbd",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993028044700623,
+          "index": 1,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999376118183136,
+          "index": 2,
+          "word": "Pepper",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9091517925262451,
+          "index": 15,
+          "word": "Po",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sam Pepper is facing backlash after a livestream clip showed him grabbing and shouting at his pet squirrel, Potato. The video, shared on Reddit, led to many accusing him of animal abuse.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:32:14.168Z"
+    },
+    {
+      "title": "Pakistan News | Pakistan on Edge: Rising Petrol Prices Hit Citizens Hard",
+      "url": "https://www.youtube.com/watch?v=ru0HQIrVCOM",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T17:21:14.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.27191870013205954,
+      "crawledAt": "2026-04-04T20:27:17.908Z",
+      "id": "oeuca6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970402717590332,
+          "index": 1,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9852571487426758,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9856740832328796,
+          "index": 4,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:32:40.406Z"
+    },
+    {
+      "title": "Workout During Fasting : उपवास आणि वर्कआऊट? योग्य की अयोग्य",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/workout-during-fasting-exercise-on-empty-stomach-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T17:06:57.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.27465249048309903,
+      "crawledAt": "2026-04-04T20:25:49.846Z",
+      "id": "4giyx8",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:32:40.751Z"
+    },
+    {
+      "title": "Trump’s Xi moment? A military purge unfolds in the US",
+      "url": "https://timesofindia.indiatimes.com/world/us/trumps-xi-moment-a-military-purge-unfolds-in-the-us/articleshow/130023728.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T17:06:05.000Z",
+      "metaDescription": "US President Trump's administration has overseen a significant churn in senior US military leadership, with multiple high-ranking officers exiting their posts. These removals, including Army Chief of ",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.29590357880247664,
+      "crawledAt": "2026-04-04T20:27:03.915Z",
+      "id": "mb2ieh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.998085618019104,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9955358505249023,
+          "index": 4,
+          "word": "Xi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.997963547706604,
+          "index": 16,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US President Trump's administration has overseen a significant churn in senior US military leadership. Several high-ranking officers are exiting their posts.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:32:50.666Z"
+    },
+    {
+      "title": "Texas is now 'mini‑India': How a deep-red state became a hotspot for anti-India hate in US",
+      "url": "https://timesofindia.indiatimes.com/world/us/texas-is-now-miniindia-how-a-deep-red-state-became-a-hotspot-for-anti-india-hate-in-us/articleshow/130023024.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T17:02:06.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.8658385599563675,
+      "crawledAt": "2026-04-04T20:27:04.060Z",
+      "id": "niuh2l",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998019337654114,
+          "index": 1,
+          "word": "Texas",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994751214981079,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9894333481788635,
+          "index": 22,
+          "word": "anti",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990465641021729,
+          "index": 27,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:32:51.194Z"
+    },
+    {
+      "title": "How US Trains Pilots To Survive, Evade Capture After Being Shot Down",
+      "url": "https://www.ndtv.com/world-news/iran-war-news-how-us-trains-pilots-to-survive-evade-capture-after-being-shot-down-11311985#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T16:58:52.000Z",
+      "metaDescription": "The blueprint for these missions comes from the Personnel Recovery Joint Publication, which lays out two overriding imperatives. First, safeguard the aircrew and then secure sensitive systems.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.34256137906736106,
+      "crawledAt": "2026-04-04T20:27:15.943Z",
+      "id": "t9o8e9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8307439088821411,
+          "index": 2,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The blueprint for these missions comes from the Personnel Recovery Joint Publication, which lays out two overriding imperatives. First, safeguard the aircrew and then secure sensitive systems.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:33:00.857Z"
+    },
+    {
+      "title": "Twitch streamer Emiru shares shocking middle school bullying moment as livestream with Cinna takes an unexpected emotional turn",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-streamer-emiru-shares-shocking-middle-school-bullying-moment-as-livestream-with-cinna-takes-an-unexpected-emotional-turn/articleshow/130023691.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T16:57:21.000Z",
+      "metaDescription": "Emiru opened up about being bullied in school during a livestream with Cinna on April 3, 2026. She shared painful memories, including a hurtful comment about her appearance and teasing about her ears.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.28478808412604684,
+      "crawledAt": "2026-04-04T20:27:03.324Z",
+      "id": "74d3ih",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991303086280823,
+          "index": 5,
+          "word": "Em",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8154860138893127,
+          "index": 7,
+          "word": "##u",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9972501993179321,
+          "index": 19,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Emiru opened up about being bullied in school during a livestream with Cinna on April 3, 2026.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:33:21.454Z"
+    },
+    {
+      "title": "War-hit Iran: 345 Tamil Nadu fishermen flown back to Chennai",
+      "url": "https://www.thehindubusinessline.com/news/war-hit-iran-345-tamil-nadu-fishermen-flown-back-to-chennai/article70824449.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T16:56:06.000Z",
+      "metaDescription": "The fishermen, many of whom were working near Kish Island, had been left without work and resources amid the crisis.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.26390930912431076,
+      "crawledAt": "2026-04-04T20:27:08.721Z",
+      "id": "wf5xqm",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999664306640625,
+          "index": 4,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9993158578872681,
+          "index": 7,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9989248514175415,
+          "index": 8,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994925856590271,
+          "index": 13,
+          "word": "Chennai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The fishermen, many of whom were working near Kish Island, had been left without work and resources. Many of whom had been working near the island had been without work or resources.",
+      "language": "en",
+      "processed_at": "2026-04-04T20:33:33.702Z"
+    },
     {
       "title": "States are not Centre’s subordinates: Justice B.V. Nagarathna",
       "url": "https://www.thehindu.com/news/national/states-are-not-centres-subordinates-justice-bv-nagarathna/article70824094.ece",
@@ -7371,20 +8142,20 @@
       "processed_at": "2026-04-04T01:59:49.707Z"
     }
   ],
-  "processedAt": "2026-04-04T16:47:22.304Z",
+  "processedAt": "2026-04-04T20:33:58.982Z",
   "categories": [
-    "maharashtra-state-local",
     "legal-judiciary",
     "jobs-recruitment",
     "government-schemes",
+    "maharashtra-state-local",
+    "civic-public-service",
     "education-skills",
     "banking-credit",
     "policy-regulation",
-    "msme-industry-trade",
-    "civic-public-service"
+    "msme-industry-trade"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 42,
-  "dailyArticlesCount": 176,
+  "newArticlesProcessed": 22,
+  "dailyArticlesCount": 198,
   "filterDate": "2026-04-04"
 }
