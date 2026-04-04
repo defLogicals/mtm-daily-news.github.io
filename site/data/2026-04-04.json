@@ -1,9 +1,1852 @@
 {
-  "crawledAt": "2026-04-04T08:38:32.022Z",
+  "crawledAt": "2026-04-04T12:47:32.625Z",
   "totalSources": 75,
-  "totalArticles": 87,
+  "totalArticles": 134,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Centre moves to limit West Asia war impact on exports: Commerce Secretary",
+      "url": "https://www.thehindubusinessline.com/economy/centre-moves-to-limit-west-asia-war-impact-on-exports-commerce-secretary/article70823299.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T12:42:34.000Z",
+      "metaDescription": "All arms of the Government are engaged in resolving LPG crisis by diversifying imports",
+      "category": "msme-industry-trade",
+      "difficulty": 7,
+      "confidence": 0.42374348777590976,
+      "crawledAt": "2026-04-04T12:46:28.817Z",
+      "id": "cmznqh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9830098748207092,
+          "index": 5,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9897897839546204,
+          "index": 6,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Government are engaged in resolving LPG crisis by diversifying imports. All arms of the Government are involved in resolving the crisis by diverting imports.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:48:25.232Z"
+    },
+    {
+      "title": "'If West Asia crisis continues Indian exports to other parts of world will get impacted': Official",
+      "url": "https://www.deccanherald.com/india/if-west-asia-crisis-continues-indian-exports-to-other-parts-of-world-will-get-impacted-official-3956190",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T12:29:28.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2698295010055952,
+      "crawledAt": "2026-04-04T12:47:24.065Z",
+      "id": "21c9lf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9978933334350586,
+          "index": 3,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9953498244285583,
+          "index": 4,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9996690154075623,
+          "index": 7,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:48:47.034Z"
+    },
+    {
+      "title": "गड- कंपोष्ट डेपो",
+      "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/todays-latest-marathi-news-kop26d89910-txt-kopcity-today-20260404122347",
+      "source": "eSakal — stories (Marathi)",
+      "source_domain": "esakal.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T12:23:47.000Z",
+      "metaDescription": "गड- कंपोष्ट डेपो",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.31501888107634757,
+      "crawledAt": "2026-04-04T12:44:54.508Z",
+      "id": "g33brm",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:48:47.155Z"
+    },
+    {
+      "title": "Strait Of Hormuz News | Hormuz Stranglehold: No End In Sight",
+      "url": "https://www.youtube.com/watch?v=7cezmlBwtVg",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T12:15:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.37382530891493215,
+      "crawledAt": "2026-04-04T12:46:54.306Z",
+      "id": "42px48",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981701374053955,
+          "index": 1,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979442954063416,
+          "index": 2,
+          "word": "Of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980039000511169,
+          "index": 3,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977254867553711,
+          "index": 4,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966191053390503,
+          "index": 5,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980648159980774,
+          "index": 6,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:49:10.101Z"
+    },
+    {
+      "title": "‘Where has Tamil Nadu’s money gone?’: Piyush Goyal targets DMK, releases white paper on finances",
+      "url": "https://www.thehindubusinessline.com/news/elections/where-has-tamil-nadus-money-gone-piyush-goyal-targets-dmk-releases-white-paper-on-finances/article70823153.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:58:02.000Z",
+      "metaDescription": "He alleged that the state’s debt has surged to historic levels and questioned the utilisation of funds despite strong economic sectors",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2535323703391998,
+      "crawledAt": "2026-04-04T12:46:37.244Z",
+      "id": "us8n7o",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994552135467529,
+          "index": 4,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9991374015808105,
+          "index": 5,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.999477744102478,
+          "index": 13,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9960212707519531,
+          "index": 15,
+          "word": "##sh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985426068305969,
+          "index": 16,
+          "word": "Go",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9931284189224243,
+          "index": 17,
+          "word": "##yal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9983487725257874,
+          "index": 19,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9309632182121277,
+          "index": 20,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950834512710571,
+          "index": 21,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " He alleged that the state's debt has surged to historic levels. He questioned the utilisation of funds despite strong economic sectors.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:50:07.487Z"
+    },
+    {
+      "title": "Jay Pawar: त्यामुळे विरोधकांना लढायचं असेल तर लढावं, पण…; बारामती पोटनिवडणुकीसाठी जय पवारांनी कंबर कसली",
+      "url": "https://deshdoot.com/baramati-by-elections-jay-pawar-comments-on-congress-decision/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:46:25.000Z",
+      "metaDescription": "बारामती | Baramatiअजित पवार यांच्या निधनानंतर रिक्त झालेल्या बारामती विधानसभा पोटनिवडणुकीचा अर्ज राज्याच्या उपमुख्यमंत्री सुनेत्रा पवार या सोमवारी भरणार आहेत. बारामतीची पोटनिवडणूक बिनविरोध होईल, असे स",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2540715093656596,
+      "crawledAt": "2026-04-04T12:45:49.465Z",
+      "id": "767p87",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9982572793960571,
+          "index": 1,
+          "word": "Jay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9961754083633423,
+          "index": 2,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Baramati. \"Baramati\" has been described as a \"baramati’s\"",
+      "language": "en",
+      "processed_at": "2026-04-04T12:51:20.480Z"
+    },
+    {
+      "title": "Russell Viper | एकावेळी ७० पिल्लांना जन्म? घोणस सापाबद्दलची रंजक माहिती",
+      "url": "https://pudhari.news/ampstories/web-stories/russell-viper-interesting-facts-birth-to-70-babies-ghonas-snake-marathi-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T11:46:14.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2958701909557382,
+      "crawledAt": "2026-04-04T12:44:59.340Z",
+      "id": "bqnwq6",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9987159967422485,
+          "index": 1,
+          "word": "Russell",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9981013536453247,
+          "index": 2,
+          "word": "Viper",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:51:20.635Z"
+    },
+    {
+      "title": "In era marked by conflict, Gandhi's principle of non-violence offers way forward: Vice President",
+      "url": "https://www.thehindu.com/news/national/bihar/in-era-marked-by-conflict-gandhis-principle-of-non-violence-offers-way-forward-vice-president/article70823012.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:42:57.000Z",
+      "metaDescription": "C.P. Radhakrishnan said, be it Buddhism, Jainism, or the idea of socialist revolution, everything took shape in Bihar",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.28433818613048595,
+      "crawledAt": "2026-04-04T12:46:27.158Z",
+      "id": "wqgq1k",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9977058172225952,
+          "index": 7,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "C.P. Radhakrishnan said, be it Buddhism, Jainism, or the idea of socialist revolution.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:51:58.011Z"
+    },
+    {
+      "title": "Satara News : काळ्या कोळशाला आले सोनेरी दिवस!",
+      "url": "https://www.tarunbharat.com/black-coal-has-reached-its-golden-age-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T11:42:28.000Z",
+      "metaDescription": "गॅस टंचाईमुळे घराघरांत, हॉटेलांत पेटल्या कोळशाच्या शेगड्या सातारा : होर्मुज जलडमरूमधील वाहतूक बंदीमुळे आंतरराष्ट्रीय स्तरावर इंधन पुरवठा विस्कळीत झाला असून त्याचे परिणाम आता स्थानिक पातळीवरही जाणवू ला",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2624772135209103,
+      "crawledAt": "2026-04-04T12:45:02.633Z",
+      "id": "uzcfes",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9943361878395081,
+          "index": 1,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9678412079811096,
+          "index": 2,
+          "word": "##tara",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The city of  ’s ‘‘’t’ and ‘a’ ‘I’m’",
+      "language": "en",
+      "processed_at": "2026-04-04T12:52:13.375Z"
+    },
+    {
+      "title": "Division Bench Upholds Rajasthan High Court's Decision To Cancel SI Recruitment Exam 2021",
+      "url": "https://www.ndtv.com/education/division-bench-upholds-rajasthan-high-courts-decision-to-cancel-si-recruitment-exam-2021-11310786#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:41:23.000Z",
+      "metaDescription": "A petition to cancel the exam was filed on August 13, 2024. After prolonged hearings, a single-judge bench of the High Court cancelled the recruitment on August 28, 2025. S",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28780244577016456,
+      "crawledAt": "2026-04-04T12:46:43.694Z",
+      "id": "ao6dgp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9861537218093872,
+          "index": 7,
+          "word": "Rajasthan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9588342905044556,
+          "index": 8,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9790093898773193,
+          "index": 9,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.877181351184845,
+          "index": 22,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A single-judge bench of the High Court cancelled the recruitment on August 28, 2025. A petition to cancel the exam was filed on August 13, 2024.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:52:24.683Z"
+    },
+    {
+      "title": "Govt urges not to panic buy fuel, says supplies adequate despite Strait of Hormuz disruption",
+      "url": "https://www.deccanherald.com/india/govt-urges-not-to-panic-buy-fuel-says-supplies-adequate-despite-strait-of-hormuz-disruption-3956101",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T11:40:05.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.762235932387078,
+      "crawledAt": "2026-04-04T12:47:24.865Z",
+      "id": "yn942c",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9441848993301392,
+          "index": 13,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.813254177570343,
+          "index": 14,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9556177258491516,
+          "index": 15,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.979438304901123,
+          "index": 16,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9753830432891846,
+          "index": 17,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:52:24.973Z"
+    },
+    {
+      "title": "crime news | कौर्याचा कडेलोट..! मुलाच्या हव्यासापोटी नराधम बापाने केली जुळ्या मुलींची निर्घृण हत्या",
+      "url": "https://pudhari.news/national/father-kills-twin-daughters-for-son-karimnagar-shocking-crime-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T11:36:35.000Z",
+      "metaDescription": "crime news | कौर्याचा कडेलोट..! मुलाच्या हव्यासापोटी  नराधम बापाने केली  जुळ्या मुलींची निर्घृण हत्या",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2526538152467352,
+      "crawledAt": "2026-04-04T12:44:59.524Z",
+      "id": "abpu6",
+      "entities": [],
+      "summary": " The crime news is a crime news news story. It's a crime story. It's also a news story.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:52:33.791Z"
+    },
+    {
+      "title": "'Ghayal hoon, isliye ghatak hoon': Raghav Chadha hits back at AAP with 'Dhurandhar' reference",
+      "url": "https://www.deccanherald.com/india/ghayal-hoon-isliye-ghatak-hoon-raghav-chadha-hits-back-at-aap-with-dhurandhar-reference-3956145",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T11:30:59.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3015618259005634,
+      "crawledAt": "2026-04-04T12:47:25.132Z",
+      "id": "lmr1nt",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995436072349548,
+          "index": 18,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9790252447128296,
+          "index": 19,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989190697669983,
+          "index": 21,
+          "word": "Chad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9915056228637695,
+          "index": 22,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8662425875663757,
+          "index": 31,
+          "word": "##hur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:53:01.440Z"
+    },
+    {
+      "title": "Govt says fuel supplies sufficient despite war disruption, avoid panic buying",
+      "url": "https://www.thehindubusinessline.com/news/govt-says-fuel-supplies-sufficient-despite-war-disruption-avoid-panic-buying/article70823028.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:28:49.000Z",
+      "metaDescription": "Ministry of Petroleum and Natural Gas says government taking proactive steps to ensure uninterrupted availability of petroleum products, cooking gas",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.4235738144269701,
+      "crawledAt": "2026-04-04T12:46:29.321Z",
+      "id": "r1dphr",
+      "entities": [],
+      "summary": " Ministry of Petroleum and Natural Gas says government taking steps to ensure uninterrupted availability of petroleum products. Ministry of petroleum and Natural gas says government is taking proactive steps to ensuring uninterrupted availability.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:53:13.538Z"
+    },
+    {
+      "title": "May Affect Minority Institutions' Religious Freedom: Catholic Body On Foreign Funding Bill",
+      "url": "https://www.ndtv.com/india-news/may-affect-minority-institutions-religious-freedom-catholic-body-on-foreign-funding-bill-11310694#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:22:56.000Z",
+      "metaDescription": "Calling the move a \"direct intrusion\" into constitutionally protected spaces, the All India Catholic Union argued that the proposed amendments may conflict with Articles 25 and 26, which guarantee the",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.28717587112458526,
+      "crawledAt": "2026-04-04T12:46:44.509Z",
+      "id": "ftlg2p",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.851654052734375,
+          "index": 11,
+          "word": "Catholic",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The All India Catholic Union argued that the proposed amendments may conflict with Articles 25 and 26. The proposed amendments could conflict with the Articles 25-26.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:54:07.183Z"
+    },
+    {
+      "title": "Planning To Study Medical Courses Abroad? Here Is The List Of Top 10 Universities",
+      "url": "https://www.ndtv.com/education/study-abroad-planning-to-pursue-medical-education-abroad-here-is-the-list-of-top-10-universities-11310637#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:20:25.000Z",
+      "metaDescription": "Medical Education Abroad: According to the latest rankings, Harvard University has secured the top position globally for medicine, achieving a near-perfect overall score of 96.7.",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3948527158866635,
+      "crawledAt": "2026-04-04T12:46:44.709Z",
+      "id": "siv4jc",
+      "entities": [],
+      "summary": " Harvard University has secured a near-perfect overall score of 96.7. The top position in the world for medicine is the highest in the country.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:54:17.106Z"
+    },
+    {
+      "title": "Nashik Crime News : ‘इंस्टाग्राम’वरील चॅट पाहून पतीचा चढला पारा; पत्नीला फॉर्च्यूनर कारने चिरडण्याचा प्रयत्न",
+      "url": "https://deshdoot.com/nashik-crime-news-husband-tried-to-crush-his-wife-with-a-fortuner-car/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T11:08:49.000Z",
+      "metaDescription": "नाशिक | प्रतिनिधी | Nashik शहराच्या मध्यवर्ती भागातील राजीव गांधी भवन परिसरात गुरुवारी (दि.२) दुपारी एक काळजाचा थरकाप उडवणारी घटना घडली. चारित्र्याच्या संशयावरून सराईत गुंडाने पत्नीला (Wife) भररस्त्या",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.36744618099055915,
+      "crawledAt": "2026-04-04T12:45:50.202Z",
+      "id": "dsdrzj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984759092330933,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954946041107178,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982863664627075,
+          "index": 3,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952986240386963,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Nashik. The city of Nashik is located in the city of North Carolina. The city is home to the city's most famous landmarks.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:55:31.579Z"
+    },
+    {
+      "title": "Ratnagiri accident | मुंबई–गोवा राष्ट्रीय महामार्गावर रसायन वाहतूक टँकर उलटला; चालक गंभीर जखमी",
+      "url": "https://pudhari.news/maharashtra/kokan/ratnagiri/mumbai-goa-highway-accident-chemical-tanker-overturns-ratnagiri-khed-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T11:07:27.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.34007661363789254,
+      "crawledAt": "2026-04-04T12:45:00.325Z",
+      "id": "qeslpt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9853201508522034,
+          "index": 1,
+          "word": "Rat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8738868236541748,
+          "index": 2,
+          "word": "##na",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:55:31.794Z"
+    },
+    {
+      "title": "Sindhudurg Rain Damage: सिंधुदुर्ग जिल्ह्याला पूर्वमोसमी पावसाचा तडाखा",
+      "url": "https://agrowon.esakal.com/agro-special/sindhudurg-mango-cashew-damage-rain-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T11:00:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.33173282267366105,
+      "crawledAt": "2026-04-04T12:45:09.438Z",
+      "id": "ir36ki",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9801188111305237,
+          "index": 1,
+          "word": "Sindh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9342604875564575,
+          "index": 2,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9525627493858337,
+          "index": 3,
+          "word": "##urg",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:56:05.746Z"
+    },
+    {
+      "title": "Infrastructure, Education, Jobs: What Young In Assam Want Parties To Address",
+      "url": "https://www.ndtv.com/india-news/infrastructure-education-jobs-what-young-in-assam-want-parties-to-address-11310602#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:59:12.000Z",
+      "metaDescription": "At the prestigious Cotton University, which has produced stalwarts across the fields of academia, entrepreneurship as well as politics, students spoke about everyday gaps that shape their futures.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.8378419839587347,
+      "crawledAt": "2026-04-04T12:46:45.563Z",
+      "id": "3zgt5g",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9863689541816711,
+          "index": 11,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Students at Cotton University spoke about the gaps in their education and careers. Students spoke about their experiences at the university.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:56:13.314Z"
+    },
+    {
+      "title": "Goa traffic news | पणजीत कॅसिनोंसमोरील वाहतूक कोंडीत वाढ",
+      "url": "https://pudhari.news/goa/panaji-traffic-congestion-casino-parking-mandovi-river-db-road-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T10:53:40.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.35223669875823344,
+      "crawledAt": "2026-04-04T12:45:00.913Z",
+      "id": "eb3ibu",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995729923248291,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:56:33.114Z"
+    },
+    {
+      "title": "NMC Launches AI Training for Teachers to Modernize Classroom Learning",
+      "url": "https://thelivenagpur.com/2026/04/04/nmc-launches-ai-training-for-teachers-to-modernize-classroom-learning/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T10:48:30.000Z",
+      "metaDescription": "In a significant step towards integrating technology into education, the Nagpur Municipal Corporation (NMC) has initiated…",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.9040586118319451,
+      "crawledAt": "2026-04-04T12:45:12.950Z",
+      "id": "fhmqk8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984679222106934,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9900916218757629,
+          "index": 2,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nagpur Municipal Corporation (NMC) has initiated a step towards integrating technology into education. The Nagpur municipal Corporation ( NMC) is a significant step towards integration into education.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:57:02.979Z"
+    },
+    {
+      "title": "Murbad shepherd migration: चारा-पाण्यासाठी घाटमाथ्यावरून मुरबाडकडे मेंढपाळांचा संघर्षमय प्रवास",
+      "url": "https://pudhari.news/maharashtra/thane/murbad-shepherd-migration-ghat-region-livelihood-tradition-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T10:46:45.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.450274689374653,
+      "crawledAt": "2026-04-04T12:45:01.316Z",
+      "id": "6py82w",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8531417846679688,
+          "index": 1,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:57:03.116Z"
+    },
+    {
+      "title": "Trump mulls big Cabinet shake-up as Iran war backlash deepens: Report",
+      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-mulls-big-cabinet-shake-up-as-iran-war-backlash-deepens-report/articleshow/130017506.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:45:46.000Z",
+      "metaDescription": "US President Trump is reportedly considering a significant Cabinet reshuffle amid growing concerns over the Iran war's political fallout and rising fuel prices.  Frustration over falling approval rati",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.46294233211013214,
+      "crawledAt": "2026-04-04T12:46:40.419Z",
+      "id": "u2h368",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9940482974052429,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9705950021743774,
+          "index": 6,
+          "word": "Cabinet",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997422099113464,
+          "index": 11,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " President Trump reportedly considering Cabinet reshuffle over Iran war and rising fuel prices. President is reportedly considering a significant reshuffle.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:57:22.896Z"
+    },
+    {
+      "title": "Agrowon Podcast: सरकीचा भाव तेजीत; कापूस टिकून, सोयाबीनमध्ये चढ उतार, खरबूजाला उठाव तर टोमॅटो आवक टिकून",
+      "url": "https://agrowon.esakal.com/market-intelligence/market-bulletin/cottonseed-price-rise-soybean-fluctuation-agri-market-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T10:45:19.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2637246562146133,
+      "crawledAt": "2026-04-04T12:45:09.631Z",
+      "id": "jxc2i5",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8464999198913574,
+          "index": 4,
+          "word": "Po",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:57:23.124Z"
+    },
+    {
+      "title": "'Your love is our strength': Vijay & Rashmika express gratitude to Rayalaseema after 'Ranabaali' schedule wrap",
+      "url": "https://www.deccanherald.com/entertainment/your-love-is-our-strength-vijay-rashmika-express-gratitude-to-rayalaseema-after-ranabaali-schedule-wrap-3956088",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T10:43:17.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.2865774477625828,
+      "crawledAt": "2026-04-04T12:47:25.640Z",
+      "id": "on607t",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.99652498960495,
+          "index": 9,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9479115605354309,
+          "index": 11,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9937493205070496,
+          "index": 18,
+          "word": "Ray",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9036043286323547,
+          "index": 19,
+          "word": "##ala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8269388675689697,
+          "index": 20,
+          "word": "##see",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.892604410648346,
+          "index": 21,
+          "word": "##ma",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:57:36.598Z"
+    },
+    {
+      "title": "FCRA Amendment Bill an attack on religious freedom, social activism: T.N. CM Stalin in Nagercoil",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/fcra-amendment-bill-an-attack-on-religious-freedom-social-activism-tn-cm-stalin-in-nagercoil/article70822705.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:34:52.000Z",
+      "metaDescription": "Mr. Stalin stressed that the FCRA Bill posed a danger that could cause irreversible and indelible damage to India’s global reputation",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.30942947777297714,
+      "crawledAt": "2026-04-04T12:46:28.016Z",
+      "id": "lvkpm7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9467836618423462,
+          "index": 1,
+          "word": "FC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8586037158966064,
+          "index": 2,
+          "word": "##RA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.960612416267395,
+          "index": 20,
+          "word": "Stalin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9867761135101318,
+          "index": 22,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9948111772537231,
+          "index": 24,
+          "word": "##coil",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Stalin stressed that the FCRA Bill posed a danger that could cause irreversible and indelible damage to India's reputation.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:58:20.974Z"
+    },
+    {
+      "title": "Sindhudurg politics | पालकमंत्री सुरू करतात ते प्रकल्प बंद पडतात",
+      "url": "https://pudhari.news/maharashtra/kokan/sindhudurg/sindhudurg-politics-guardian-minister-projects-stalled-allegations-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T10:34:46.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.29663467290880025,
+      "crawledAt": "2026-04-04T12:45:01.594Z",
+      "id": "7wd9mf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9947749972343445,
+          "index": 1,
+          "word": "Sindh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9818437099456787,
+          "index": 2,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9591463804244995,
+          "index": 3,
+          "word": "##urg",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:58:21.134Z"
+    },
+    {
+      "title": "Government Internships 2026: Check Top Paid Opportunities Here, Apply Before April 15",
+      "url": "https://www.ndtv.com/education/government-internships-2026-nhai-meity-nicsi-applications-open-register-by-april-15-11310511#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:34:02.000Z",
+      "metaDescription": "Government Internships: Selected candidates will receive a stipend of Rs 20,000 per month for a duration of two months (May to July 2026) and will be awarded a certificate upon successful completion.",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.8220492277563377,
+      "crawledAt": "2026-04-04T12:46:45.978Z",
+      "id": "poid4v",
+      "entities": [],
+      "summary": " Selected candidates will receive a stipend of Rs 20,000 per month for a duration of two months (May to July 2026)",
+      "language": "en",
+      "processed_at": "2026-04-04T12:58:43.310Z"
+    },
+    {
+      "title": "Trump weighs broader cabinet shake-up as Iran war pressure grows",
+      "url": "https://www.deccanherald.com/world/us/trump-weighs-broader-cabinet-shake-up-as-iran-war-pressure-grows-3956102",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-04T10:32:11.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.26151908897578796,
+      "crawledAt": "2026-04-04T12:47:25.858Z",
+      "id": "tgf3e0",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9972010850906372,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998234510421753,
+          "index": 9,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:58:57.129Z"
+    },
+    {
+      "title": "Palghar News: शिक्षकाचे काम पालघरात पगार मोखाड्यात",
+      "url": "https://pudhari.news/maharashtra/palghar/palghar-diet-employee-molestation-complaint-investigation-delay-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T10:30:02.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2650328668443552,
+      "crawledAt": "2026-04-04T12:45:01.695Z",
+      "id": "e5f889",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9949785470962524,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8499645590782166,
+          "index": 2,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.991682231426239,
+          "index": 3,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9904178380966187,
+          "index": 4,
+          "word": "##ar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.992998480796814,
+          "index": 5,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T12:59:10.538Z"
+    },
+    {
+      "title": "ITI पास ते पदवीधर तरुणांना सरकारी नोकरीची संधी; विविध पदांसाठी मोठी पदभरती",
+      "url": "https://jalgaonlive.news/india-government-mint-bharti-2026-132522/",
+      "source": "Jalgaon Live — feed",
+      "source_domain": "jalgaonlive.news",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:29:14.000Z",
+      "metaDescription": "जळगाव लाईव्ह न्यूज । नोकरी संदर्भ । शिक्षण पूर्ण झाल्यावर, प्रत्येक तरुणाचे सुरक्षित भविष्यासाठी चांगल्या नोकरीचे स्वप्न असते. तुम्हालाही सरकारी ... \nRead more",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2655355886060876,
+      "crawledAt": "2026-04-04T12:46:05.191Z",
+      "id": "s5263",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9464474320411682,
+          "index": 1,
+          "word": "IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.884396493434906,
+          "index": 3,
+          "word": "प",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "’s. ‘‘’  ‘ ’ ” “   ‚’. ’  ‪’S. “’",
+      "language": "en",
+      "processed_at": "2026-04-04T12:59:26.100Z"
+    },
+    {
+      "title": "Vasmat encroachment drive : तालुक्यातील शेत रस्त्यांवरील अतिक्रमणांवर होणार कारवाई",
+      "url": "https://pudhari.news/maharashtra/marathwada/hingoli/vasmat-encroachment-drive-farm-roads-public-land-action-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-04T10:16:43.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.25001845575380893,
+      "crawledAt": "2026-04-04T12:45:01.917Z",
+      "id": "qzvtgg",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:00:18.778Z"
+    },
+    {
+      "title": "Avoid visiting LPG distributors unless necessary, use digital modes: Petroleum Ministry",
+      "url": "https://www.thehindubusinessline.com/news/national/avoid-visiting-lpg-distributors-unless-necessary-use-digital-modes-petroleum-ministry/article70822797.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:05:50.000Z",
+      "metaDescription": "The Ministry said necessary measures are being undertaken to ensure the uninterrupted availability of petroleum products and LPG across the country, in view of the ongoing closure of the Strait of Hor",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2557766117798773,
+      "crawledAt": "2026-04-04T12:46:39.229Z",
+      "id": "tf155c",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9959204196929932,
+          "index": 5,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9620062708854675,
+          "index": 6,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9904088377952576,
+          "index": 16,
+          "word": "Petroleum",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9721248745918274,
+          "index": 17,
+          "word": "Ministry",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Ministry said necessary measures are being undertaken to ensure the uninterrupted availability of petroleum products and LPG across the country.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:00:40.329Z"
+    },
+    {
+      "title": "Tamil Nadu MSMEs face 50% output cut as polymer prices soar amid US-Iran war",
+      "url": "https://www.thehindubusinessline.com/companies/msme/tamil-nadu-msmes-face-50-output-cut-as-polymer-prices-soar-amid-us-iran-war/article70822822.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T10:00:00.000Z",
+      "metaDescription": "Industry bodies have flagged concerns over artificial scarcity, hoarding, and market disruptions, while urging government intervention through price controls, direct supply mechanisms, and GST relief ",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2552686167479299,
+      "crawledAt": "2026-04-04T12:46:39.448Z",
+      "id": "ubsj9d",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9963362812995911,
+          "index": 1,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9952195882797241,
+          "index": 2,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9943638443946838,
+          "index": 17,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.967826247215271,
+          "index": 19,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Industry bodies have flagged concerns over artificial scarcity, hoarding, and market disruptions. Government intervention through price controls, direct supply mechanisms, and GST relief.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:00:49.911Z"
+    },
+    {
+      "title": "Maharashtra Rain Prediction: पूर्व विदर्भात ५ दिवस पावसाचा अंदाज; उद्यापासून राज्यात पावसाचे वातावणर निवळण्याची शक्यता",
+      "url": "https://agrowon.esakal.com/weather-news/rain-forecast-for-5-days-in-east-vidarbha-rain-conditions-likely-to-ease-in-the-state-from-tomorrow",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T09:50:25.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.6976691466711308,
+      "crawledAt": "2026-04-04T12:45:10.350Z",
+      "id": "bebcx9",
+      "entities": [],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:00:50.295Z"
+    },
+    {
+      "title": "AU Small Finance Bank Q4 business update: Deposits up 23% YoY at Rs 1.52 lk cr, advances rise 25%",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-q4-business-update-deposits-up-23-at-rs-1-52-lakh-crore-advances-rise-25/articleshow/130016671.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T09:30:28.000Z",
+      "metaDescription": "AU Small Finance Bank reported steady Q4 growth with deposits rising 23% year-on-year to Rs 1.52 lakh crore and advances increasing 25%. Despite strong operational performance, the stock has declined ",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5557812433555936,
+      "crawledAt": "2026-04-04T12:45:30.357Z",
+      "id": "z0z10i",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994338750839233,
+          "index": 1,
+          "word": "AU",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992297291755676,
+          "index": 2,
+          "word": "Small",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992945194244385,
+          "index": 3,
+          "word": "Finance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987981915473938,
+          "index": 4,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AU Small Finance Bank reported steady Q4 growth with deposits rising 23% year-on-year to Rs 1.52 lakhs.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:01:22.709Z"
+    },
+    {
+      "title": "Marital Discord Common, One Partner Can't Be Accused Of Abetment Of Suicide: Court",
+      "url": "https://www.ndtv.com/india-news/marital-discord-common-one-partner-cant-be-accused-of-abetment-of-suicide-court-11310009#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T09:29:58.000Z",
+      "metaDescription": "The bench allowed the plea filed by a 49-year-old woman, a teacher by profession, seeking to quash the abetment of suicide case filed against her.",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.5708042847090619,
+      "crawledAt": "2026-04-04T12:46:46.924Z",
+      "id": "x5iaxw",
+      "entities": [],
+      "summary": " The bench allowed the plea filed by a teacher by profession, seeking to quash the abetment of suicide case filed against her.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:01:34.236Z"
+    },
+    {
+      "title": "Nashik Tragedy: Nine Dead as Car Falls into Well, Rescue Ops On",
+      "url": "https://thelivenagpur.com/2026/04/04/nashik-tragedy-nine-dead-as-car-falls-into-well-rescue-ops-on/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T09:10:59.000Z",
+      "metaDescription": "A tragic incident in Nashik claimed the lives of nine members of a family after their…",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3106288555351267,
+      "crawledAt": "2026-04-04T12:45:13.282Z",
+      "id": "6hirr4",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8352744579315186,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8512628078460693,
+          "index": 16,
+          "word": "Op",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A tragic incident in Nashik claimed the lives of nine members of a family after their deaths. A tragic accident in Nashk claimed the life of nine family members of the family.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:07.855Z"
+    },
+    {
+      "title": "Rising Shuttlers Lead Maharashtra to Third-Place Finish",
+      "url": "https://thelivenagpur.com/2026/04/04/rising-shuttlers-lead-maharashtra-to-third-place-finish/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T09:04:09.000Z",
+      "metaDescription": "Young city shuttlers Bhoomi Mukesh Jaiswal and Sarakshi Rupesh Hatwar played a key role in helping…",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2574302330615989,
+      "crawledAt": "2026-04-04T12:45:13.453Z",
+      "id": "wl3gkj",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8899361491203308,
+          "index": 5,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Young shuttlers Bhoomi Mukesh Jaiswal and Sarakshi Rupesh Hatwar played a key role in helping city shuttler.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:19.031Z"
+    },
+    {
+      "title": "Kerala Techie Goes Missing During Trek, No Trace After 48 Hours",
+      "url": "https://www.ndtv.com/india-news/kerala-techie-goes-missing-during-trek-no-trace-after-48-hours-11310186#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T08:59:20.000Z",
+      "metaDescription": "A senior police official told NDTV that she made a phone call before she went missing.",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2588171096411109,
+      "crawledAt": "2026-04-04T12:46:49.834Z",
+      "id": "5nv26l",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8964821696281433,
+          "index": 1,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9078360795974731,
+          "index": 7,
+          "word": "Trek",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9690308570861816,
+          "index": 9,
+          "word": "No",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A senior police official told NDTV that she made a phone call before she went missing. A senior official said she made the call before going missing.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:28.492Z"
+    },
+    {
+      "title": "‘Ghayal hoon…’: Raghav Chadha slams AAP’s ‘lies’ with a ‘Dhurandhar’ reference",
+      "url": "https://indianexpress.com/article/india/raghav-chadha-vs-aap-allegations-video-message-parliament-walkout-10618727/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T08:54:49.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.27526913446841,
+      "crawledAt": "2026-04-04T12:45:35.273Z",
+      "id": "9edo80",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9985384941101074,
+          "index": 2,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995132088661194,
+          "index": 10,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9964210987091064,
+          "index": 11,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993472099304199,
+          "index": 13,
+          "word": "Chad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9914138913154602,
+          "index": 14,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9960469007492065,
+          "index": 17,
+          "word": "AA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9733989834785461,
+          "index": 18,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8218638896942139,
+          "index": 27,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8286512494087219,
+          "index": 28,
+          "word": "##hur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:40.791Z"
+    },
+    {
+      "title": "Oracle Building In Dubai Damaged Due To Debris From Intercepted Missile",
+      "url": "https://www.ndtv.com/world-news/iran-war-oracle-building-in-dubai-damaged-due-to-debris-from-intercepted-missile-11310154#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T08:47:51.000Z",
+      "metaDescription": "Iran's Revolutionary Guards had threatened to target American tech firms in the region.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.29934972085413597,
+      "crawledAt": "2026-04-04T12:46:50.191Z",
+      "id": "o2clx3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987123012542725,
+          "index": 1,
+          "word": "Oracle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8891438245773315,
+          "index": 2,
+          "word": "Building",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995459914207458,
+          "index": 4,
+          "word": "Dubai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Iran's Revolutionary Guards had threatened to target U.S. tech firms in the region. Iran's government has threatened to stop the move.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:59.342Z"
+    },
+    {
+      "title": "Farmer Compensation Maharashtra : राज्यात २ लाख ४ हजार हेक्टर शेतीपिकांचं नुकसान; शेतकऱ्यांना लवकरात-लवकर मदत देणार, कृषिमंत्री भरणे यांची ग्वाही",
+      "url": "https://agrowon.esakal.com/agro-special/5-lakh-acres-of-crops-damaged-relief-assured-by-agriculture-minister-bharane-ds98",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T08:46:23.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.36096899532231325,
+      "crawledAt": "2026-04-04T12:45:10.879Z",
+      "id": "s26gc5",
+      "entities": [],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:03:59.597Z"
+    },
+    {
+      "title": "Why Trump’s ‘God Squad’ decision to expand oil drilling in Gulf of Mexico is a vote for a whale’s extinction",
+      "url": "https://timesofindia.indiatimes.com/world/us/why-trumps-god-squad-decision-to-expand-oil-drilling-in-gulf-of-mexico-is-a-vote-for-a-whales-extinction/articleshow/130001897.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-04T08:32:02.000Z",
+      "metaDescription": "A federal decision, approved upon the request of the Trump administration, to expand Gulf oil drilling has heightened fears of extinction for the critically endangered Rice’s whale, with fewer than 50",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.9258895200033375,
+      "crawledAt": "2026-04-04T12:46:41.137Z",
+      "id": "4fjd33",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9987942576408386,
+          "index": 2,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9895228743553162,
+          "index": 6,
+          "word": "God",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970851540565491,
+          "index": 7,
+          "word": "Squad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990098476409912,
+          "index": 15,
+          "word": "Gulf",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9982497096061707,
+          "index": 16,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9979064464569092,
+          "index": 17,
+          "word": "Mexico",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A federal decision to expand Gulf oil drilling has heightened fears of extinction for the critically endangered Rice’s whale. Less than 50 of the 50 oil drilling in the Gulf have been approved.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:04:24.043Z"
+    },
     {
       "title": "TVK chief Vijay in Puducherry calls DMK-Congress 'confused alliance', AINRC-BJP 'exhausted one'",
       "url": "https://www.deccanherald.com/elections/tamil-nadu/tamil-nadu-assembly-elections-2026-tvk-chief-vijay-in-puducherry-calls-dmk-congress-confused-alliance-ainrc-bjp-exhausted-one-3955987",
@@ -182,6 +2025,58 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-04T08:38:55.159Z"
+    },
+    {
+      "title": "Top 5 midcap mutual funds deliver up to 25% annualised returns in 3 years; Invesco India Mid Cap leads",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/top-5-midcap-mutual-funds-deliver-up-to-25-annualised-returns-in-3-years-invesco-india-mid-cap-leads/slideshow/130015774.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T08:14:14.000Z",
+      "metaDescription": "Midcap mutual funds have delivered strong returns over the past three years, with the top five schemes offering up to 25% annualised gains. Invesco India Mid Cap Fund leads the pack, followed closely ",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2948090615616356,
+      "crawledAt": "2026-04-04T12:45:29.818Z",
+      "id": "6cb171",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984371662139893,
+          "index": 19,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985601305961609,
+          "index": 20,
+          "word": "##ves",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991464614868164,
+          "index": 21,
+          "word": "##co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987306594848633,
+          "index": 22,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Midcap mutual funds have delivered strong returns over the past three years. Invesco India Mid Cap Fund leads the pack with 25% annualised gains.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:04:48.843Z"
     },
     {
       "title": "Assembly Elections LIVE: Neither BJP, Congress could give statehood to Puducherry, says TVK chief Vijay in poll rally",
@@ -683,6 +2578,66 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-04T08:41:39.234Z"
+    },
+    {
+      "title": "HDFC Bank Q4 business update: Lender reports 15% YoY growth in deposits, advances jump 12%",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-q4-business-update-lender-reports-15-yoy-growth-in-deposits-advances-jump-12/articleshow/130015244.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-04T07:40:38.000Z",
+      "metaDescription": "HDFC Bank reported a steady Q4, with deposits rising 15% YoY and advances growing 12%. Average deposits touched Rs 28.51 lakh crore, while period-end deposits stood at Rs 31.06 lakh crore. The bank ha",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.7124060977953354,
+      "crawledAt": "2026-04-04T12:45:30.942Z",
+      "id": "1fnum5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9995205402374268,
+          "index": 1,
+          "word": "HD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989346265792847,
+          "index": 2,
+          "word": "##FC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998588502407074,
+          "index": 3,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988446235656738,
+          "index": 9,
+          "word": "Len",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9939002990722656,
+          "index": 10,
+          "word": "##der",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " HDFC Bank reported a steady Q4, with deposits rising 15% YoY and advances growing 12%. Average deposits touched Rs 28.51 lakh crore, while period-end deposits stood at Rs 31.06 lakh crore.",
+      "language": "en",
+      "processed_at": "2026-04-04T13:05:02.418Z"
     },
     {
       "title": "Partur Crime| परतूर हादरले; नवजात अर्भक प्रकरणात धक्कादायक खुलासा",
@@ -3699,20 +5654,20 @@
       "processed_at": "2026-04-04T01:59:49.707Z"
     }
   ],
-  "processedAt": "2026-04-04T08:49:43.664Z",
+  "processedAt": "2026-04-04T13:05:13.723Z",
   "categories": [
-    "maharashtra-state-local",
-    "education-skills",
-    "government-schemes",
     "msme-industry-trade",
+    "maharashtra-state-local",
     "legal-judiciary",
-    "jobs-recruitment",
     "banking-credit",
+    "jobs-recruitment",
+    "government-schemes",
     "policy-regulation",
+    "education-skills",
     "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 38,
-  "dailyArticlesCount": 87,
+  "newArticlesProcessed": 47,
+  "dailyArticlesCount": 134,
   "filterDate": "2026-04-04"
 }
