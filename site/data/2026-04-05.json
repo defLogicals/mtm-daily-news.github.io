@@ -1,9 +1,928 @@
 {
-  "crawledAt": "2026-04-05T16:33:35.195Z",
+  "crawledAt": "2026-04-05T20:30:36.468Z",
   "totalSources": 75,
-  "totalArticles": 159,
+  "totalArticles": 183,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Govt. keen to resolve pending issues of employees: Atchannaidu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-keen-to-resolve-pending-issues-of-employees-atchannaidu/article70826655.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:48:42.000Z",
+      "metaDescription": "Andhra Pradesh Agriculture Minister Atchannaidu said employees’ role was critical in meeting the people’s aspirations",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.256013109065698,
+      "crawledAt": "2026-04-05T20:29:37.410Z",
+      "id": "hxkrdk",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9437320232391357,
+          "index": 11,
+          "word": "At",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Andhra Pradesh Agriculture Minister Atchannaidu said employees' role was critical in meeting the people's aspirations.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:30:47.057Z"
+    },
+    {
+      "title": "Karnataka bypolls: DKS helping BJP indirectly, says R. Ashok",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bypolls-dks-helping-bjp-indirectly-says-r-ashok/article70826853.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:27:11.000Z",
+      "metaDescription": "Congress Power tussle has entered Bagalkot, says LOP",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.26001281767343276,
+      "crawledAt": "2026-04-05T20:29:37.874Z",
+      "id": "ysyn2u",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995060563087463,
+          "index": 1,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993399381637573,
+          "index": 6,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9943633079528809,
+          "index": 7,
+          "word": "##KS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993153214454651,
+          "index": 9,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9931353330612183,
+          "index": 10,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9997117519378662,
+          "index": 14,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9688228368759155,
+          "index": 15,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995753765106201,
+          "index": 16,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9965041875839233,
+          "index": 17,
+          "word": "##ok",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Congress Power tussle has entered Bagalkot, says LOP. LOP: Congress Power Tussle entered BagALKot.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:05.942Z"
+    },
+    {
+      "title": "Development, welfare, and civic problems shape the poll mood in Thiru. Vi. Ka. Nagar",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/development-welfare-and-civic-problems-shape-the-poll-mood-in-thiru-vi-ka-nagar/article70823399.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:26:45.000Z",
+      "metaDescription": "Residents say their struggle for basic amenities in some areas still persist; night food stalls and commercial activity have encroached road space and worsened traffic congestion; those living in rail",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.39445487613827984,
+      "crawledAt": "2026-04-05T20:29:38.102Z",
+      "id": "ckq52",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.968744695186615,
+          "index": 13,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.925605058670044,
+          "index": 14,
+          "word": "##hir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9120663404464722,
+          "index": 17,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9268719553947449,
+          "index": 18,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8848375678062439,
+          "index": 20,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.957927942276001,
+          "index": 22,
+          "word": "Nagar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Residents say their struggle for basic amenities in some areas still persist. Night food stalls and commercial activity have encroached road space and worsened traffic congestion. Those living in rail areas have been living in train stations.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:17.836Z"
+    },
+    {
+      "title": "Tension In Ruling Alliance As Puducherry Set For Tight Race On 30 Seats",
+      "url": "https://www.ndtv.com/india-news/tension-in-ruling-alliance-as-puducherry-set-for-tight-race-on-30-seats-11315622#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:22:58.000Z",
+      "metaDescription": "Tension, however, persists within Puducherry's ruling alliance. The BJP has rejected Chief Minister Rangasamy's demand for full statehood and call to remove a regional ally linked to lottery baron Mar",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2537973601627262,
+      "crawledAt": "2026-04-05T20:30:01.221Z",
+      "id": "4q8j0n",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8640210032463074,
+          "index": 6,
+          "word": "##g",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9500568509101868,
+          "index": 7,
+          "word": "Alliance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8801872730255127,
+          "index": 9,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tension persists within Puducherry's ruling alliance. The BJP has rejected Chief Minister Rangasamy's demand for full statehood.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:38.157Z"
+    },
+    {
+      "title": "Khamenei's India Envoy Reacts To Trump's 'Tuesday Warning' To Iran",
+      "url": "https://www.youtube.com/shorts/5k_y8Q3aR_0",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:19:37.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2531207002953664,
+      "crawledAt": "2026-04-05T20:30:08.428Z",
+      "id": "4uof68",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9746167659759521,
+          "index": 1,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9664297103881836,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9956080317497253,
+          "index": 13,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992100596427917,
+          "index": 21,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:49.948Z"
+    },
+    {
+      "title": "PE-VC investments in Tamil Nadu drop sharply in Q1 2026",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/pe-vc-investments-in-tamil-nadu-drop-sharply-in-q1-2026/article70827373.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:17:44.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2517873878552561,
+      "crawledAt": "2026-04-05T20:29:38.983Z",
+      "id": "o9d9vj",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995980858802795,
+          "index": 7,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992529153823853,
+          "index": 8,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:50.105Z"
+    },
+    {
+      "title": "Conversion politics, the challenge to secularism",
+      "url": "https://www.thehindu.com/opinion/op-ed/conversion-politics-the-challenge-to-secularism/article70826585.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T19:10:48.000Z",
+      "metaDescription": "Anti-conversion laws risk deepening social divisions",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.33590111987343235,
+      "crawledAt": "2026-04-05T20:29:39.092Z",
+      "id": "w24vmi",
+      "entities": [],
+      "summary": " Anti-conversion laws risk deepening divisions. Anti-Conversion lawsrisk deepening social divisions. anti-conversions laws risk deeper divisions.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:31:58.784Z"
+    },
+    {
+      "title": "Agri Minister takes stock of crop losses from hailstorm, heavy rainfall as fresh Western Disturbance looms",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/agri-minister-takes-stock-of-crop-losses-from-hailstorm-heavy-rainfall-as-fresh-western-disturbance-looms/articleshow/130045804.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T19:04:25.000Z",
+      "metaDescription": "Union Agriculture Minister Shivraj Singh Chouhan has directed officials to assess crop losses due to heavy rainfall and hailstorms across several states. The ministry is coordinating with state govern",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.392037311437285,
+      "crawledAt": "2026-04-05T20:28:43.994Z",
+      "id": "hijx0q",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9979754686355591,
+          "index": 18,
+          "word": "Western",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9183631539344788,
+          "index": 19,
+          "word": "Di",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Agriculture Minister Shivraj Singh Chouhan has directed officials to assess crop losses due to heavy rainfall and hailstorms across several states.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:32:29.792Z"
+    },
+    {
+      "title": "NeSL enabling real-time access to digital debt &amp; claims data in insolvency cases",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/nesl-enabling-real-time-access-to-digital-debt-claims-data-in-insolvency-cases/articleshow/130045648.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T18:58:10.000Z",
+      "metaDescription": "NeSL is providing instant access to digital default records for insolvency cases. This helps authorities quickly verify debt and claims. Amendments to the Insolvency and Bankruptcy Code make NeSL a ce",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3325204562532737,
+      "crawledAt": "2026-04-05T20:28:44.241Z",
+      "id": "5z7zvs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9958214163780212,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9848998785018921,
+          "index": 3,
+          "word": "##SL",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NeSL provides instant access to digital default records for insolvency cases. This helps authorities quickly verify debt and claims.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:32:46.869Z"
+    },
+    {
+      "title": "Arvind Kejriwal To Argue In Person Before Delhi Court In Liquor Policy Case",
+      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-to-argue-in-person-before-delhi-court-in-liquor-policy-case-11315337#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T18:48:41.000Z",
+      "metaDescription": "Arvind Kejriwal, along with several other accused, has moved an application seeking the recusal of Justice Swarana Kanta Sharma from hearing the matter.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.4031401382603933,
+      "crawledAt": "2026-04-05T20:30:01.617Z",
+      "id": "gtwelo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9982651472091675,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985657930374146,
+          "index": 4,
+          "word": "Ke",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9462921619415283,
+          "index": 15,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Arvind Kejriwal has moved an application for the recusal of Justice Swarana Kanta Sharma. He is accused of corruption charges against him.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:33:14.416Z"
+    },
+    {
+      "title": "Government's Rs 22,000-Crore Plan To Fix Delhi's Yamuna, Air Pollution",
+      "url": "https://www.ndtv.com/india-news/governments-rs-22-000-crore-plan-to-fix-delhis-yamuna-air-pollution-11315571#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T18:44:40.000Z",
+      "metaDescription": "17 departments will now be required to track and report their spending against green goals",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.9883412993943045,
+      "crawledAt": "2026-04-05T20:30:01.784Z",
+      "id": "sky8gk",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9499924778938293,
+          "index": 9,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9980266690254211,
+          "index": 16,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8893903493881226,
+          "index": 19,
+          "word": "Ya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8257291316986084,
+          "index": 20,
+          "word": "##mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8359565734863281,
+          "index": 24,
+          "word": "Poll",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 17 departments will now be required to track and report their spending against green goals. 17 departments now will now have to track their spending. 17 departments are now required to report their spend against green goal goals.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:33:25.684Z"
+    },
+    {
+      "title": "Russian Missile Designer Alexander Leonov Who Developed Brahmos Dies At 74",
+      "url": "https://www.ndtv.com/world-news/russian-missile-designer-alexander-leonov-who-developed-brahmos-dies-at-74-11315449#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T17:57:05.000Z",
+      "metaDescription": "Leonov was CEO and Chief Designer of NPO Mashinostroyenia (NPOMASH), the Russian JV partner in New Delhi-based BrahMos Aerospace.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.31805963580729313,
+      "crawledAt": "2026-04-05T20:29:58.887Z",
+      "id": "6i0vxp",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9994881749153137,
+          "index": 1,
+          "word": "Russian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995391368865967,
+          "index": 4,
+          "word": "Alexander",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996179342269897,
+          "index": 5,
+          "word": "Leon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984487891197205,
+          "index": 6,
+          "word": "##ov",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8833518028259277,
+          "index": 11,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9840081334114075,
+          "index": 13,
+          "word": "##mos",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Leonov was CEO and Chief Designer of NPO Mashinostroyenia, the Russian JV partner in New Delhi-based BrahMos Aerospace.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:33:52.187Z"
+    },
+    {
+      "title": "Free Public transport | इंधन टंचाईवर 'फ्री ट्रान्सपोर्ट'चा उतारा! व्हिक्टोरिया आणि टास्मानियात सार्वजनिक वाहतूक होणार मोफत",
+      "url": "https://pudhari.news/sampadakiy/free-bus-and-ferry-services-in-victoria-and-tasmania-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T17:33:17.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.9185626951797993,
+      "crawledAt": "2026-04-05T20:28:31.612Z",
+      "id": "85eqzb",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:34:37.285Z"
+    },
+    {
+      "title": "Balraje Aware Patil arrest: अंजनगाव प्रकरणी बाळराजे आवारे पाटील यांना अटक",
+      "url": "https://pudhari.news/maharashtra/solapur/anjangaon-violence-balraje-aware-patil-arrested-attempt-to-murder-case-sk95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T17:23:24.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2652791962900772,
+      "crawledAt": "2026-04-05T20:28:31.729Z",
+      "id": "50oq3p",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9909675121307373,
+          "index": 1,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.810966968536377,
+          "index": 2,
+          "word": "##l",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:34:54.217Z"
+    },
+    {
+      "title": "Sand Mafia Attack : भंडाऱ्यात रेती माफियांचा हैदोस! मंडळ अधिकाऱ्याला ट्रकने उडवण्याचा प्रयत्न",
+      "url": "https://pudhari.news/maharashtra/vidarbha/bhandara/bhandara-sand-mafia-attack-circle-officer-tipper-chase-arrest-pauni-news-dc95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T17:07:27.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2686915264492959,
+      "crawledAt": "2026-04-05T20:28:31.827Z",
+      "id": "nnejgx",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.869135320186615,
+          "index": 1,
+          "word": "Sand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9396591186523438,
+          "index": 2,
+          "word": "Mafia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:08.974Z"
+    },
+    {
+      "title": "Black Magic sexual exploitation case | खरातनंतर आता खालापूरचा ‘बाबाजान’; जादूटोण्याच्या बहाण्याने अत्याचार; विकृत कांड करणारा भोंदू अटकेत",
+      "url": "https://pudhari.news/maharashtra/raigad/fake-godman-arrested-for-sexual-exploitation-in-black-magic-case-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T17:02:46.000Z",
+      "metaDescription": "Black Magic sexual exploitation case | खरातनंतर आता खालापूरचा ‘बाबाजान’; जादूटोण्याच्या बहाण्याने अत्याचार; विकृत कांड करणारा भोंदू अटकेत",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.38709505038729586,
+      "crawledAt": "2026-04-05T20:28:32.101Z",
+      "id": "6vjnc8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8993116021156311,
+          "index": 1,
+          "word": "Black",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9472401142120361,
+          "index": 2,
+          "word": "Magic",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Black Magic sexual exploitation case. Black Magic sex exploitation case is a case of sexual exploitation by Black Magic.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:18.567Z"
+    },
+    {
+      "title": "Bangladesh confirms 94 children died in 19 days due to measles",
+      "url": "https://www.deccanherald.com/world/rest-of-world/bangladesh-confirms-94-children-died-in-19-days-due-to-measles-3957245",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T17:01:53.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2500008161915791,
+      "crawledAt": "2026-04-05T20:30:30.224Z",
+      "id": "nck9x5",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998487234115601,
+          "index": 1,
+          "word": "Bangladesh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:18.678Z"
+    },
+    {
+      "title": "Akola crime |अवैध देशी विक्रेते व हातभट्टीवर पोलिसांच्या धाडी",
+      "url": "https://pudhari.news/maharashtra/vidarbha/akola/akola-crime-police-raid-illegal-country-liquor-and-hand-furnace-distillery-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T17:01:49.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2965440678683109,
+      "crawledAt": "2026-04-05T20:28:32.198Z",
+      "id": "l9om7b",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:18.856Z"
+    },
+    {
+      "title": "Wardha Murder | वर्ध्यात जुन्या वादातून चाकू हल्ला करुन दोघांचा खून!",
+      "url": "https://pudhari.news/maharashtra/vidarbha/vardha/wardha-double-murder-old-rivalry-knife-attack-two-killed-police-investigation-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T16:56:13.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.34062203692407766,
+      "crawledAt": "2026-04-05T20:28:32.292Z",
+      "id": "f9l0bm",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:19.022Z"
+    },
+    {
+      "title": "Agri Policy India | खतांसाठी भारताचा 20 देशांशी संपर्क",
+      "url": "https://pudhari.news/national/india-engages-with-20-countries-for-fertilizer-supply-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T16:37:55.000Z",
+      "metaDescription": "Agri Policy India | खतांसाठी भारताचा 20 देशांशी संपर्क",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.33972424969274645,
+      "crawledAt": "2026-04-05T20:28:32.614Z",
+      "id": "3ifix3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9409086108207703,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9437096118927002,
+          "index": 3,
+          "word": "##ri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9882407188415527,
+          "index": 4,
+          "word": "Policy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9797071218490601,
+          "index": 5,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Agri Policy India. Agri Policy. India is a part of the Agri policy of India. It's a part-part of the country's national policy.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:50.486Z"
+    },
+    {
+      "title": "Bramati By-election | बारामती विधानसभा पोटनिवडणुकीसाठी काँग्रेसकडून आकाश मोरे यांना उमेदवारी",
+      "url": "https://pudhari.news/national/baramati-assembly-by-election-congress-candidate-akash-more-nomination-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T16:33:52.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3182607923999535,
+      "crawledAt": "2026-04-05T20:28:32.760Z",
+      "id": "tfpkps",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9633961319923401,
+          "index": 1,
+          "word": "Bram",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:50.993Z"
+    },
+    {
+      "title": "Parbhani Crime : परभणी रेल्वे स्थानकावर लिफ्टचे लॉक फोडून सीसीटीव्हीची तोडफोड, कर्मचाऱ्यावर हल्ला",
+      "url": "https://pudhari.news/maharashtra/marathwada/parbhani/parbhani-railway-station-vandalism-cctv-damaged-staff-attacked-dc95-2",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T16:28:30.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.27453263274765644,
+      "crawledAt": "2026-04-05T20:28:32.876Z",
+      "id": "pq4003",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:35:51.539Z"
+    },
+    {
+      "title": "\"Whole Region Going To Burn\": Iranian Parliament Speaker's Warning To Trump",
+      "url": "https://www.ndtv.com/world-news/iran-israel-war-whole-region-going-to-burn-iranian-parliament-speakers-warning-to-trump-11315145#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T16:23:02.000Z",
+      "metaDescription": "Iran's powerful parliament speaker warned US President Donald Trump on Sunday that his \"reckless moves\" would mean \"our whole region is going to burn\".",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26948708330849225,
+      "crawledAt": "2026-04-05T20:30:00.518Z",
+      "id": "sf2qm6",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.903549313545227,
+          "index": 3,
+          "word": "Region",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9986741542816162,
+          "index": 9,
+          "word": "Iranian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9834559559822083,
+          "index": 16,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Iran's powerful parliament speaker warned US President Donald Trump's \"reckless moves\" would mean \"our whole region is going to burn\"",
+      "language": "en",
+      "processed_at": "2026-04-05T20:36:02.235Z"
+    },
     {
       "title": "Ladakh’s tourism stakeholders call for ‘restricted outside investment with local participation’",
       "url": "https://www.thehindu.com/news/national/ladakh/sonam-wangchuk-gets-warm-welcome-in-kargil-calls-for-unity-and-equal-rights-for-ladakh/article70826803.ece",
@@ -255,6 +1174,58 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-05T16:34:18.424Z"
+    },
+    {
+      "title": "Easter Sunday, Bloody Monday: Trump's unholy hellfire warning to Iran",
+      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-promises-hell-on-iran-in-easter-sunday-post-calling-its-leaders-crazy-b/articleshow/130042176.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T16:00:30.000Z",
+      "metaDescription": "US President Trump issued a stark warning to Iran, threatening severe retaliation if the Strait of Hormuz remained closed. His unvarnished social media posts, including profanity, signaled potential s",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.32240139373939236,
+      "crawledAt": "2026-04-05T20:29:56.163Z",
+      "id": "mzxbtu",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9402275085449219,
+          "index": 4,
+          "word": "Bloody",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9515686631202698,
+          "index": 5,
+          "word": "Monday",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9987788200378418,
+          "index": 7,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997462034225464,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US President Trump issued a stark warning to Iran, threatening severe retaliation if the Strait of Hormuz remained closed. His unvarnished social media posts, including profanity, signaled potential s. s. retaliation.",
+      "language": "en",
+      "processed_at": "2026-04-05T20:36:23.007Z"
     },
     {
       "title": "Parents booked for getting 16-year-girl old married in Pune",
@@ -6227,20 +7198,20 @@
       "processed_at": "2026-04-05T05:59:29.630Z"
     }
   ],
-  "processedAt": "2026-04-05T16:38:39.274Z",
+  "processedAt": "2026-04-05T20:36:23.368Z",
   "categories": [
-    "maharashtra-state-local",
     "government-schemes",
-    "policy-regulation",
-    "jobs-recruitment",
+    "civic-public-service",
+    "maharashtra-state-local",
     "legal-judiciary",
+    "jobs-recruitment",
+    "policy-regulation",
     "msme-industry-trade",
     "education-skills",
-    "banking-credit",
-    "civic-public-service"
+    "banking-credit"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 27,
-  "dailyArticlesCount": 159,
+  "newArticlesProcessed": 24,
+  "dailyArticlesCount": 183,
   "filterDate": "2026-04-05"
 }
