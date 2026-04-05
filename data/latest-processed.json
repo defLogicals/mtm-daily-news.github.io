@@ -1,9 +1,1012 @@
 {
-  "crawledAt": "2026-04-05T12:50:57.527Z",
+  "crawledAt": "2026-04-05T16:33:35.195Z",
   "totalSources": 75,
-  "totalArticles": 2713,
+  "totalArticles": 2727,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Ladakh’s tourism stakeholders call for ‘restricted outside investment with local participation’",
+      "url": "https://www.thehindu.com/news/national/ladakh/sonam-wangchuk-gets-warm-welcome-in-kargil-calls-for-unity-and-equal-rights-for-ladakh/article70826803.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T16:18:35.000Z",
+      "metaDescription": "Sonam Wangchuk receives warm welcome in Kargil district after his release following nearly six months of detention in Jodhpur jail",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3034823766299315,
+      "crawledAt": "2026-04-05T16:32:59.091Z",
+      "id": "hy6fu6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9987991452217102,
+          "index": 1,
+          "word": "La",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.989587128162384,
+          "index": 3,
+          "word": "##h",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sonam Wangchuk has been released following nearly six months of detention in Jodhpur jail. Wangchuk was held for nearly six month in Jodspur jail.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:33:54.196Z"
+    },
+    {
+      "title": "Wayanad relief fund scam sets political tone in last lap of electioneering in Kerala Assembly polls",
+      "url": "https://www.thehindu.com/elections/wayanad-relief-fund-scam-sets-political-tone-in-last-lap-of-electioneering-in-kerala-assembly-polls/article70827324.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T16:11:59.000Z",
+      "metaDescription": "The Congress has found itself on the defensive, as the CPI (M) has sought the details of the funds collected by the party and its utilisation",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.35037761405557677,
+      "crawledAt": "2026-04-05T16:32:59.269Z",
+      "id": "9iqj02",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9383466839790344,
+          "index": 1,
+          "word": "Way",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9962576031684875,
+          "index": 18,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969193935394287,
+          "index": 19,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CPI (M) has sought details of the funds collected by the party and its utilisation. Congress has found itself on the defensive as the CPI ( M) has been on the defence.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:03.560Z"
+    },
+    {
+      "title": "Contempt notices issued to IIM-Mumbai after Hyderabad student questions admission policy",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/contempt-notices-issued-to-iim-mumbai-after-hyderabad-student-questions-admission-policy/article70826786.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T16:10:12.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.36895238352186954,
+      "crawledAt": "2026-04-05T16:32:59.440Z",
+      "id": "jo8930",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9961717128753662,
+          "index": 7,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9816005825996399,
+          "index": 8,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9903488159179688,
+          "index": 10,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9982893466949463,
+          "index": 12,
+          "word": "Hyderabad",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:10.679Z"
+    },
+    {
+      "title": "Baramati bypolls: Congress fields Akash More against Sunetra Pawar",
+      "url": "https://www.deccanherald.com/india/maharashtra/baramati-bypolls-congress-fields-akash-more-against-sunetra-pawar-3957191",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T16:07:56.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.294836882946854,
+      "crawledAt": "2026-04-05T16:33:32.835Z",
+      "id": "23pygb",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8071733117103577,
+          "index": 1,
+          "word": "Bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9986158013343811,
+          "index": 8,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.999193012714386,
+          "index": 10,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9986429810523987,
+          "index": 13,
+          "word": "More",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995228052139282,
+          "index": 15,
+          "word": "Sun",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.932674765586853,
+          "index": 16,
+          "word": "##et",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.893790602684021,
+          "index": 17,
+          "word": "##ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991243481636047,
+          "index": 18,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9802470803260803,
+          "index": 19,
+          "word": "##war",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:18.101Z"
+    },
+    {
+      "title": "After deferments, launch of Mumbai metro stretches on lines 9, 2B tomorrow",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-metro-line-9-2b-inauguration-date-bkc-pod-taxi-tbm-nayak-launch-10620636/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T16:01:24.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5611173313298398,
+      "crawledAt": "2026-04-05T16:32:28.359Z",
+      "id": "tr493r",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9988467693328857,
+          "index": 8,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:18.424Z"
+    },
+    {
+      "title": "Parents booked for getting 16-year-girl old married in Pune",
+      "url": "https://indianexpress.com/article/pune/parents-booked-for-getting-16-year-girl-old-married-in-pune-10620639/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T15:56:57.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.40179371815478104,
+      "crawledAt": "2026-04-05T16:32:29.836Z",
+      "id": "vlvx7r",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9947529435157776,
+          "index": 13,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:29.266Z"
+    },
+    {
+      "title": "Trump New Tweet | Trump Threatens 'Hell' For Iran Over Hormuz Crisis",
+      "url": "https://www.youtube.com/watch?v=mDfIartcch4",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T15:49:16.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2738071336984704,
+      "crawledAt": "2026-04-05T16:33:18.231Z",
+      "id": "vbs3bq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995734691619873,
+          "index": 15,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8362565636634827,
+          "index": 17,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8110466599464417,
+          "index": 20,
+          "word": "Crisis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:29.895Z"
+    },
+    {
+      "title": "Bombay confidential: Poll tasks not so scenic",
+      "url": "https://indianexpress.com/article/mumbai/bombay-confidential-poll-tasks-not-so-scenic-10620578/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T15:47:01.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.392042669883154,
+      "crawledAt": "2026-04-05T16:32:28.407Z",
+      "id": "wgo69o",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995858073234558,
+          "index": 1,
+          "word": "Bombay",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:34:29.982Z"
+    },
+    {
+      "title": "Iran missile attack Kuwait | कुवेतच्या तेल प्रकल्पावर इराणचा क्षेपणास्त्र हल्ला; वीज निर्मिती आणि जलशुद्धीकरण केंद्रांचेही मोठे नुकसान",
+      "url": "https://pudhari.news/international/iran-missile-attack-on-kuwait-oil-project-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T15:38:37.000Z",
+      "metaDescription": "Iran missile attack Kuwait | कुवेतच्या तेल प्रकल्पावर इराणचा क्षेपणास्त्र हल्ला; वीज निर्मिती आणि जलशुद्धीकरण केंद्रांचेही मोठे नुकसान",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2698378601542386,
+      "crawledAt": "2026-04-05T16:32:01.453Z",
+      "id": "hmatau",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998104572296143,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997959733009338,
+          "index": 4,
+          "word": "Kuwait",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Iran missile attack Kuwait. Iran missile attacks Kuwait is a major target in the region of the Middle East. The country has a long history of attacks on the region.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:09.674Z"
+    },
+    {
+      "title": "LSG vs SRH : लखनौने फोडला विजयाचा नारळ! शमी-ऋषभ पंत चमकले, हैदराबादची झुंज शेवटच्या षटकात अपयशी",
+      "url": "https://pudhari.news/sports/ipl-2026-rishabh-pant-mohammed-shami-power-lucknow-super-giants-to-5-wicket-win-over-sunrisers-hyderabad-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T15:35:43.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25824737320218855,
+      "crawledAt": "2026-04-05T16:32:01.550Z",
+      "id": "cxdwjt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9980233907699585,
+          "index": 1,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9662244319915771,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9605445265769958,
+          "index": 3,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8859301209449768,
+          "index": 5,
+          "word": "SR",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:09.893Z"
+    },
+    {
+      "title": "Gadchiroli lightning strike death: रामगड येथे वीज कोसळून युवकाचा मृत्यू",
+      "url": "https://pudhari.news/maharashtra/vidarbha/gadchiroli/gadchiroli-youth-dies-after-lightning-strike-ramgad-sk95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T15:30:01.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.38836997021577674,
+      "crawledAt": "2026-04-05T16:32:01.669Z",
+      "id": "brxaoc",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:10.346Z"
+    },
+    {
+      "title": "'Indians are the new oil, coal, or gas': Immigration agency founder says new H-1B fee is America's loss, Fox's Laura Ingraham reacts",
+      "url": "https://timesofindia.indiatimes.com/world/us/indians-are-the-new-oil-coal-or-gas-immigration-agency-founder-says-new-h-1b-fee-is-americas-loss-foxs-laura-ingraham-reacts/articleshow/130041782.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T15:29:30.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2755472931374782,
+      "crawledAt": "2026-04-05T16:33:08.613Z",
+      "id": "2woer7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9994040131568909,
+          "index": 2,
+          "word": "Indians",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994561076164246,
+          "index": 25,
+          "word": "America",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8319846987724304,
+          "index": 30,
+          "word": "Fox",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994581341743469,
+          "index": 33,
+          "word": "Laura",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989284873008728,
+          "index": 34,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8896178007125854,
+          "index": 35,
+          "word": "##gra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9967323541641235,
+          "index": 36,
+          "word": "##ham",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:10.597Z"
+    },
+    {
+      "title": "Health Benefits Of Onions : कांदा आणतो डोळ्यातून पाणी पण आहे आरोग्यादायी",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/health-benefits-of-onions-nutritional-value-antioxidants-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T15:25:21.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3230151896781391,
+      "crawledAt": "2026-04-05T16:32:08.398Z",
+      "id": "mvl0b5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:18.729Z"
+    },
+    {
+      "title": "Handgun, Beacon And Hope: How US Airman Survived 48 Hours In Iran",
+      "url": "https://www.ndtv.com/world-news/us-f15-pilot-rescue-iran-war-news-handgun-how-us-airman-survived-48-hours-in-iran-11314911#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T15:12:04.000Z",
+      "metaDescription": "On April 3, an F-15E Strike Eagle, a twin-engine, two-seat interdiction fighter jet, was downed over southwestern Iran.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.40305292108726715,
+      "crawledAt": "2026-04-05T16:33:07.012Z",
+      "id": "jvmscq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993815422058105,
+          "index": 18,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " F-15E Strike Eagle, a twin-engine, two-seat fighter jet, was downed over southwestern Iran on April 3.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:51.345Z"
+    },
+    {
+      "title": "Woman jumps into well with son, booked for his murder in Pune",
+      "url": "https://indianexpress.com/article/cities/pune/woman-jumps-into-well-with-son-booked-for-his-murder-in-pune-10620524/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T15:07:35.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3159433852472459,
+      "crawledAt": "2026-04-05T16:32:29.890Z",
+      "id": "yle681",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9976128339767456,
+          "index": 13,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:57.632Z"
+    },
+    {
+      "title": "Farmer Training: जैविक निविष्ठा निर्मितीचे शेतकऱ्यांना दिले प्रशिक्षण",
+      "url": "https://agrowon.esakal.com/agro-special/natural-farming-training-bio-inputs-program-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T15:00:00.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.2677216061072657,
+      "crawledAt": "2026-04-05T16:32:08.451Z",
+      "id": "s1dktf",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:35:57.962Z"
+    },
+    {
+      "title": "'Will blow everything up and take the oil': Trump if Iran doesn't make a deal",
+      "url": "https://timesofindia.indiatimes.com/world/us/middle-east-crisis-donald-trump-threatens-to-blow-everything-up-and-take-the-oil-if-iran-doesnt-make-a-deal/articleshow/130041414.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T14:55:21.000Z",
+      "metaDescription": "US President Trump issued a stark warning to Iran, threatening to \"blow everything up and take over the oil\" if a deal to reopen the Strait of Hormuz isn't reached swiftly. Tensions escalated followin",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.31663592952050085,
+      "crawledAt": "2026-04-05T16:33:08.749Z",
+      "id": "ud3d7w",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9986621737480164,
+          "index": 12,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998206496238708,
+          "index": 14,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US President Trump threatens to \"blow everything up and take over the oil\" if a deal to reopen the Strait of Hormuz isn't reached swiftly.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:36:18.406Z"
+    },
+    {
+      "title": "Public employment is scarce, grace, charity, compassion got no place in it: Supreme Court",
+      "url": "https://www.deccanherald.com/india/public-employment-is-scarce-grace-charity-compassion-got-no-place-in-it-supreme-court-3957138",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T14:49:37.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.6269428901371024,
+      "crawledAt": "2026-04-05T16:33:33.476Z",
+      "id": "ug0rfg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956121444702148,
+          "index": 17,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9719592928886414,
+          "index": 18,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:36:18.476Z"
+    },
+    {
+      "title": "Why pepping up cereals with proteins is vital for Global South",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/why-pepping-up-cereals-with-proteins-is-vital-for-global-south/article70827044.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T14:46:57.000Z",
+      "metaDescription": "Scientists moot a menu laced with cereals and legumes",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.5503699035291224,
+      "crawledAt": "2026-04-05T16:33:03.583Z",
+      "id": "632kut",
+      "entities": [],
+      "summary": " Scientists moot a menu laced with cereals and legumes. Scientists mooted a menu with cereal and legume.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:36:25.190Z"
+    },
+    {
+      "title": "Indian Bison | विशाळगड घाटात 'गव्या'चा राजेशाही थाट!",
+      "url": "https://pudhari.news/maharashtra/kolhapur/indian-bison-gaur-spotted-vishalgad-ghat-kolhapur-wildlife-sightseeing-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T14:25:19.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.32143206248265765,
+      "crawledAt": "2026-04-05T16:32:01.870Z",
+      "id": "hlupcr",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9940564036369324,
+          "index": 1,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:37:12.695Z"
+    },
+    {
+      "title": "Stricter rules to protect European waters: EU Parliament sets stricter standards to curb pollution in rivers, lakes and groundwater",
+      "url": "https://www.downtoearth.org.in/water/stricter-rules-to-protect-european-waters-eu-parliament-sets-stricter-standards-to-curb-pollution-in-rivers-lakes-and-groundwater",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T13:51:02.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.7460591974882519,
+      "crawledAt": "2026-04-05T16:33:31.135Z",
+      "id": "s5gnp3",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.999478280544281,
+          "index": 7,
+          "word": "European",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9964265823364258,
+          "index": 10,
+          "word": "EU",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:37:13.432Z"
+    },
+    {
+      "title": "How US’s successful rescue of airmen in Iran has roots in a 1980 failed mission",
+      "url": "https://indianexpress.com/article/explained/explained-history/operation-eagle-claw-us-rescue-mission-failure-iran-hostage-crisis-10620338/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T13:31:47.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3120274159842905,
+      "crawledAt": "2026-04-05T16:32:57.840Z",
+      "id": "n8oivo",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9985849857330322,
+          "index": 2,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998235702514648,
+          "index": 11,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:37:34.943Z"
+    },
+    {
+      "title": "Donald Trump Iran threat | \"...नाहीतर तुम्ही नरकात जगाल\" : अर्वाच्य भाषेचा वापर करत ट्रम्‍प यांनी दिली इराणला धमकी",
+      "url": "https://pudhari.news/international/trump-threatens-iran-hell-warning-truth-social-post-hormuz-crisis-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T13:27:57.000Z",
+      "metaDescription": "\"...नाहीतर तुम्ही नरकात जगाल\" : अर्वाच्य भाषेचा वापर करत ट्रम्‍प यांनी दिली इराणला धमकी",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.27119946323197647,
+      "crawledAt": "2026-04-05T16:32:02.314Z",
+      "id": "3u301j",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9945359826087952,
+          "index": 1,
+          "word": "Donald",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9735172986984253,
+          "index": 2,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9925004839897156,
+          "index": 3,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The World Cup. \"The World Cup\" is a competition for the World Cup. \"The Olympics\" is one of the world's biggest events.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:37:52.328Z"
+    },
+    {
+      "title": "School Assembly News Headlines : Top National, World, Business, Sports News",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-6-top-national-world-business-sports-news-11314483#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T13:05:48.000Z",
+      "metaDescription": "School Assembly News Headlines (April 6): Staying updated on important national, international, sports, and business news sharpens the mind of students",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.36554698591727663,
+      "crawledAt": "2026-04-05T16:33:12.423Z",
+      "id": "6hkm89",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9749523997306824,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9447687864303589,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9668886661529541,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9716997146606445,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.937879741191864,
+          "index": 12,
+          "word": "Business",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9792076945304871,
+          "index": 14,
+          "word": "Sports",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9604257345199585,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Staying updated on important national, international, sports, and business news sharpens the mind of students. Staying updated with important national and international, international and business News Headlines.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:38:11.634Z"
+    },
+    {
+      "title": "Hair Health : केस गळती थांबवायची आहे? नारळाचे तेल लावण्याची ‘ही’ वेळ चुकवू नका!",
+      "url": "https://pudhari.news/ampstories/web-stories/best-time-to-apply-coconut-oil-for-hair-fall-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T12:53:07.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3855998288313333,
+      "crawledAt": "2026-04-05T16:32:02.544Z",
+      "id": "jhfcrf",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:38:29.001Z"
+    },
+    {
+      "title": "‘Open Hormuz or you’ll be living in hell’: Trump’s expletive-laced rant at Iran, threatens attack on Tuesday",
+      "url": "https://timesofindia.indiatimes.com/world/us/open-hormuz-or-youll-be-living-in-hell-trumps-expletive-laced-rant-at-iran-threatens-attack-on-tuesday/articleshow/130039019.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:48:30.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3068295996155688,
+      "crawledAt": "2026-04-05T16:33:09.119Z",
+      "id": "5r0qbn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8437503576278687,
+          "index": 3,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992128014564514,
+          "index": 16,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997043013572693,
+          "index": 27,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:38:29.373Z"
+    },
     {
       "title": "Parliament body unhappy as PFBR cost mounts to ₹8,181 crore",
       "url": "https://www.thehindubusinessline.com/news/parliament-body-unhappy-as-pfbr-cost-mounts-to-8181-crore/article70826618.ece",
@@ -1302,6 +2305,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-05T12:58:42.225Z"
+    },
+    {
+      "title": "US airman rescued from Iran: How soldiers train to survive enemy territory, how rescue ops are held",
+      "url": "https://indianexpress.com/article/explained/us-airman-rescued-from-iran-rescue-ops-sere-10620080/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T10:09:37.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.323148121916563,
+      "crawledAt": "2026-04-05T16:32:58.042Z",
+      "id": "dktgxs",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9697491526603699,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999699056148529,
+          "index": 6,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T16:38:39.145Z"
     },
     {
       "title": "Goa Pink Force | पिंक फोर्स ठरली 'देवदूत'! 21 वर्षीय माता अन् 7 महिन्यांच्या बाळाचा पुलावरून वाचवला जीव",
@@ -104710,368 +105749,19 @@
       "summary": "Community discussion about AI developments and related topics.",
       "language": "en",
       "processed_at": "2026-03-22T02:55:07.924Z"
-    },
-    {
-      "title": "Made me laugh, thought I’d share",
-      "url": "https://www.reddit.com/r/OpenAI/comments/1rzv4tj/made_me_laugh_thought_id_share/",
-      "source": "r/OpenAI",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T16:01:37.000Z",
-      "metaDescription": "Was debating with ChatGPT and managed to get it to contradict itself in a single statement so I had to laugh. Anyone else run into things like this?\n    submitted by    /u/Candid_Koala_3602  \n [link] ",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.25569308431148785,
-      "crawledAt": "2026-03-22T02:47:42.769Z",
-      "id": "s93lny",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:55:07.982Z"
-    },
-    {
-      "title": "MiniMax M2.7 Built Itself! Here’s How to Use It Like a Pro",
-      "url": "https://pub.towardsai.net/minimax-m2-7-built-itself-heres-how-to-use-it-like-a-pro-27529761d9a7?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T16:01:00.000Z",
-      "metaDescription": "Setup guides and the official prompting guide from MiniMax’s own docs and the exact workflow that replaced GLM-5 in my coding stack.\nContinue reading on Towards AI »",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.39006903944529936,
-      "crawledAt": "2026-03-21T16:37:59.278Z",
-      "id": "m6neam",
-      "entities": [],
-      "summary": " setup guides and the official prompting guide from MiniMax’s own docs. The exact workflow that replaced GLM-5 in my coding stack.",
-      "language": "en",
-      "processed_at": "2026-03-21T16:39:17.931Z"
-    },
-    {
-      "title": "Vector RAG Is Dead. PageIndex Just Proved It.",
-      "url": "https://ai.plainenglish.io/vector-rag-is-dead-pageindex-just-proved-it-470ea6ac446a?source=rss----78d064101951---4",
-      "source": "AI in Plain English",
-      "source_domain": "ai.plainenglish.io",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T15:43:31.000Z",
-      "metaDescription": "How a reasoning-based, tree-search framework achieved 98.7% accuracy — and quietly challenged a $2.2 billion industry\nContinue reading on Artificial Intelligence in Plain English »",
-      "category": "research-paper",
-      "difficulty": 4,
-      "confidence": 0.27643895943693053,
-      "crawledAt": "2026-03-21T16:38:11.141Z",
-      "id": "9zkhku",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9135216474533081,
-          "index": 8,
-          "word": "Page",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " How a tree-search framework achieved 98.7% accuracy — and quietly challenged a $2.2 billion industry.",
-      "language": "en",
-      "processed_at": "2026-03-21T16:39:28.293Z"
-    },
-    {
-      "title": "StackOverflow-style site for coding agents",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rzujbs/stackoverflowstyle_site_for_coding_agents/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T15:37:38.000Z",
-      "metaDescription": "submitted by    /u/Good-Profit-3136  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.41016556946876087,
-      "crawledAt": "2026-03-22T02:47:46.398Z",
-      "id": "kamizm",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:55:17.831Z"
-    },
-    {
-      "title": "Don't sleep on the new Nemotron Cascade",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T15:30:38.000Z",
-      "metaDescription": "While there has been a lot of discussion regarding the Nemotron Super family of models, I feel like the newest addition, the Nemotron Cascade 2 30B-A3B (which is *not* based on the Qwen architecture d",
-      "category": "creative-ai",
-      "difficulty": 5,
-      "confidence": 0.8070043822315563,
-      "crawledAt": "2026-03-22T02:47:33.562Z",
-      "id": "toecv8",
-      "entities": [
-        {
-          "entity": "B-ORG",
-          "score": 0.9838545322418213,
-          "index": 8,
-          "word": "N",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.9724722504615784,
-          "index": 10,
-          "word": "##ot",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "I-ORG",
-          "score": 0.8790919780731201,
-          "index": 11,
-          "word": "##ron",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Nemotron Cascade 2 30B-A3B is the newest addition to the Nemotrons Super family of models.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:55:30.107Z"
-    },
-    {
-      "title": "Seeing arxiv endorser CT lung nodule AI validation preprint",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T15:15:14.000Z",
-      "metaDescription": "Sorry, I know these requests can be annoying, but I’m a medical physicist and no one I know uses arXiv.\n The preprint: post-deployment sensitivity analysis of a MONAI RetinaNet lung nodule detector us",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.321898095621884,
-      "crawledAt": "2026-03-22T02:47:40.071Z",
-      "id": "kr3gdt",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8184281587600708,
-          "index": 9,
-          "word": "CT",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9253703951835632,
-          "index": 13,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The preprint: post-deployment sensitivity analysis of a MONAI RetinaNet lung nodule detector.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:55:53.058Z"
-    },
-    {
-      "title": "Is there anything the FluxDev model does better than all current models? I remember it being terrible for skin, too plasticky. However, with some LoRas, it gets better results than Zimage and QWEN for landscapes",
-      "url": "https://www.reddit.com/r/StableDiffusion/comments/1rztqc0/is_there_anything_the_fluxdev_model_does_better/",
-      "source": "r/StableDiffusion",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-21T15:04:43.000Z",
-      "metaDescription": "Flux dev, flux fill (onereward) and flux kontext\n Obviously, it depends on the subject. The models (and Loras) look better in some images than others.\n SDXL with upscaling is also very good for landsc",
-      "category": "creative-ai",
-      "difficulty": 6,
-      "confidence": 0.2649967695067891,
-      "crawledAt": "2026-03-22T02:47:51.112Z",
-      "id": "ok6dkw",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.8227270245552063,
-          "index": 5,
-          "word": "F",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.8280999064445496,
-          "index": 42,
-          "word": "Z",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-ORG",
-          "score": 0.859511137008667,
-          "index": 46,
-          "word": "Q",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " The models (and Loras) look better in some images than others. SDXL with upscaling is also very good for landsc landsc.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:56:02.163Z"
-    },
-    {
-      "title": "Fixing Qwen thinking repetition",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzsehn/fixing_qwen_thinking_repetition/",
-      "source": "r/LocalLLaMA",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T14:08:32.000Z",
-      "metaDescription": "ok so I found the fix to Qwen thinking repetition. I discovered that pasting this system prompt from Claude fixes it completely. Other long system prompts might also work.\n I use 1.5 presence penalty,",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.5581697037543513,
-      "crawledAt": "2026-03-22T02:47:34.865Z",
-      "id": "7aej4d",
-      "entities": [],
-      "summary": "Pasting this system prompt from Claude fixes it completely. Other long system prompts might also work. I use 1.5 presence penalty.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:56:35.720Z"
-    },
-    {
-      "title": "Exploration and Exploitation: The Simple Yet Profound Logic at the Heart of Reinforcement Learning",
-      "url": "https://pub.towardsai.net/exploration-and-exploitation-the-simple-yet-profound-logic-at-the-heart-of-reinforcement-learning-b3cb232942e6?source=rss----98111c9905da---4",
-      "source": "Towards AI",
-      "source_domain": "pub.towardsai.net",
-      "source_category": "medium",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T14:01:01.000Z",
-      "metaDescription": "Why every smart system — and every smart person — must learn to balance “trying new things” with “sticking to what works”\nContinue reading on Towards AI »",
-      "category": "developer-tool",
-      "difficulty": 4,
-      "confidence": 0.3365321745270067,
-      "crawledAt": "2026-03-21T16:37:59.463Z",
-      "id": "283wiu",
-      "entities": [
-        {
-          "entity": "I-MISC",
-          "score": 0.8471812009811401,
-          "index": 6,
-          "word": "##itation",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": "Every smart system must learn to balance “trying new things’ with “sticking to what works’",
-      "language": "en",
-      "processed_at": "2026-03-21T16:39:54.592Z"
-    },
-    {
-      "title": "Pilot Protocol: a network layer that sits below MCP and handles agent-to-agent connectivity",
-      "url": "https://www.reddit.com/r/LangChain/comments/1rzru8n/pilot_protocol_a_network_layer_that_sits_below/",
-      "source": "r/LangChain",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T13:44:05.000Z",
-      "metaDescription": "submitted by    /u/JerryH_  \n [link]   [comments]",
-      "category": "infrastructure",
-      "difficulty": 3,
-      "confidence": 0.8822096266198961,
-      "crawledAt": "2026-03-22T02:47:46.933Z",
-      "id": "3eo1dh",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:56:35.936Z"
-    },
-    {
-      "title": "Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
-      "source": "r/MachineLearning",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T13:41:26.000Z",
-      "metaDescription": "I built Autochess NN, a browser-playable neural chess engine that started as a personal experiment in understanding AlphaZero-style systems by actually building one end to end.\n This project was unapo",
-      "category": "creative-ai",
-      "difficulty": 7,
-      "confidence": 0.30027947433009294,
-      "crawledAt": "2026-03-22T02:47:38.726Z",
-      "id": "5zkn91",
-      "entities": [
-        {
-          "entity": "B-MISC",
-          "score": 0.9980893135070801,
-          "index": 25,
-          "word": "Ka",
-          "start": null,
-          "end": null
-        },
-        {
-          "entity": "B-MISC",
-          "score": 0.9907324910163879,
-          "index": 30,
-          "word": "AI",
-          "start": null,
-          "end": null
-        }
-      ],
-      "summary": " Autochess NN is a browser-playable neural chess engine that started as a personal experiment in understanding AlphaZero-style systems. This project was unapo.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:56:47.865Z"
-    },
-    {
-      "title": "Why am i not surprised",
-      "url": "https://www.reddit.com/r/ChatGPT/comments/1rzrlbc/why_am_i_not_surprised/",
-      "source": "r/ChatGPT",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "medium",
-      "pubDate": "2026-03-21T13:32:57.000Z",
-      "metaDescription": "submitted by    /u/Fair_Economist_5369  \n [link]   [comments]",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.2958972210030116,
-      "crawledAt": "2026-03-22T02:47:37.488Z",
-      "id": "rgz0vi",
-      "entities": [],
-      "summary": "Community discussion about AI developments and related topics.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:56:47.924Z"
-    },
-    {
-      "title": "I built a self-evolving AI that rewrites its own rules after every session. After 62 sessions, it's most accurate when it thinks it's wrong.",
-      "url": "https://www.reddit.com/r/artificial/comments/1rzrfo8/i_built_a_selfevolving_ai_that_rewrites_its_own/",
-      "source": "r/artificial",
-      "source_domain": "reddit.com",
-      "source_category": "reddit",
-      "source_priority": "high",
-      "pubDate": "2026-03-21T13:25:52.000Z",
-      "metaDescription": "NEXUS is an open-source market analysis AI that runs 3 automated sessions per day.\n It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own",
-      "category": "creative-ai",
-      "difficulty": 3,
-      "confidence": 0.6840222489523032,
-      "crawledAt": "2026-03-22T02:47:32.579Z",
-      "id": "il0f8j",
-      "entities": [],
-      "summary": " NEXUS is an open-source market analysis AI that runs 3 automated sessions per day. It analyzes 45 financial instruments, generates trade setups with entry/stop/target levels, then reflects on its own.",
-      "language": "en",
-      "processed_at": "2026-03-22T02:57:03.402Z"
     }
   ],
-  "processedAt": "2026-04-05T13:01:06.471Z",
+  "processedAt": "2026-04-05T16:38:39.270Z",
   "categories": [
     "maharashtra-state-local",
+    "government-schemes",
+    "policy-regulation",
     "jobs-recruitment",
     "legal-judiciary",
-    "banking-credit",
-    "education-skills",
     "msme-industry-trade",
-    "government-schemes",
+    "education-skills",
+    "banking-credit",
     "civic-public-service",
-    "policy-regulation",
     "creative-ai",
     "infrastructure",
     "ai-agents",
@@ -105084,9 +105774,9 @@
     "tutorial-guide"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 38,
-  "existingArticlesKept": 2687,
+  "newArticlesProcessed": 27,
+  "existingArticlesKept": 2713,
   "cleanupApplied": true,
-  "cleanedUpCount": 12,
+  "cleanedUpCount": 13,
   "rollingWindowDays": 15
 }
