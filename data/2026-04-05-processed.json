@@ -1,9 +1,1536 @@
 {
-  "crawledAt": "2026-04-05T08:40:21.567Z",
+  "crawledAt": "2026-04-05T12:50:57.527Z",
   "totalSources": 75,
-  "totalArticles": 94,
+  "totalArticles": 132,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Parliament body unhappy as PFBR cost mounts to ₹8,181 crore",
+      "url": "https://www.thehindubusinessline.com/news/parliament-body-unhappy-as-pfbr-cost-mounts-to-8181-crore/article70826618.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:36:41.000Z",
+      "metaDescription": "Prototype Fast Breeder Reactor, under construction since 2004, yet to generate power; committee urges milestone-linked funding and international help for BHAVINI",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3459959834400601,
+      "crawledAt": "2026-04-05T12:50:12.673Z",
+      "id": "lganl1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9865697622299194,
+          "index": 5,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9226687550544739,
+          "index": 6,
+          "word": "##FB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9610938429832458,
+          "index": 7,
+          "word": "##R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prototype Fast Breeder Reactor, under construction since 2004, yet to generate power. Committee urges milestone-linked funding and international help for BHAVINI.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:51:19.770Z"
+    },
+    {
+      "title": "No DUI, no illegal employment: Indian student got deported from US for one honest answer",
+      "url": "https://timesofindia.indiatimes.com/world/us/no-dui-no-illegal-employment-indian-student-got-deported-from-us-for-one-honest-answer/articleshow/130039313.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:35:56.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9695226588034445,
+      "crawledAt": "2026-04-05T12:50:15.632Z",
+      "id": "j2himz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9997230172157288,
+          "index": 9,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994003772735596,
+          "index": 14,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:51:19.894Z"
+    },
+    {
+      "title": "Assembly elections LIVE: Gherao of judicial officers a reflection of TMC’s ‘maha jungle raj’, says PM Modi",
+      "url": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:32:41.000Z",
+      "metaDescription": "Rahul Gandhi said that Assam CM Himanta Biswa Sarma is India’s most corrupt Chief Minister and added, “He spreads only hatred”",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28117544763352514,
+      "crawledAt": "2026-04-05T12:50:03.128Z",
+      "id": "fl3of6",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8884109258651733,
+          "index": 6,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9979379177093506,
+          "index": 15,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.974247395992279,
+          "index": 16,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993980526924133,
+          "index": 29,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.922467827796936,
+          "index": 30,
+          "word": "##di",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Rahul Gandhi said that Assam CM Himanta Biswa Sarma is India’s most corrupt Chief Minister.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:51:38.118Z"
+    },
+    {
+      "title": "Nashik District Bank: नाशिक जिल्हा बॅंकेला ७५३ कोटींचे भागभांडवल",
+      "url": "https://agrowon.esakal.com/agro-special/nashik-district-bank-753-crore-capital-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T12:30:00.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.351214280808149,
+      "crawledAt": "2026-04-05T12:48:57.872Z",
+      "id": "a1dpbd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983131885528564,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9891872406005859,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.992296576499939,
+          "index": 3,
+          "word": "District",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9777994751930237,
+          "index": 4,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8403180241584778,
+          "index": 11,
+          "word": "ज",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:51:58.190Z"
+    },
+    {
+      "title": "Harvard Announces 6 Free Online Courses In AI, Web Development, Programming, Details Here",
+      "url": "https://www.ndtv.com/education/harvard-announces-6-free-online-courses-in-ai-programming-for-learners-in-2026-application-link-here-11314000#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:25:20.000Z",
+      "metaDescription": "Harvard Free Courses:  Focused on practical applications of technology in business, the course covers computational thinking, programming languages, internet technologies, web development, and cloud c",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.3990609878635865,
+      "crawledAt": "2026-04-05T12:50:23.969Z",
+      "id": "3nmjzt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977320432662964,
+          "index": 1,
+          "word": "Harvard",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9280138611793518,
+          "index": 11,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8779443502426147,
+          "index": 14,
+          "word": "Development",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Harvard Free Courses covers practical applications of technology in business. The course covers computational thinking, programming languages, internet technologies, web development, and cloud c.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:52:17.417Z"
+    },
+    {
+      "title": "Sabarimala case hearing from April 7 : शबरीमला प्रकरणी ९ न्यायाधीशांच्या खंडपीठसमोर ७ एप्रिलपासून सुनावणी",
+      "url": "https://www.navakal.in/news/sabarimala-case-hearing-from-april-7/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:12:41.000Z",
+      "metaDescription": "Sabarimala case hearing from April 7 – केरळमधील शबरीमला मंदिर प्रवेश प्रकरणावर आता सर्वोच्च न्यायालयात ९ न्यायाधीशांच्या खंडपीठासमोर ७ एप्रिलपासून सुनावणी होणार आहे. ही सुनावणी केवळ शबरीमला मंदिरापुरत",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.30065516115529267,
+      "crawledAt": "2026-04-05T12:49:36.425Z",
+      "id": "2oyzix",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9605371952056885,
+          "index": 11,
+          "word": "श",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sabarimala case hearing from April 7. The Sabaralala case was heard in a hearing on April 7.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:53:24.961Z"
+    },
+    {
+      "title": "Fresh census a must for women’s quota, says Akhilesh",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-yadav-calls-for-womens-reservation-in-parliament-only-after-fresh-census/article70826336.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:11:43.000Z",
+      "metaDescription": "Akhilesh Yadav said any policy must rest on accurate data, arguing that the women's reservation framework is flawed if it relies on outdated population figures of the 2011 Census",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.5230247712423614,
+      "crawledAt": "2026-04-05T12:50:03.628Z",
+      "id": "ujqkio",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994874596595764,
+          "index": 12,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.995398759841919,
+          "index": 13,
+          "word": "##kh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8899311423301697,
+          "index": 14,
+          "word": "##iles",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Akhilesh Yadav says women's reservation framework is flawed if it relies on outdated Census figures. Yadav said any policy must rest on accurate data.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:53:34.119Z"
+    },
+    {
+      "title": "Gherao of judicial officers a reflection of Trinamool’s ‘maha jungle raj’, says Modi",
+      "url": "https://www.thehindu.com/news/national/gherao-of-judicial-officers-a-reflection-of-trinamools-maha-jungle-raj-says-modi/article70826566.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:10:15.000Z",
+      "metaDescription": "Prime Minister Narendra Modi reiterates that States that have done well in population control will not lose seats in delimitation",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3765224347228451,
+      "crawledAt": "2026-04-05T12:50:04.064Z",
+      "id": "7kmi9e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8660661578178406,
+          "index": 10,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9699622392654419,
+          "index": 11,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9009222984313965,
+          "index": 12,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9981037974357605,
+          "index": 24,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9691562056541443,
+          "index": 25,
+          "word": "##di",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Narendra Modi reiterates that States that have done well in population control will not lose seats in delimitation.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:53:43.130Z"
+    },
+    {
+      "title": "M.P. lodge collapse toll rises to three; CM announces compensation",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-lodge-collapse-death-toll-ndrf-rescue-operation-april-5-2026/article70825907.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:02:39.000Z",
+      "metaDescription": "‘Aggarwal Lodge', a building located near a bus stand in Kotma town, collapsed around 5.30 p.m. on Saturday (April 4, 2026), trapping several people in the vicinity",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.31856830410719605,
+      "crawledAt": "2026-04-05T12:50:04.549Z",
+      "id": "f9738z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9861738085746765,
+          "index": 1,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9927371740341187,
+          "index": 3,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9980946183204651,
+          "index": 12,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9899196624755859,
+          "index": 13,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 'Aggarwal Lodge', a building located near a bus stand in Kotma town, collapsed around 5.30 p.m. on Saturday (April 4, 2026) trapping several people in the vicinity.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:54:14.088Z"
+    },
+    {
+      "title": "Congress claims Himanta’s wife has passports from 3 countries, Assam CM threatens to file defamation case",
+      "url": "https://indianexpress.com/article/india/congress-claims-himantas-wife-has-passports-from-3-countries-assam-cm-threatens-to-file-defamation-case-10620243/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T12:01:03.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3826465308879448,
+      "crawledAt": "2026-04-05T12:49:18.084Z",
+      "id": "nnphy3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986798763275146,
+          "index": 1,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995964765548706,
+          "index": 3,
+          "word": "Him",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8411853909492493,
+          "index": 16,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:54:14.468Z"
+    },
+    {
+      "title": "Crime News : वळण येथे तरूणाची भोसकून हत्या",
+      "url": "https://deshdoot.com/rahuri-valan-youth-murdered-stabbing-suspect-arrested/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T12:00:21.000Z",
+      "metaDescription": "राहुरी (प्रतिनिधी) राहुरी तालुक्यातील वळण येथे शनिवार दि. ४ एप्रिल रोजी दुपारच्या सुमारास किरकोळ वादातून एका तरुणाची धारदार शस्त्राने भोसकून हत्या करण्यात आल्याची धक्कादायक घटना घडली. या घटनेनंतर परिस",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3083946955013526,
+      "crawledAt": "2026-04-05T12:49:31.967Z",
+      "id": "2lfkro",
+      "entities": [],
+      "summary": " The world's largest city is in the middle of the world's most populous region. The city is located in the city of San Francisco.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:54:36.690Z"
+    },
+    {
+      "title": "Judicial infrastructure not optional but essential: CJI Surya Kant",
+      "url": "https://www.deccanherald.com/india/judicial-infrastructure-not-optional-but-essential-cji-surya-kant-3956877",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T11:56:03.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.9833895667920121,
+      "crawledAt": "2026-04-05T12:50:52.256Z",
+      "id": "u1hjba",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9829421043395996,
+          "index": 8,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:54:45.343Z"
+    },
+    {
+      "title": "As U.S. sanctions deadlines expire this month, exporters urge government to revive oil-rice barter trade mechanism with Iran",
+      "url": "https://www.thehindu.com/news/national/as-us-sanctions-deadlines-expire-this-month-exporters-urge-government-to-revive-oil-rice-barter-trade-mechanism-with-iran/article70826451.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T11:54:36.000Z",
+      "metaDescription": "Government faces choices on oil imports, trade and Chabahar port",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.7611238296600489,
+      "crawledAt": "2026-04-05T12:50:04.944Z",
+      "id": "6eusq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995938539505005,
+          "index": 2,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9966744780540466,
+          "index": 3,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.998211145401001,
+          "index": 4,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9341415762901306,
+          "index": 5,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995702505111694,
+          "index": 28,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Government faces choices on oil imports, trade and Chabahar port. Government faces choice on oil import, trade, and port.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:54:52.747Z"
+    },
+    {
+      "title": "'Patriarchy still a facet of everyday life, despite significant growth, education': Supreme Court",
+      "url": "https://www.deccanherald.com/india/patriarchy-still-a-facet-of-everyday-life-despite-significant-growth-education-supreme-court-3956997",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T11:51:14.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.5453998671661854,
+      "crawledAt": "2026-04-05T12:50:52.370Z",
+      "id": "o8yv3r",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9919464588165283,
+          "index": 19,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9700570702552795,
+          "index": 20,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:55:05.268Z"
+    },
+    {
+      "title": "April Assembly polls: Rising heat, erratic rains to test climate risk preparedness",
+      "url": "https://www.deccanherald.com/india/april-assembly-polls-rising-heat-erratic-rains-to-test-climate-risk-preparedness-3956976",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-05T11:47:39.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3155050422026623,
+      "crawledAt": "2026-04-05T12:50:52.469Z",
+      "id": "6xbvgl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9337310791015625,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:55:13.197Z"
+    },
+    {
+      "title": "Foundation for new Telangana High Court building laid by CJI Surya Kant",
+      "url": "https://www.thehindu.com/news/national/judicial-infrastructure-not-optional-but-essential-cji-surya-kant/article70826281.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T11:47:05.000Z",
+      "metaDescription": "CJI Kant attended the foundation stone for Telangana High Court Zone II in Rajendernagar, on the city outskirts",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3102049186342502,
+      "crawledAt": "2026-04-05T12:50:05.114Z",
+      "id": "baukt9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9454631805419922,
+          "index": 4,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.928871750831604,
+          "index": 5,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9492839574813843,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8860219717025757,
+          "index": 13,
+          "word": "Sur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9682339429855347,
+          "index": 15,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CJI Kant attended the foundation stone for Telangana High Court Zone II in Rajendernagar, on the city outskirts.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:55:23.238Z"
+    },
+    {
+      "title": "Odisha Govt makes e-KYC mandatory to avail cooking gas cylinders in Odisha: Minister",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-govt-makes-e-kyc-mandatory-to-avail-cooking-gas-cylinders-in-odisha-minister/article70826314.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T11:13:37.000Z",
+      "metaDescription": "The move will ensure that only genuine customers get LPG cylinders, Odisha’s Food Supply and Consumer Welfare Minister asserted",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3699621208744166,
+      "crawledAt": "2026-04-05T12:50:06.418Z",
+      "id": "f309fy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957912564277649,
+          "index": 4,
+          "word": "e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.988907516002655,
+          "index": 6,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9643769860267639,
+          "index": 7,
+          "word": "##Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.977304995059967,
+          "index": 8,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994825124740601,
+          "index": 16,
+          "word": "Odisha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The move will ensure that only genuine customers get LPG cylinders, Odisha’s Food Supply and Consumer Welfare Minister asserted.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:56:56.126Z"
+    },
+    {
+      "title": "Pune Metro Line 3 Delay: पुणे मेट्रो मार्गिका 3 दिरंगाईवर कारवाईचा इशारा; कामाला गती देण्याचे आदेश",
+      "url": "https://pudhari.news/pimpri-chinchwad/pune-metro-line-3-mann-hinjewadi-shivajinagar-delay-pmrda-action-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T11:04:23.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.46440849966053516,
+      "crawledAt": "2026-04-05T12:48:51.808Z",
+      "id": "2cl9m9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9916006326675415,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.975534200668335,
+          "index": 2,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:05.825Z"
+    },
+    {
+      "title": "Government Medicine Scam Busted In Delhi, Rs 70 Lakh Stock Seized",
+      "url": "https://www.ndtv.com/india-news/government-medicine-scam-busted-in-delhi-rs-70-lakh-stock-seized-11314079#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T11:03:44.000Z",
+      "metaDescription": "During interrogation, it was revealed that the racket had been operating for the past one to one-and-a-half years through a network of brokers across multiple cities.",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.4770411550805589,
+      "crawledAt": "2026-04-05T12:50:25.406Z",
+      "id": "9wcs7k",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9981047511100769,
+          "index": 8,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "During interrogation, it was revealed that the racket had been operating for one to one-and-a-half years.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:14.601Z"
+    },
+    {
+      "title": "\"Entire Middle East Will Turn Into Hell\": IRGC Warns US Against Escalation",
+      "url": "https://www.youtube.com/shorts/sRsL7jxj1Sg",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T11:01:16.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2844200157408655,
+      "crawledAt": "2026-04-05T12:50:29.006Z",
+      "id": "tkp00s",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9970321655273438,
+          "index": 5,
+          "word": "Middle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9974182844161987,
+          "index": 6,
+          "word": "East",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.99647057056427,
+          "index": 13,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.953372597694397,
+          "index": 15,
+          "word": "##GC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8471875190734863,
+          "index": 18,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9656535387039185,
+          "index": 19,
+          "word": "Against",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956704378128052,
+          "index": 20,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8381614089012146,
+          "index": 21,
+          "word": "##sca",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:14.916Z"
+    },
+    {
+      "title": "Ashok Kharat Case : खरात फाईल्स प्रकरणी एसआयटीचे ‘मौनव्रत’; तपासाच्या गोपनीयतेवर संशयाचे मळभ",
+      "url": "https://deshdoot.com/ashok-kharat-crime-news-sits-silence-on-the-investigation-into-ashok-kharat-case/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T10:48:53.000Z",
+      "metaDescription": "नाशिक | प्रतिनिधी | Nashik तंत्र-मंत्र आणि भविष्याच्या नावाखाली महिलांचे शाषण करणारा भोंदू अशोककुमार एकनाथ खरात (Ashok Kharat) उर्फ ‘कॅप्टन’ याच्या काळ्या कारनाम्यांची व्याप्ती दररोज वाढत आहे. आतापर्य",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.36164076363248365,
+      "crawledAt": "2026-04-05T12:49:33.215Z",
+      "id": "te0z98",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8640674948692322,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The city of Nashik is known for its ‘Nashik’s ‘nashik.’",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:45.816Z"
+    },
+    {
+      "title": "Expert Explains | What the China-Pakistan peace plan for West Asia says about China’s stakes and global trade",
+      "url": "https://indianexpress.com/article/explained/explained-global/expert-explains-china-pakistan-peace-plan-iran-stakes-shipping-significance-10620102/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T10:43:14.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.6784966182056005,
+      "crawledAt": "2026-04-05T12:50:09.918Z",
+      "id": "jljvw7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999614953994751,
+          "index": 11,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.998405933380127,
+          "index": 15,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9976005554199219,
+          "index": 16,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998078346252441,
+          "index": 19,
+          "word": "China",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:46.560Z"
+    },
+    {
+      "title": "Pune River Filling Issue: भिडे पूल परिसरात मेट्रो कामावरून वाद; नदीत भराव टाकल्याने पूराचा धोका",
+      "url": "https://pudhari.news/maharashtra/pune/pune-bhide-bridge-metro-project-river-filling-flood-risk-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T10:41:17.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2657889510905498,
+      "crawledAt": "2026-04-05T12:48:52.642Z",
+      "id": "c7xeun",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9365967512130737,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9659744501113892,
+          "index": 2,
+          "word": "River",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:57:46.970Z"
+    },
+    {
+      "title": "EPFO 3.0 PF withdrawal rules: How much provident fund balance can you withdraw using ATM and UPI?",
+      "url": "https://www.livemint.com/money/personal-finance/pf-withdrawal-rules-under-epfo-3-0-how-much-of-your-pf-balance-can-you-withdraw-using-atm-and-upi-11775380265393.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T10:37:05.000Z",
+      "metaDescription": "EPFO 3.0 features: One of the most significant changes under EPFO 3.0 is the availability of the option to withdraw PF money using ATM and UPI.",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.44110321213646486,
+      "crawledAt": "2026-04-05T12:49:13.124Z",
+      "id": "ae0rj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981168508529663,
+          "index": 1,
+          "word": "EP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958823323249817,
+          "index": 2,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " EPFO 3.0 features the option to withdraw PF money using ATM and UPI. One of the most significant changes is the availability of the option of withdrawing PF money.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:04.472Z"
+    },
+    {
+      "title": "WhatsApp Trading Scam: बारामतीत 1.30 कोटींची सायबर फसवणूक; दोन आरोपी अटकेत",
+      "url": "https://pudhari.news/maharashtra/pune/baramati-whatsapp-trading-scam-130-lakh-cyber-fraud-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T10:30:18.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.38708664824064787,
+      "crawledAt": "2026-04-05T12:48:53.061Z",
+      "id": "a17bqt",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.956130862236023,
+          "index": 3,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:19.358Z"
+    },
+    {
+      "title": "Goa Police PSI Recruitment | राज्यात पोलिस उपनिरीक्षकांची तब्बल 157 पदे रिक्त",
+      "url": "https://pudhari.news/goa/goa-police-struggles-with-157-vacant-psi-posts-as-eligible-candidates-remain-unavailable-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T10:27:03.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.38048549249875674,
+      "crawledAt": "2026-04-05T12:48:53.165Z",
+      "id": "u4u1o",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997793972492218,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9792191982269287,
+          "index": 2,
+          "word": "Police",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9371014833450317,
+          "index": 3,
+          "word": "PS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8768338561058044,
+          "index": 4,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Update on jobs, recruitment, or competitive exams relevant to readers.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:19.829Z"
+    },
+    {
+      "title": "BKC Pod Taxi project set to become a game-changer for Mumbai traffic – here’s how",
+      "url": "https://indianexpress.com/article/cities/mumbai/bkc-pod-taxi-project-set-to-become-a-game-changer-for-mumbai-traffic-heres-how-10620006/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T10:14:33.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.28164565169421424,
+      "crawledAt": "2026-04-05T12:49:20.205Z",
+      "id": "u47hp9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983336925506592,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983013868331909,
+          "index": 3,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988610744476318,
+          "index": 4,
+          "word": "Po",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9974020719528198,
+          "index": 5,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979971051216125,
+          "index": 6,
+          "word": "Tax",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972503781318665,
+          "index": 7,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990484118461609,
+          "index": 18,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:28.950Z"
+    },
+    {
+      "title": "Goa Land Grab Scam | 51 टक्के जमीन घोटाळा प्रकरणांची चौकशी सुरू",
+      "url": "https://pudhari.news/goa/goa-sit-investigates-51-percent-land-grab-cases-83-arrested-so-far-in-major-scam-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T10:13:34.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3679722941303789,
+      "crawledAt": "2026-04-05T12:48:53.604Z",
+      "id": "lmp0vb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9417178630828857,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9543328881263733,
+          "index": 2,
+          "word": "Land",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9239525198936462,
+          "index": 3,
+          "word": "G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:29.119Z"
+    },
+    {
+      "title": "US airman rescued from Iran: How soldiers train for surviving enemy territory, how rescue ops are held",
+      "url": "https://indianexpress.com/article/explained/us-airman-rescued-from-iran-rescue-ops-sere-10620080/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T10:09:37.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.329648697964919,
+      "crawledAt": "2026-04-05T12:50:10.032Z",
+      "id": "gr66ux",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9094417095184326,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997004270553589,
+          "index": 6,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:42.225Z"
+    },
+    {
+      "title": "Goa Pink Force | पिंक फोर्स ठरली 'देवदूत'! 21 वर्षीय माता अन् 7 महिन्यांच्या बाळाचा पुलावरून वाचवला जीव",
+      "url": "https://pudhari.news/goa/goa-pink-force-saves-mother-and-7-month-old-baby-from-suicide-attempt-on-panaji-bridge-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T10:04:32.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.31040967354706384,
+      "crawledAt": "2026-04-05T12:48:54.011Z",
+      "id": "g9sm81",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985679388046265,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9962285757064819,
+          "index": 2,
+          "word": "Pink",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953598976135254,
+          "index": 3,
+          "word": "Force",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:42.476Z"
+    },
+    {
+      "title": "Health Benefits Of Corn : मका खा आणि मिळवा निरोगी आरोग्य! एकदा वाचा फायदे",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/health-benefits-of-corn-nutritional-value-of-maize-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T10:03:01.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.44722852973223093,
+      "crawledAt": "2026-04-05T12:48:58.584Z",
+      "id": "a50f7k",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:42.709Z"
+    },
+    {
+      "title": "Gas Theft Case: गॅस चोरीप्रकरणी १.२६ कोटींच्या मुद्देमालासह दोन मोठे टँकर जप्त",
+      "url": "https://agrowon.esakal.com/agro-special/gas-theft-tanker-seizure-1-26-crore-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T10:00:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30658843826434634,
+      "crawledAt": "2026-04-05T12:48:58.691Z",
+      "id": "tahy1h",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:58:52.731Z"
+    },
+    {
+      "title": "Why The LPG Crisis Is Forcing Migrants To Quietly Leave Delhi",
+      "url": "https://www.ndtv.com/delhi-news/iran-war-middle-east-conflict-why-the-lpg-crisis-is-forcing-migrants-to-quietly-leave-delhi-11313629#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T09:25:01.000Z",
+      "metaDescription": "She was preparing to board a train to her village in Boria district, Haryana. Her husband stood a few steps away, holding three large white sacks filled with utensils and avoiding eye contact.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.32760071275804675,
+      "crawledAt": "2026-04-05T12:50:26.040Z",
+      "id": "f92bui",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9779443740844727,
+          "index": 3,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9524445533752441,
+          "index": 4,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9958909749984741,
+          "index": 16,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " She was preparing to board a train to her village in Boria, Haryana. Her husband stood by her and she was carrying a bag of white bags.",
+      "language": "en",
+      "processed_at": "2026-04-05T12:59:34.363Z"
+    },
+    {
+      "title": "UP Woman Was Helping Grandson Park His Thar. Handbrake Error Left Her Dead",
+      "url": "https://www.ndtv.com/india-news/on-camera-driverless-thar-rams-up-woman-into-wall-reason-a-parking-error-11313717#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T09:00:46.000Z",
+      "metaDescription": "A 70-year-old woman was crushed to death after a Mahindra Thar car driven by her grandson suddenly reversed from the parking area.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.5957161409374959,
+      "crawledAt": "2026-04-05T12:50:26.612Z",
+      "id": "jpa0gl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9781193137168884,
+          "index": 1,
+          "word": "UP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A 70-year-old woman was crushed to death in a car crash in India. The car was driven by her grandson.",
+      "language": "en",
+      "processed_at": "2026-04-05T13:00:17.742Z"
+    },
+    {
+      "title": "Unseasonal Rain: पश्चिम विदर्भात पूर्वमोसमीचा सलग तडाखा",
+      "url": "https://agrowon.esakal.com/agro-special/west-vidarbha-pre-monsoon-rain-impact-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-05T09:00:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3101752907077172,
+      "crawledAt": "2026-04-05T12:48:58.940Z",
+      "id": "jwny8j",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-05T13:00:17.875Z"
+    },
+    {
+      "title": "Andhra Man Kills Daughter For Marrying Lover, Cop Suspended For Hiding Murder",
+      "url": "https://www.ndtv.com/india-news/andhra-man-kills-daughter-for-marrying-lover-cop-suspended-for-hiding-murder-11313710#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T08:58:28.000Z",
+      "metaDescription": "The Macherla town Circle Inspector (CI) traced the couple on March 15 and allegedly forced the woman to return to her parents' house.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.44050363955971944,
+      "crawledAt": "2026-04-05T12:50:26.792Z",
+      "id": "4k2rie",
+      "entities": [],
+      "summary": " The couple allegedly forced the woman to return to her parents' house. The woman was allegedly forced to return home to her mother's house.",
+      "language": "en",
+      "processed_at": "2026-04-05T13:00:25.315Z"
+    },
+    {
+      "title": "Pune News : जय पवारांनी बांधावर जाऊन केली शेती नुकसानीची पाहणी..",
+      "url": "https://www.tarunbharat.com/jai-pawar-visited-the-dam-and-inspected-the-agricultural-damage-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-05T08:38:02.000Z",
+      "metaDescription": "बारामतीत अवकाळी पावसामुळे शेतकऱ्यांचे नुकसान बारामती : बारामती मतदारसंघातील ग्रामीण भागात गेल्या दोन-तीन दिवसांपासून अवकाळी पावसाने हजेरी लावली असून, यामुळे शेतकऱ्यांच्या पिकांचे मोठ्या प्रमाणात नुकसा",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6929403157659962,
+      "crawledAt": "2026-04-05T12:48:48.340Z",
+      "id": "mkai20",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9959002733230591,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9931067228317261,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The world's largest city is in the city of San Francisco. The city is located in San Francisco, California.",
+      "language": "en",
+      "processed_at": "2026-04-05T13:00:45.645Z"
+    },
     {
       "title": "Marathwada Water Stock: मराठवाड्यात प्रकल्पांमधील उपयुक्त पाणीसाठा झपाट्याने घटतोय",
       "url": "https://agrowon.esakal.com/agro-special/marathwada-water-storage-decline-drought-rat16",
@@ -2370,6 +3897,25 @@
       "processed_at": "2026-04-05T02:05:50.952Z"
     },
     {
+      "title": "Steep decline in VC inflow; Tech job openings in April",
+      "url": "https://yourstory.com/2026/04/steep-decline-in-vc-inflow-tech-job-openings-in-april",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-05T02:00:00.000Z",
+      "metaDescription": "Venture capital funding in Indian startups saw a sharp decline in the first week of April due to the clear absence of high-value deals. In other news, job openings for technology professionals in Indi",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.346667854080053,
+      "crawledAt": "2026-04-05T12:50:32.388Z",
+      "id": "xm5yqn",
+      "entities": [],
+      "summary": "Indian startups saw a sharp decline in the first week of April due to the clear absence of high-value deals.",
+      "language": "en",
+      "processed_at": "2026-04-05T13:01:06.272Z"
+    },
+    {
       "title": "Edu expo broadens options, mock-ups give a headstart",
       "url": "https://www.deccanherald.com/india/karnataka/bengaluru/edu-expo-broadens-options-mock-ups-give-a-headstart-3956523",
       "source": "Deccan Herald",
@@ -3642,20 +5188,20 @@
       "processed_at": "2026-04-05T05:59:29.630Z"
     }
   ],
-  "processedAt": "2026-04-05T08:50:15.330Z",
+  "processedAt": "2026-04-05T13:01:06.476Z",
   "categories": [
-    "legal-judiciary",
-    "msme-industry-trade",
     "maharashtra-state-local",
-    "civic-public-service",
-    "government-schemes",
     "jobs-recruitment",
+    "legal-judiciary",
     "banking-credit",
     "education-skills",
+    "msme-industry-trade",
+    "government-schemes",
+    "civic-public-service",
     "policy-regulation"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 26,
-  "dailyArticlesCount": 94,
+  "newArticlesProcessed": 38,
+  "dailyArticlesCount": 132,
   "filterDate": "2026-04-05"
 }
