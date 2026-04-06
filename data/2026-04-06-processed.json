@@ -1,9 +1,978 @@
 {
-  "crawledAt": "2026-04-06T16:43:46.537Z",
+  "crawledAt": "2026-04-06T20:36:20.430Z",
   "totalSources": 75,
-  "totalArticles": 234,
+  "totalArticles": 261,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Govt does U-turn on KSOU Registrar’s appointment; withdraws order within 48 hours",
+      "url": "https://www.deccanherald.com/india/karnataka/govt-does-u-turn-on-ksou-registrars-appointment-withdraws-order-within-48-hours-3958597",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T20:21:43.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.32714756823988195,
+      "crawledAt": "2026-04-06T20:36:12.979Z",
+      "id": "cw2bxv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.996632993221283,
+          "index": 7,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.98274165391922,
+          "index": 8,
+          "word": "##SO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877934455871582,
+          "index": 9,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:36:39.234Z"
+    },
+    {
+      "title": "Maharashtra by-polls: BJP banks on Kardile legacy, NCP backs Mokate in Rahuri",
+      "url": "https://www.deccanherald.com/elections/maharashtra/maharashtra-by-polls-bjp-banks-on-kardile-legacy-ncp-sp-backs-mokate-in-rahuri-3958588",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T20:13:17.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.6766631405735424,
+      "crawledAt": "2026-04-06T20:36:13.104Z",
+      "id": "musfh4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9992671012878418,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998785138130188,
+          "index": 6,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9941022992134094,
+          "index": 7,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9854119420051575,
+          "index": 10,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992571473121643,
+          "index": 15,
+          "word": "NC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978300333023071,
+          "index": 16,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9900932908058167,
+          "index": 22,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:36:39.621Z"
+    },
+    {
+      "title": "Trump Threatens Jail for Journalist Over Iran Rescue Leak: National Security Warning",
+      "url": "https://www.youtube.com/shorts/ur5dYMs688c",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T20:00:28.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2949691887826144,
+      "crawledAt": "2026-04-06T20:35:51.969Z",
+      "id": "kcd7z3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8210824131965637,
+          "index": 17,
+          "word": "National",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:36:40.104Z"
+    },
+    {
+      "title": "AMC : मनपाकडून नालेसफाईच्या कामाला सुरूवात",
+      "url": "https://deshdoot.com/amc-drain-cleaning-working-start-ahilyanagar/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:59:47.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar पावसाळ्यापूर्वी शहरातील ओढे व नाल्यांची साफसफाई सुरू करण्यात आली आहे. सुरूवातीला पहिल्या टप्प्यात तीन प्रमुख ओढे व नाल्यांची साफसफाई सुरू करण्यात आली आहे. टप्प्याटप्",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.27717280363051344,
+      "crawledAt": "2026-04-06T20:34:51.835Z",
+      "id": "jnb1dd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8728287816047668,
+          "index": 1,
+          "word": "AMC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ahilyanagar. The city is home to the world's largest city, the city of Ahilya.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:36:50.774Z"
+    },
+    {
+      "title": "Crime News : क्रिकेटच्या वादातून युवकाला मारहाण",
+      "url": "https://deshdoot.com/cricket-dispute-youth-beating-ahilyanagar/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:47:30.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar शहरातील पिंजार गल्ली, पीरशहा खुंट परिसरात क्रिकेट खेळताना झालेल्या किरकोळ वादातून एका युवकाला मारहाण करून जखमी केल्याची घटना रविवारी (5 एप्रिल) रात्री घडली. आपान जाव",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.4620359268290776,
+      "crawledAt": "2026-04-06T20:34:52.428Z",
+      "id": "6zwjh3",
+      "entities": [],
+      "summary": " The city of Ahilyanagar is home to the world's largest city of London. It is located in the city of Manchester.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:02.713Z"
+    },
+    {
+      "title": "Shrigonda : साकळई योजनेस घोड धरणातून पाणी देण्यास विरोध",
+      "url": "https://deshdoot.com/saklai-scheme-ghod-dam-water-resist-giving-shrigonda/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:42:31.000Z",
+      "metaDescription": "श्रीगोंदा |तालुका प्रतिनिधी| Shrigonda तालुक्यातील घोड धरण लाभक्षेत्रातील शेतकर्‍यांनी साकळाई उपसा सिंचन योजनेसाठी घोड धरणातून पाणी देण्याच्या निर्णयाला तीव्र विरोध दर्शविला आहे. या प्रस्तावामुळे घोड ",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2695471382052343,
+      "crawledAt": "2026-04-06T20:34:52.674Z",
+      "id": "o9j0gu",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8632618188858032,
+          "index": 1,
+          "word": "Shri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Shrigonda. Shrigonda: ‘I’s’  ‘‘a’ ’",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:12.923Z"
+    },
+    {
+      "title": "Illogical acts: On SIR adjudication, Malda gherao",
+      "url": "https://www.thehindu.com/opinion/editorial/illogical-acts-on-sir-adjudication-malda-gherao/article70830766.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:40:42.000Z",
+      "metaDescription": "The Malda gherao to protest the SIR adjudication vitiates the Bengal elections",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.6048072315617992,
+      "crawledAt": "2026-04-06T20:35:31.727Z",
+      "id": "1r0c9v",
+      "entities": [],
+      "summary": " Malda gherao protest the SIR adjudication vitiates the Bengal elections. The Malda Gherao protested the Sir adjudication.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:26.422Z"
+    },
+    {
+      "title": "Data, cybersecurity skills shaping hiring: NIIT report",
+      "url": "https://www.thehindu.com/news/national/telangana/data-cybersecurity-skills-shaping-hiring-niit-report/article70830668.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:40:06.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.9938446130187043,
+      "crawledAt": "2026-04-06T20:35:31.822Z",
+      "id": "k8bul6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9926266670227051,
+          "index": 12,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8846545219421387,
+          "index": 13,
+          "word": "##II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9588408470153809,
+          "index": 14,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:26.743Z"
+    },
+    {
+      "title": "\"I Am A Businessman First\": Trump Eyes Iran Oil As War Expands",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-eyes-iran-oil-as-war-expands-11320323#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:36:55.000Z",
+      "metaDescription": "President Donald Trump has said the United States could take control of Iranian oil resources as part of the outcome of the ongoing conflict, framing it as a potential economic return for military act",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.36076391928650886,
+      "crawledAt": "2026-04-06T20:35:39.837Z",
+      "id": "jm8vn7",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8314223885536194,
+          "index": 5,
+          "word": "Business",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9418768882751465,
+          "index": 6,
+          "word": "##man",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trump has said the United States could take control of Iranian oil resources as part of the ongoing conflict. President Donald Trump has framed it as a potential economic return for military act.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:38.251Z"
+    },
+    {
+      "title": "What happens when body stops listening to insulin?",
+      "url": "https://www.deccanherald.com/health/what-happens-when-body-stops-listening-to-insulin-3958184",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T19:32:09.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3433849206583919,
+      "crawledAt": "2026-04-06T20:36:13.418Z",
+      "id": "q0soq0",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:48.078Z"
+    },
+    {
+      "title": "Trump Speech | Trump Threatens Jail for Journalist Over Iran Rescue Leak: National Security Warning",
+      "url": "https://www.youtube.com/watch?v=sEpNG2QbD1w",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T19:30:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3113908683313893,
+      "crawledAt": "2026-04-06T20:35:52.592Z",
+      "id": "zfkyok",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8924109935760498,
+          "index": 21,
+          "word": "Security",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:37:48.436Z"
+    },
+    {
+      "title": "Part of state capex loan tied to fiscal discipline",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/part-of-state-capex-loan-tied-to-fiscal-discipline/articleshow/130070359.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T19:24:46.000Z",
+      "metaDescription": "Under the total outlay, Arunachal Pradesh received the highest allocation of Rs 4,900 crore, followed by Himachal Pradesh with Rs 3,920 crore. Nagaland was allocated Rs 3,880 crore, while Uttarakhand ",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.6232783492225814,
+      "crawledAt": "2026-04-06T20:34:31.656Z",
+      "id": "8vxehj",
+      "entities": [],
+      "summary": " Arunachal Pradesh received the highest allocation of Rs 4,900 crore. Nagaland was allocated Rs 3,880 crore, while Uttarakhand received Rs 3.880 crore.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:38:03.152Z"
+    },
+    {
+      "title": "\"Give It Up Or Go To Jail\": Trump Vows To Find F-15 \"Leak\", Threatens Media",
+      "url": "https://www.ndtv.com/world-news/us-f-15-rescue-donald-trump-war-news-iran-did-not-know-f-15-airman-was-missing-then-a-leaker-broke-the-story-11320156#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T18:54:51.000Z",
+      "metaDescription": "Trump said US authorities would go directly to the media organisation that published the story and demand the identity of the source.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3330794207914085,
+      "crawledAt": "2026-04-06T20:35:40.239Z",
+      "id": "qxq8j7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9943122267723083,
+          "index": 12,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9455795288085938,
+          "index": 17,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9861834645271301,
+          "index": 25,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8854803442955017,
+          "index": 26,
+          "word": "##hr",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.909465491771698,
+          "index": 27,
+          "word": "##eat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9284275770187378,
+          "index": 28,
+          "word": "##ens",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9798249006271362,
+          "index": 29,
+          "word": "Media",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trump said authorities would go directly to the media to demand the identity of the source. Trump said he would go to the source of the story.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:39:21.022Z"
+    },
+    {
+      "title": "The blurred line between reality and illusion: the influence of film personalities on the masses",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/theblurredline-between-reality-and-illusion-the-influence-of-film-personalities-on-the-masses/article70830894.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T18:44:26.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2960423537522931,
+      "crawledAt": "2026-04-06T20:35:32.971Z",
+      "id": "e2w69d",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:39:43.231Z"
+    },
+    {
+      "title": "Nashik bribery case : दिंडोरीत शिक्षणाधिकाऱ्यासह तिघेजण एसीबीच्या जाळ्यात",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashik-dindori-block-education-officer-arrested-acb-bribery-case-dc95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T18:34:21.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2887173462646476,
+      "crawledAt": "2026-04-06T20:34:10.499Z",
+      "id": "mx22oh",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:40:04.241Z"
+    },
+    {
+      "title": "Why astronauts carry plush toys into space: Baby Yoda, Snoopy and other mascots used as floating zero gravity indicators",
+      "url": "https://timesofindia.indiatimes.com/science/why-astronauts-carry-plush-toys-into-space-baby-yoda-snoopy-and-other-mascots-used-as-floating-zero-gravity-indicators/articleshow/130063608.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T18:30:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.34776767880182413,
+      "crawledAt": "2026-04-06T20:35:49.214Z",
+      "id": "lcaucq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.994401216506958,
+          "index": 11,
+          "word": "Baby",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8867318630218506,
+          "index": 12,
+          "word": "Yo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9953023791313171,
+          "index": 15,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9769732356071472,
+          "index": 17,
+          "word": "##opy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:40:47.643Z"
+    },
+    {
+      "title": "\"Every State Stands To Benefit\": PM Modi On Increasing Lok Sabha Strength",
+      "url": "https://www.ndtv.com/india-news/womens-quota-every-state-stands-to-benefit-pm-modi-on-increasing-lok-sabha-strength-11320150#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T18:24:58.000Z",
+      "metaDescription": "PM Modi said: \"Whether it is the northeast or South India - regions where population growth has been successfully controlled - their parliamentary representation will certainly not be diminished\".",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.47630930495897894,
+      "crawledAt": "2026-04-06T20:35:43.823Z",
+      "id": "2a06k5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994057416915894,
+          "index": 13,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PM Modi said: \"Whether it is the northeast or South India - regions where population growth has been successfully controlled\" PM Modi: \"Their parliamentary representation will certainly not be diminished\"",
+      "language": "en",
+      "processed_at": "2026-04-06T20:41:11.017Z"
+    },
+    {
+      "title": "Telangana High Court issues notices to State, Centre over petition challenging award for Shamirpet police station",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-high-court-issues-notices-to-state-centre-over-petition-challenging-award-for-shamirpet-police-station/article70831226.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T17:59:14.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.26495088436748304,
+      "crawledAt": "2026-04-06T20:35:33.770Z",
+      "id": "ir273e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8456663489341736,
+          "index": 1,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8090195059776306,
+          "index": 3,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9603907465934753,
+          "index": 7,
+          "word": "State",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9927225112915039,
+          "index": 15,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9507501125335693,
+          "index": 18,
+          "word": "##pet",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:42:15.252Z"
+    },
+    {
+      "title": "Trump threatens jail for journalist over report on US F-15 crash in Iran",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-threatens-jail-for-journalist-over-report-on-us-f-15-crash-in-iran/article70831731.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T17:51:14.000Z",
+      "metaDescription": "He also detailed a large-scale US rescue operation involving over 150 aircraft, using diversion tactics to locate and extract the injured airman from hostile territory.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2806090547367878,
+      "crawledAt": "2026-04-06T20:35:38.130Z",
+      "id": "x03g0g",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9954644441604614,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.982836902141571,
+          "index": 9,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.996912956237793,
+          "index": 10,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9626091122627258,
+          "index": 11,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9967732429504395,
+          "index": 12,
+          "word": "15",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997453689575195,
+          "index": 15,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " He detailed a large-scale US rescue operation involving over 150 aircraft. He also detailed a major rescue operation using diversion tactics.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:42:43.767Z"
+    },
+    {
+      "title": "Steve Bannon contempt of Congress case: How conviction over J6 now faces possible dismissal",
+      "url": "https://timesofindia.indiatimes.com/world/us/steve-bannon-contempt-of-congress-case-how-conviction-over-january-6-now-faces-possible-dismissal/articleshow/130067327.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T17:25:07.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5358014900125296,
+      "crawledAt": "2026-04-06T20:35:48.831Z",
+      "id": "yvpncn",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9998008012771606,
+          "index": 1,
+          "word": "Steve",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997403025627136,
+          "index": 2,
+          "word": "Ban",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983248114585876,
+          "index": 3,
+          "word": "##non",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998214602470398,
+          "index": 6,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:43:37.367Z"
+    },
+    {
+      "title": "BWSSB to dispatch One Time Settlement notice with this month's water bill",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bwssb-to-dispatch-one-time-settlement-notice-with-this-months-water-bill-3958434",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T17:23:20.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2679406621135218,
+      "crawledAt": "2026-04-06T20:36:14.086Z",
+      "id": "tep2h2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992798566818237,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9866196513175964,
+          "index": 2,
+          "word": "##WS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980410933494568,
+          "index": 3,
+          "word": "##SB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8840296864509583,
+          "index": 6,
+          "word": "One",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9115209579467773,
+          "index": 7,
+          "word": "Time",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:43:37.522Z"
+    },
+    {
+      "title": "Car Safety Technology | कार सुरक्षेचा नवा स्मार्ट रक्षक",
+      "url": "https://pudhari.news/sampadakiy/new-smart-car-safety-guardian-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T17:21:43.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.35817862797994887,
+      "crawledAt": "2026-04-06T20:34:10.807Z",
+      "id": "7akuxt",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8093439340591431,
+          "index": 2,
+          "word": "Safety",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:43:37.857Z"
+    },
+    {
+      "title": "Israeli airstrike kills at least 10 near Gaza school as ceasefire strains",
+      "url": "https://www.deccanherald.com/world/middle-east/israeli-airstrike-kills-at-least-10-near-gaza-school-as-ceasefire-strains-3958428",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T17:19:38.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.26551491885387885,
+      "crawledAt": "2026-04-06T20:36:14.294Z",
+      "id": "4wjje4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996535778045654,
+          "index": 1,
+          "word": "Israeli",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999638557434082,
+          "index": 10,
+          "word": "Gaza",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:43:38.009Z"
+    },
+    {
+      "title": "4 Days To Death, 6 Years To Justice: Inside The Tamil Nadu Custodial Killings",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-custodial-deaths-4-days-to-death-6-years-to-justice-inside-the-tamil-nadu-custodial-killings-11319793#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:48:39.000Z",
+      "metaDescription": "Nine police officials have been handed death sentences for the custodial deaths of P Jayaraj and his son J Benicks.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.742117835561765,
+      "crawledAt": "2026-04-06T20:35:44.636Z",
+      "id": "62ytd7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9612826108932495,
+          "index": 13,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9708689451217651,
+          "index": 14,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " P. Jayaraj and his son J. Benicks were killed by police officers in 2009. They were found guilty of murder and manslaughter.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:44:12.361Z"
+    },
+    {
+      "title": "Senior Citizens Tax Relief | ज्येष्ठ नागरिकांना दिलासा ‘फॉर्म 121’ चा!",
+      "url": "https://pudhari.news/features/arthabhan/form-121-new-option-to-save-tds-for-senior-citizens-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T16:43:03.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.262466083782283,
+      "crawledAt": "2026-04-06T20:34:11.365Z",
+      "id": "463b30",
+      "entities": [],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:44:34.160Z"
+    },
+    {
+      "title": "Clergy tell Kerala voters to be guided by conscience",
+      "url": "https://www.thehindubusinessline.com/news/clergy-tell-kerala-voters-to-be-guided-by-conscience/article70829586.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:42:06.000Z",
+      "metaDescription": "With the Christian community wielding significant influence in nearly 40 constituencies, particularly in central Kerala, its electoral stance is seen as crucial",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.28509769623548153,
+      "crawledAt": "2026-04-06T20:35:38.999Z",
+      "id": "y6pi6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999762773513794,
+          "index": 5,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Christian community wields significant influence in nearly 40 constituencies, particularly in central Kerala. The Christian community is seen as crucial to the state's electoral stance.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:44:43.579Z"
+    },
     {
       "title": "GBA directs all corporations to procure one pothole-filling machine",
       "url": "https://www.thehindu.com/news/cities/bangalore/gba-chief-commissioner-directs-btp-to-begin-towing-operations-from-today/article70830623.ece",
@@ -58,6 +1027,42 @@
       "summary": " Banks are expected to report steady Q4 due to strong loan and deposit growth, improved profitability, and controlled slippages.",
       "language": "en",
       "processed_at": "2026-04-06T16:44:31.486Z"
+    },
+    {
+      "title": "Rabi season fertiliser procurement faces ‘too many ifs’, says FM Sitharaman",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/rabi-season-fertilizer-procurement-faces-too-many-ifs-says-fm-sitharaman/article70830728.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:15:25.000Z",
+      "metaDescription": "FM assures that there is enough fiscal space available to meet the challenges caused by West Asia war",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.7436443409320695,
+      "crawledAt": "2026-04-06T20:35:30.092Z",
+      "id": "w30kxm",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9971942901611328,
+          "index": 19,
+          "word": "FM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9939730167388916,
+          "index": 20,
+          "word": "Sit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " FM assures that there is enough fiscal space available to meet the challenges caused by West Asia war. FM assures there is sufficient fiscal space to meet challenges caused.",
+      "language": "en",
+      "processed_at": "2026-04-06T20:44:53.958Z"
     },
     {
       "title": "Metro Expansion, Pod Taxis: Mumbai To Unveil Major Infrastructure Projects",
@@ -8832,20 +9837,20 @@
       "processed_at": "2026-04-06T09:26:33.688Z"
     }
   ],
-  "processedAt": "2026-04-06T16:55:37.503Z",
+  "processedAt": "2026-04-06T20:45:03.847Z",
   "categories": [
     "jobs-recruitment",
     "banking-credit",
-    "maharashtra-state-local",
     "government-schemes",
-    "education-skills",
-    "civic-public-service",
     "legal-judiciary",
+    "maharashtra-state-local",
+    "msme-industry-trade",
+    "education-skills",
     "policy-regulation",
-    "msme-industry-trade"
+    "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 44,
-  "dailyArticlesCount": 234,
+  "newArticlesProcessed": 27,
+  "dailyArticlesCount": 261,
   "filterDate": "2026-04-06"
 }
