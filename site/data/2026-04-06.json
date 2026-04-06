@@ -1,9 +1,1506 @@
 {
-  "crawledAt": "2026-04-06T13:04:08.817Z",
+  "crawledAt": "2026-04-06T16:43:46.537Z",
   "totalSources": 75,
-  "totalArticles": 190,
+  "totalArticles": 234,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "GBA directs all corporations to procure one pothole-filling machine",
+      "url": "https://www.thehindu.com/news/cities/bangalore/gba-chief-commissioner-directs-btp-to-begin-towing-operations-from-today/article70830623.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:37:18.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.47421699323288513,
+      "crawledAt": "2026-04-06T16:43:02.741Z",
+      "id": "oit4j",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991900324821472,
+          "index": 1,
+          "word": "GB",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994380533695221,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:43:49.425Z"
+    },
+    {
+      "title": "Steady Q4 expected for banks on strong metrics",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/steady-q4-expected-for-banks-on-strong-metrics/article70831127.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:26:16.000Z",
+      "metaDescription": "Banks are anticipated to report steady Q4 due to strong loan and deposit growth, improved profitability, and controlled slippages",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.620913323468111,
+      "crawledAt": "2026-04-06T16:43:10.010Z",
+      "id": "i1r777",
+      "entities": [],
+      "summary": " Banks are expected to report steady Q4 due to strong loan and deposit growth, improved profitability, and controlled slippages.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:44:31.486Z"
+    },
+    {
+      "title": "Metro Expansion, Pod Taxis: Mumbai To Unveil Major Infrastructure Projects",
+      "url": "https://www.ndtv.com/india-news/metro-expansion-pod-taxis-mumbai-to-unveil-major-infrastructure-projects-11319661#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T16:14:58.000Z",
+      "metaDescription": "From high-speed underground tunnels to expanded metro networks and futuristic last-mile transit, the state leadership is set to unveil a 360-degree overhaul of the city's transport ecosystem.",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.7012598360233467,
+      "crawledAt": "2026-04-06T16:43:13.467Z",
+      "id": "1495gn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.986814022064209,
+          "index": 1,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8950772285461426,
+          "index": 2,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9405388832092285,
+          "index": 11,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " state leadership is set to unveil a 360-degree overhaul of the city's transport ecosystem. From high-speed underground tunnels to expanded metro networks, state leadership will unveil a new transport system.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:45:02.575Z"
+    },
+    {
+      "title": "Marathi Test Auto Drivers : ‘मराठीतून परीक्षा द्या; अन्यथा परवाना रद्द’ : रिक्षाचालकांची घेणार चाचणी; 1 मे पर्यंत राबविणार मोहीम",
+      "url": "https://pudhari.news/maharashtra/mumbai/marathi-test-auto-rickshaw-drivers-license-cancellation-campaign-may-1-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T16:08:53.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.45500455255736877,
+      "crawledAt": "2026-04-06T16:41:42.509Z",
+      "id": "n0wzyl",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:45:32.372Z"
+    },
+    {
+      "title": "Agriculture Officer Retirement: नाशिक ‘झेडपी’चे कृषी विकास अधिकारी शेवाळे सेवानिवृत्त",
+      "url": "https://agrowon.esakal.com/agro-special/nashik-agriculture-officer-retirement-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T16:00:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.32247785958873537,
+      "crawledAt": "2026-04-06T16:41:51.635Z",
+      "id": "sk0tlv",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:45:51.984Z"
+    },
+    {
+      "title": "My First Blog on Medium — As Sensing Medicine",
+      "url": "https://medium.com/@sensingmedicine/my-first-blog-on-medium-as-sensing-medicine-500dd3101178?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T15:59:40.000Z",
+      "metaDescription": "Hello, I’m Dr. Satyasheel Asthana.\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26715427859775276,
+      "crawledAt": "2026-04-06T16:43:40.855Z",
+      "id": "aaull4",
+      "entities": [],
+      "summary": "Dr. Satyasheel Asthana: I'm Dr. SatYasheeel AstHana.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:01.776Z"
+    },
+    {
+      "title": "Lindsey Graham says US is so close to strategic victory: 'Either via diplomacy or military action'",
+      "url": "https://timesofindia.indiatimes.com/world/us/lindsey-graham-says-us-is-so-close-to-strategic-victory-either-via-diplomacy-or-military-action/articleshow/130065352.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T15:56:40.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.25041026091148444,
+      "crawledAt": "2026-04-06T16:43:07.643Z",
+      "id": "dcu56g",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997092485427856,
+          "index": 1,
+          "word": "Lindsey",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992887377738953,
+          "index": 2,
+          "word": "Graham",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994902610778809,
+          "index": 4,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:02.293Z"
+    },
+    {
+      "title": "Railway staff help woman deliver baby girl aboard train in Andhra Pradesh",
+      "url": "https://www.deccanherald.com/india/andhra-pradesh/railway-staff-help-woman-deliver-baby-girl-aboard-train-in-andhra-pradesh-3957875",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T15:51:25.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.30028975451383627,
+      "crawledAt": "2026-04-06T16:43:39.923Z",
+      "id": "iscsd3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995010495185852,
+          "index": 11,
+          "word": "Andhra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9993603825569153,
+          "index": 12,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:02.648Z"
+    },
+    {
+      "title": "Death penalty to nine policemen in Tamil Nadu custodial death case",
+      "url": "https://www.deccanherald.com/india/tamil-nadu/death-penalty-to-nine-policemen-in-tamil-nadu-custodial-death-case-3958279",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T15:43:17.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4308878816437485,
+      "crawledAt": "2026-04-06T16:43:40.153Z",
+      "id": "g47rmh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996324777603149,
+          "index": 7,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992315769195557,
+          "index": 8,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:19.083Z"
+    },
+    {
+      "title": "Maharashtra fuel supply : \"घाबरू नका, साठा करू नका!\"; राज्यात इंधनाचा पुरवठा सुरळीत, सरकारचा निर्वाळा",
+      "url": "https://pudhari.news/maharashtra/mumbai/maharashtra-fuel-supply-stable-no-hoarding-government-assurance-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T15:41:16.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5434152033192566,
+      "crawledAt": "2026-04-06T16:41:43.484Z",
+      "id": "7fkpzo",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991658329963684,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:30.887Z"
+    },
+    {
+      "title": "Centre imposes export ban on wood briquettes",
+      "url": "https://www.deccanherald.com/india/centre-imposes-export-ban-on-wood-briquettes-3958270",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T15:40:06.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 4,
+      "confidence": 0.47579413744907595,
+      "crawledAt": "2026-04-06T16:43:40.242Z",
+      "id": "jfcucx",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:31.010Z"
+    },
+    {
+      "title": "Mumbai’s Metro network gets bigger: What commuters need to know",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbais-metro-network-gets-bigger-what-commuters-need-to-know-10622444/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T15:33:31.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5333793479275598,
+      "crawledAt": "2026-04-06T16:42:17.516Z",
+      "id": "bywaeg",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993364214897156,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9956410527229309,
+          "index": 4,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:46:50.176Z"
+    },
+    {
+      "title": "Mother Of All Missions | Unreported Details Of Pilot Rescue | India Matters",
+      "url": "https://www.youtube.com/watch?v=FJj01XeZfP8",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T15:25:28.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.253589863217407,
+      "crawledAt": "2026-04-06T16:43:22.447Z",
+      "id": "im5i7d",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.988781750202179,
+          "index": 1,
+          "word": "Mother",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9939476251602173,
+          "index": 2,
+          "word": "Of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971391558647156,
+          "index": 3,
+          "word": "All",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953553676605225,
+          "index": 4,
+          "word": "Mission",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9915344715118408,
+          "index": 5,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8430560231208801,
+          "index": 18,
+          "word": "Matters",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:00.496Z"
+    },
+    {
+      "title": "Fino Payments Bank Appoints Ex-RBI Counsel Abhilash Ankathil As CCO",
+      "url": "https://inc42.com/buzz/fino-payments-bank-appoints-ex-rbi-counsel-abhilash-ankathil-as-cco/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T15:19:22.000Z",
+      "metaDescription": "Fino Payments Bank’s board has approved the appointment of former RBI executive Abhilash Ankathil as the listed fintech major’s chief…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5082893992659853,
+      "crawledAt": "2026-04-06T16:43:28.643Z",
+      "id": "mnkaoj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978026747703552,
+          "index": 1,
+          "word": "Fin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973298907279968,
+          "index": 2,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988274574279785,
+          "index": 3,
+          "word": "Pay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9984156489372253,
+          "index": 4,
+          "word": "##ments",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9938751459121704,
+          "index": 5,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8430385589599609,
+          "index": 10,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9928261041641235,
+          "index": 12,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9990180730819702,
+          "index": 14,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9363272786140442,
+          "index": 15,
+          "word": "##b",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8503021001815796,
+          "index": 16,
+          "word": "##hil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998665988445282,
+          "index": 18,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9764646887779236,
+          "index": 19,
+          "word": "##kat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Fino Payments Bank’s board has approved the appointment of former RBI executive Abhilash Ankathil.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:09.911Z"
+    },
+    {
+      "title": "Prices of essential commodities remain stable: Centre amid West Asia crisis",
+      "url": "https://www.deccanherald.com/india/prices-of-essential-commodities-remain-stable-centre-amid-west-asia-crisis-3958243",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-06T15:19:19.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.2935881574213406,
+      "crawledAt": "2026-04-06T16:43:40.694Z",
+      "id": "korhq9",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9057900309562683,
+          "index": 11,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9620826244354248,
+          "index": 12,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:10.017Z"
+    },
+    {
+      "title": "ED registers offence against self-styled godman Kharat",
+      "url": "https://indianexpress.com/article/mumbai/ed-registers-offence-against-self-styled-godman-kharat-10622407/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T15:03:27.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3225939723525883,
+      "crawledAt": "2026-04-06T16:42:17.607Z",
+      "id": "sdab1z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985718131065369,
+          "index": 1,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.937846302986145,
+          "index": 2,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9907268285751343,
+          "index": 11,
+          "word": "K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:22.594Z"
+    },
+    {
+      "title": "How the Black Death in Europe built the foundations of the Renaissance",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/how-the-black-death-in-europe-built-the-foundations-of-the-renaissance/articleshow/130060216.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T15:00:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.267871538948747,
+      "crawledAt": "2026-04-06T16:43:09.299Z",
+      "id": "w6j50f",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9959278702735901,
+          "index": 3,
+          "word": "Black",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9862441420555115,
+          "index": 4,
+          "word": "Death",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990578293800354,
+          "index": 6,
+          "word": "Europe",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9891120195388794,
+          "index": 12,
+          "word": "Renaissance",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:54.516Z"
+    },
+    {
+      "title": "Beed Crime | डॉक्टर विद्यार्थ्याने गळफास घेतल्याने अंबाजोगाईत खळबळ",
+      "url": "https://pudhari.news/maharashtra/marathwada/beed/beed-crime-ambajogai-medical-student-suicide-by-hanging-investigation-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T14:56:51.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.31193857577202616,
+      "crawledAt": "2026-04-06T16:41:45.900Z",
+      "id": "682xve",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:54.656Z"
+    },
+    {
+      "title": "Soldier arrives at Louisiana base for training, ICE arrests his Honduran wife who was brought to US as toddler",
+      "url": "https://timesofindia.indiatimes.com/world/us/soldier-arrives-at-louisiana-base-for-training-ice-arrests-his-honduran-wife-who-was-brought-to-us-as-toddler/articleshow/130064167.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:56:16.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.28188030249666496,
+      "crawledAt": "2026-04-06T16:43:07.866Z",
+      "id": "xdu52y",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999725341796875,
+          "index": 4,
+          "word": "Louisiana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982390403747559,
+          "index": 9,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907979369163513,
+          "index": 10,
+          "word": "##CE",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9987151026725769,
+          "index": 13,
+          "word": "Hon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8395686745643616,
+          "index": 14,
+          "word": "##du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994829893112183,
+          "index": 21,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:47:54.847Z"
+    },
+    {
+      "title": "Custodial Death Case | पोलिस कोठडीत छळामुळे पिता-पुत्राचा मृत्यू; न्यायालयाने ९ पोलिसांना सुनावली फाशीची शिक्षा",
+      "url": "https://pudhari.news/national/tamil-nadu-sathankulam-custodial-death-case-9-policemen-awarded-death-penalty-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T14:54:01.000Z",
+      "metaDescription": "पोलिस कोठडीत छळामुळे पिता-पुत्राचा मृत्यू; न्यायालयाने ९ पोलिसांना सुनावली फाशीची शिक्षा",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3994452443933608,
+      "crawledAt": "2026-04-06T16:41:46.523Z",
+      "id": "qfo61q",
+      "entities": [],
+      "summary": "M. A.C. A.C. C.C.,  M.C.-C.C.'s M’s C.A.C’S. C’C‘C s’",
+      "language": "en",
+      "processed_at": "2026-04-06T16:48:27.737Z"
+    },
+    {
+      "title": "Crime News : संगमनेरात 8 लाख 68 हजाराचे गोमांस जप्त",
+      "url": "https://deshdoot.com/sangamner-slaughterhouses-beef-seized/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:53:18.000Z",
+      "metaDescription": "संगमनेर |प्रतिनिधी| Sangamner शहरामध्ये कत्तलखाने (Slaughterhouses) उध्वस्त केल्यानंतर पुन्हा अहिल्यानगर स्थानिक गुन्हे शाखेच्या पथकाने (LCB Police) रविवारी (दि.5) भारतनगर परिसरात छापा (Raid) टाकून 8 ",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.36892079916268283,
+      "crawledAt": "2026-04-06T16:42:24.898Z",
+      "id": "n8cy87",
+      "entities": [],
+      "summary": " The city of London is home to 8.5 million people. The city is home. It is home for the first time since 2008.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:48:38.346Z"
+    },
+    {
+      "title": "Govt extends implementation timeline for quality control order on electrical appliances till October",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-extends-implementation-timeline-for-quality-control-order-on-electrical-appliances-till-october/articleshow/130064237.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T14:50:54.000Z",
+      "metaDescription": "The government has announced a new timeline for the rollout of a mandatory quality control directive regarding certain electrical appliances, now set to commence in October 2026. This directive affect",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.3009388672075518,
+      "crawledAt": "2026-04-06T16:42:00.748Z",
+      "id": "1h42q1",
+      "entities": [],
+      "summary": " The government has announced a new timeline for the rollout of a mandatory quality control directive. The directive will begin in October 2026.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:48:58.342Z"
+    },
+    {
+      "title": "Rabi season fertilizer procurement faces ‘too many ifs’, says FM Sitharaman",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/rabi-season-fertilizer-procurement-faces-too-many-ifs-says-fm-sitharaman/article70830728.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:49:47.000Z",
+      "metaDescription": "FM assures that there is enough fiscal space available to meet the challenges caused by West Asia war",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.6578818516290608,
+      "crawledAt": "2026-04-06T16:43:00.247Z",
+      "id": "2s5uer",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9826280474662781,
+          "index": 18,
+          "word": "FM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9559212327003479,
+          "index": 19,
+          "word": "Sit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " FM assures that there is enough fiscal space available to meet the challenges caused by West Asia war. FM assures there is sufficient fiscal space to meet challenges caused.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:49:07.592Z"
+    },
+    {
+      "title": "School Assembly News Headlines : Top National, World, Business, Sports News",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-7-top-national-world-business-sports-news-11319258#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:44:48.000Z",
+      "metaDescription": "School Assembly News Headlines (April 7): Staying updated on important national, international, sports, and business news sharpens the mind of students.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3628917290380367,
+      "crawledAt": "2026-04-06T16:43:15.012Z",
+      "id": "a55cwn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9758634567260742,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9141936302185059,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9532915949821472,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9665132164955139,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9232035875320435,
+          "index": 12,
+          "word": "Business",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9764214754104614,
+          "index": 14,
+          "word": "Sports",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9468796253204346,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " School Assembly News Headlines: Staying updated on important national, international, sports, and business news. School Assembly news.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:49:30.919Z"
+    },
+    {
+      "title": "'Will continue war ...': Iran rejects temporary truce; sets condition for talks",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/will-continue-war-iran-rejects-temporary-truce-sets-condition-for-talks/articleshow/130063910.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:37:34.000Z",
+      "metaDescription": "Iran has finalised its demands for ending the conflict with the US and Israel, rejecting a temporary truce. Tehran conveyed its requirements through intermediaries, deeming earlier US proposals \"exces",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2633624319986986,
+      "crawledAt": "2026-04-06T16:43:08.095Z",
+      "id": "sfl8of",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998379945755005,
+          "index": 10,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Iran has finalised its demands for ending the conflict with the US and Israel. Tehran conveyed its requirements through intermediaries through intermediary. Tehran said earlier US proposals \"exces\"",
+      "language": "en",
+      "processed_at": "2026-04-06T16:50:00.836Z"
+    },
+    {
+      "title": "Biofertilizers Agriculture: जैविक खतांनी रासायनिक खतांचा वापर कसा कमी करावा?",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/how-organic-fertilizers-reduce-use-chemical-fertilizers-ssp-25",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T14:28:01.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.315280386432423,
+      "crawledAt": "2026-04-06T16:41:52.244Z",
+      "id": "2ik439",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:50:30.168Z"
+    },
+    {
+      "title": "'Can't Take High Court Chief Justice's Call?' Top Court Raps Bengal Officer",
+      "url": "https://www.ndtv.com/india-news/sheer-failure-supreme-court-raps-top-bengal-officer-over-malda-incident-11318517#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:22:39.000Z",
+      "metaDescription": "\"Sheer Failure\": Supreme Court Raps Top Bengal Officer Over Malda Incident",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.5784751734159871,
+      "crawledAt": "2026-04-06T16:43:15.375Z",
+      "id": "hxx306",
+      "entities": [],
+      "summary": " \"Sheer Failure\": Supreme Court Raps Top Bengal Officer Over Malda Incident. \"Sheers Failure\": Supreme Court's top Bengal Officer over Malda incident.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:50:42.130Z"
+    },
+    {
+      "title": "JIIF plans to invest Rs 80-100 Cr in early-stage startups",
+      "url": "https://yourstory.com/2026/04/jiif-aims-to-invest-rs-80-100-crore-in-early-stage-startups",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:18:56.000Z",
+      "metaDescription": "JIIF aims to back 20–25 startups each year, with typical investment sizes ranging from Rs 1.5 crore to Rs 2 crore, depending on the stage and sector.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3569477670342361,
+      "crawledAt": "2026-04-06T16:43:26.499Z",
+      "id": "fx8y8k",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991962909698486,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9278810620307922,
+          "index": 2,
+          "word": "##II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960574507713318,
+          "index": 3,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " JIIF aims to back 20–25 startups each year, with typical investment sizes ranging from Rs 1.5 crore to Rs 2 crore.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:50:53.937Z"
+    },
+    {
+      "title": "Woman seeking ENT doctor’s appointment lost Rs 5.5 lakh to cyber criminals",
+      "url": "https://indianexpress.com/article/cities/pune/woman-seeking-ent-doctors-appointment-lost-rs-5-5-lakh-to-cyber-criminals-10622271/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T14:12:09.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3462885680169226,
+      "crawledAt": "2026-04-06T16:42:13.380Z",
+      "id": "9f35lo",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:51:44.353Z"
+    },
+    {
+      "title": "Nagpur Crime | ‘तुम्हाला आवडते ती साडी घालून मी सजली आहे...‘ चिठ्ठी लिहली आणि मयुरीने घेतला गळफास, काय आहे चिठ्ठीत?",
+      "url": "https://pudhari.news/maharashtra/vidarbha/nagpur/mayuri-suicide-case-suicide-note-details-sari-message-tragic-incident-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T14:10:57.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.34506734321329646,
+      "crawledAt": "2026-04-06T16:41:47.127Z",
+      "id": "fa3ytw",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:51:44.657Z"
+    },
+    {
+      "title": "Gadchiroli Youth Death | नोकरीचे स्वप्न अधुरे: एसआरपी भरतीदरम्यान हृदयविकाराच्या झटक्याने युवकाचा मृत्यू",
+      "url": "https://pudhari.news/maharashtra/vidarbha/gadchiroli/gadchiroli-desaiganj-srp-recruitment-candidate-dies-heart-attack-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T14:10:13.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2505998158418356,
+      "crawledAt": "2026-04-06T16:41:47.254Z",
+      "id": "abmr51",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8942174315452576,
+          "index": 3,
+          "word": "##chi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.820203423500061,
+          "index": 4,
+          "word": "##rol",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:51:44.879Z"
+    },
+    {
+      "title": "GITAM develops IoT-based system to help sericulture farmers",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/gitam-develops-iot-based-system-to-help-sericulture-farmers/article70830299.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T14:07:33.000Z",
+      "metaDescription": "The system integrates in-field soil sensors, a micro-weather station, and a cloud-based data layer that translates field inputs into actionable farm decisions",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2943788051786947,
+      "crawledAt": "2026-04-06T16:43:01.146Z",
+      "id": "xcggtc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9989692568778992,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8695648908615112,
+          "index": 2,
+          "word": "##IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907134175300598,
+          "index": 3,
+          "word": "##AM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9988002777099609,
+          "index": 5,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9535730481147766,
+          "index": 6,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9851128458976746,
+          "index": 7,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The system integrates in-field soil sensors, a micro-weather station, and a cloud-based data layer that translates field inputs into actionable farm decisions.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:51:56.543Z"
+    },
+    {
+      "title": "Water Scarcity: अमरावतीतील ५४५ गावांना बसणार पाणीटंचाईचे चटके",
+      "url": "https://agrowon.esakal.com/agro-special/amravati-water-scarcity-545-villages-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T14:00:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.280191092135337,
+      "crawledAt": "2026-04-06T16:41:52.372Z",
+      "id": "d4hd18",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:52:14.010Z"
+    },
+    {
+      "title": "In a push for FTAs, GeM upgrades portal to support multi-currency bidding, participation of foreign sellers",
+      "url": "https://www.thehindubusinessline.com/economy/in-a-push-for-ftas-gem-upgrades-portal-to-support-multi-currency-bidding-participation-of-foreign-sellers/article70830621.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T13:53:58.000Z",
+      "metaDescription": "Under price sanity drive, about 6,700 abnormal offer prices removed; GMV in FY26 dips 7.4% to ₹ 5.03 lakh crore",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.58111495414358,
+      "crawledAt": "2026-04-06T16:43:01.499Z",
+      "id": "e0spsa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9971825480461121,
+          "index": 9,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9596753120422363,
+          "index": 10,
+          "word": "##e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.947940468788147,
+          "index": 11,
+          "word": "##M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Under price sanity drive, about 6,700 abnormal offer prices were removed. GMV in FY26 dips 7.4% to ₹ 5.03 lakh crore.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:52:34.106Z"
+    },
+    {
+      "title": "Urea Misuse: अनुदानित १०० पोती युरियाचा गैरवापर",
+      "url": "https://agrowon.esakal.com/agro-special/subsidized-urea-misuse-nagpur-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T13:45:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.25446415194251065,
+      "crawledAt": "2026-04-06T16:41:52.596Z",
+      "id": "c3hh8u",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:52:34.598Z"
+    },
+    {
+      "title": "Latur Crime | उदगिरात अल्पवयीन मुलीचा विनयभंग; आरोपीविरुद्ध पोस्को अंतर्गत गुन्हा दाखल",
+      "url": "https://pudhari.news/maharashtra/marathwada/latur/latur-crime-minor-girl-molestation-udgir-pocso-case-registered-accused-arrested-ng81",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T13:41:07.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.34625423264789573,
+      "crawledAt": "2026-04-06T16:41:47.806Z",
+      "id": "xgbm8y",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:52:55.821Z"
+    },
+    {
+      "title": "Promoting healthier cities: SPPU students examine global studies to formulate recommendations for policymakers",
+      "url": "https://indianexpress.com/article/cities/pune/promoting-healthier-cities-sppu-students-examine-global-studies-to-formulate-recommendations-for-policymakers-10622182/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T13:36:33.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.26328056370560055,
+      "crawledAt": "2026-04-06T16:42:13.522Z",
+      "id": "pkrg6y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985034465789795,
+          "index": 8,
+          "word": "SP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9936049580574036,
+          "index": 9,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8660863041877747,
+          "index": 10,
+          "word": "##U",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:53:07.638Z"
+    },
+    {
+      "title": "Public squares of Mumbai likely to get upgrade soon",
+      "url": "https://indianexpress.com/article/cities/mumbai/public-squares-of-mumbai-likely-to-get-upgrade-soon-10622301/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T13:30:57.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.3322964149096514,
+      "crawledAt": "2026-04-06T16:42:17.833Z",
+      "id": "amwf92",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9992250800132751,
+          "index": 4,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:53:37.821Z"
+    },
+    {
+      "title": "India Has Fiscal Space To Tackle Middle East Crisis: Nirmala Sitharaman",
+      "url": "https://www.ndtv.com/india-news/india-has-fiscal-space-to-tackle-middle-east-crisis-nirmala-sitharaman-11318534#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T13:27:06.000Z",
+      "metaDescription": "She said that the world economy is witnessing volatility, uncertainty, complexity, and ambiguity, and global public debt has surged.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.25427036837036116,
+      "crawledAt": "2026-04-06T16:43:18.913Z",
+      "id": "wga87s",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999740481376648,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9989778995513916,
+          "index": 14,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8494082093238831,
+          "index": 15,
+          "word": "##rmal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989308714866638,
+          "index": 17,
+          "word": "Sit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " She said that the world economy is witnessing volatility, uncertainty, complexity, and ambiguity, and global public debt has surged.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:53:46.948Z"
+    },
+    {
+      "title": "Washim Farmers Protest | आंदोलनाकडे दुर्लक्ष अडोळी ग्रामस्थांनी रिसोड - वाशिम रस्ता रोखला",
+      "url": "https://pudhari.news/maharashtra/vidarbha/vashim/adoli-villagers-block-risod-washim-road-for-loan-waiver-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T13:18:12.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.5699105879353094,
+      "crawledAt": "2026-04-06T16:41:47.942Z",
+      "id": "mkznhk",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:53:57.430Z"
+    },
+    {
+      "title": "Bio Fertilizers: शाश्वत शेतीसाठी जैविक खतांचा वापर का आवश्यक?",
+      "url": "https://agrowon.esakal.com/agro-special/why-use-organic-fertilizers-necessary-sustainable-agriculture-ssp-25",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T13:05:59.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.25954224441982426,
+      "crawledAt": "2026-04-06T16:41:52.975Z",
+      "id": "asq20y",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:54:36.258Z"
+    },
+    {
+      "title": "Rajnath cautions against foreign industry-led medical trials, urges indigenous research push",
+      "url": "https://www.thehindubusinessline.com/news/rajnath-cautions-against-foreign-industry-led-medical-trials-urges-indigenous-research-push/article70830313.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-06T13:02:39.000Z",
+      "metaDescription": "The parameters of growth of a nation are not solely economic, but encompass other significant dimensions, the most critical being the health of the people, Defence Minister Rajnath Singh stressed",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.28367126391848396,
+      "crawledAt": "2026-04-06T16:43:12.090Z",
+      "id": "ok5rvi",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9974215030670166,
+          "index": 1,
+          "word": "Raj",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9379203915596008,
+          "index": 2,
+          "word": "##nath",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Defence Minister Rajnath Singh stressed that the most critical was the health of the people. The parameters of growth of a nation are not solely economic, but encompass other significant dimensions.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:55:04.612Z"
+    },
+    {
+      "title": "गैबी-राधानगरी येथील ''जेनेसिस'' मध्ये बुधवारी कॅम्पस ड्रायव्हचे आयोजन; गोवा,कोल्हापुरात पुरुष उमेदवारांना शिकाऊ नोकरीची संधी",
+      "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/todays-latest-marathi-news-kst26b02379-txt-kolhapur-20260406125840",
+      "source": "eSakal — stories (Marathi)",
+      "source_domain": "esakal.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-06T12:58:40.000Z",
+      "metaDescription": "गैबी-राधानगरी येथील ''जेनेसिस'' मध्ये बुधवारी कॅम्पस ड्रायव्हचे आयोजन; गोवा,कोल्हापुरात पुरुष उमेदवारांना शिकाऊ नोकरीची संधी",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2661890095241184,
+      "crawledAt": "2026-04-06T16:41:35.725Z",
+      "id": "wh9zdy",
+      "entities": [],
+      "summary": " The World Cup. \"The World Cup\" has been awarded to the U.S. World Cup 2014.",
+      "language": "en",
+      "processed_at": "2026-04-06T16:55:12.343Z"
+    },
     {
       "title": "West Asia crisis hits activated carbon exports as costs surge amid shipping woes",
       "url": "https://www.thehindubusinessline.com/markets/commodities/west-asia-crisis-hits-activated-carbon-exports-as-costs-surge-amid-shipping-woes/article70829874.ece",
@@ -489,6 +1986,130 @@
       "summary": " The operation involved an array of advanced military assets, including A-10 Thunderbolt II jets, MC-130J Commando II planes, Black Hawk helicopters, and MQ-9 Reaper drones.",
       "language": "en",
       "processed_at": "2026-04-06T13:10:43.901Z"
+    },
+    {
+      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Dow Jones, S&amp;P 500, Nasdaq trades steady amid hopes of an end to the US-Iran war",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-talks-crude-brent-oil-ai-tech-stock-price-inflation-news/liveblog/130060936.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-06T12:23:13.000Z",
+      "metaDescription": "Dow Jones Today | Nasdaq | S&P 500 | US Stock Market Live Updates: The ​Dow Jones ⁠Industrial Average fell 32.5 points, ​or 0.07%, at the ​open to 46,472.2. The S&P 500 rose 5.0 points, or ‌0.08%, at ",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.6850144564177243,
+      "crawledAt": "2026-04-06T16:42:04.573Z",
+      "id": "m7bmft",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.955298662185669,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9920399188995361,
+          "index": 2,
+          "word": "Stock",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9891911745071411,
+          "index": 3,
+          "word": "Market",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9470641016960144,
+          "index": 4,
+          "word": "Today",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9971327185630798,
+          "index": 6,
+          "word": "Dow",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9960585832595825,
+          "index": 7,
+          "word": "Jones",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9969848990440369,
+          "index": 9,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9581518769264221,
+          "index": 12,
+          "word": "##q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9939878582954407,
+          "index": 15,
+          "word": "Dow",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9964043498039246,
+          "index": 16,
+          "word": "Jones",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8180425763130188,
+          "index": 20,
+          "word": "am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9967338442802429,
+          "index": 26,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.997768223285675,
+          "index": 39,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Dow Jones Average fell 32.5 points, or 0.07, at the ​open to 46,472.2. The S&P 500 rose 5.0 points,  ‌0.08%, at the open to 46.2. The",
+      "language": "en",
+      "processed_at": "2026-04-06T16:55:27.012Z"
     },
     {
       "title": "Railways removes speed restriction, trains to run faster on Mumbai-Nagpur route",
@@ -7211,20 +8832,20 @@
       "processed_at": "2026-04-06T09:26:33.688Z"
     }
   ],
-  "processedAt": "2026-04-06T13:32:56.784Z",
+  "processedAt": "2026-04-06T16:55:37.503Z",
   "categories": [
-    "msme-industry-trade",
-    "government-schemes",
-    "legal-judiciary",
     "jobs-recruitment",
     "banking-credit",
     "maharashtra-state-local",
+    "government-schemes",
     "education-skills",
+    "civic-public-service",
+    "legal-judiciary",
     "policy-regulation",
-    "civic-public-service"
+    "msme-industry-trade"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 80,
-  "dailyArticlesCount": 190,
+  "newArticlesProcessed": 44,
+  "dailyArticlesCount": 234,
   "filterDate": "2026-04-06"
 }
