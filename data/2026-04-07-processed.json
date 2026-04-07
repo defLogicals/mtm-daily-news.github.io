@@ -1,9 +1,2153 @@
 {
-  "crawledAt": "2026-04-07T13:12:49.439Z",
+  "crawledAt": "2026-04-07T16:55:47.145Z",
   "totalSources": 75,
-  "totalArticles": 189,
+  "totalArticles": 238,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Borrowers not entitled to mandatory personal hearing by banks before declaring accounts as fraudulent: SC",
+      "url": "https://www.deccanherald.com/india/borrowers-not-entitled-to-mandatory-personal-hearing-by-banks-before-declaring-accounts-as-fraudulent-sc-3959713",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:46:24.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.6022438121106463,
+      "crawledAt": "2026-04-07T16:55:40.665Z",
+      "id": "ehy8dg",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:55:49.698Z"
+    },
+    {
+      "title": "'Stay wherever you are': India's advisory to citizens in Iran amid Trump threat",
+      "url": "https://www.deccanherald.com/india/stay-wherever-you-are-indias-advisory-to-citizens-in-iran-amid-trump-threat-3959712",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:41:41.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3267174876648486,
+      "crawledAt": "2026-04-07T16:55:40.891Z",
+      "id": "cklfb4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998321533203125,
+          "index": 8,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998329877853394,
+          "index": 15,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.994895339012146,
+          "index": 17,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:55:59.014Z"
+    },
+    {
+      "title": "German-Indian 'guru' kept children aged 7 and 11 as guards, portrayed self as spiritual teacher",
+      "url": "https://timesofindia.indiatimes.com/world/europe/german-indian-guru-kept-children-aged-7-and-11-as-guards-portrayed-self-as-spiritual-teacher-arrested-in-italy/articleshow/130090995.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:38:15.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.41348144922788854,
+      "crawledAt": "2026-04-07T16:55:02.252Z",
+      "id": "k32xyh",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9994290471076965,
+          "index": 1,
+          "word": "German",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:56:14.183Z"
+    },
+    {
+      "title": "Assam Assembly Elections 2026 | Five factors that will affect the results",
+      "url": "https://www.deccanherald.com/elections/assam/assam-assembly-elections-2026-five-factors-that-will-affect-the-results-3959709",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:36:06.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.25541237581466697,
+      "crawledAt": "2026-04-07T16:55:40.987Z",
+      "id": "ag6ria",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9490700960159302,
+          "index": 3,
+          "word": "Elections",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:56:14.334Z"
+    },
+    {
+      "title": "Centre’s proposal for women’s quota follows UPA blueprint for OBC reservation in higher education",
+      "url": "https://www.thehindu.com/news/national/centres-proposal-for-womens-quota-follows-upa-blueprint-for-obc-reservation-in-higher-education/article70833906.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:35:25.000Z",
+      "metaDescription": "The BJP formula of linking additional seats in the Lok Sabha for women’s reservation takes a leaf out of the Arjun Singh playbook for higher education expansion and higher quota going hand in hand",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2547557669504293,
+      "crawledAt": "2026-04-07T16:54:47.367Z",
+      "id": "pauppd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985824823379517,
+          "index": 11,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9951409101486206,
+          "index": 12,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989781379699707,
+          "index": 16,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9709988832473755,
+          "index": 17,
+          "word": "##BC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " BJP formula of linking additional seats in Lok Sabha for women's reservation takes a leaf out of Arjun Singh playbook for higher education expansion.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:56:24.154Z"
+    },
+    {
+      "title": "Bengal actors, technicians call off day-long cease work after consensus to implement security SoP",
+      "url": "https://www.deccanherald.com/india/west-bengal/bengal-actors-technicians-call-off-day-long-cease-work-after-consensus-to-implement-security-sop-3959487",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:30:36.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2719973259462722,
+      "crawledAt": "2026-04-07T16:55:41.363Z",
+      "id": "xq24vn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997183680534363,
+          "index": 1,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:56:37.660Z"
+    },
+    {
+      "title": "Kerala Assembly Elections 2026: Vijayan, Revanth Reddy trade barbs as campaigning ends",
+      "url": "https://www.deccanherald.com/elections/kerala/kerala-assembly-elections-2026-vijayan-revanth-reddy-trade-barbs-as-campaigning-ends-3959610",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:25:55.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.28685627746962483,
+      "crawledAt": "2026-04-07T16:55:41.576Z",
+      "id": "kfilrn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9900818467140198,
+          "index": 1,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864591360092163,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993253946304321,
+          "index": 7,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9902163743972778,
+          "index": 8,
+          "word": "##an",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994417428970337,
+          "index": 10,
+          "word": "Rev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.851148784160614,
+          "index": 11,
+          "word": "##ant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8005202412605286,
+          "index": 12,
+          "word": "##h",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.996604859828949,
+          "index": 13,
+          "word": "Reddy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:56:51.401Z"
+    },
+    {
+      "title": "Quick commerce to become $50 billion powerhouse by 2030: Google and Deloitte report",
+      "url": "https://www.deccanherald.com/business/companies/quick-commerce-to-become-50-billion-powerhouse-by-2030-google-and-deloitte-report-3959683",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:23:33.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.4331050089668245,
+      "crawledAt": "2026-04-07T16:55:41.688Z",
+      "id": "3fuqsn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982248544692993,
+          "index": 14,
+          "word": "Google",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8861342072486877,
+          "index": 16,
+          "word": "Del",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995608389377594,
+          "index": 17,
+          "word": "##oit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966986179351807,
+          "index": 18,
+          "word": "##te",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:57:05.855Z"
+    },
+    {
+      "title": "Hindi Debate: Real Issue Or Political Narrative? PTR Reacts",
+      "url": "https://www.youtube.com/shorts/hKTaQBkwdFI",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:15:05.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2508364992292155,
+      "crawledAt": "2026-04-07T16:55:18.359Z",
+      "id": "6njb1a",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9992971420288086,
+          "index": 1,
+          "word": "Hindi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:57:24.977Z"
+    },
+    {
+      "title": "IMA launches paediatric palliative care scheme for children",
+      "url": "https://www.thehindu.com/news/national/kerala/ima-launches-paediatric-palliative-care-scheme-for-children/article70835364.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:13:46.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3127958979517871,
+      "crawledAt": "2026-04-07T16:54:48.776Z",
+      "id": "4uxeae",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994311332702637,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972967505455017,
+          "index": 2,
+          "word": "##MA",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:57:25.467Z"
+    },
+    {
+      "title": "All Mumbai roads to be concretised by May 2027: Civic chief Ashwini Bhide",
+      "url": "https://indianexpress.com/article/cities/mumbai/roads-concretised-may-2027-civic-chief-ashwini-bhide-10624297/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T16:11:51.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2562844429482294,
+      "crawledAt": "2026-04-07T16:54:02.485Z",
+      "id": "m4sisa",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9718961715698242,
+          "index": 2,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.999450147151947,
+          "index": 16,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8124960660934448,
+          "index": 18,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9973028302192688,
+          "index": 19,
+          "word": "B",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:57:53.716Z"
+    },
+    {
+      "title": "Assam Elections 2026 | Charges, Cops, Threats: Congress Vs Himanta Explodes",
+      "url": "https://www.youtube.com/watch?v=u9rzGakpYdY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:10:06.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.30188846408217396,
+      "crawledAt": "2026-04-07T16:55:18.464Z",
+      "id": "ulwng4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986038208007812,
+          "index": 17,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8434553146362305,
+          "index": 20,
+          "word": "Him",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8165267705917358,
+          "index": 22,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8750808238983154,
+          "index": 23,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:58:24.613Z"
+    },
+    {
+      "title": "Ashok Kharat case: SIT examines 30 witnesses",
+      "url": "https://www.deccanherald.com/india/maharashtra/ashok-kharat-case-sit-examines-30-witnesses-3959637",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T16:07:03.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25320624013973664,
+      "crawledAt": "2026-04-07T16:55:42.391Z",
+      "id": "le0uuu",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9988763332366943,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9772028923034668,
+          "index": 2,
+          "word": "##ok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991188645362854,
+          "index": 3,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9593579173088074,
+          "index": 4,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9451448321342468,
+          "index": 5,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998724102973938,
+          "index": 8,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9801544547080994,
+          "index": 9,
+          "word": "##IT",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:58:24.896Z"
+    },
+    {
+      "title": "Deere & Co agrees to pay $99 million to settle right to repair lawsuit",
+      "url": "https://www.livemint.com/companies/deere-co-agrees-to-pay-99-million-to-settle-right-to-repair-lawsuit-11775577969768.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:06:09.000Z",
+      "metaDescription": "Deere & Co agrees to pay $99 million to settle 'right to repair' lawsuit",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2625765550458641,
+      "crawledAt": "2026-04-07T16:54:36.754Z",
+      "id": "wrx1o7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9937968850135803,
+          "index": 1,
+          "word": "Deer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952908754348755,
+          "index": 2,
+          "word": "##e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991831183433533,
+          "index": 3,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998833417892456,
+          "index": 4,
+          "word": "Co",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Deere & Co agrees to pay $99 million to settle 'right to repair' lawsuit. Deere and Co. agrees to settle $99m to settle \"right to Repair\" lawsuit.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:58:37.265Z"
+    },
+    {
+      "title": "Mumbai Metro network widens: CM launches key stretches, sets deadlines; entire Line 9 by year-end, Line 2B by 2027",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-metro-network-widens-cm-launches-deadlines-9-line-2b-2027-10624228/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T15:58:39.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.40244380418096504,
+      "crawledAt": "2026-04-07T16:54:02.628Z",
+      "id": "6lqf9a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9989486336708069,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979303479194641,
+          "index": 2,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9978290796279907,
+          "index": 7,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932730197906494,
+          "index": 8,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8876140713691711,
+          "index": 19,
+          "word": "9",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:58:37.852Z"
+    },
+    {
+      "title": "Sangamner : रुग्णाच्या मृत्यू प्रकरणी संगमनेरच्या दोन डॉक्टरांवर गुन्हा दाखल",
+      "url": "https://deshdoot.com/patient-death-case-two-doctor-filed-a-case-sangamner/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:50:54.000Z",
+      "metaDescription": "संगमनेर |प्रतिनिधी| Sangamner येथील सोनांबेकर हॉस्पिटलमधील डॉक्टरांच्या कथित हलगर्जीपणामुळे रुग्णाचा मृत्यू झाल्याच्या कारणावरुन संगमनेर शहर पोलिसांत दोन डॉक्टरांवर गुन्हा दाखल झाल्याने वैद्यकीय वर्तु",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2501962177834436,
+      "crawledAt": "2026-04-07T16:54:13.638Z",
+      "id": "1tatj2",
+      "entities": [],
+      "summary": "S. The Sangamner has been living in the U.S. city of Sangamners.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:59:20.279Z"
+    },
+    {
+      "title": "MeitY meets intermediaries to clarify on IT Rules: Says Govt “open” to suggestions",
+      "url": "https://www.thehindubusinessline.com/news/meity-meets-intermediaries-to-clarify-on-it-rules-says-govt-open-to-suggestions/article70835191.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:49:59.000Z",
+      "metaDescription": "Government may extend the April 14 deadline for receiving feedback on the proposed IT rules amendments",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.39173167504154044,
+      "crawledAt": "2026-04-07T16:55:11.483Z",
+      "id": "fdp4d2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.989964485168457,
+          "index": 1,
+          "word": "Mei",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9558489322662354,
+          "index": 3,
+          "word": "##Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8708333969116211,
+          "index": 13,
+          "word": "IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8975090384483337,
+          "index": 18,
+          "word": "Govt",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Government may extend April 14 deadline for receiving feedback on proposed IT rules amendments. Government may also extend April 15 deadline for getting feedback on the proposed IT changes.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:59:30.346Z"
+    },
+    {
+      "title": "Artemis II Launch News | Artemis II Crew Completes Historic Moon Flyby",
+      "url": "https://www.youtube.com/watch?v=rXdMcTSjzWY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:40:06.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.25889185276897597,
+      "crawledAt": "2026-04-07T16:55:18.679Z",
+      "id": "7ungs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9722078442573547,
+          "index": 1,
+          "word": "Artemis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9969901442527771,
+          "index": 6,
+          "word": "Artemis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952144622802734,
+          "index": 7,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9695268273353577,
+          "index": 8,
+          "word": "Crew",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8636456727981567,
+          "index": 11,
+          "word": "Historic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9728590846061707,
+          "index": 12,
+          "word": "Moon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9939444065093994,
+          "index": 13,
+          "word": "Fly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9885111451148987,
+          "index": 14,
+          "word": "##by",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T16:59:41.476Z"
+    },
+    {
+      "title": "How fast breeder reactors can give India energy security",
+      "url": "https://www.thehindubusinessline.com/news/how-fast-breeder-reactors-can-give-india-energy-security/article70835151.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:30:26.000Z",
+      "metaDescription": "Fast breeder reactors, sometimes called fast neutron reactors, convert thorium into U-233 very efficiently—because they are filled with buzzing neutrons that bombard thorium and make it U-233",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.26379913011993505,
+      "crawledAt": "2026-04-07T16:55:12.010Z",
+      "id": "st6y3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997702240943909,
+          "index": 8,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Fast neutron reactors convert thorium into U-233 very efficiently. They are filled with buzzing neutrons that bombard thorium and make it U- 233.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:00:30.824Z"
+    },
+    {
+      "title": "Irrigation Project: ‘चणकापूर’मधून डावा कालवा प्रस्तावित करा",
+      "url": "https://agrowon.esakal.com/agro-special/chanakapur-dam-left-canal-irrigation-nashik-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T15:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.26504090977252537,
+      "crawledAt": "2026-04-07T16:53:39.445Z",
+      "id": "p9x7ee",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:00:31.145Z"
+    },
+    {
+      "title": "Trump Warns of Disaster as Iran Strait Deadline Looms",
+      "url": "https://thelivenagpur.com/2026/04/07/trump-warns-of-disaster-as-iran-strait-deadline-looms/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T15:29:25.000Z",
+      "metaDescription": "US President Donald Trump issued a stark warning on Tuesday, just hours before his deadline for…",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.29015002887213515,
+      "crawledAt": "2026-04-07T16:53:42.011Z",
+      "id": "qw4npy",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9005633592605591,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US President Donald Trump issued a stark warning on Tuesday, just hours before his deadline for his deadline. US President Trump issued the stark warning just hours earlier on Tuesday.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:00:41.560Z"
+    },
+    {
+      "title": "‘On a scale of 1 to 10, the problem is 10 in tech-driven industries’: Plugging the industry-academia gap in AVGC-XR sector",
+      "url": "https://indianexpress.com/article/cities/pune/avgc-xr-sector-india-train-the-trainers-ajjay-parge-quibit-global-10624217/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T15:15:51.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.4040139278918267,
+      "crawledAt": "2026-04-07T16:54:05.035Z",
+      "id": "iom5q6",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9054334759712219,
+          "index": 32,
+          "word": "##V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8687344789505005,
+          "index": 33,
+          "word": "##GC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8818233609199524,
+          "index": 35,
+          "word": "X",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8008977770805359,
+          "index": 36,
+          "word": "##R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:01:37.371Z"
+    },
+    {
+      "title": "Government rules out sugar export curbs and maintains duties on edible oils",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/government-rules-out-sugar-export-curbs-and-maintains-duties-on-edible-oils/articleshow/130090427.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T15:11:45.000Z",
+      "metaDescription": "India will not reduce sugar exports. Production is lower than anticipated, but domestic consumption has also decreased. This situation offsets the reduced output. The government has no plans to cut im",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.831405189690203,
+      "crawledAt": "2026-04-07T16:53:48.801Z",
+      "id": "k97mlv",
+      "entities": [],
+      "summary": " India will not reduce sugar exports. Production is lower than anticipated, but domestic consumption has also decreased. This situation offsets the reduced output.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:01:56.965Z"
+    },
+    {
+      "title": "Telangana directs private marketing companies to source auto LPG from all possible sources",
+      "url": "https://www.thehindubusinessline.com/news/national/telangana-directs-private-marketing-companies-to-source-auto-lpg-from-all-possible-sources/article70834866.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:10:31.000Z",
+      "metaDescription": "PMCs urged to intensify sourcing efforts to ensure supply across their outlets",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.33954577709369593,
+      "crawledAt": "2026-04-07T16:55:12.323Z",
+      "id": "dv3b6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8934801816940308,
+          "index": 1,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.957460880279541,
+          "index": 9,
+          "word": "LP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PMCs urged to intensify sourcing efforts to ensure supply across their outlets. PMCs urge to intensify efforts to ensuring supply across the outlets.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:02:05.871Z"
+    },
+    {
+      "title": "CRED upgrades its wealth management platform Kuvera",
+      "url": "https://yourstory.com/2026/04/cred-upgrades-its-wealth-management-platform-kuvera",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T15:07:53.000Z",
+      "metaDescription": "CRED acquired Kuvera in 2024\n\nThe upgraded features in Kuvera is aimed at enabling affluent individuals to make prudent investment decisions and maximising returns\n\nThe payment fintech unicorn CRED ha",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.517770121151639,
+      "crawledAt": "2026-04-07T16:55:15.146Z",
+      "id": "dq67tl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9763352870941162,
+          "index": 1,
+          "word": "CR",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9735099673271179,
+          "index": 2,
+          "word": "##ED",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9157512784004211,
+          "index": 8,
+          "word": "Ku",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8900479078292847,
+          "index": 9,
+          "word": "##ver",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " CRED acquired Kuvera in 2024 in 2024. The upgraded features in Kuver a is aimed at enabling affluent individuals to make prudent investment decisions.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:02:34.008Z"
+    },
+    {
+      "title": "Why Centre Wants Court To Declare Adultery Decriminalisation Vedict 'Not Good Law'",
+      "url": "https://www.ndtv.com/india-news/why-centre-wants-court-to-declare-adultery-decriminalisation-vedict-not-good-law-11323708#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T14:52:47.000Z",
+      "metaDescription": "Section 497 of the IPC made adultery a penal crime for a man who engaged in a sexual relationship with a married woman.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.5789998534936059,
+      "crawledAt": "2026-04-07T16:55:05.154Z",
+      "id": "1xrbl0",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9181279540061951,
+          "index": 21,
+          "word": "Good",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8377642035484314,
+          "index": 22,
+          "word": "Law",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Section 497 of the IPC made adultery a penal crime for a man who engaged in a sexual relationship with a married woman.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:03:33.809Z"
+    },
+    {
+      "title": "School Assembly News Headlines : Top National, World, Sports, Education News",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-8-top-national-world-sports-education-news-11324270#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T14:39:25.000Z",
+      "metaDescription": "School Assembly News Headlines (April 8): Staying updated on important national, international, sports, and education news sharpens the mind and helps students become informed citizens.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.32397661195756616,
+      "crawledAt": "2026-04-07T16:55:05.355Z",
+      "id": "25aaec",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9359652996063232,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8925167918205261,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9556944370269775,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8979711532592773,
+          "index": 7,
+          "word": "Top",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8716001510620117,
+          "index": 8,
+          "word": "National",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9658085107803345,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8986000418663025,
+          "index": 12,
+          "word": "Sports",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9613818526268005,
+          "index": 14,
+          "word": "Education",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9304563999176025,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " School Assembly News Headlines are a weekly look at the news stories from the Assembly. The Daily Discussion is a weekly Newsquiz.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:04:07.922Z"
+    },
+    {
+      "title": "Jalgaon Municipal : मोहाडीत महापालिकेचा 'हातोडा' थंडावला; आदिवासी बांधवांच्या तीव्र विरोधामुळे पथक माघारी",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/jalgaon/jalgaon-municipal-mohadi-anti-encroachment-drive-halted-tribal-protest-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-07T14:39:21.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.7777449199200861,
+      "crawledAt": "2026-04-07T16:53:29.870Z",
+      "id": "k00vsk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9020049571990967,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:04:08.146Z"
+    },
+    {
+      "title": "Probe Agency ED Attaches Rs 39.45 Crore Assets Linked To Al-Falah Trust",
+      "url": "https://www.ndtv.com/india-news/probe-agency-ed-attaches-rs-39-45-crore-assets-linked-to-al-falah-trust-11324062#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T14:07:28.000Z",
+      "metaDescription": "The Directorate of Enforcement (ED) has provisionally attached movable and immovable properties worth Rs 39.45 crore belonging to Al-Falah Charitable Trust and its Managing Trustee Jawad Ahmad Siddiqu",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26042225148654924,
+      "crawledAt": "2026-04-07T16:55:05.805Z",
+      "id": "r4bpjn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9949864745140076,
+          "index": 1,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9890972971916199,
+          "index": 2,
+          "word": "##be",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9844652414321899,
+          "index": 3,
+          "word": "Agency",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9028362035751343,
+          "index": 5,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9947940707206726,
+          "index": 21,
+          "word": "Al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9870265126228333,
+          "index": 22,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953064918518066,
+          "index": 23,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994719922542572,
+          "index": 24,
+          "word": "##ala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9835167527198792,
+          "index": 25,
+          "word": "##h",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9808285236358643,
+          "index": 26,
+          "word": "Trust",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Directorate of Enforcement (ED) has provisionally attached movable and immovable properties. The properties belong to Al-Falah Charitable Trust and its Trustee Jawad Ahmad Siddiqu.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:05:15.836Z"
+    },
+    {
+      "title": "Uday Kotak warns world ‘at cusp of return to global colonialism’ amid West Asia war, Trump's comments on Iran",
+      "url": "https://www.livemint.com/companies/people/uday-kotak-warns-world-at-cusp-return-to-global-colonialism-west-asia-war-donald-trump-speech-iran-civilization-will-die-11775566261679.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T14:06:41.000Z",
+      "metaDescription": "Financial industry veteran Uday Kotak has warned that the West Asia war and US President Donald Trump's speech on the conflict signal a likely return to global colonialism, echoing historic economic s",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3917428212511496,
+      "crawledAt": "2026-04-07T16:54:37.281Z",
+      "id": "eqbr3h",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995724558830261,
+          "index": 1,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.995844841003418,
+          "index": 2,
+          "word": "##day",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995240569114685,
+          "index": 3,
+          "word": "Kota",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9972371459007263,
+          "index": 4,
+          "word": "##k",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9481987357139587,
+          "index": 19,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.991730809211731,
+          "index": 20,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991587400436401,
+          "index": 23,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996742010116577,
+          "index": 28,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Financial industry veteran Uday Kotak has warned that the West Asia war and US President Donald Trump's speech on the conflict signal a likely return to global colonialism.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:05:31.232Z"
+    },
+    {
+      "title": "Resolution to move all raw meat shop out of Haridwar city limits passed by civic body",
+      "url": "https://indianexpress.com/article/india/resolution-move-all-raw-meat-shop-out-haridwar-passed-10624127/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T14:06:36.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3481175696938939,
+      "crawledAt": "2026-04-07T16:54:00.563Z",
+      "id": "vn8z4o",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9972298741340637,
+          "index": 10,
+          "word": "Hari",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9788824319839478,
+          "index": 11,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9890101552009583,
+          "index": 12,
+          "word": "##war",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:05:31.363Z"
+    },
+    {
+      "title": "War clouds raise fears of worker exodus from Gulf, remittances seen at risk",
+      "url": "https://www.thehindubusinessline.com/economy/war-clouds-raise-fears-of-worker-exodus-from-gulf-remittances-seen-at-risk/article70834702.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T14:00:02.000Z",
+      "metaDescription": "Indian workers in Gulf holding funds instead of remitting, likely to hit near-term inflows, sources say",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9551634944070366,
+      "crawledAt": "2026-04-07T16:54:58.316Z",
+      "id": "arp657",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993345737457275,
+          "index": 10,
+          "word": "Gulf",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Indian workers in Gulf holding funds instead of remitting, likely to hit near-term inflows, sources say.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:06:03.233Z"
+    },
+    {
+      "title": "Tiger Attack Compensation: सोनवणे कुटुंबाला १० लाखांचा धनादेश",
+      "url": "https://agrowon.esakal.com/agro-special/tiger-attack-compensation-bhandara-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T14:00:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2963604266647553,
+      "crawledAt": "2026-04-07T16:53:39.880Z",
+      "id": "u9ltua",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:06:03.342Z"
+    },
+    {
+      "title": "Beyond the cloud: NVIDIA explores local AI systems at DevSparks Pune 2026, with RP Tech, an NVIDIA partner",
+      "url": "https://yourstory.com/2026/04/nvidia-explores-local-ai-systems-devsparks-pune-2026-rp-tech-nvidia-partner",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:57:52.000Z",
+      "metaDescription": "At NVIDIA’s DevSparks Pune 2026 masterclass session, attendees explored the software stack and built a Video Search and Summarization agent with NVIDIA DGX Spark, learning how compact AI systems addre",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.9034126521332472,
+      "crawledAt": "2026-04-07T16:55:15.617Z",
+      "id": "sq1wip",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9939608573913574,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.952523410320282,
+          "index": 6,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958135485649109,
+          "index": 7,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9494195580482483,
+          "index": 8,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.949982225894928,
+          "index": 14,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9702737927436829,
+          "index": 15,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982196092605591,
+          "index": 23,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9878789186477661,
+          "index": 24,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953128695487976,
+          "index": 25,
+          "word": "Tech",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9046229124069214,
+          "index": 30,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " At NVIDIA’s DevSparks Pune 2026 masterclass session, attendees explored the software stack and built a Video Search and Summarization agent with NVIDIA DGX Spark.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:06:16.986Z"
+    },
+    {
+      "title": "Tadoba Rewilding Project |'ताडोबा' परिसरातील जागेचे होणार पर्यावरणीय पुनरुज्जीवन, जाणून घ्या प्रकल्पाची वैशिष्ट्ये",
+      "url": "https://pudhari.news/maharashtra/vidarbha/chandrapur/tadoba-andhari-tiger-reserve-environmental-rewilding-project-maharashtra-zerodha-farmers-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-07T13:56:16.000Z",
+      "metaDescription": "Tadoba Rewilding Project |'ताडोबा' परिसरातील जागेचे होणार पर्यावरणीय पुनरुज्जीवन, जाणून घ्या प्रकल्पाची वैशिष्ट्ये",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.503796871742655,
+      "crawledAt": "2026-04-07T16:53:30.676Z",
+      "id": "2o075g",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977851510047913,
+          "index": 1,
+          "word": "Tad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969069957733154,
+          "index": 2,
+          "word": "##ob",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958165287971497,
+          "index": 3,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985486268997192,
+          "index": 4,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950847029685974,
+          "index": 5,
+          "word": "##wi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979915022850037,
+          "index": 6,
+          "word": "##lding",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967460036277771,
+          "index": 7,
+          "word": "Project",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tadoba Rewilding Project. TadobaRewilding project. Tadobra Rewildering Project.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:06:25.666Z"
+    },
+    {
+      "title": "Indian consumers increasingly seeking convenience over price considerations: Report",
+      "url": "https://www.thehindubusinessline.com/news/indian-consumers-increasingly-seeking-convenience-over-price-considerations-report/article70834642.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:52:36.000Z",
+      "metaDescription": "The report, titled ‘Inside India’s retail reset: The evolution of neighbourhood commerce’, is based on a nationwide survey of more than 1,600 consumers and over 1,000 kirana retailers across metros, t",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.272321871078251,
+      "crawledAt": "2026-04-07T16:55:13.474Z",
+      "id": "ci82on",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9995769262313843,
+          "index": 1,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The report, titled ‘Inside India’s retail reset: The evolution of neighbourhood commerce’, is based on a nationwide survey of more than 1,600 consumers.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:06:47.437Z"
+    },
+    {
+      "title": "Private, local, and fully yours: NVIDIA's vision for AI development at DevSparks Pune 2026, with RP Tech, an NVIDIA partner",
+      "url": "https://yourstory.com/2026/04/nvidias-vision-ai-development-devsparks-pune-2026-rp-tech-nvidia-partner",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:46:00.000Z",
+      "metaDescription": "At DevSparks Pune 2026, RP Tech, an NVIDIA partner, demonstrated how NVIDIA DGX Spark enables developers to run full AI workflows locally from a single device.\n\nCandida D’silva\n\nIndia's developer ecos",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.9460955119002343,
+      "crawledAt": "2026-04-07T16:55:16.440Z",
+      "id": "e8izn8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9967464804649353,
+          "index": 9,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9817076325416565,
+          "index": 10,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950264096260071,
+          "index": 11,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9698919653892517,
+          "index": 12,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8053640723228455,
+          "index": 17,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8967276215553284,
+          "index": 20,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9546177387237549,
+          "index": 21,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9974824786186218,
+          "index": 29,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9848337173461914,
+          "index": 30,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994896411895752,
+          "index": 31,
+          "word": "Tech",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9751412868499756,
+          "index": 34,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9743061661720276,
+          "index": 36,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9246209859848022,
+          "index": 37,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NVIDIA's DGX Spark enables developers to run full AI workflows locally from a single device. At DevSparks Pune 2026, RP Tech demonstrated how NVIDIA DGX spark enables developers.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:07:25.728Z"
+    },
+    {
+      "title": "Tech advances yet to fix uneven mill performance, data gaps in sugar sector: Food Secretary",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/tech-advances-yet-to-fix-uneven-mill-performance-data-gaps-in-sugar-sector-food-secretary/articleshow/130088541.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T13:45:19.000Z",
+      "metaDescription": "Despite technological advancements, sugar mills face challenges like recovery rate variability and energy inefficiencies. Industry leaders emphasise cost competitiveness and bio-energy diversification",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.26388468159748846,
+      "crawledAt": "2026-04-07T16:53:49.014Z",
+      "id": "r1iht4",
+      "entities": [],
+      "summary": " Despite technological advancements, sugar mills face challenges like recovery rate variability and energy inefficiencies. Industry leaders emphasise cost competitiveness and bio-energy diversification.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:07:36.186Z"
+    },
+    {
+      "title": "IT Rules Overhaul To Bring Entire Digital News Ecosystem Under One Framework: Sources",
+      "url": "https://www.ndtv.com/india-news/it-rules-overhaul-to-bring-entire-digital-news-ecosystem-under-one-framework-sources-11323934#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:44:52.000Z",
+      "metaDescription": "The proposed draft amendments are still under consultation, with the deadline for stakeholder feedback now extended.",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.5650791024327807,
+      "crawledAt": "2026-04-07T16:55:06.427Z",
+      "id": "71dipa",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.930056095123291,
+          "index": 12,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The proposed amendments are still under consultation, with the deadline for stakeholder feedback extended. The proposed draft amendments are under consultation.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:07:44.524Z"
+    },
+    {
+      "title": "Industry body urges Maharashtra to retain inspector-free fertilizer policy",
+      "url": "https://www.thehindubusinessline.com/news/industry-body-urges-maharashtra-to-retain-inspector-free-fertilizer-policy/article70834273.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:44:00.000Z",
+      "metaDescription": "IMMA has expressed concern over a reported proposal to reintroduce an inspector-driven regulatory system, involving increased deployment of inspectors with broad enforcement powers",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.4217546447889686,
+      "crawledAt": "2026-04-07T16:54:58.504Z",
+      "id": "t51wgt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9985112547874451,
+          "index": 4,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " IMMA has expressed concern over a reported proposal to reintroduce an inspector-driven regulatory system. IMMA is concerned about increased deployment of inspectors with broad enforcement powers.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:07:54.636Z"
+    },
+    {
+      "title": "Madhya Pradesh Police Recruits Begin Day With Shlokas. Top Cop Defends Move",
+      "url": "https://www.ndtv.com/india-news/madhya-pradesh-police-recruits-begin-day-with-shlokas-top-cop-defends-move-11323879#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:36:49.000Z",
+      "metaDescription": "Article 28(1) of the Indian Constitution is unambiguous: no religious instruction shall be provided in any educational institution wholly maintained out of state funds. Police training schools, funded",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.7467871326146597,
+      "crawledAt": "2026-04-07T16:55:06.648Z",
+      "id": "s49xsb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985491633415222,
+          "index": 1,
+          "word": "Madhya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970800876617432,
+          "index": 2,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9810721278190613,
+          "index": 3,
+          "word": "Police",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9733480215072632,
+          "index": 12,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " No religious instruction shall be provided in any educational institution wholly maintained out of state funds. Police training schools, funded by state, are funded by the government.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:08:19.255Z"
+    },
+    {
+      "title": "Parents Charged After Toddler Enters Wolf Enclosure At US Zoo",
+      "url": "https://www.ndtv.com/world-news/parents-charged-after-toddler-slips-into-wolf-area-and-gets-hurt-at-hersheypark-zoo-11323681#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:32:12.000Z",
+      "metaDescription": "The parents of a toddler who suffered a minor injury at a Pennsylvania theme park zoo after squeezing through a fence near a wolf enclosure and making contact with one of the animals have been charged",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3672317747158907,
+      "crawledAt": "2026-04-07T16:55:10.850Z",
+      "id": "j7nbbf",
+      "entities": [],
+      "summary": "Parents of a toddler who suffered a minor injury at a Pennsylvania theme park zoo have been charged. The parents of the toddler suffered a small injury at the zoo.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:08:48.991Z"
+    },
+    {
+      "title": "Pune: Month after dumping body, mother held in murder of 11-month-old",
+      "url": "https://indianexpress.com/article/cities/pune/mother-held-murder-dumping-body-11-month-old-10624094/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T13:27:36.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9688269318492324,
+      "crawledAt": "2026-04-07T16:54:05.245Z",
+      "id": "hx5pj9",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9979549050331116,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:09:00.041Z"
+    },
+    {
+      "title": "Exclusive: Leverage Edu Taps Bankers For ₹2,000 Cr-3,000 Cr IPO",
+      "url": "https://inc42.com/buzz/exclusive-leverage-edu-taps-bankers-for-%e2%82%b92000-cr-3000-cr-ipo/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T13:21:51.000Z",
+      "metaDescription": "Study abroad startup Leverage Edu has begun discussions with investment bankers as it eyes an IPO in the next 12-18…",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.570189320497338,
+      "crawledAt": "2026-04-07T16:55:23.965Z",
+      "id": "cc3p7b",
+      "entities": [],
+      "summary": " Study abroad startup Leverage Edu has begun discussions with investment bankers as it eyes an IPO in the next 12-18…",
+      "language": "en",
+      "processed_at": "2026-04-07T17:09:24.920Z"
+    },
+    {
+      "title": "‘When will this government wake up?’: Rahul Gandhi targets Centre after 2 children are killed in Manipur",
+      "url": "https://indianexpress.com/article/india/manipur-violence-two-children-killed-rahul-gandhi-reacts-10624084/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T13:20:54.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4740756054077651,
+      "crawledAt": "2026-04-07T16:54:00.689Z",
+      "id": "ho5j7g",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994581937789917,
+          "index": 11,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9957817196846008,
+          "index": 12,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984427094459534,
+          "index": 13,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9993886947631836,
+          "index": 22,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9980666637420654,
+          "index": 23,
+          "word": "##ipur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:09:25.074Z"
+    },
+    {
+      "title": "Reserve Bank of India proposes bank switching without altering account numbers",
+      "url": "https://thelivenagpur.com/2026/04/07/reserve-bank-of-india-proposes-bank-switching-without-altering-account-numbers/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T13:16:13.000Z",
+      "metaDescription": "In a move aimed at boosting customer convenience, the Reserve Bank of India is working on…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.8507426362291216,
+      "crawledAt": "2026-04-07T16:53:42.496Z",
+      "id": "6us5ds",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9994857907295227,
+          "index": 1,
+          "word": "Reserve",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992746710777283,
+          "index": 2,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992751479148865,
+          "index": 3,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991753697395325,
+          "index": 4,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Reserve Bank of India is working on a move aimed at boosting customer convenience. The Reserve Bank is working to boost customer convenience.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:10:06.548Z"
+    },
     {
       "title": "“Taking care of your mind is just as important as taking care of yourbody” say Iqbal Khan, Gulki Joshi and Srishty Singh on the occasion of World Health Day",
       "url": "https://thelivenagpur.com/2026/04/07/taking-care-of-your-mind-is-just-as-important-as-taking-care-of-yourbody-say-iqbal-khan-gulki-joshi-and-srishty-singh-on-the-occasion-of-world-health-day/",
@@ -1585,6 +3729,74 @@
       "processed_at": "2026-04-07T13:31:21.336Z"
     },
     {
+      "title": "Davanagere bypolls | 'Make us win this match by huge margin': Mohammad Azharuddin campaigns for Congress candidate",
+      "url": "https://www.deccanherald.com/india/karnataka/davanagere-bypolls-make-us-win-this-match-by-huge-margin-mohammad-azharuddin-campaigns-for-congress-candidate-3959160",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T11:05:07.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.31599535201720763,
+      "crawledAt": "2026-04-07T16:55:42.307Z",
+      "id": "5sqjle",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996902942657471,
+          "index": 20,
+          "word": "Mohammad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995384216308594,
+          "index": 21,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991477131843567,
+          "index": 22,
+          "word": "##z",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9950621724128723,
+          "index": 23,
+          "word": "##har",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989724159240723,
+          "index": 24,
+          "word": "##uddin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9971513748168945,
+          "index": 27,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:11:18.152Z"
+    },
+    {
       "title": "UPSC Civil Services Exam 2026",
       "url": "https://medium.com/@theunitedindian03/upsc-civil-services-exam-2026-e25fc6b8366c?source=rss------upsc-5",
       "source": "Medium — tag UPSC",
@@ -2438,6 +4650,98 @@
       "processed_at": "2026-04-07T13:36:15.250Z"
     },
     {
+      "title": "Violence grips Manipur’s Bishnupur: 2 children killed at home, 2 protesters shot dead while trying to storm CRPF post",
+      "url": "https://indianexpress.com/article/india/manipur-protesters-dead-crpf-firingkilling-children-10623745/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T10:28:42.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2581948694935913,
+      "crawledAt": "2026-04-07T16:54:00.932Z",
+      "id": "32a6h0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993498921394348,
+          "index": 4,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9974659085273743,
+          "index": 5,
+          "word": "##ipur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9991667866706848,
+          "index": 8,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9953609704971313,
+          "index": 9,
+          "word": "##ish",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9750868678092957,
+          "index": 10,
+          "word": "##nu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9935609102249146,
+          "index": 11,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9853136539459229,
+          "index": 27,
+          "word": "CR",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.955905020236969,
+          "index": 28,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9561747312545776,
+          "index": 29,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:11:18.358Z"
+    },
+    {
       "title": "Looking for internships for a month or so , still no leads :(",
       "url": "https://www.reddit.com/r/mumbai/comments/1ses2mi/looking_for_internships_for_a_month_or_so_still/",
       "source": "Reddit — r/mumbai",
@@ -2718,6 +5022,58 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-07T13:39:54.583Z"
+    },
+    {
+      "title": "GoSats raises $5M in Series A round led by Konvoy",
+      "url": "https://yourstory.com/2026/04/funding-gosats-5m-series-a-round-konvoy",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T09:08:24.000Z",
+      "metaDescription": "The newly raised capital will be used to accelerate user acquisition, expand product suite and invest in AI-driven personalisation.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2651476962017796,
+      "crawledAt": "2026-04-07T16:55:16.624Z",
+      "id": "pkn63a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8615392446517944,
+          "index": 1,
+          "word": "Go",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9238170981407166,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8065693974494934,
+          "index": 3,
+          "word": "##ats",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9983446002006531,
+          "index": 14,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The newly raised capital will be used to accelerate user acquisition, expand product suite and invest in AI-driven personalisation.",
+      "language": "en",
+      "processed_at": "2026-04-07T17:11:31.134Z"
     },
     {
       "title": "Do you know any night treks near Mumbai??",
@@ -7833,20 +10189,20 @@
       "processed_at": "2026-04-07T06:05:38.413Z"
     }
   ],
-  "processedAt": "2026-04-07T13:41:20.801Z",
+  "processedAt": "2026-04-07T17:11:52.133Z",
   "categories": [
-    "education-skills",
+    "banking-credit",
     "government-schemes",
-    "legal-judiciary",
-    "msme-industry-trade",
-    "jobs-recruitment",
+    "education-skills",
     "maharashtra-state-local",
+    "jobs-recruitment",
+    "msme-industry-trade",
+    "legal-judiciary",
     "policy-regulation",
-    "civic-public-service",
-    "banking-credit"
+    "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 69,
-  "dailyArticlesCount": 189,
+  "newArticlesProcessed": 49,
+  "dailyArticlesCount": 238,
   "filterDate": "2026-04-07"
 }
