@@ -1,9 +1,1380 @@
 {
-  "crawledAt": "2026-04-07T16:55:47.145Z",
+  "crawledAt": "2026-04-07T20:44:28.059Z",
   "totalSources": 75,
-  "totalArticles": 238,
+  "totalArticles": 271,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "From falling U.S. wealth to Indian factory closures, oil shock raises global recession risk",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/from-falling-u-s-wealth-to-indian-factory-closures-oil-shock-raises-global-recession-risk/articleshow/130096645.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T20:25:56.000Z",
+      "metaDescription": "Global markets face turmoil as war in Iran disrupts oil supplies. Businesses worldwide report soaring costs for raw materials. Plastic bag maker Kevin Kelly faces contract issues. India's aluminum pla",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.29258908553910207,
+      "crawledAt": "2026-04-07T20:42:41.034Z",
+      "id": "dgqo31",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995731115341187,
+          "index": 3,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9977990388870239,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9989923238754272,
+          "index": 5,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9953956007957458,
+          "index": 6,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9996284246444702,
+          "index": 9,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Global markets face turmoil as war in Iran disrupts oil supplies. Businesses worldwide report soaring costs for raw materials for raw material.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:00.996Z"
+    },
+    {
+      "title": "Vision Group eyes ways to push growth in deep tech",
+      "url": "https://www.deccanherald.com/business/companies/vision-group-eyes-ways-to-push-growth-in-deep-tech-3959837",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:20:48.000Z",
+      "metaDescription": "Vision Group eyes ways to push growth in deep tech",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.4981440192421027,
+      "crawledAt": "2026-04-07T20:44:20.836Z",
+      "id": "tcrlux",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992566704750061,
+          "index": 1,
+          "word": "Vision",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986271262168884,
+          "index": 2,
+          "word": "Group",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:22.922Z"
+    },
+    {
+      "title": "Death penalty: No justice in retribution",
+      "url": "https://www.deccanherald.com/opinion/editorial/death-penaltyno-justice-in-retribution-3959813",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:17:11.000Z",
+      "metaDescription": "Death penalty: No \njustice in retribution",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.7854514087273112,
+      "crawledAt": "2026-04-07T20:44:21.061Z",
+      "id": "u3mq64",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:23.199Z"
+    },
+    {
+      "title": "Learnings from a taxation misstep",
+      "url": "https://www.deccanherald.com/opinion/editorial/learnings-from-a-taxation-misstep-3959812",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:16:55.000Z",
+      "metaDescription": "Learnings from a \ntaxation misstep",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.7901227642802814,
+      "crawledAt": "2026-04-07T20:44:21.177Z",
+      "id": "gbiqdl",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:23.333Z"
+    },
+    {
+      "title": "Rethinking access to India's courts",
+      "url": "https://www.deccanherald.com/opinion/rethinking-access-to-indias-courts-3959809",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:16:22.000Z",
+      "metaDescription": "Rethinking access to India's courts",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3247652092039097,
+      "crawledAt": "2026-04-07T20:44:21.416Z",
+      "id": "83c84q",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998000860214233,
+          "index": 6,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:34.969Z"
+    },
+    {
+      "title": "Who really gets to compete? The gender debate in sport",
+      "url": "https://www.deccanherald.com/opinion/who-really-gets-to-compete-the-gender-debate-in-sport-3959807",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:16:06.000Z",
+      "metaDescription": "Who really gets to compete? The gender debate in sport",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26459078992295215,
+      "crawledAt": "2026-04-07T20:44:21.548Z",
+      "id": "iru8c5",
+      "entities": [],
+      "summary": " The gender debate in sport is the biggest debate in the sport's history. The debate is a debate on the role of gender in sport.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:44.506Z"
+    },
+    {
+      "title": "Of kings and vultures",
+      "url": "https://www.deccanherald.com/opinion/of-kings-and-vultures-3959808",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-07T20:15:49.000Z",
+      "metaDescription": "Of kings and vultures",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3147458191197983,
+      "crawledAt": "2026-04-07T20:44:21.643Z",
+      "id": "z95j4h",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:44.584Z"
+    },
+    {
+      "title": "Several villagers, police personnel injured in clash in Odisha amid protests against mining of bauxite",
+      "url": "https://www.thehindu.com/news/national/odisha/several-villagers-police-personnel-injured-in-clash-in-odisha-amid-protests-against-mining-of-bauxite/article70834409.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T20:12:57.000Z",
+      "metaDescription": "Tribal communities have been opposing mining at Sijimali, estimated to hold 311 million tonnes of bauxite, claiming that it would deplete perennial water sources and severely impact their livelihood",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3035550581469267,
+      "crawledAt": "2026-04-07T20:43:40.899Z",
+      "id": "1nzugs",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991595149040222,
+          "index": 10,
+          "word": "Odisha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tribal communities have been opposing mining at Sijimali, estimated to hold 311 million tonnes of bauxite. Tribal communities claim mining would deplete perennial water sources and severely impact their livelihood.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:57.279Z"
+    },
+    {
+      "title": "Regime Change or Total War? Trump's Iran Deadline Nears | Hormuz Crisis",
+      "url": "https://www.youtube.com/watch?v=1svQ9sF7Ngg",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T20:02:31.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.30742978007495636,
+      "crawledAt": "2026-04-07T20:44:03.145Z",
+      "id": "yh1zxu",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9373056292533875,
+          "index": 6,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9959009885787964,
+          "index": 8,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8152669668197632,
+          "index": 13,
+          "word": "##line",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8520560264587402,
+          "index": 20,
+          "word": "Crisis",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:45:57.430Z"
+    },
+    {
+      "title": "The Sattankulam custodial deaths case and a woman police constable’s testimony | Focus Tamil Nadu",
+      "url": "https://www.thehindu.com/videos/shows/the-2020-sattankulamcustodial-deaths-case-and-woman-police-constable-revathi-testimony-focus-tamil-nadu/article70835265.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:46:55.000Z",
+      "metaDescription": "The custodial torture was meted out to the father-son traders in June 2020, after they were detained at the Sattankulam police station in Thoothukudi district on the mere charge of violating COVID-19 ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2813649611609584,
+      "crawledAt": "2026-04-07T20:43:41.181Z",
+      "id": "e3xy44",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9137863516807556,
+          "index": 2,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9435137510299683,
+          "index": 4,
+          "word": "##nk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9113048911094666,
+          "index": 5,
+          "word": "##ula",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8822632431983948,
+          "index": 6,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9341199994087219,
+          "index": 22,
+          "word": "Focus",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8163526654243469,
+          "index": 23,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.906528651714325,
+          "index": 24,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The custodial torture was meted out to the father-son traders in June 2020. They were detained at the Sattankulam police station in Thoothukudi district.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:46:26.121Z"
+    },
+    {
+      "title": "Crime News : हुंड्यासाठी महिलांचा शारीरिक व मानसिक छळ",
+      "url": "https://deshdoot.com/dowry-women-torture-ahilyanagar/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:31:36.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar शहरात विवाहित महिलांवरील छळाच्या दोन घटना समोर आल्या असून, दोन्ही प्रकरणांत हुंड्यासाठी महिलांचा शारीरिक व मानसिक छळ करण्यात आल्याचे उघड झाले आहे. या दोन्ही स्वतंत्र",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2620697830767617,
+      "crawledAt": "2026-04-07T20:43:04.420Z",
+      "id": "lng9z",
+      "entities": [],
+      "summary": " The world's largest city, Ahilyanagar, is located in the U.S. city of San Francisco.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:47:07.427Z"
+    },
+    {
+      "title": "Iran War News | What’s Really Inside a Barrel of Oil? The $115 Breakdown",
+      "url": "https://www.youtube.com/watch?v=MuXECJixaPk",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:30:06.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.5124506972939776,
+      "crawledAt": "2026-04-07T20:44:03.416Z",
+      "id": "rp3aw9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9972380995750427,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954192638397217,
+          "index": 2,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913947582244873,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:47:24.915Z"
+    },
+    {
+      "title": "Kerala Assembly polls 2026: LDF set for ‘hat-trick’ as governance, welfare and secular credentials shape Kerala’s poll mood, says Subhashini Ali",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-ldf-set-for-hat-trick-as-governance-welfare-and-secular-credentials-shape-keralas-poll-mood-says-subhashini-ali/article70826620.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:21:57.000Z",
+      "metaDescription": "The CPI(M) Polit Bureau member says the work done by the LDF government is widely appreciated",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3474517094723991,
+      "crawledAt": "2026-04-07T20:43:42.081Z",
+      "id": "1wh0h5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990043044090271,
+          "index": 1,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958068132400513,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9995836615562439,
+          "index": 7,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9962976574897766,
+          "index": 8,
+          "word": "##DF",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996932744979858,
+          "index": 24,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995908141136169,
+          "index": 31,
+          "word": "Sub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9710160493850708,
+          "index": 32,
+          "word": "##hashi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9874955415725708,
+          "index": 34,
+          "word": "Ali",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The CPI(M) Polit Bureau member says the work done by the LDF government is widely appreciated. The CPI (M) politician says the L DF government is generally appreciated.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:47:58.466Z"
+    },
+    {
+      "title": "After scrutiny of nominations, candidates and supporters resume campaigning across Chennai",
+      "url": "https://www.thehindu.com/news/cities/chennai/after-scrutiny-of-nominations-candidates-and-supporters-resume-campaigning-across-chennai/article70835227.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:20:11.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.37440695598970547,
+      "crawledAt": "2026-04-07T20:43:42.303Z",
+      "id": "3565nc",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9986626505851746,
+          "index": 12,
+          "word": "Chennai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:47:58.954Z"
+    },
+    {
+      "title": "US Ground Invasion of Iran Next? SEAL Team 6 Ops, Warships Ready",
+      "url": "https://www.youtube.com/watch?v=ZleJ_q6sikw",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:18:41.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2993968645621849,
+      "crawledAt": "2026-04-07T20:44:03.660Z",
+      "id": "raf5oc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9836475849151611,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8918820023536682,
+          "index": 3,
+          "word": "Invasion",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:47:59.367Z"
+    },
+    {
+      "title": "War, waivers, trade pact likely to be on Misri’s U.S. agenda",
+      "url": "https://www.thehindu.com/news/national/fs-vikram-misri-to-visit-washington-dc-from-april-8/article70833070.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:17:40.000Z",
+      "metaDescription": "Foreign Secretary to begin three-day visit on April 8",
+      "category": "msme-industry-trade",
+      "difficulty": 8,
+      "confidence": 0.38354189010254836,
+      "crawledAt": "2026-04-07T20:43:42.567Z",
+      "id": "9u27t1",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9181996583938599,
+          "index": 12,
+          "word": "Mi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992586374282837,
+          "index": 17,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9773347973823547,
+          "index": 18,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9986428618431091,
+          "index": 19,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8669958710670471,
+          "index": 20,
+          "word": ".",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Foreign Secretary to begin three-day visit on April 8. Foreign Secretary will begin three day visit onApril 8.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:48:07.342Z"
+    },
+    {
+      "title": "Government issues draft norms to standardise state, district GDP estimates",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/government-issues-draft-norms-to-standardise-state-district-gdp-estimates/articleshow/130095908.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T19:16:39.000Z",
+      "metaDescription": "Framework standardises concepts, data and methods to ensure consistent, comparable estimates",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.9937856653457944,
+      "crawledAt": "2026-04-07T20:42:41.180Z",
+      "id": "sf9hkd",
+      "entities": [],
+      "summary": " Framework standardises concepts, data and methods to ensure consistent, comparable estimates. Framework standardise concepts,Data and methods.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:48:17.022Z"
+    },
+    {
+      "title": "Iran News Today | Iran Consul General: \"Trump Shows Ignorance\"",
+      "url": "https://www.youtube.com/watch?v=M5VBPuk2vkQ",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:12:56.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3227071073588752,
+      "crawledAt": "2026-04-07T20:44:03.857Z",
+      "id": "7g8koe",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970519542694092,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9926436543464661,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997533917427063,
+          "index": 3,
+          "word": "Today",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996802806854248,
+          "index": 5,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:48:17.288Z"
+    },
+    {
+      "title": "5 Hours To Go: Here's How Trump's Civilisation-Ending Threats Could Play Out",
+      "url": "https://www.ndtv.com/world-news/trump-iran-deadline-kharg-island-us-iran-war-today-7-hours-to-deadline-how-trumps-civilisation-ending-threats-could-play-out-11325038#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:12:05.000Z",
+      "metaDescription": "With hours to go until the deadline, here are the ways tonight could play out.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2867459296675642,
+      "crawledAt": "2026-04-07T20:43:57.201Z",
+      "id": "687rat",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9908298254013062,
+          "index": 10,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "With hours to go until the deadline, here are the ways to play out. With hours to gone, here's the ways you could play out.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:48:27.387Z"
+    },
+    {
+      "title": "UBS Loses Legal Bid to Clarify 1999 Holocaust Asset Accord",
+      "url": "https://www.livemint.com/companies/ubs-loses-legal-bid-to-clarify-1999-holocaust-asset-accord-11775588496491.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:01:35.000Z",
+      "metaDescription": "UBS Group AG failed to persuade a US judge to clarify a 1999 legal settlement about claims against Swiss banks over their handling of Nazi victims during the Holocaust.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.27660176572935713,
+      "crawledAt": "2026-04-07T20:43:18.157Z",
+      "id": "ratgu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987066388130188,
+          "index": 1,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989271879196167,
+          "index": 2,
+          "word": "##BS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9937253594398499,
+          "index": 13,
+          "word": "Holocaust",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9976663589477539,
+          "index": 14,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9954171180725098,
+          "index": 15,
+          "word": "##set",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9966621994972229,
+          "index": 16,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8544259071350098,
+          "index": 17,
+          "word": "##cco",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.990662157535553,
+          "index": 18,
+          "word": "##rd",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UBS Group AG failed to persuade a US judge to clarify a 1999 legal settlement over the Holocaust. UBS was accused of handling Nazi victims during the Holocaust.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:50:01.257Z"
+    },
+    {
+      "title": "Trump Attacks Iran News | Escalation Explained: How Trump's Iran Threats Intensified",
+      "url": "https://www.youtube.com/watch?v=sNtZDUY47yY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T19:00:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26358512986883215,
+      "crawledAt": "2026-04-07T20:44:04.167Z",
+      "id": "hxvr3s",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9734557271003723,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9962607026100159,
+          "index": 4,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9906126856803894,
+          "index": 5,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9967530965805054,
+          "index": 15,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:50:38.830Z"
+    },
+    {
+      "title": "China Didn't Just Quietly Buy Iran's Oil. It Funded Its Wartime Economy",
+      "url": "https://www.ndtv.com/world-news/china-didnt-just-quietly-buy-irans-oil-it-funded-its-wartime-economy-11325381#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T18:48:19.000Z",
+      "metaDescription": "Today, Beijing buys nearly everything Iran produces, which is a shift that has transformed China into Iran's most critical economic partner.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.26838484502244714,
+      "crawledAt": "2026-04-07T20:43:58.600Z",
+      "id": "ecv016",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9974669814109802,
+          "index": 1,
+          "word": "China",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994648694992065,
+          "index": 9,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9527985453605652,
+          "index": 19,
+          "word": "##time",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Beijing buys nearly everything Iran produces. China is the country's most powerful economic partner. China is now the most powerful economy in the world.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:51:47.393Z"
+    },
+    {
+      "title": "ICMR’s strategic shift: repurposing institutes",
+      "url": "https://indianexpress.com/article/cities/pune/icmrs-strategic-shift-repurposing-institutes-10624435/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T18:37:20.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4749402726268292,
+      "crawledAt": "2026-04-07T20:42:51.850Z",
+      "id": "9plel4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998906672000885,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.99360591173172,
+          "index": 2,
+          "word": "##CM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9928480386734009,
+          "index": 3,
+          "word": "##R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:52:00.326Z"
+    },
+    {
+      "title": "Centre may rejig spending to meet FY27 fiscal deficit target",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/centre-may-rejig-spending-to-meet-fy27-fiscal-deficit-target/articleshow/130094416.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T18:18:51.000Z",
+      "metaDescription": "The Indian government is looking at shifting its spending priorities. This is to manage new expenditure needs arising from supply chain issues caused by the West Asia war. The aim is to meet the fisca",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.41939664985368685,
+      "crawledAt": "2026-04-07T20:42:41.624Z",
+      "id": "5gavv4",
+      "entities": [],
+      "summary": " The Indian government is looking at shifting its spending priorities after the West Asia war. The aim is to meet the fisca. This is to manage new expenditure needs arising from supply chain issues.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:52:52.329Z"
+    },
+    {
+      "title": "GST Grant Withheld, Nagpur Municipal Corporation Short of ₹147 Crore",
+      "url": "https://thelivenagpur.com/2026/04/07/gst-grant-withheld-nagpur-municipal-corporation-short-of-%e2%82%b9147-crore/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T18:03:36.000Z",
+      "metaDescription": "The state government has withheld the March GST grant to all municipal corporations in Maharashtra, leaving…",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2583839643522548,
+      "crawledAt": "2026-04-07T20:42:31.358Z",
+      "id": "y4qh0b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982002377510071,
+          "index": 7,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9814772009849548,
+          "index": 8,
+          "word": "##g",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9959152340888977,
+          "index": 9,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992759227752686,
+          "index": 10,
+          "word": "Municipal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999164342880249,
+          "index": 11,
+          "word": "Corporation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The state government has withheld the March GST grant to all municipal corporations in Maharashtra. The stategovernment has withheld March GST grants to all Municipal corporations in the state.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:53:27.570Z"
+    },
+    {
+      "title": "90 Lakh Voters Out of Bengal Lists, Trinamool Thinks Emergency Counter Strategy",
+      "url": "https://www.ndtv.com/india-news/90-lakh-voters-out-of-bengal-lists-trinamool-thinks-emergency-counter-strategy-11325243#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T17:57:50.000Z",
+      "metaDescription": "The outcome of SIR has dismayed Bengal's ruling Trinamool Congress, which won the 2021 assembly election with a margin of 42.4 lakh votes. In Kolkata, the prevailing concern within the party is how to",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2795256225474142,
+      "crawledAt": "2026-04-07T20:43:54.990Z",
+      "id": "qm80as",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8236293792724609,
+          "index": 12,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9709680080413818,
+          "index": 13,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9251600503921509,
+          "index": 14,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bengal's ruling party won the election with a margin of 42.4 million votes. The outcome of the election was not announced.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:53:52.880Z"
+    },
+    {
+      "title": "Meta salaries disclosed: How much engineers, AI experts and product leaders earn — roles paying up to $650,000",
+      "url": "https://www.livemint.com/companies/news/meta-salaries-disclosed-how-much-engineers-ai-experts-and-product-leaders-earn-roles-paying-up-to-650000-11775580994371.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T17:19:02.000Z",
+      "metaDescription": "A new analysis of Meta’s visa filings shows base salaries reaching as high as $650,000 for AI leadership roles, underlining the company’s aggressive push to secure top artificial intelligence talent.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2907593423014899,
+      "crawledAt": "2026-04-07T20:43:18.428Z",
+      "id": "rdp4fh",
+      "entities": [],
+      "summary": " A new analysis of Meta's visa filings shows the company's $650,000-a-year salaries for AI leaders are high. The company is trying to secure the top spot for AI talent.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:54:41.116Z"
+    },
+    {
+      "title": "Buldhana Crime News : 'चिल्ड्रेन बँक'च्या नोटांनी फसवणूक करणारी टोळी जेरबंद; पोलिसांवर चाकू हल्ला",
+      "url": "https://pudhari.news/maharashtra/vidarbha/buldhana/buldhana-crime-children-bank-fake-notes-gang-arrested-knife-attack-police-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-07T17:14:17.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28053839232348055,
+      "crawledAt": "2026-04-07T20:42:21.359Z",
+      "id": "ie4oz3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987849593162537,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9832090735435486,
+          "index": 2,
+          "word": "##uld",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958118796348572,
+          "index": 3,
+          "word": "##hana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987872242927551,
+          "index": 4,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971447587013245,
+          "index": 5,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:54:41.464Z"
+    },
+    {
+      "title": "One of the biggest cyber crimes in Pune: Threatened with property seizure by scammers, elderly doctor loses Rs 12.3 crore in share trading fraud",
+      "url": "https://indianexpress.com/article/cities/pune/pune-doctor-cheated-12-crore-online-share-trading-fraud-cyber-crime-10624339/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T16:59:12.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.41285318101588286,
+      "crawledAt": "2026-04-07T20:42:52.007Z",
+      "id": "60luo6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9974711537361145,
+          "index": 10,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:55:03.836Z"
+    },
+    {
+      "title": "Vijayan-Revanth verbal duel marks end of campaigning for Kerala polls",
+      "url": "https://indianexpress.com/article/india/vijayan-revanth-verbal-duel-campaigning-kerala-polls-10624322/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-07T16:52:35.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25005269623670756,
+      "crawledAt": "2026-04-07T20:42:50.025Z",
+      "id": "2xq5d3",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9962396621704102,
+          "index": 1,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9984379410743713,
+          "index": 4,
+          "word": "Rev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996713399887085,
+          "index": 14,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:55:13.998Z"
+    },
+    {
+      "title": "Marjorie Taylor Greene, Ro Khanna, Schumer call for 25th amendment to remove Trump: 'Not a single bomb has...'",
+      "url": "https://timesofindia.indiatimes.com/world/us/marjorie-taylor-greene-ro-khanna-schumer-call-for-25th-amendment-to-remove-trump-not-a-single-bomb-has-/articleshow/130092387.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:51:43.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2887337923710082,
+      "crawledAt": "2026-04-07T20:43:48.650Z",
+      "id": "x0s7r5",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997233748435974,
+          "index": 1,
+          "word": "Marjorie",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991946220397949,
+          "index": 2,
+          "word": "Taylor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993778467178345,
+          "index": 3,
+          "word": "Greene",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994542598724365,
+          "index": 5,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.999347448348999,
+          "index": 6,
+          "word": "##o",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9974536895751953,
+          "index": 7,
+          "word": "Khan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9201124310493469,
+          "index": 8,
+          "word": "##na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9984825253486633,
+          "index": 10,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9565232992172241,
+          "index": 11,
+          "word": "##hum",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9986181259155273,
+          "index": 19,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:55:14.243Z"
+    },
+    {
+      "title": "Nanded Crime : देहविक्री रॅकेटचा मोठा भांडाफोड; ट्रॅव्हल्स–लॉज कनेक्शनचा संशय गडद",
+      "url": "https://pudhari.news/maharashtra/marathwada/nanded/nanded-news-major-prostitution-racket-busted-travels-and-lodge-link-under-scanner-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-07T16:50:46.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3769836834297599,
+      "crawledAt": "2026-04-07T20:42:21.474Z",
+      "id": "6a319x",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:55:14.469Z"
+    },
+    {
+      "title": "Tractor makers line up April price hikes as input costs bite; Mahindra leads move",
+      "url": "https://www.thehindubusinessline.com/companies/tractor-makers-line-up-april-price-hikes-as-input-costs-bite-mahindra-leads-move/article70835467.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-07T16:50:13.000Z",
+      "metaDescription": "Rising commodity costs and inflationary pressures push industry towards coordinated margin protection",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.5825038375643762,
+      "crawledAt": "2026-04-07T20:43:50.238Z",
+      "id": "lc2cjd",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9979453086853027,
+          "index": 16,
+          "word": "Ma",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Rising commodity costs and inflationary pressures push industry towards coordinated margin protection. Rising commodity prices and inflationaries push industry to coordinated margin Protection.",
+      "language": "en",
+      "processed_at": "2026-04-07T20:55:23.563Z"
+    },
     {
       "title": "Borrowers not entitled to mandatory personal hearing by banks before declaring accounts as fraudulent: SC",
       "url": "https://www.deccanherald.com/india/borrowers-not-entitled-to-mandatory-personal-hearing-by-banks-before-declaring-accounts-as-fraudulent-sc-3959713",
@@ -10189,20 +11560,20 @@
       "processed_at": "2026-04-07T06:05:38.413Z"
     }
   ],
-  "processedAt": "2026-04-07T17:11:52.133Z",
+  "processedAt": "2026-04-07T20:56:37.380Z",
   "categories": [
-    "banking-credit",
-    "government-schemes",
-    "education-skills",
-    "maharashtra-state-local",
-    "jobs-recruitment",
     "msme-industry-trade",
+    "education-skills",
     "legal-judiciary",
+    "maharashtra-state-local",
+    "government-schemes",
+    "jobs-recruitment",
+    "banking-credit",
     "policy-regulation",
     "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 49,
-  "dailyArticlesCount": 238,
+  "newArticlesProcessed": 33,
+  "dailyArticlesCount": 271,
   "filterDate": "2026-04-07"
 }
