@@ -1,9 +1,1191 @@
 {
-  "crawledAt": "2026-04-08T17:03:37.457Z",
+  "crawledAt": "2026-04-08T20:40:46.416Z",
   "totalSources": 75,
-  "totalArticles": 215,
+  "totalArticles": 243,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "RBI monetary policy: Currency forward curbs temporary, says Sanjay Malhotra",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-monetary-policy-currency-forward-curbs-temporary-says-sanjay-malhotra/articleshow/130123844.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T20:20:48.000Z",
+      "metaDescription": "\"These measures are not in any sense signalling any structural change. We stand committed to the development, broadening and deepening of these markets and the internationalisation of rupee. So, obvio",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.38782385278108295,
+      "crawledAt": "2026-04-08T20:38:48.419Z",
+      "id": "megrmk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990324378013611,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996535181999207,
+          "index": 15,
+          "word": "San",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8323934078216553,
+          "index": 16,
+          "word": "##jay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993658661842346,
+          "index": 17,
+          "word": "Mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9985648393630981,
+          "index": 18,
+          "word": "##hot",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"We stand committed to the development, broadening and deepening of these markets and the internationalisation of rupee,\" says obvio.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:41:41.396Z"
+    },
+    {
+      "title": "RBI monetary policy: Call below repo to comfort banks",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-monetary-policy-call-below-repo-to-comfort-banks/articleshow/130123493.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T20:04:12.000Z",
+      "metaDescription": "\"Our attempt, of course, is to keep the WACR as near as possible to the policy rate. However, in times like this when there is so much uncertainty, we want to give comfort to banks that liquidity will",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.7311806025538017,
+      "crawledAt": "2026-04-08T20:38:48.648Z",
+      "id": "oiee27",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990185499191284,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"Our attempt, of course, is to keep the WACR as near as possible to the policy rate\"",
+      "language": "en",
+      "processed_at": "2026-04-08T20:43:12.055Z"
+    },
+    {
+      "title": "Election Commission-Trinamool Congress meeting ends on an acrimonious note",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/election-commission-trinamool-congress-tmc-meeting-gyanesh-kumar-west-bengal-elections-april-8-2026/article70837559.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:58:26.000Z",
+      "metaDescription": "Trinamool delegation says Chief Election Commissioner told them to ‘get lost’, poll body sources say the Commission asked Rajya Sabha Member Derek O’Brien not to shout and ‘maintain decorum’",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.31547553706228576,
+      "crawledAt": "2026-04-08T20:39:49.249Z",
+      "id": "sqzvc3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987656474113464,
+          "index": 1,
+          "word": "Election",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965068101882935,
+          "index": 2,
+          "word": "Commission",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9991081357002258,
+          "index": 4,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.998568594455719,
+          "index": 5,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990612864494324,
+          "index": 6,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987948536872864,
+          "index": 7,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trinamool delegation says Chief Election Commissioner told them to ‘get lost’ Rajya Sabha Member Derek O’Brien not to shout and ‘maintain decorum’",
+      "language": "en",
+      "processed_at": "2026-04-08T20:43:47.788Z"
+    },
+    {
+      "title": "SEZs seek duty relief for three years, higher domestic sales limit",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/sezs-seek-duty-relief-for-three-years-higher-domestic-sales-limit/articleshow/130123651.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T19:57:30.000Z",
+      "metaDescription": "Special Economic Zone developers and units are urging the government for extended domestic sales concessions. They want a three-year period instead of one year. A higher cap of 50% on domestic sales i",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.31665194593989904,
+      "crawledAt": "2026-04-08T20:38:48.862Z",
+      "id": "fmp3l4",
+      "entities": [],
+      "summary": " Special Economic Zone developers want a three-year period instead of one year. They want a higher cap of 50% on domestic sales.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:43:57.582Z"
+    },
+    {
+      "title": "Crime News : भविष्य सांगण्याच्या बहाण्याने फसविणारे दोघे गजाआड",
+      "url": "https://deshdoot.com/divination-fraud-arrested-ahilyanagar/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:53:38.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar शहरात भविष्य सांगण्याच्या बहाण्याने वृध्द व्यक्तींची फसवणूक करण्यात आल्याच्या लागोपाट दोन घटना घडल्या होत्या. या प्रकारची फसवणूक करणार्‍या दोन चोरट्यांना कोतवाली पोल",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.306830027119299,
+      "crawledAt": "2026-04-08T20:39:12.376Z",
+      "id": "se6nia",
+      "entities": [],
+      "summary": " Ahilyanagar. The city of Ahilyaagar is located in the U.S. and is located near the city of San Francisco.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:44:30.419Z"
+    },
+    {
+      "title": "A coastal town where spirituality meets leisure",
+      "url": "https://www.deccanherald.com/india/karnataka/a-coastal-town-where-spirituality-meets-leisure-3961149",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-08T19:52:19.000Z",
+      "metaDescription": "A coastal town where spirituality meets leisure",
+      "category": "civic-public-service",
+      "difficulty": 3,
+      "confidence": 0.4237733222243729,
+      "crawledAt": "2026-04-08T20:40:39.162Z",
+      "id": "25xrt3",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:44:30.815Z"
+    },
+    {
+      "title": "Mudra loans cross Rs 40 lakh crore, Nirmala Sitharaman hails MSME credit push",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/mudra-loans-cross-rs-40-lakh-crore-nirmala-sitharaman-hails-msme-credit-push/articleshow/130123583.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T19:47:24.000Z",
+      "metaDescription": "The Pradhan Mantri Mudra Yojana has empowered millions of entrepreneurs. Over 577.9 million loans totaling ₹40.07 lakh crore have been disbursed since its 2015 launch. A significant portion of these l",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2584718720205319,
+      "crawledAt": "2026-04-08T20:38:49.379Z",
+      "id": "7cxd1p",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9992156028747559,
+          "index": 11,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9042574763298035,
+          "index": 12,
+          "word": "##rmal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984908103942871,
+          "index": 14,
+          "word": "Sit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9947577118873596,
+          "index": 19,
+          "word": "MS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9961140751838684,
+          "index": 20,
+          "word": "##ME",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Pradhan Mantri Mudra Yojana has empowered millions of entrepreneurs. Over 577.9 million loans totaling ₹40.07 lakh crore have been disbursed since its 2015 launch.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:44:45.679Z"
+    },
+    {
+      "title": "Piyush Goyal urges exporters to tap India-US portal to boost trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-urges-exporters-to-tap-india-us-portal-to-boost-trade/articleshow/130123547.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T19:43:26.000Z",
+      "metaDescription": "India and the US are pushing businesses to use a new trade facilitation portal. This initiative aims to significantly increase bilateral trade, with both nations targeting $500 billion. The portal is ",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.257865802303547,
+      "crawledAt": "2026-04-08T20:38:49.605Z",
+      "id": "29teew",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9989572763442993,
+          "index": 1,
+          "word": "Pi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8465445041656494,
+          "index": 2,
+          "word": "##yu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9809244871139526,
+          "index": 3,
+          "word": "##sh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984060525894165,
+          "index": 4,
+          "word": "Go",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9970914721488953,
+          "index": 5,
+          "word": "##yal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9916523694992065,
+          "index": 13,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India and the US are pushing to use a new trade facilitation portal. This initiative aims to significantly increase bilateral trade, with both nations targeting $500 billion.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:44:56.788Z"
+    },
+    {
+      "title": "Banks Selling $3 Billion Debt for Meta’s Prometheus Data Center",
+      "url": "https://www.livemint.com/companies/banks-selling-3-billion-debt-for-meta-s-prometheus-data-center-11775676946793.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:35:46.000Z",
+      "metaDescription": "A group of banks including Natixis SA, Mitsubishi UFJ Financial Group Inc. and Societe Generale SA have started selling $3 billion of loans for a data center in Ohio backed by Meta Platforms Inc., the",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.7540537008207517,
+      "crawledAt": "2026-04-08T20:39:34.070Z",
+      "id": "uy88rf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988093972206116,
+          "index": 11,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932146072387695,
+          "index": 12,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975938200950623,
+          "index": 15,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950880408287048,
+          "index": 16,
+          "word": "##met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9617317318916321,
+          "index": 17,
+          "word": "##heus",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989400506019592,
+          "index": 18,
+          "word": "Data",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979170560836792,
+          "index": 19,
+          "word": "Center",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A group of banks including Natixis SA, Mitsubishi UFJ Financial Group Inc. and Societe Generale SA have started selling $3 billion of loans for a data center in Ohio.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:12.555Z"
+    },
+    {
+      "title": "No honour in vanity degrees",
+      "url": "https://www.deccanherald.com/opinion/editorial/no-honour-in-vanity-degrees-3961166",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-08T19:35:44.000Z",
+      "metaDescription": "No honour in \nvanity degrees",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.29777963440820726,
+      "crawledAt": "2026-04-08T20:40:39.665Z",
+      "id": "20jd8s",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:12.635Z"
+    },
+    {
+      "title": "The reality of self-employment",
+      "url": "https://www.deccanherald.com/opinion/the-reality-of-self-employment-3961163",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-08T19:35:14.000Z",
+      "metaDescription": "The reality of self-employment",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.6239811117646001,
+      "crawledAt": "2026-04-08T20:40:39.871Z",
+      "id": "r5kayq",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:12.886Z"
+    },
+    {
+      "title": "Cabinet clears Bills for women’s quota in Lok Sabha and Assemblies",
+      "url": "https://indianexpress.com/article/india/cabinet-clears-bills-for-womens-quota-in-lok-sabha-and-assemblies-10626556/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T19:30:22.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3365979315561874,
+      "crawledAt": "2026-04-08T20:38:57.340Z",
+      "id": "ntjwy9",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:24.573Z"
+    },
+    {
+      "title": "RBI holds repo rate, flags supply chain risks to inflation &amp; growth",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-holds-repo-rate-flags-supply-chain-risks-to-inflation-growth/articleshow/130123373.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T19:20:35.000Z",
+      "metaDescription": "The Reserve Bank of India maintained its key policy rate at 5.25% due to ongoing West Asia tensions, warning of supply chain disruptions impacting inflation and growth. Projections for GDP and inflati",
+      "category": "banking-credit",
+      "difficulty": 7,
+      "confidence": 0.2872561422362868,
+      "crawledAt": "2026-04-08T20:38:46.087Z",
+      "id": "rg604n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991182088851929,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Reserve Bank of India maintains its key policy rate at 5.25% due to ongoing West Asia tensions. Projections for GDP and inflati are projected for GDP, inflati and inflatis.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:48.751Z"
+    },
+    {
+      "title": "‘Baby Killers!’: US nurse fired after viral antisemitic Times Square rant at Israeli tourists – Watch video",
+      "url": "https://timesofindia.indiatimes.com/world/us/baby-killers-nyc-nurse-fired-after-viral-antisemitic-times-square-rant-at-israeli-tourists-watch-video/articleshow/130123107.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:14:46.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3174733760115425,
+      "crawledAt": "2026-04-08T20:40:01.483Z",
+      "id": "fulkoc",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9400414824485779,
+          "index": 3,
+          "word": "Killer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8215755820274353,
+          "index": 4,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9843968152999878,
+          "index": 8,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9362671375274658,
+          "index": 17,
+          "word": "Times",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9732949733734131,
+          "index": 18,
+          "word": "Square",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9997522234916687,
+          "index": 22,
+          "word": "Israeli",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:45:49.304Z"
+    },
+    {
+      "title": "US banks could release $320 billion in capital with new draft rules, analysts say",
+      "url": "https://www.livemint.com/companies/us-banks-could-release-320-billion-in-capital-with-new-draft-rules-analysts-say-11775675521680.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:12:01.000Z",
+      "metaDescription": "USA-BANKS/CAPITAL:US banks could release $320 billion in capital with new draft rules, analysts say",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.6232963466633241,
+      "crawledAt": "2026-04-08T20:39:34.240Z",
+      "id": "9ayrz4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8056364059448242,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "U.S. banks could release $320 billion in capital with new draft rules, analysts say. U.S.-based banks could also release $32 billion in Capital with new rules, they say.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:46:23.160Z"
+    },
+    {
+      "title": "Iran Accuses US Of Violating Key Clauses Of Peace Framework Before Talks",
+      "url": "https://www.ndtv.com/world-news/iran-war-iran-accuses-us-of-violating-key-clauses-of-peace-framework-before-talks-11330994#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:09:47.000Z",
+      "metaDescription": "A fresh diplomatic row has erupted after Iranian officials accused the United States of violating three clauses of the 10-Point Proposal, the agreed framework for upcoming negotiations.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.28394076710801097,
+      "crawledAt": "2026-04-08T20:40:03.825Z",
+      "id": "5zu9ni",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996537566184998,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9178864359855652,
+          "index": 14,
+          "word": "Framework",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The U.S. is accused of violating three clauses in the 10-Point Proposal. The United States is accused by Iran of violating the clauses.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:46:35.898Z"
+    },
+    {
+      "title": "Ceasefire in Iran Conflict: Ambassador Arun K Singh on Global Implications",
+      "url": "https://www.youtube.com/watch?v=1gMZAuEepr8",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T19:00:06.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.2977473733853243,
+      "crawledAt": "2026-04-08T20:40:19.240Z",
+      "id": "t93aum",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994701743125916,
+          "index": 9,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9636240005493164,
+          "index": 10,
+          "word": "##run",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990125298500061,
+          "index": 11,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992852807044983,
+          "index": 12,
+          "word": "Singh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8075926899909973,
+          "index": 14,
+          "word": "Global",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9807549118995667,
+          "index": 15,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.963913083076477,
+          "index": 17,
+          "word": "##lication",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9686105251312256,
+          "index": 18,
+          "word": "##s",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:46:47.511Z"
+    },
+    {
+      "title": "Every town to get basic sports infra in next three years, says A.P. Minister",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/every-town-to-get-basic-sports-infra-in-next-three-years-says-ap-minister/article70838901.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T18:58:26.000Z",
+      "metaDescription": "Development work at Indira Gandhi Municipal Corporation Stadium is being taken at an initial estimated cost of around ₹170 crore, says Ramprasad Reddy.",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26493625574220425,
+      "crawledAt": "2026-04-08T20:39:49.911Z",
+      "id": "glpev0",
+      "entities": [],
+      "summary": " Development work at Indira Gandhi Municipal Stadium is being taken at an estimated cost of around $1.2 billion.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:46:56.063Z"
+    },
+    {
+      "title": "Pune Doctor, 75, Duped Of Rs 12 Crore In Share Market Investment Fraud: Cops",
+      "url": "https://www.ndtv.com/india-news/pune-doctor-75-duped-of-rs-12-crore-in-share-market-investment-fraud-cops-11330917#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T18:40:27.000Z",
+      "metaDescription": "A 75-year-old medical practitioner was duped of Rs 12.31 crore in an online share trading scam with fraudsters allegedly coercing him into making multiple investments, police said on Wednesday.",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2754694033321562,
+      "crawledAt": "2026-04-08T20:40:07.189Z",
+      "id": "azk1za",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9576784372329712,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A 75-year-old medical practitioner was duped of Rs 12.31 crore in an online share trading scam.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:47:29.217Z"
+    },
+    {
+      "title": "पहिला चहा : मोहीम फत्ते?",
+      "url": "https://pudhari.news/sampadakiy/pete-hegseth-and-donald-trump-funny-political-satire-war-dialogue-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-08T18:34:20.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.32773088120396865,
+      "crawledAt": "2026-04-08T20:38:28.257Z",
+      "id": "jstly5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:48:00.910Z"
+    },
+    {
+      "title": "Court Restores X Accounts Blocked For Defaming PM Modi, Posts On Freeze",
+      "url": "https://www.ndtv.com/india-news/court-restores-x-accounts-blocked-for-defaming-pm-modi-posts-on-freeze-11330842#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T18:22:45.000Z",
+      "metaDescription": "Sources told NDTV that the court has validated the statutory process, under which the government blocks access to unlawful digital content under the IT Act and associated rules.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.4097158279491793,
+      "crawledAt": "2026-04-08T20:40:08.220Z",
+      "id": "bj5in9",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993859529495239,
+          "index": 15,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8418002128601074,
+          "index": 16,
+          "word": "##di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9453333616256714,
+          "index": 18,
+          "word": "Post",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8517156839370728,
+          "index": 19,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9712275862693787,
+          "index": 20,
+          "word": "On",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9754080176353455,
+          "index": 21,
+          "word": "Free",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8646142482757568,
+          "index": 22,
+          "word": "##ze",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sources say the court has validated the statutory process. The government blocks access to unlawful digital content under the IT Act and associated rules.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:48:34.888Z"
+    },
+    {
+      "title": "Latur crime : शेलदरा येथे शेत मोजणीच्या वादातून मारहाण, वृद्ध शेतकरी जखमी",
+      "url": "https://pudhari.news/maharashtra/marathwada/latur/latur-sheldara-village-elderly-farmer-injured-assault-farm-land-measurement-dispute-dc95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-08T17:59:40.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2546478272325955,
+      "crawledAt": "2026-04-08T20:38:28.468Z",
+      "id": "vv2qnr",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:49:06.856Z"
+    },
+    {
+      "title": "‘Perpetrator of a shameful act’: HC upholds removal of RPF man for molesting railway commuter in 2018",
+      "url": "https://indianexpress.com/article/cities/mumbai/act-hc-upholds-removal-of-rpf-man-for-molesting-railway-commuter-in-2018-10626468/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T17:50:17.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2591385063475844,
+      "crawledAt": "2026-04-08T20:38:59.310Z",
+      "id": "jtjok",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9924139380455017,
+          "index": 12,
+          "word": "HC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982376098632812,
+          "index": 18,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9656503200531006,
+          "index": 19,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9857931733131409,
+          "index": 20,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:49:27.032Z"
+    },
+    {
+      "title": "6 arrested over sexual harassment of women employees of Nashik MNC",
+      "url": "https://indianexpress.com/article/cities/mumbai/6-arrested-over-sexual-harassment-of-women-employees-of-nashik-mnc-10626431/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T17:32:32.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3445262982139126,
+      "crawledAt": "2026-04-08T20:38:59.405Z",
+      "id": "l4sr0a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982650279998779,
+          "index": 10,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9850864410400391,
+          "index": 11,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980452656745911,
+          "index": 12,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9783210754394531,
+          "index": 13,
+          "word": "##NC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:50:31.422Z"
+    },
+    {
+      "title": "School Assembly News Headlines : Top National, World, Sports, Education News",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-9-top-national-world-sports-education-news-11330605#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-08T17:22:41.000Z",
+      "metaDescription": "School Assembly News Headlines (April 9): Staying updated on important national, international, sports, and business news sharpens the mind and helps students become informed citizens.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.32397661195756616,
+      "crawledAt": "2026-04-08T20:40:08.865Z",
+      "id": "bkkc7m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9359652996063232,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8925167918205261,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9556944370269775,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8979711532592773,
+          "index": 7,
+          "word": "Top",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8716001510620117,
+          "index": 8,
+          "word": "National",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9658085107803345,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8986000418663025,
+          "index": 12,
+          "word": "Sports",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9613818526268005,
+          "index": 14,
+          "word": "Education",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9304563999176025,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Staying updated on important national, international, sports, and business news sharpens the mind and helps students become informed citizens.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:50:50.579Z"
+    },
+    {
+      "title": "‘Vande Mataram’ row in Indore civic body: Congress councillor refuses to sing, suspended after uproar",
+      "url": "https://indianexpress.com/article/india/indore-congress-councillor-expelled-vande-mataram-row-10626392/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-08T17:15:58.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.3706371538814816,
+      "crawledAt": "2026-04-08T20:38:57.669Z",
+      "id": "x23hfo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9660534858703613,
+          "index": 2,
+          "word": "Van",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9525360465049744,
+          "index": 4,
+          "word": "Mata",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.998643696308136,
+          "index": 9,
+          "word": "Indo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9981196522712708,
+          "index": 10,
+          "word": "##re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989273548126221,
+          "index": 14,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:50:58.875Z"
+    },
+    {
+      "title": "Flat owner name land record | फ्लॅटधारकाचे नाव आता जमिनीच्या सात-बारा उतार्‍यावरही येणार",
+      "url": "https://pudhari.news/maharashtra/mumbai/flat-owners-name-to-be-added-to-712-land-record-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-08T17:14:18.000Z",
+      "metaDescription": "Flat owner name land record | फ्लॅटधारकाचे नाव आता जमिनीच्या सात-बारा उतार्‍यावरही येणार",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.4083399386002354,
+      "crawledAt": "2026-04-08T20:38:29.320Z",
+      "id": "eqzeel",
+      "entities": [],
+      "summary": " Flat owner name land record. Flat owner owner name name land land record. The record is a record for a single owner name.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:51:09.680Z"
+    },
+    {
+      "title": "Baramati bypoll Election | बिनविरोधचे प्रयत्न धुसर; बारामतीत निवडणूक लागणार?",
+      "url": "https://pudhari.news/maharashtra/pune/congress-insists-on-contesting-baramati-bypoll-unopposed-efforts-fail-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-08T17:03:21.000Z",
+      "metaDescription": "Baramati bypoll Election | बिनविरोधचे प्रयत्न धुसर; बारामतीत निवडणूक लागणार?",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.41030322346170783,
+      "crawledAt": "2026-04-08T20:38:29.655Z",
+      "id": "fohk65",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.832275390625,
+          "index": 1,
+          "word": "Bar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Baramati bypoll Election. Baramatati by poll Election is the first in the country's history.",
+      "language": "en",
+      "processed_at": "2026-04-08T20:51:21.032Z"
+    },
     {
       "title": "Maharashtra trendsetter in women’s quota: Sharad Pawar",
       "url": "https://indianexpress.com/article/pune/maharashtra-trendsetter-in-womens-quota-sharad-pawar-10626363/",
@@ -9206,20 +10388,20 @@
       "processed_at": "2026-04-08T06:08:56.516Z"
     }
   ],
-  "processedAt": "2026-04-08T17:15:54.364Z",
+  "processedAt": "2026-04-08T20:52:10.562Z",
   "categories": [
-    "jobs-recruitment",
-    "maharashtra-state-local",
     "policy-regulation",
-    "legal-judiciary",
-    "government-schemes",
     "banking-credit",
-    "msme-industry-trade",
+    "government-schemes",
+    "jobs-recruitment",
+    "legal-judiciary",
+    "civic-public-service",
     "education-skills",
-    "civic-public-service"
+    "maharashtra-state-local",
+    "msme-industry-trade"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 41,
-  "dailyArticlesCount": 215,
+  "newArticlesProcessed": 28,
+  "dailyArticlesCount": 243,
   "filterDate": "2026-04-08"
 }
