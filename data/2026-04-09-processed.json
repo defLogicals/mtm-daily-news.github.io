@@ -1,9 +1,1737 @@
 {
-  "crawledAt": "2026-04-09T05:49:35.501Z",
+  "crawledAt": "2026-04-09T09:05:47.080Z",
   "totalSources": 75,
-  "totalArticles": 119,
+  "totalArticles": 157,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Induction vs infrared cooktops, and how India’s electric cooking push could affect power grid",
+      "url": "https://indianexpress.com/article/explained/explained-economics/induction-vs-infrared-cooktops-challenges-electricity-10627373/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:04:04.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.30193443260331515,
+      "crawledAt": "2026-04-09T09:05:00.704Z",
+      "id": "71f9ib",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997923374176025,
+          "index": 11,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:05:49.198Z"
+    },
+    {
+      "title": "Murder case involving speech-and-hearing impaired persons cracked with help from sign language interpreters in Mysuru",
+      "url": "https://www.thehindu.com/news/national/karnataka/murder-case-involving-speech-and-hearing-impaired-persons-cracked-with-help-from-sign-language-interpreters-in-mysuru/article70841816.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:02:41.000Z",
+      "metaDescription": "Mysuru police took the accused to the Institute for Speech and Hearing in Mysuru, and interrogated with the assistance of sign language interpreters; the victim and the accused in the case were speech",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2820444242381893,
+      "crawledAt": "2026-04-09T09:04:57.315Z",
+      "id": "relwou",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.917186975479126,
+          "index": 20,
+          "word": "My",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mysuru police interrogated the accused with the assistance of sign language interpreters. The victim and the accused were speech.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:05:58.059Z"
+    },
+    {
+      "title": "Battleground Baramati: Congress formally announces party’s withdrawal",
+      "url": "https://www.thehindu.com/news/national/maharashtra/battleground-baramati-pawars-want-congress-to-withdraw-candidate-cm-calls-maharashtra-congress-president-sapkal-too/article70841763.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:02:04.000Z",
+      "metaDescription": "“As a part of political culture, responding to the emotional appeal, we have decided to respond positively,” Harshwardhan Sapkal said.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.254290919340853,
+      "crawledAt": "2026-04-09T09:04:54.920Z",
+      "id": "7hy0nt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9369803071022034,
+          "index": 3,
+          "word": "Bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8973426818847656,
+          "index": 4,
+          "word": "##ama",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993869066238403,
+          "index": 7,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Harshwardhan Sapkal: \"As a part of political culture, responding to the emotional appeal, we have decided to respond positively\"",
+      "language": "en",
+      "processed_at": "2026-04-09T09:06:11.843Z"
+    },
+    {
+      "title": "India’s first quantum computing test beds to be set up in Amaravati",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/indias-first-quantum-computing-test-beds-to-be-set-up-in-amaravati/article70841655.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:00:57.000Z",
+      "metaDescription": "India’s first quantum computing testing beds, built locally, will be dedicated on April 14, 2026, at SRM University-A.P. and Medha Towers in Amaravati, officials said",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3159407480329858,
+      "crawledAt": "2026-04-09T09:04:55.146Z",
+      "id": "9hnitr",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997501373291016,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9928888082504272,
+          "index": 14,
+          "word": "Amar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9838831424713135,
+          "index": 15,
+          "word": "##ava",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9658325910568237,
+          "index": 16,
+          "word": "##ti",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India’s first quantum computing testing beds, built locally, will be dedicated on April 14, 2026.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:06:22.681Z"
+    },
+    {
+      "title": "Congress will dismantle 'discriminatory system' which denies leadership opportunities to CAPF personnel: Rahul Gandhi",
+      "url": "https://www.deccanherald.com/india/congress-will-dismantle-discriminatory-system-which-denies-leadership-opportunities-to-capf-personnel-rahul-gandhi-3961778",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T08:48:58.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.27497870773972116,
+      "crawledAt": "2026-04-09T09:05:40.564Z",
+      "id": "3034ih",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984422326087952,
+          "index": 1,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9951028823852539,
+          "index": 18,
+          "word": "CA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9485363960266113,
+          "index": 19,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9643886089324951,
+          "index": 20,
+          "word": "##F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995651841163635,
+          "index": 23,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9917574524879456,
+          "index": 24,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991245865821838,
+          "index": 25,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:08:09.350Z"
+    },
+    {
+      "title": "Assembly Elections 2026 Live: 1 pm voter turnout: Assam 58.6%, Puducherry 56.6%, Kerala 49.4%",
+      "url": "https://www.thehindubusinessline.com/news/national/kerala-assam-puducherry-assembly-election-2026-voting-live-news-updates-09-apr-2026/article70837961.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T08:46:02.000Z",
+      "metaDescription": "High voter enthusiasm keeps turnout above 50% across all three states",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.39976316136172335,
+      "crawledAt": "2026-04-09T09:05:13.438Z",
+      "id": "8m4t0x",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8512157201766968,
+          "index": 2,
+          "word": "Elections",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995995759963989,
+          "index": 12,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9956431984901428,
+          "index": 18,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9817942976951599,
+          "index": 19,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.906333863735199,
+          "index": 21,
+          "word": "##rry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9988510608673096,
+          "index": 27,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " High voter enthusiasm keeps turnout above 50% across all three states. High voter turnout keeps turnout higher than 50% in all three countries.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:08:29.814Z"
+    },
+    {
+      "title": "Silt choking Mumbai’s lakes that supply city water, corporators seek scientific survey",
+      "url": "https://indianexpress.com/article/cities/mumbai/silt-choking-mumbai-lakes-supply-water-corporators-scientific-survey-10627386/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T08:41:55.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.4956487621577625,
+      "crawledAt": "2026-04-09T09:04:11.712Z",
+      "id": "vqu2ym",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995603561401367,
+          "index": 4,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:08:51.597Z"
+    },
+    {
+      "title": "Ashok Kharat case |भोंदू अशोक खरातला पाच दिवसांची पोलीस कोठडी; गरोदर महिलेवरील अत्याचाराचे प्रकरण",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/fake-godman-ashok-kharat-police-custody-nashik-pregnant-woman-assault-case-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T08:32:03.000Z",
+      "metaDescription": "Ashok Kharat case |भोंदू अशोक खरातला पाच दिवसांची पोलीस कोठडी; गरोदर महिलेवरील अत्याचाराचे प्रकरण",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.287543296125452,
+      "crawledAt": "2026-04-09T09:03:37.459Z",
+      "id": "h3rhr0",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.982312798500061,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8889909386634827,
+          "index": 3,
+          "word": "K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Ashok Kharat case. Ashok Khararat case is one of the most notorious cases in the world.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:09:50.381Z"
+    },
+    {
+      "title": "Khandesh Us Lagwad: खानदेशात ऊस लागवड स्थिर",
+      "url": "https://agrowon.esakal.com/agro-special/sugarcane-cultivation-stable-khandesh-ssp-25",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T08:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.27072273299534716,
+      "crawledAt": "2026-04-09T09:03:47.309Z",
+      "id": "58wv9k",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:10:00.445Z"
+    },
+    {
+      "title": "Former OYO Executive’s Startup Nava Raises $22 Mn To Build Neocloud Platform",
+      "url": "https://inc42.com/buzz/former-oyo-executives-startup-nava-raises-22-mn-to-build-neocloud-platform/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T08:18:56.000Z",
+      "metaDescription": "Former OYO senior executive Abhinav Sinha’s AI startup Nava, earlier known as Kluisz.ai, has raised $22 Mn (about ₹204 Cr)…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.3402185468146916,
+      "crawledAt": "2026-04-09T09:05:27.799Z",
+      "id": "blo0j8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979689717292786,
+          "index": 2,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9824426174163818,
+          "index": 3,
+          "word": "##Y",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8706218004226685,
+          "index": 4,
+          "word": "##O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975979924201965,
+          "index": 8,
+          "word": "Start",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963634610176086,
+          "index": 9,
+          "word": "##up",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978238940238953,
+          "index": 10,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9767004251480103,
+          "index": 11,
+          "word": "##va",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9745713472366333,
+          "index": 12,
+          "word": "Rai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.866766631603241,
+          "index": 21,
+          "word": "Neo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9572433829307556,
+          "index": 22,
+          "word": "##c",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9083218574523926,
+          "index": 23,
+          "word": "##lou",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9236274361610413,
+          "index": 25,
+          "word": "Platform",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Former OYO executive Abhinav Sinha's AI startup, Kluisz.ai, has raised $22 million.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:11:12.861Z"
+    },
+    {
+      "title": "Goa High Court Rape Case | बलात्कार प्रकरणातील नराधमाची 10 वर्षांची शिक्षा कायम; गोवा खंडपीठाने आरोपीचा अर्ज फेटाळला",
+      "url": "https://pudhari.news/goa/goa-high-court-upholds-ten-year-sentence-in-pocso-rape-case-appeal-dismissed-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T08:10:55.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4923463528907954,
+      "crawledAt": "2026-04-09T09:03:39.098Z",
+      "id": "4qvgjs",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.955962061882019,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:11:47.525Z"
+    },
+    {
+      "title": "Best Affordable Spoken English Course in Chhatrapati Sambhajinagar",
+      "url": "https://medium.com/@apathade866/best-affordable-spoken-english-course-in-chhatrapati-sambhajinagar-ca486d301744?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T08:10:15.000Z",
+      "metaDescription": "If you are looking for the best affordable spoken English course in Chhatrapati Sambhajinagar, you can find many options that help improve…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.5417959548812137,
+      "crawledAt": "2026-04-09T09:05:16.624Z",
+      "id": "5smysh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9913492798805237,
+          "index": 12,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.953596830368042,
+          "index": 13,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9640189409255981,
+          "index": 14,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9917758703231812,
+          "index": 16,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.949813961982727,
+          "index": 18,
+          "word": "##jin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8124788403511047,
+          "index": 20,
+          "word": "##r",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " If you are looking for the best affordable spoken English course in Chhatrapati Sambhajinagar, you can find many options that help improve.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:11:58.003Z"
+    },
+    {
+      "title": "Four Year Degree Honours Course: चार वर्षांची ऑनर्स पदवी सुरू; नवीन मार्गदर्शक सूचना जाहीर",
+      "url": "https://pudhari.news/maharashtra/pune/four-year-degree-honours-course-india-nep-guidelines-maharashtra-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T08:09:08.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.2572659185408305,
+      "crawledAt": "2026-04-09T09:03:39.358Z",
+      "id": "sj62w2",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:12:29.861Z"
+    },
+    {
+      "title": "Rupee at risk? BOP pressure, oil shock and capital flows hold the key, says Rahul Bajoria",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-at-risk-bop-pressure-oil-shock-and-capital-flows-hold-the-key-says-rahul-bajoria/articleshow/130134566.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T08:06:37.000Z",
+      "metaDescription": "The Indian rupee faces potential weakening to 94 against the US dollar by mid-2026 due to rising oil prices and a widening current account deficit. While the RBI is focused on preventing disorderly mo",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2658096413893089,
+      "crawledAt": "2026-04-09T09:04:03.766Z",
+      "id": "kk3ic1",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994836449623108,
+          "index": 21,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9980162382125854,
+          "index": 22,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996024966239929,
+          "index": 23,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9870066046714783,
+          "index": 24,
+          "word": "##jo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8453337550163269,
+          "index": 25,
+          "word": "##ria",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Indian rupee faces potential weakening to 94 against the US dollar by mid-2026. The rupee is expected to fall to 94 by mid next year.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:13:03.097Z"
+    },
+    {
+      "title": "Raigad Crime : कामोठ्यात युवतीच्या वादातून युवकावर हल्ला",
+      "url": "https://pudhari.news/maharashtra/raigad/raigad-crime-kamothe-youth-attack-dispute-case-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T08:05:40.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.26672645960597385,
+      "crawledAt": "2026-04-09T09:03:39.597Z",
+      "id": "vii8nk",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:13:21.233Z"
+    },
+    {
+      "title": "Pune Sadhu Vaswani Bridge Delay: साधू वासवानी पूल रखडला; महापालिका-वाहतूक पोलिस आमने-सामने",
+      "url": "https://pudhari.news/maharashtra/pune/sadhu-vaswani-bridge-delay-pune-pmc-traffic-police-dispute-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T08:03:47.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.36072631798762006,
+      "crawledAt": "2026-04-09T09:03:40.012Z",
+      "id": "3nlk7v",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8010421395301819,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9138162732124329,
+          "index": 3,
+          "word": "##hu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.821705162525177,
+          "index": 7,
+          "word": "##i",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:13:36.326Z"
+    },
+    {
+      "title": "Rajasthan SI Recruitment 2021: Failed Candidates File Caveat In Supreme Court",
+      "url": "https://www.ndtv.com/education/rajasthan-si-recruitment-2021-failed-candidates-file-caveat-in-supreme-court-11332884#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T08:01:57.000Z",
+      "metaDescription": "Unsuccessful candidates in the Rajasthan SI Recruitment 2021 filed a caveat in the Supreme Court to be heard if the state or selected candidates challenge the High Court order.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.32084237703099355,
+      "crawledAt": "2026-04-09T09:05:11.572Z",
+      "id": "84j9qd",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8655960559844971,
+          "index": 3,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9967027902603149,
+          "index": 20,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9905025959014893,
+          "index": 21,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Unsuccessful candidates in the Rajasthan SI Recruitment Recruitments have filed a petition to the Supreme Court. The Supreme Court will hear the case if the state or candidates challenge the order.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:14:01.320Z"
+    },
+    {
+      "title": "Morning vs. evening: how do the benefits of yoga differ depending on when you do it",
+      "url": "https://www.thehindu.com/news/national/karnataka/how-do-benefits-of-doing-yoga-in-the-morning-differ-from-that-in-the-evening-more-beneficial-than-evening-sessions-for-sleep-and-well-being-study/article70838975.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T08:01:00.000Z",
+      "metaDescription": "Participants who practised yoga in the morning reported a greater reduction in sleep disturbances and a shift towards ‘morningness’ — a preference for early-day activity aligned with natural biologica",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.29940171372568897,
+      "crawledAt": "2026-04-09T09:04:57.985Z",
+      "id": "fb3ssr",
+      "entities": [],
+      "summary": " Participants who practised yoga in the morning reported a greater reduction in sleep disturbances and a shift towards ‘morningness’",
+      "language": "en",
+      "processed_at": "2026-04-09T09:14:23.670Z"
+    },
+    {
+      "title": "Savarkar Swatantryaveer Title Case : स्वातंत्र्यवीर’ पदवी सरकारदत्त नाही! पणतू सात्यकी सावरकरांनी कोर्टातच उलगडला ऐतिहासिक ‘सस्पेन्स’!-सावरकर मानहानी खटल्यात नवा ‘ट्विस्ट’!",
+      "url": "https://www.navakal.in/maharashtra/savarkar-swatantryaveer-title-case-savarkar-swatantryaveer-title-case-rahul-gandhi-defamation/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:52:58.000Z",
+      "metaDescription": "Savarkar Swatantryaveer Title Case : भारतीय स्वातंत्र्यलढ्यातील प्रखर राष्ट्रभक्त विनायक दामोदर सावरकर यांच्या संदर्भात पुण्यातील न्यायालयात सुरू असलेल्या एका मानहानीच्या दाव्याला आता नवीन वळण मिळाले ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2968789935890899,
+      "crawledAt": "2026-04-09T09:04:28.246Z",
+      "id": "r0g5zu",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8375699520111084,
+          "index": 1,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8114141225814819,
+          "index": 5,
+          "word": "##wat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8081310391426086,
+          "index": 6,
+          "word": "##ant",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Savarkar Swatantryaveer Title Case. The Savarker Swatantaveer title Case is the first of its kind.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:15:33.018Z"
+    },
+    {
+      "title": "Stopping Woman From Entering Kitchen Of Husband's Home Is Cruelty: Bombay High Court",
+      "url": "https://www.ndtv.com/india-news/stopping-woman-from-entering-kitchen-of-husbands-home-is-cruelty-bombay-high-court-11332733#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:49:13.000Z",
+      "metaDescription": "According to the woman's complaint, she was treated as a subordinate in the house, and her fundamental rights were violated.",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2879757191685988,
+      "crawledAt": "2026-04-09T09:05:12.415Z",
+      "id": "88fkna",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8718182444572449,
+          "index": 20,
+          "word": "Bombay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9588251709938049,
+          "index": 21,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9150069355964661,
+          "index": 22,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The woman's complaint says she was treated as a subordinate in the house. She says her fundamental rights were violated.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:15:53.181Z"
+    },
+    {
+      "title": "Fertilisers Subsidy: शेतकऱ्यांना मोठा दिलासा, खरिपासाठी खतांच्या अनुदानात २१ टक्क्यांपर्यंत वाढ",
+      "url": "https://agrowon.esakal.com/agro-special/fertilisers-subsidy-kharif-season-2026-india-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T07:45:23.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.4455035223702309,
+      "crawledAt": "2026-04-09T09:03:47.937Z",
+      "id": "7rf0tk",
+      "entities": [],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:16:34.910Z"
+    },
+    {
+      "title": "Is Algae The Answer To Carbon Capture? Intrinsic Foundries’ Green Fix For Toxic Waste",
+      "url": "https://inc42.com/startups/algae-for-carbon-capture-intrinsic-foundries-green-toxic-waste/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:31:42.000Z",
+      "metaDescription": "Believe it or not, the simplest form of life can actually outsmart the most complex life form when it comes…",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3320284172678345,
+      "crawledAt": "2026-04-09T09:05:28.388Z",
+      "id": "9l58ay",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.973750650882721,
+          "index": 12,
+          "word": "In",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.929189145565033,
+          "index": 14,
+          "word": "##ns",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9067422151565552,
+          "index": 15,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877277612686157,
+          "index": 16,
+          "word": "Found",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9486680030822754,
+          "index": 17,
+          "word": "##ries",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Believe it or not, the simplest form of life can actually outsmart the most complex life form when it comes.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:17:31.063Z"
+    },
+    {
+      "title": "Modi attacks Mamata Banerjee government, pitches BJP for ‘Viksit Bengal’",
+      "url": "https://www.thehindubusinessline.com/news/elections/modi-attacks-mamata-banerjee-government-pitches-bjp-for-viksit-bengal/article70841785.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:28:33.000Z",
+      "metaDescription": "Targeting the TMC, Narendra Modi accused the state government of hurting investment and youth prospects, urging voters in West Bengal to bring in a BJP-led “double-engine” government.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.279626929383619,
+      "crawledAt": "2026-04-09T09:05:14.911Z",
+      "id": "xgaclc",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9991551041603088,
+          "index": 1,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9424378871917725,
+          "index": 2,
+          "word": "##di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995542168617249,
+          "index": 4,
+          "word": "Mama",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9423041939735413,
+          "index": 5,
+          "word": "##ta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996122121810913,
+          "index": 6,
+          "word": "Ban",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990307092666626,
+          "index": 7,
+          "word": "##erjee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992836713790894,
+          "index": 11,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.930316686630249,
+          "index": 12,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9345625042915344,
+          "index": 15,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9352464079856873,
+          "index": 17,
+          "word": "##si",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8372488021850586,
+          "index": 19,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Narendra Modi accused the state government of hurting investment and youth prospects. Modi urged voters in West Bengal to bring in a BJP-led “double-engine’s government.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:18:26.491Z"
+    },
+    {
+      "title": "Nimesh Chandan backs private banks, cyclicals as valuations turn attractive",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/nimesh-chandan-backs-private-banks-cyclicals-as-valuations-turn-attractive/articleshow/130133299.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T07:23:47.000Z",
+      "metaDescription": "Indian markets are experiencing a temporary disruption, not a fundamental shift.  Bajaj Finserv AMC's Nimesh Chandan sees this as a chance to buy good companies at attractive prices.  Financials, mate",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.3973948375153945,
+      "crawledAt": "2026-04-09T09:04:03.515Z",
+      "id": "act4a4",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9978233575820923,
+          "index": 1,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.844279408454895,
+          "index": 2,
+          "word": "##mes",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998285710811615,
+          "index": 4,
+          "word": "Chan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AMC's Nimesh Chandan sees this as a chance to buy good companies at attractive prices. Indian markets are experiencing a temporary disruption, not a fundamental shift.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:18:59.417Z"
+    },
+    {
+      "title": "Himanta Biswa Sarma : “बीफ खा, पण घरात…”; आसामचे मुख्यमंत्री हिमांता बिस्वा सरमांच्या विधानाने राजकीय खळबळ, विरोधक आक्रमक.",
+      "url": "https://www.navakal.in/desh-videsh/himanta-biswa-sarma-himanta-biswa-sarma-assam-beef-remark-opposition/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:19:32.000Z",
+      "metaDescription": "Himanta Biswa Sarma : आसाम विधानसभा निवडणुकीचे वारे वाहू लागले असतानाच, राज्याचे मुख्यमंत्री हिमांता बिस्वा सरमा यांच्या एका वादग्रस्त विधानाने राजकीय वातावरणात मोठी खळबळ उडाली आहे. गोमांस भक्षणावरून ",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2691125313015249,
+      "crawledAt": "2026-04-09T09:04:29.438Z",
+      "id": "9dz59m",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.963488757610321,
+          "index": 1,
+          "word": "Him",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The. Himanta Biswa Sarma. The city of Himanta is in the capital of the country's largest city.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:19:42.287Z"
+    },
+    {
+      "title": "Nine homes stall Sewri Worli Connector work over rehab dispute",
+      "url": "https://indianexpress.com/article/cities/mumbai/nine-homes-stall-sewri-worli-connector-work-over-rehab-dispute-10627217/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T07:11:29.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.31738258973517836,
+      "crawledAt": "2026-04-09T09:04:11.810Z",
+      "id": "lkmgn4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9724233150482178,
+          "index": 4,
+          "word": "Se",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9369758367538452,
+          "index": 5,
+          "word": "##w",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877201318740845,
+          "index": 7,
+          "word": "W",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9116991758346558,
+          "index": 8,
+          "word": "##or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9477105736732483,
+          "index": 9,
+          "word": "##li",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9838290214538574,
+          "index": 10,
+          "word": "Con",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9880110025405884,
+          "index": 11,
+          "word": "##nect",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8603971004486084,
+          "index": 12,
+          "word": "##or",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:19:51.744Z"
+    },
+    {
+      "title": "Why Udyam Registration is Important for Business Transparency",
+      "url": "https://medium.com/@driving0404/why-udyam-registration-is-important-for-business-transparency-331ec149f4de?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T07:07:03.000Z",
+      "metaDescription": "Transparency is a crucial factor in building trust and maintaining long-term business relationships.\nContinue reading on Medium »",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.2558030150043614,
+      "crawledAt": "2026-04-09T09:05:20.596Z",
+      "id": "76dz2b",
+      "entities": [],
+      "summary": "Transparency is a crucial factor in building trust and maintaining long-term business relationships. Transparency is a key factor in maintaining long term relationships.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:20:24.119Z"
+    },
+    {
+      "title": "Home loan rates April 2026: SBI, PNB, BoB and other banks compared; 5 key tips to save money",
+      "url": "https://www.livemint.com/money/personal-finance/home-loan-rates-april-2026-sbi-pnb-bob-union-bank-canara-bank-uco-bank-compared-5-key-tips-to-save-money-11775715394743.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T07:05:47.000Z",
+      "metaDescription": "Planning a home loan in April 2026? Check out SBI, PNB, BoB, Union Bank, Canara Bank, Bank of India, and UCO Bank rates, which could make or break your EMIs. Understand the significance of hidden fees",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.33403647120340485,
+      "crawledAt": "2026-04-09T09:04:07.334Z",
+      "id": "puwi24",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985485076904297,
+          "index": 8,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9892284870147705,
+          "index": 9,
+          "word": "##BI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9990029335021973,
+          "index": 11,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9652435183525085,
+          "index": 12,
+          "word": "##N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9903306365013123,
+          "index": 13,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985933899879456,
+          "index": 15,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877549409866333,
+          "index": 16,
+          "word": "##B",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Planning a home loan in April 2026? Check out SBI, PNB, BoB, Union Bank, Canara Bank, and UCO Bank rates.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:20:35.263Z"
+    },
+    {
+      "title": "Opinion: Opinion | Why Kerala Is A Do-Or-Die Battle For Congress And CPI",
+      "url": "https://www.ndtv.com/opinion/why-kerala-is-a-do-or-die-battle-for-congress-and-cpi-m-11332536#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:47:43.000Z",
+      "metaDescription": "For the Left, it is a battle for existence. For the Congress, it can't afford to lose the state for a third time.",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2615853554799213,
+      "crawledAt": "2026-04-09T09:05:09.338Z",
+      "id": "meijk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9901412129402161,
+          "index": 10,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8894978165626526,
+          "index": 13,
+          "word": "Do",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.981522262096405,
+          "index": 15,
+          "word": "Or",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9506451487541199,
+          "index": 17,
+          "word": "Die",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.983871579170227,
+          "index": 22,
+          "word": "CP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9874139428138733,
+          "index": 23,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Congress can't afford to lose the state for a third time. For the Left, it is a battle for existence.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:22:22.106Z"
+    },
+    {
+      "title": "Free Uber ride helps first-time voters cast ballots in Kerala",
+      "url": "https://www.thehindubusinessline.com/news/free-uber-ride-helps-first-time-voters-cast-ballots-in-kerala/article70841572.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:28:24.000Z",
+      "metaDescription": "The rides are free for up to 2 km from the pickup point",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2858877102452036,
+      "crawledAt": "2026-04-09T09:05:15.717Z",
+      "id": "kt3uze",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996759295463562,
+          "index": 13,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The rides are free for up to 2 km from pickup point. The rides can be free for 2 km to 2km from pickup points.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:23:38.990Z"
+    },
+    {
+      "title": "KKR vs LSG : आयपीएल २०२६: ईडन गार्डन्सवर रंगणार कोलकाता आणि लखनऊचा थरार; पावसाचे सावट आणि शमीचे आव्हान असणार निर्णायक",
+      "url": "https://www.navakal.in/maharashtra/kkr-vs-lsg-ipl-2026-kolkata-knight-riders-vs-lucknow-super-giants-head-to-head-record/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:23:33.000Z",
+      "metaDescription": "KKR vs LSG : आयपीएल २०२६ च्या हंगामात आज कोलकाता नाईट रायडर्स (KKR) आणि लखनऊ सुपर जायंट्स (LSG) हे दोन बलाढ्य संघ आमनेसामने येणार आहेत. कोलकात्याच्या ऐतिहासिक ईडन गार्डन्स मैदानावर हा सामना पार पडणार ",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.30040817375939777,
+      "crawledAt": "2026-04-09T09:04:30.762Z",
+      "id": "9ai8mo",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983863234519958,
+          "index": 1,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9410499334335327,
+          "index": 2,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9814133644104004,
+          "index": 3,
+          "word": "##R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9979860782623291,
+          "index": 5,
+          "word": "L",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9789862036705017,
+          "index": 6,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9764412045478821,
+          "index": 7,
+          "word": "##G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "KKR vs. KKR: KKR vs LSG:   KKR. K KR: K KR, KKR, K KR and KKR.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:24:07.254Z"
+    },
+    {
+      "title": "Global trade in wild birds is poorly monitored — the risks to wildlife, ecosystems and human health",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/global-trade-in-wild-birds-is-poorly-monitored-the-risks-to-wildlife-ecosystems-and-human-health",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T06:12:04.000Z",
+      "metaDescription": "Poorly monitored global trade in wild-caught birds is far larger than official records suggest, with over a million non-CITES birds imported into Hong Kong and Singapore since 2006, mostly from Africa",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.3393089896910064,
+      "crawledAt": "2026-04-09T09:05:38.088Z",
+      "id": "wzqws9",
+      "entities": [],
+      "summary": "Poorly monitored global trade in wild-caught birds is far larger than official records suggest, with over a million non-CITES birds imported into Hong Kong and Singapore since 2006.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:05.986Z"
+    },
+    {
+      "title": "Consumer durables face margin pressure despite steady Q4FY26 growth outlook",
+      "url": "https://www.thehindubusinessline.com/economy/consumer-durables-face-margin-pressure-despite-steady-q4fy26-growth-outlook/article70841445.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:02:44.000Z",
+      "metaDescription": "Consumer durable companies are likely to report modest Q4FY26 growth, but rising input costs, rupee depreciation and regulatory changes may weigh on margins, leading to pressure on overall profitabili",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.28657911178276596,
+      "crawledAt": "2026-04-09T09:04:52.593Z",
+      "id": "9khs5g",
+      "entities": [],
+      "summary": " Rising input costs, rupee depreciation and regulatory changes may weigh on margins, leading to pressure on overall profitabili.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:17.731Z"
+    },
+    {
+      "title": "EV Financing & Asset Management Startup Astranova Mobility Raises ₹60 Cr",
+      "url": "https://inc42.com/buzz/ev-financing-asset-management-startup-astranova-mobility-raises-%e2%82%b960-cr/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:02:18.000Z",
+      "metaDescription": "EV asset management and leasing startup Astranova Mobility (previously known as Electrifi Mobility) has secured ₹60 Cr (about $6.4 Mn)…",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.3058396253156076,
+      "crawledAt": "2026-04-09T09:05:28.796Z",
+      "id": "6qk4nj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.995064914226532,
+          "index": 1,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9057291746139526,
+          "index": 2,
+          "word": "##V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9925680756568909,
+          "index": 3,
+          "word": "Fin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9955196380615234,
+          "index": 4,
+          "word": "##an",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9961826801300049,
+          "index": 5,
+          "word": "##cing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960915446281433,
+          "index": 6,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983489513397217,
+          "index": 7,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932418465614319,
+          "index": 8,
+          "word": "##set",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9846591353416443,
+          "index": 9,
+          "word": "Management",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9582744240760803,
+          "index": 10,
+          "word": "Start",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9437780976295471,
+          "index": 11,
+          "word": "##up",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9470804333686829,
+          "index": 12,
+          "word": "As",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9075081944465637,
+          "index": 14,
+          "word": "##nova",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9404758810997009,
+          "index": 15,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Astranova Mobility has secured a $6.4 million deal with Astranova Mobility. The company is also known as Electrifi Mobility.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:28.605Z"
+    },
+    {
+      "title": "Young Edge: The harsh reality of surviving on a budget in Pune’s student hub",
+      "url": "https://indianexpress.com/article/cities/pune/harsh-reality-budget-pune-student-hub-10626945/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T05:59:26.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6724451011932151,
+      "crawledAt": "2026-04-09T09:04:16.443Z",
+      "id": "r7ojj5",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9980459809303284,
+          "index": 13,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:44.081Z"
+    },
+    {
+      "title": "Maharashtra Makes Marathi Test Mandatory for Auto, Taxi Drivers in Mira-Bhayandar Permit Drive",
+      "url": "https://thelivenagpur.com/2026/04/09/maharashtra-makes-marathi-test-mandatory-for-auto-taxi-drivers-in-mira-bhayandar-permit-drive/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T05:48:04.000Z",
+      "metaDescription": "Amid recurring language-related tensions in Mumbai and surrounding areas, the Maharashtra government has introduced a new…",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.7317728167091849,
+      "crawledAt": "2026-04-09T09:03:52.952Z",
+      "id": "pvb2e4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9534476399421692,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9178987145423889,
+          "index": 17,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8908476233482361,
+          "index": 21,
+          "word": "Per",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Maharashtra government has introduced a new language-related tensions in Mumbai and surrounding areas. The Maharashtra government introduced the new language.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:52.199Z"
+    },
     {
       "title": "Stock Market Live: Sensex, Nifty fall nearly 1% amid global uncertainty and FII outflows",
       "url": "https://www.thehindubusinessline.com/markets/stock-market-nifty-sensex-live-updates-9th-april-2026/article70838201.ece",
@@ -2213,6 +3941,74 @@
       "processed_at": "2026-04-09T01:57:45.933Z"
     },
     {
+      "title": "Assembly Elections 2026 Live Updates | Voter turnout at 1 pm: Assam 59.63%, Kerala 49.70%, Puducherry 56.83%",
+      "url": "https://www.deccanherald.com/elections/assam/india-news-assembly-elections-2026-live-updates-polling-in-kerala-assam-puducherry-bjp-congress-narendra-modi-pinarayi-vijayan-himanta-biswa-sarma-n-rangasamy-3961440",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T01:38:48.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5501174571190783,
+      "crawledAt": "2026-04-09T09:05:41.221Z",
+      "id": "9i59rz",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9464901685714722,
+          "index": 2,
+          "word": "Elections",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996141195297241,
+          "index": 16,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999564528465271,
+          "index": 22,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9962412118911743,
+          "index": 28,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9954275488853455,
+          "index": 29,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9973540902137756,
+          "index": 31,
+          "word": "##rry",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:52.896Z"
+    },
+    {
       "title": "J&K HC flags ‘ex facie’ Sports Code violations in Badminton Association, seeks affidavit from Sports Council",
       "url": "https://indianexpress.com/article/india/jk-hc-flags-ex-facie-sports-code-violations-in-badminton-association-seeks-affidavit-from-sports-council-10626522/",
       "source": "Indian Express — India",
@@ -2500,6 +4296,82 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-09T01:58:30.565Z"
+    },
+    {
+      "title": "Kerala Election 2026 LIVE Updates: Voter turnout 47.90 per cent till 1 pm, Priyank Kharge clarifies Congress chief’s ‘illiterate Gujaratis’ remark",
+      "url": "https://indianexpress.com/article/india/kerala-polls-2026-live-updates-ldf-udf-bjp-10625820/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T01:09:36.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2763928204754872,
+      "crawledAt": "2026-04-09T09:04:15.093Z",
+      "id": "k4bghw",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995899200439453,
+          "index": 22,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9947187900543213,
+          "index": 23,
+          "word": "##riya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9230419993400574,
+          "index": 24,
+          "word": "##nk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999255359172821,
+          "index": 25,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8882139921188354,
+          "index": 26,
+          "word": "##har",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982580542564392,
+          "index": 31,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9980651140213013,
+          "index": 39,
+          "word": "Gujarat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T09:25:53.179Z"
     },
     {
       "title": "Assam Election 2026 Live Updates: PM Modi urges voters to fulfil ‘civic duty’ as polling begins to elect 126 MLAs",
@@ -4571,20 +6443,20 @@
       "processed_at": "2026-04-09T02:13:58.282Z"
     }
   ],
-  "processedAt": "2026-04-09T06:10:34.975Z",
+  "processedAt": "2026-04-09T09:25:53.939Z",
   "categories": [
-    "msme-industry-trade",
-    "banking-credit",
-    "government-schemes",
     "jobs-recruitment",
     "legal-judiciary",
-    "maharashtra-state-local",
     "education-skills",
+    "government-schemes",
+    "maharashtra-state-local",
+    "banking-credit",
+    "msme-industry-trade",
     "civic-public-service",
     "policy-regulation"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 55,
-  "dailyArticlesCount": 119,
+  "newArticlesProcessed": 38,
+  "dailyArticlesCount": 157,
   "filterDate": "2026-04-09"
 }
