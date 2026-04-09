@@ -1,9 +1,2575 @@
 {
-  "crawledAt": "2026-04-09T09:05:47.080Z",
+  "crawledAt": "2026-04-09T13:20:15.583Z",
   "totalSources": 75,
-  "totalArticles": 157,
+  "totalArticles": 226,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Assembly Elections 2026 LIVE: Polling concludes in Kerala; Assam voter turnout at 84.42% till 5 p.m.",
+      "url": "https://www.thehindu.com/elections/assembly-election-2026-live-updates-kerala-puducherry-pondicherry-assam-bypolls-april-9-2026-voter-turnout-currently/article70838209.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T13:15:09.000Z",
+      "metaDescription": "Till 5 p.m., Kerala recorded a turnout of 75.01%, slightly higher than that of the 2021 Assembly polls, which saw a polling percentage of 74.06%.",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.426767040064133,
+      "crawledAt": "2026-04-09T13:19:16.565Z",
+      "id": "3hg1lh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996423125267029,
+          "index": 12,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999718964099884,
+          "index": 14,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Till 5 p.m., Kerala recorded a turnout of 75.01%, slightly higher than that of that of the 2021 Assembly polls.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:20:29.423Z"
+    },
+    {
+      "title": "Ministry of Petroleum & Natural Gas extends bulk LPG allocation to key industrial sectors",
+      "url": "https://thelivenagpur.com/2026/04/09/ministry-of-petroleum-natural-gas-extends-bulk-lpg-allocation-to-key-industrial-sectors/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T13:14:49.000Z",
+      "metaDescription": "The Ministry of Petroleum & Natural Gas (MoPNG) has issued an order to ensure continued andstable…",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4980897820538484,
+      "crawledAt": "2026-04-09T13:17:53.694Z",
+      "id": "m9gcig",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982721209526062,
+          "index": 1,
+          "word": "Ministry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986544251441956,
+          "index": 2,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991302490234375,
+          "index": 3,
+          "word": "Petroleum",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991958737373352,
+          "index": 4,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993422031402588,
+          "index": 5,
+          "word": "Natural",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993194341659546,
+          "index": 6,
+          "word": "Gas",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9597234129905701,
+          "index": 9,
+          "word": "LP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ministry of Petroleum & Natural Gas (MoPNG) has issued an order to ensure continued andstable… MoPNG has issued a order to ensuring continued and stable…",
+      "language": "en",
+      "processed_at": "2026-04-09T13:20:39.906Z"
+    },
+    {
+      "title": "Educating girls crucial for social change, says Venkaiah Naidu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/educating-girls-crucial-for-social-change-says-venkaiah-naidu/article70842898.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T13:13:54.000Z",
+      "metaDescription": "Addressing the annual convocation of Smt. N.P. Savithramma Government Women’s Degree College (Autonomous), the former Vice-President highlights that empowerment cannot be achieved through education al",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3803707729800168,
+      "crawledAt": "2026-04-09T13:19:17.295Z",
+      "id": "4009l7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993948936462402,
+          "index": 11,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9710670113563538,
+          "index": 12,
+          "word": "##en",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8531714081764221,
+          "index": 14,
+          "word": "##ah",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989305734634399,
+          "index": 15,
+          "word": "Na",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " N.P. Savithramma Government Women's Degree College (Autonomous) Former Vice-President says empowerment cannot be achieved through education.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:21:11.876Z"
+    },
+    {
+      "title": "Cabinet Meeting : केंद्र सरकारच्या निर्णयामुळे युरिया वगळता इतर खतांचे दर स्थिर राहणार का?",
+      "url": "https://agrowon.esakal.com/video/will-fertilizer-prices-remain-stable-in-india-except-urea-government-decision",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T13:06:58.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3994199543128067,
+      "crawledAt": "2026-04-09T13:17:50.083Z",
+      "id": "hbkmxv",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:21:53.152Z"
+    },
+    {
+      "title": "Central Railway Special Trains | कोकण मार्गावर मध्य रेल्वेकडून ४ वातानुकूलित विशेष गाड्या",
+      "url": "https://pudhari.news/maharashtra/raigad/central-railway-4-ac-special-trains-konkan-route-raigad-travel-update-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T13:06:45.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2648656945395135,
+      "crawledAt": "2026-04-09T13:17:39.234Z",
+      "id": "dy3l5z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987483620643616,
+          "index": 1,
+          "word": "Central",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985707402229309,
+          "index": 2,
+          "word": "Railway",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965088367462158,
+          "index": 3,
+          "word": "Special",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9938262104988098,
+          "index": 4,
+          "word": "Trains",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:21:53.351Z"
+    },
+    {
+      "title": "TCS announces salary hike for employees across all grades starting April 1",
+      "url": "https://www.livemint.com/companies/news/tcs-announces-salary-hike-for-employees-across-all-grades-starting-april-1-11775736241846.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T13:05:04.000Z",
+      "metaDescription": "Tata Consultancy Services announced an annual salary hike for all employees effective 1 April 2026, though the increment rate is undisclosed. Details here.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2652729674149748,
+      "crawledAt": "2026-04-09T13:19:03.871Z",
+      "id": "69penv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990536570549011,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9910029172897339,
+          "index": 2,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tata Consultancy Services announced an annual salary hike for all employees effective 1 April 2026. The increment rate is undisclosed.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:22:01.762Z"
+    },
+    {
+      "title": "Gajuwaka murder case: Married Navy staffer killed girlfriend in friend's flat, wheeled body in trolley suitcase",
+      "url": "https://www.deccanherald.com/india/andhra-pradesh/gajuwaka-murder-case-married-navy-staffer-killed-girlfriend-in-friends-flat-wheeled-body-in-trolley-suitcase-3962120",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T13:02:16.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.7137933668981694,
+      "crawledAt": "2026-04-09T13:20:08.933Z",
+      "id": "tpslon",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.978445291519165,
+          "index": 10,
+          "word": "Navy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:22:11.944Z"
+    },
+    {
+      "title": "Maharashtra Khat Satha: खरिपासाठी १.५० लाख टन युरिया, २५ हजार टन डीएपीचा संरक्षित साठा",
+      "url": "https://agrowon.esakal.com/agro-special/maharashtra-plans-buffer-stock-urea-dap-kharif-2026-ssp-25",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T13:00:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.4354083194286568,
+      "crawledAt": "2026-04-09T13:17:50.242Z",
+      "id": "eoyegk",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8809987306594849,
+          "index": 2,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9054989814758301,
+          "index": 3,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9631599187850952,
+          "index": 4,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:22:46.988Z"
+    },
+    {
+      "title": "Iran Wake-Up Call? US Military To Begin Automatic Draft Registration From December",
+      "url": "https://www.youtube.com/watch?v=spRGCHoNJuI",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:49:41.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.6562753196623381,
+      "crawledAt": "2026-04-09T13:19:48.260Z",
+      "id": "mwyuv0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9987242221832275,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9951496124267578,
+          "index": 7,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9675136208534241,
+          "index": 8,
+          "word": "Military",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:24:05.445Z"
+    },
+    {
+      "title": "Voting Ends, Kerala Sees 75% Turnout, Assam 84.4% Till 5 pm",
+      "url": "https://www.ndtv.com/india-news/assam-assembly-election-2026-kerala-election-puducherry-election-today-assam-kerala-puducherry-vote-2026-elections-polling-begins-11329214#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:43:40.000Z",
+      "metaDescription": "Voters across Assam, Kerala and Puducherry turned out in large numbers today as three regions kickstarted the 2026 election cycle. By 5 pm, Puducherry recorded a turnout of 86.9 per cent, while Assam ",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6589400166388729,
+      "crawledAt": "2026-04-09T13:19:39.919Z",
+      "id": "338fx6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991670846939087,
+          "index": 6,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996745586395264,
+          "index": 14,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Puducherry recorded a turnout of 86.9 per cent, while Assam recorded 86.8 per cent.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:25:02.784Z"
+    },
+    {
+      "title": "Vaibhav sooryavanshi : वैभव सूर्यवंशी राजस्थान रॉयल्सला कसा मिळाला होता? ‘त्या’ एका मेसेजने गवसला क्रिकेटचा नवा 'सुपरस्टार'",
+      "url": "https://pudhari.news/sports/india-young-crickter-vaibhav-sooryavanshi-rajasthan-royals-selection-story-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T12:37:53.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2607797273414148,
+      "crawledAt": "2026-04-09T13:17:39.728Z",
+      "id": "l8peha",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9492853879928589,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:26:43.533Z"
+    },
+    {
+      "title": "Man Beheads Driver In Bihar Market, Dies After Being Thrashed By Locals",
+      "url": "https://www.ndtv.com/india-news/man-beheads-driver-in-bihar-market-dies-after-being-thrashed-by-locals-11334114#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:32:43.000Z",
+      "metaDescription": "Meanwhile, images of Hussain's severed head, lying on the street, apparently captured by onlookers on their phones, have gone viral on social media.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.5336617270100507,
+      "crawledAt": "2026-04-09T13:19:40.550Z",
+      "id": "sd78kj",
+      "entities": [],
+      "summary": " Images of Hussain's severed head have gone viral on social media. The severed head was apparently captured by onlookers on their phones.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:01.515Z"
+    },
+    {
+      "title": "Israel Defies Ceasefire? Benjamin Netanyahu Vows Relentless Strikes On Hezbollah",
+      "url": "https://www.youtube.com/watch?v=p0NmN-16Wao",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:31:56.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.2636027046112195,
+      "crawledAt": "2026-04-09T13:19:48.361Z",
+      "id": "51rr9g",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999543309211731,
+          "index": 1,
+          "word": "Israel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996767044067383,
+          "index": 8,
+          "word": "Benjamin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994087219238281,
+          "index": 9,
+          "word": "Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990417957305908,
+          "index": 10,
+          "word": "##any",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9972331523895264,
+          "index": 11,
+          "word": "##ahu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8811135292053223,
+          "index": 20,
+          "word": "He",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8111863136291504,
+          "index": 22,
+          "word": "##bol",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:01.648Z"
+    },
+    {
+      "title": "Explained: Telangana’s Bill to deduct salary for parental neglect",
+      "url": "https://indianexpress.com/article/explained/telangana-parents-support-bill-salary-deduction-rules-10627956/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:26:43.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.2620844754805763,
+      "crawledAt": "2026-04-09T13:19:14.524Z",
+      "id": "cx3zk0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9937814474105835,
+          "index": 5,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:02.891Z"
+    },
+    {
+      "title": "Health Tips | जेवणानंतर लगेच अंघोळ का करू नये? 'हे' आहेत ५ मुख्य दुष्परिणाम!",
+      "url": "https://pudhari.news/ampstories/web-stories/why-you-should-not-bathe-immediately-after-meal-health-side-effects-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T12:26:15.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.5358204269973161,
+      "crawledAt": "2026-04-09T13:17:39.842Z",
+      "id": "e07gib",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:03.269Z"
+    },
+    {
+      "title": "Sports News in Marathi — Live Updates, Match Highlights & Breaking News",
+      "url": "https://medium.com/@sakaldigital/sports-news-in-marathi-live-updates-match-highlights-breaking-news-f5ae31444145?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:23:58.000Z",
+      "metaDescription": "🔹 Introduction: Your Hub for Sports Updates\nContinue reading on Medium »",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.4977764063495714,
+      "crawledAt": "2026-04-09T13:19:42.686Z",
+      "id": "tmxkj5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9986222386360168,
+          "index": 4,
+          "word": "Marathi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9302681088447571,
+          "index": 11,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9475433826446533,
+          "index": 14,
+          "word": "Breaking",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.927537202835083,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Daily Discussion is a weekly feature on the Daily Discussion. Use this week's Daily Discussion to help you understand today's featured news stories.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:27.750Z"
+    },
+    {
+      "title": "Lebanon Strikes LIVE | Lebanon Death Toll | Israel Attacks Lebanon | Lebanon News Today",
+      "url": "https://www.youtube.com/watch?v=iw0FljAoCk0",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:21:12.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28240946231857617,
+      "crawledAt": "2026-04-09T13:19:47.713Z",
+      "id": "k1ofs3",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8702635765075684,
+          "index": 1,
+          "word": "Lebanon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8700404167175293,
+          "index": 7,
+          "word": "Lebanon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9485040903091431,
+          "index": 12,
+          "word": "Israel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.980847179889679,
+          "index": 15,
+          "word": "Lebanon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9967439770698547,
+          "index": 17,
+          "word": "Lebanon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977702498435974,
+          "index": 18,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980834126472473,
+          "index": 19,
+          "word": "Today",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:27:39.441Z"
+    },
+    {
+      "title": "NMC to File Criminal Cases Against Three Bus Operators, Rs32.39 Lakh Recovery Ordered",
+      "url": "https://thelivenagpur.com/2026/04/09/nmc-to-file-criminal-cases-against-three-bus-operators-rs32-39-lakh-recovery-ordered/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T12:17:08.000Z",
+      "metaDescription": "The Nagpur Municipal Corporation (NMC) has decided to initiate criminal proceedings against three private bus operators…",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.35574429015627784,
+      "crawledAt": "2026-04-09T13:17:54.235Z",
+      "id": "855uah",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981384873390198,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9856204986572266,
+          "index": 2,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nagpur Municipal Corporation has decided to initiate criminal proceedings against three private bus operators. The Nagpur municipal Corporation (NMC) has decided.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:16.413Z"
+    },
+    {
+      "title": "MCOCA accused who escaped from Mumbai court re-arrested in Vasai-Virar",
+      "url": "https://indianexpress.com/article/cities/mumbai/mcoca-accused-re-arrested-escaped-mumbai-court-vasai-virar-10627965/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T12:16:02.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5367857727887738,
+      "crawledAt": "2026-04-09T13:18:28.627Z",
+      "id": "ale7cq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990852475166321,
+          "index": 1,
+          "word": "MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975814819335938,
+          "index": 2,
+          "word": "##OC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9645407795906067,
+          "index": 3,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994532465934753,
+          "index": 8,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9972156882286072,
+          "index": 14,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8157505393028259,
+          "index": 15,
+          "word": "##asa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9963942170143127,
+          "index": 18,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8218560814857483,
+          "index": 19,
+          "word": "##ira",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:16.543Z"
+    },
+    {
+      "title": "'My wife also has right to skydive': JD Vance on Iran's claim on 'right to uranium enrichment'",
+      "url": "https://timesofindia.indiatimes.com/world/us/my-wife-also-has-right-to-skydive-jd-vance-on-irans-claim-on-right-to-uranium-enrichment/articleshow/130142556.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:13:13.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2700135611621332,
+      "crawledAt": "2026-04-09T13:19:30.625Z",
+      "id": "77n37q",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9982984066009521,
+          "index": 13,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9549780488014221,
+          "index": 14,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9987536668777466,
+          "index": 15,
+          "word": "Vance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998178482055664,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:28.409Z"
+    },
+    {
+      "title": "Election 2026 LIVE: Assam Sees Nearly 85% Voter Turnout, Kerala Records 75%, Puducherry 87%",
+      "url": "https://www.ndtv.com/india-news/assembly-elections-2026-live-kerala-assam-puducherry-voting-live-news-updates-high-stakes-battle-bjp-congress-tmc-tvk-aiadmk-ldf-udf-vijay-candidates-11331487#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T12:12:02.000Z",
+      "metaDescription": "Assembly Elections 2026 Live: Kerala, Assam, Puducherry vote in high-stakes battle today.",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2631170019711266,
+      "crawledAt": "2026-04-09T13:19:41.161Z",
+      "id": "t3z2o5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8937398791313171,
+          "index": 18,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9923455715179443,
+          "index": 23,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9855096936225891,
+          "index": 24,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9907856583595276,
+          "index": 26,
+          "word": "##rry",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Puducherry vote in high-stakes battle today. Kerala, Assam, Puducerry vote in a high- stakes battle today.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:38.546Z"
+    },
+    {
+      "title": "Jalna Crime | मुलानेच केला बापाचा निर्घृण खून; अंबड तालुक्यातील रुई गाव हादरले",
+      "url": "https://pudhari.news/maharashtra/marathwada/jalna/jalna-ambad-crime-son-kills-father-rui-village-murder-case-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T12:07:32.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.25034825756355744,
+      "crawledAt": "2026-04-09T13:17:40.122Z",
+      "id": "qireou",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:38.876Z"
+    },
+    {
+      "title": "Pregnant woman kicked in stomach over loan dispute, twins die after premature birth in Haveri",
+      "url": "https://www.deccanherald.com/india/karnataka/pregnant-woman-kicked-in-stomach-over-loan-dispute-twins-die-after-premature-birth-in-haveri-3962016",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T12:07:02.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.28702746303801435,
+      "crawledAt": "2026-04-09T13:20:10.556Z",
+      "id": "c26wyf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9929006099700928,
+          "index": 17,
+          "word": "Have",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9010796546936035,
+          "index": 18,
+          "word": "##ri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:39.043Z"
+    },
+    {
+      "title": "Nagraj Manjule Matka King |नागराज मंजुळेंचा मोठा खुलासा, 'मटका किंग'मधील बृज भाटीची व्यक्तिरेखा कशी घडली?",
+      "url": "https://pudhari.news/soneri/matka-king-nagraj-manjule-vijay-varma-brij-bhati-character-ss88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T12:06:14.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2606235564368983,
+      "crawledAt": "2026-04-09T13:17:40.313Z",
+      "id": "9dpp8d",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.849313497543335,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.921995997428894,
+          "index": 4,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8401705622673035,
+          "index": 7,
+          "word": "Mat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:28:39.733Z"
+    },
+    {
+      "title": "Late-night raid: Gambling den busted in Nagpur, nine accused booked",
+      "url": "https://www.nagpurtoday.in/late-night-raid-gambling-den-busted-in-nagpur-nine-accused-booked/04091728",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T11:58:39.000Z",
+      "metaDescription": "Nagpur: In a late-night crackdown on illegal activities, Sadar Police in Nagpur busted a gambling racket operating near railway tracks in the Goa Colony area, booking a total of nine accused and seizi",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.270125365514829,
+      "crawledAt": "2026-04-09T13:18:01.266Z",
+      "id": "7p0aff",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9978586435317993,
+          "index": 13,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8767196536064148,
+          "index": 14,
+          "word": "##g",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9902523159980774,
+          "index": 15,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sadar Police in Nagpur busted a gambling racket operating near railway tracks. Nine accused and seizi booked a total of nine accused and  seizi.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:00.744Z"
+    },
+    {
+      "title": "Hair Care : केसांचे आरोग्य आणि सौंदर्य: बदलत्या ऋतूंमध्ये केसांची निगा राखण्यासाठी करा हे उपाय",
+      "url": "https://www.navakal.in/maharashtra/hair-care-hair-care-hair-health-and-beauty-follow-these-tips-to-take-care-of-your-hair-during-the-changing-seasons/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:56:00.000Z",
+      "metaDescription": "Hair Care : मानवी सौंदर्यामध्ये केसांचे स्थान अत्यंत महत्त्वाचे मानले जाते. मात्र, सद्यस्थितीत वाढते प्रदूषण, बदलती जीवनशैली आणि रासायनिक उत्पादनांचा अतिवापर यांमुळे केस गळणे, अकाली पांढरे होणे आणि को",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.26606828018806816,
+      "crawledAt": "2026-04-09T13:18:52.876Z",
+      "id": "yfz400",
+      "entities": [],
+      "summary": " Hair Care. Hair Care.. Hair care. The care is a form of hair care. It is a hair care product.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:08.962Z"
+    },
+    {
+      "title": "Message To Society: Kerala Couples Vote Before Tying The Knot",
+      "url": "https://www.ndtv.com/india-news/kerala-election-2026-message-to-society-kerala-couples-vote-before-tying-the-knot-11333134#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:53:25.000Z",
+      "metaDescription": "Joining them in the spirit of the day, another bride from northern Wayanad district also made sure to vote first before heading off to her own wedding ceremony.",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.4239770942403474,
+      "crawledAt": "2026-04-09T13:19:41.530Z",
+      "id": "p9nsi0",
+      "entities": [],
+      "summary": " A bride from Wayanad district also made sure to vote first before going to her own wedding ceremony. Another bride from the same district also voted first.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:19.453Z"
+    },
+    {
+      "title": "All about a magical encounter with the White-bellied Giant Flying Squirrel in Kashmir",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/all-about-a-magical-encounter-with-the-white-bellied-giant-flying-squirrel-in-kashmir",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T11:52:28.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.28966000193272123,
+      "crawledAt": "2026-04-09T13:20:06.093Z",
+      "id": "ax2iqs",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997271299362183,
+          "index": 18,
+          "word": "Kashmir",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:19.851Z"
+    },
+    {
+      "title": "Indrayani rice Dushehre | कराडचा सुगंधी वारसा! इंद्रायणी भाताने ओलांडल्या राज्याच्या सीमा; पुणे-मुंबईत मोठी मागणी",
+      "url": "https://www.tarunbharat.com/the-fragrant-heritage-of-karad-indrayani-rice-crosses-state-borders-huge-demand-in-pune-mumbai-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T11:36:47.000Z",
+      "metaDescription": "दुशेरेच्या इंद्रायणीचा दरवळ देशभर! दुशेरे ( विकास जाधव ): कराड तालुक्यातील दुशेरे गावाने पारंपरिक शेतीच्या चौकटी मोडत इंद्रायणी भाताच्या माध्यमातून नवे यश मिळवले आहे. कृष्णा नदीकाठच्या सुपीक भूमीत पिक",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.29015934335933935,
+      "crawledAt": "2026-04-09T13:17:43.678Z",
+      "id": "4p5fw5",
+      "entities": [],
+      "summary": " The World Cup 2014. The World Championships will be held at the World Cup in London, London, in 2014.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:39.826Z"
+    },
+    {
+      "title": "'Won't Take Eyes Off Putin': UK, Norway Led Op To Deter Russian Submarines",
+      "url": "https://www.ndtv.com/world-news/wont-take-eyes-off-vladimir-putin-uk-norway-led-operation-to-deter-russian-submarines-11333934#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:35:35.000Z",
+      "metaDescription": "Asserting that Russia is the main threat to the UK and its allies, UK Defence Secretary John Healey said, \"Putin would want us to be distracted by the Middle East.\"",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.29351483650237803,
+      "crawledAt": "2026-04-09T13:19:36.820Z",
+      "id": "z7ej7c",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995759129524231,
+          "index": 11,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995598196983337,
+          "index": 13,
+          "word": "Norway",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9962561130523682,
+          "index": 19,
+          "word": "Russian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UK Defence Secretary John Healey says Russia is the main threat to the UK and its allies. Healey: \"Putin would want us to be distracted by the Middle East\"",
+      "language": "en",
+      "processed_at": "2026-04-09T13:29:50.963Z"
+    },
+    {
+      "title": "Mumbai Edition Of D2CX Converge Decodes The ₹100 Cr Playbook For D2C Brands",
+      "url": "https://inc42.com/buzz/mumbai-edition-of-d2cx-converge-decodes-the-%e2%82%b9100-cr-playbook-for-d2c-brands/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:30:17.000Z",
+      "metaDescription": "As India’s D2C ecosystem rides the digital wave, with the broader ecommerce market projected to hit $400 Bn by 2030,…",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3275855151740069,
+      "crawledAt": "2026-04-09T13:19:51.609Z",
+      "id": "gz4dhs",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8925320506095886,
+          "index": 21,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India’s D2C ecosystem rides the digital wave, with the broader ecommerce market projected to hit $400 Bn by 2030.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:30:01.415Z"
+    },
+    {
+      "title": "Mahabaleshwar crime news | प्रतापगड परिसरात खळबळ! दिवसाढवळ्या धाडसी घरफोडी; सोन्याचे दागिने आणि रोकड लंपास",
+      "url": "https://www.tarunbharat.com/panic-in-pratapgad-area-bold-house-burglary-in-broad-daylight-gold-ornaments-and-cash-looted-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T11:24:09.000Z",
+      "metaDescription": "महाबळेश्वर तालुक्यात दुचाकीस्वार चोरट्यांचा थरार प्रतापगड ( जितेंद्र कारंडे ) -महाबळेश्वर तालुक्यातील सोनाट गावात दुपारच्या सुमारास धाडसी घरफोडीची घटना घडल्याने परिसरात भीतीचे वातावरण निर्माण झाले आहे",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.32090688150159363,
+      "crawledAt": "2026-04-09T13:17:44.019Z",
+      "id": "tj3qkh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.857858419418335,
+          "index": 1,
+          "word": "Ma",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The World Cup is a major event in the United States. The event is held in the U.S.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:30:38.887Z"
+    },
+    {
+      "title": "Pre-monsoon season emerging as new high-risk period for crops, analysis shows",
+      "url": "https://www.downtoearth.org.in/climate-change/pre-monsoon-season-emerging-as-new-high-risk-period-for-crops-analysis-shows",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T11:19:17.000Z",
+      "metaDescription": "Pre-monsoon months once seen as relatively safe are now emerging as a high-risk window for Indian agriculture, with unseasonal rains and hailstorms damaging over 620,000 hectares in early 2026 alone, ",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3012325673312978,
+      "crawledAt": "2026-04-09T13:20:06.405Z",
+      "id": "9kgl3q",
+      "entities": [],
+      "summary": "Unseasonal rains and hailstorms damaging over 620,000 hectares in early 2026 alone. Pre-monsoon months once seen as relatively safe are now emerging as a high-risk window for Indian agriculture.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:31:02.460Z"
+    },
+    {
+      "title": "Ola Electric Extends Rally, Jumps 20% To Hit Upper Circuit",
+      "url": "https://inc42.com/buzz/ola-electric-extends-rally-jumps-20-to-hit-upper-circuit/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:15:48.000Z",
+      "metaDescription": "Shares of EV maker Ola Electric continued their upward movement, surging nearly 20% to hit the upper circuit today.  The…",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.29417131318521045,
+      "crawledAt": "2026-04-09T13:19:51.785Z",
+      "id": "mt8kpo",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9971377849578857,
+          "index": 1,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9628452658653259,
+          "index": 2,
+          "word": "##la",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989069938659668,
+          "index": 3,
+          "word": "Electric",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.811211884021759,
+          "index": 7,
+          "word": "Rally",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9526082277297974,
+          "index": 16,
+          "word": "Circuit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ola Electric continues its upward movement, surging nearly 20% to hit the upper circuit today. Shares of EV maker Ola electric continue their upward movement.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:31:38.786Z"
+    },
+    {
+      "title": "High Court pulls up NMC over hospital parking violations",
+      "url": "https://www.nagpurtoday.in/high-court-pulls-up-nmc-over-hospital-parking-violations/04091645",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T11:15:45.000Z",
+      "metaDescription": "Nagpur: In a sharp rebuke to civic authorities and errant hospital managements, the Bombay High Court’s Nagpur Bench has demanded a detailed report from the Nagpur Municipal Commissioner within a week",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.5246364318853123,
+      "crawledAt": "2026-04-09T13:18:02.078Z",
+      "id": "6fxdb8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978307485580444,
+          "index": 5,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9731363654136658,
+          "index": 6,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The High Court's Nagpur Bench has demanded a detailed report from the Nagpur Municipal Commissioner within a week. The report will be released by the Nagur Municipal Commissioner.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:31:49.307Z"
+    },
+    {
+      "title": "Ashok Kharat Crime News : आजपासून ‘पेनड्राईव्ह’चा पंचनामा; खरातच्या ‘त्या’ व्हिडिओ क्लिप्सचा SIT करणार तपास",
+      "url": "https://deshdoot.com/nashik-crime-news-sit-to-investigate-those-video-clips-of-fraudster-ashok-kharat/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T11:08:52.000Z",
+      "metaDescription": "नाशिक | Nashik भोंदू व स्वयंघोषित कॅप्टन अशोक खरात (Ashok Kharat) याच्या ‘ओकस प्रॉपर्टीज’ या कार्यालयातील एका कामगाराच्या गर्भवती पत्नीचा शीलभंग करुन लैंगिक शोषण केल्याच्या दाखल तिसऱ्या गुन्ह्यात आता ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.36126598834448403,
+      "crawledAt": "2026-04-09T13:18:40.534Z",
+      "id": "dvotoa",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9961743950843811,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.955298125743866,
+          "index": 2,
+          "word": "##ok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980522990226746,
+          "index": 3,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907762408256531,
+          "index": 4,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966968297958374,
+          "index": 5,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985277652740479,
+          "index": 6,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944536089897156,
+          "index": 7,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8164884448051453,
+          "index": 40,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.853428840637207,
+          "index": 42,
+          "word": "क",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "’s ‘Nashik’ (Ashok Kharat) ‘‘’’",
+      "language": "en",
+      "processed_at": "2026-04-09T13:32:45.400Z"
+    },
+    {
+      "title": "Panchgani tourism decline | पाचगणीचे पर्यटन धोक्यात! दीड वर्षांपासून रस्ता खोदलेलाच; टेबल लँडवर पर्यटकांची पाठ",
+      "url": "https://www.tarunbharat.com/panchgani-tourism-in-danger-the-road-has-been-dug-for-one-and-a-half-years-tourists-are-stranded-on-table-land-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T11:08:07.000Z",
+      "metaDescription": "खराब रस्त्यांमुळे पाचगणीत शुकशुकाट पाचगणी – थंड हवेचे ठिकाण म्हणून ओळख असलेल्या पाचगणी येथे पर्यटनावर मोठा परिणाम झाल्याचे चित्र समोर आले आहे. आशिया खंडातील सर्वात मोठे पठार म्हणून प्रसिद्ध असलेल्या ट",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2627105204802381,
+      "crawledAt": "2026-04-09T13:17:44.798Z",
+      "id": "y3hfqa",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9739484786987305,
+          "index": 1,
+          "word": "Pan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9273505806922913,
+          "index": 2,
+          "word": "##ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8979367613792419,
+          "index": 3,
+          "word": "##gan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "   -  –  ’s ‘I’m.’ – ”’ -’S’-‘’: ‚’– “’",
+      "language": "en",
+      "processed_at": "2026-04-09T13:33:02.259Z"
+    },
+    {
+      "title": "Best IAS Coaching in Delhi",
+      "url": "https://medium.com/@amit.aspireias/best-ias-coaching-in-delhi-2026-guide-da56b3c7bd2f?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T11:05:07.000Z",
+      "metaDescription": "Best IAS Coaching in Delhi — A Complete Guide\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.2943138421184741,
+      "crawledAt": "2026-04-09T13:20:07.001Z",
+      "id": "7ww59v",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9520241618156433,
+          "index": 2,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990795850753784,
+          "index": 7,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Best IAS Coaching in Delhi. Best IASCoaching in New Delhi. Best Ias Coaching.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:33:23.298Z"
+    },
+    {
+      "title": "Pune Gram Panchayat Ward Structure: पुण्यात 754 ग्रामपंचायतींचा प्रभाग रचना मसुदा तयार",
+      "url": "https://pudhari.news/maharashtra/pune/pune-gram-panchayat-ward-structure-draft-754-villages-election-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T10:53:04.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3143131967374611,
+      "crawledAt": "2026-04-09T13:17:41.150Z",
+      "id": "6tbm76",
+      "entities": [],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:34:48.800Z"
+    },
+    {
+      "title": "Non-Academic duty Notices Spark Protest Federation Appeals to Collector for Withdrawal",
+      "url": "https://thelivenagpur.com/2026/04/09/non-academic-duty-notices-spark-protest-federation-appeals-to-collector-for-withdrawal/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T10:44:44.000Z",
+      "metaDescription": "The Maharashtra State Education Institutions Federation has raised objections to the ‘show cause’ notices being issued…",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5196719294782793,
+      "crawledAt": "2026-04-09T13:17:54.387Z",
+      "id": "ef03x4",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.893441379070282,
+          "index": 8,
+          "word": "##rk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9886688590049744,
+          "index": 9,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9757172465324402,
+          "index": 10,
+          "word": "##test",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9362276196479797,
+          "index": 11,
+          "word": "Federation",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Maharashtra State Education Institutions Federation has raised objections to the ‘show cause’ notices being issued. The Maharashtra state Education Instit institutions Federation has also raised objections.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:35:25.976Z"
+    },
+    {
+      "title": "Daily Court Digest: Major environment orders",
+      "url": "https://www.downtoearth.org.in/environment/daily-court-digest-major-environment-orders-april-7-2026",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T10:39:11.000Z",
+      "metaDescription": "The National Green Tribunal has pulled up NHAI for building highway pillars over a protected pond in Delhi without full disclosure, directing MoEFCC to examine clearance violations, assess damage and ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.6954173115032828,
+      "crawledAt": "2026-04-09T13:20:06.586Z",
+      "id": "wtdtdw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9527462124824524,
+          "index": 1,
+          "word": "Daily",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8903571367263794,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8059052228927612,
+          "index": 3,
+          "word": "Digest",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The National Green Tribunal has pulled up NHAI for building highway pillars over a protected pond without full disclosure. MoEFCC will examine clearance violations, assess damage and assess damage.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:35:37.089Z"
+    },
+    {
+      "title": "Did 25 vultures in UP’s Lakhimpur Kheri die due to poison meant for free-ranging dogs?",
+      "url": "https://www.downtoearth.org.in/wildlife-biodiversity/did-25-vultures-in-ups-lakhimpur-kheri-die-due-to-poison-meant-for-free-ranging-dogs",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T10:34:17.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.34085562450827506,
+      "crawledAt": "2026-04-09T13:20:06.719Z",
+      "id": "sp6hcm",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9788185954093933,
+          "index": 10,
+          "word": "La",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8746551871299744,
+          "index": 12,
+          "word": "##im",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9806554913520813,
+          "index": 13,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9951183795928955,
+          "index": 14,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9917707443237305,
+          "index": 15,
+          "word": "##her",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9918562769889832,
+          "index": 16,
+          "word": "##i",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:35:58.320Z"
+    },
+    {
+      "title": "Explained: Supreme Court holds Sajjadanashin, Mutawalli are distinct offices under Waqf",
+      "url": "https://indianexpress.com/article/explained/explained-law/sajjadanashin-vs-mutawalli-supreme-court-waqf-ruling-10627658/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T10:27:17.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.8387366093362234,
+      "crawledAt": "2026-04-09T13:19:14.761Z",
+      "id": "8co88w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9989145994186401,
+          "index": 5,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960060119628906,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9243695139884949,
+          "index": 8,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9724125862121582,
+          "index": 9,
+          "word": "##j",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9566959738731384,
+          "index": 10,
+          "word": "##ja",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:36:23.813Z"
+    },
+    {
+      "title": "Beed crime news | वाहकाला मारहाण केल्याप्रकरणी सुदर्शन देशमुखला सहा महिन्याची कारावासाची शिक्षा",
+      "url": "https://pudhari.news/maharashtra/marathwada/beed/beed-crime-news-sudarshan-deshmukh-sentenced-six-months-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T10:20:10.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2639148465364341,
+      "crawledAt": "2026-04-09T13:17:42.001Z",
+      "id": "t6vk27",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:36:59.181Z"
+    },
+    {
+      "title": "Ghatkopar Andheri Link Road issue : घाटकोपर -अंधेरी लिंक रस्त्याचे नामकरण गटार रस्ता असे करावे",
+      "url": "https://pudhari.news/maharashtra/mumbai/ghatkopar-andheri-link-road-drainage-issue-name-demand-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-09T10:14:31.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.29185660449270096,
+      "crawledAt": "2026-04-09T13:17:42.439Z",
+      "id": "mmpv5l",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8684780597686768,
+          "index": 2,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9321384429931641,
+          "index": 3,
+          "word": "##ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9309785962104797,
+          "index": 4,
+          "word": "##par",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.901943564414978,
+          "index": 5,
+          "word": "And",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8419078588485718,
+          "index": 8,
+          "word": "Link",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:37:21.090Z"
+    },
+    {
+      "title": "Baramati bypoll 2026: Supriya Sule remains non-committal on campaigning for sister-in-law Sunetra Pawar",
+      "url": "https://indianexpress.com/article/cities/pune/baramati-bypoll-2026-supriya-sule-remains-non-committal-on-campaigning-for-sister-in-law-sunetra-pawar-10627608/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T10:09:38.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.31432286939489273,
+      "crawledAt": "2026-04-09T13:18:32.307Z",
+      "id": "j5dncw",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.953723669052124,
+          "index": 1,
+          "word": "Bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993739128112793,
+          "index": 10,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9820451736450195,
+          "index": 11,
+          "word": "##p",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998975396156311,
+          "index": 13,
+          "word": "Sul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9858338832855225,
+          "index": 14,
+          "word": "##e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995979070663452,
+          "index": 28,
+          "word": "Sun",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994357824325562,
+          "index": 31,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9832071661949158,
+          "index": 32,
+          "word": "##war",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:37:39.298Z"
+    },
+    {
+      "title": "'Ceasefire unreasonable': Iran rejects Donald Trump's peace proposal, claims violation of 3 key clauses",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/ceasefire-unreasonable-iran-rejects-donald-trumps-peace-proposal-claims-violation-of-3-key-clauses/articleshow/130138866.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T10:06:09.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.31401606796951687,
+      "crawledAt": "2026-04-09T13:19:31.316Z",
+      "id": "mqnmh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998308420181274,
+          "index": 11,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995014071464539,
+          "index": 13,
+          "word": "Donald",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994981288909912,
+          "index": 14,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:37:51.709Z"
+    },
+    {
+      "title": "Stock Market, Sensex Today: Sensex Drops 931 Points, Nifty Down 222 As Oil Prices Surge",
+      "url": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-nifty-share-market-us-iran-ceasefire-donald-trump-oil-prices-11331833#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T10:06:06.000Z",
+      "metaDescription": "Stock Market, Sensex, Share Market, Nifty LIVE Updates:",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.3101586066079544,
+      "crawledAt": "2026-04-09T13:19:38.795Z",
+      "id": "izlghm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9926098585128784,
+          "index": 8,
+          "word": "Sense",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9656610488891602,
+          "index": 9,
+          "word": "##x",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Stock Market, Sensex, Share Market, Nifty LIVE Updates: Share Market. Stock Market: Stock Market.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:38:02.865Z"
+    },
+    {
+      "title": "In your neighbourhood | Camera Gully: Where Mumbaikars once learned to buy a camera",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbais-camera-gully-photography-revival-10627409/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T10:04:47.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9026212189010488,
+      "crawledAt": "2026-04-09T13:18:28.736Z",
+      "id": "xhcpbj",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8730767965316772,
+          "index": 6,
+          "word": "G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:38:03.003Z"
+    },
+    {
+      "title": "Explained: Why the new trans persons law is being challenged in court",
+      "url": "https://indianexpress.com/article/explained/explained-law/transgender-persons-act-2026-challenge-explained-10627581/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T10:03:35.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.5400512609982066,
+      "crawledAt": "2026-04-09T13:19:14.854Z",
+      "id": "t18tae",
+      "entities": [],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:38:14.199Z"
+    },
+    {
+      "title": "What is Children Education Allowance? Tax exemption, eligibility, rules and more — Explained",
+      "url": "https://www.livemint.com/money/personal-finance/what-is-children-education-allowance-tax-exemption-eligibility-rules-and-more-explained-11775721818353.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T09:58:02.000Z",
+      "metaDescription": "Children Education Allowance (CEA) is a monetary benefit that the central government gives its employees on a monthly basis. This helps cover children’s school education costs.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.40698637448622804,
+      "crawledAt": "2026-04-09T13:18:22.169Z",
+      "id": "5dmf94",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8255872130393982,
+          "index": 3,
+          "word": "Children",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8192335963249207,
+          "index": 4,
+          "word": "Education",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "CEA is a monetary benefit that the central government gives its employees on a monthly basis. This helps cover children’s school education costs.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:38:25.387Z"
+    },
+    {
+      "title": "Healthy Breakfast : आरोग्यदायी जीवनशैलीचा पाया: वजन घटवण्यासाठी सकाळचा नाश्ता असावा असा!",
+      "url": "https://www.navakal.in/maharashtra/healthy-breakfast-the-foundation-of-a-healthy-lifestyle-breakfast-is-a-must-for-weight-loss/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:58:00.000Z",
+      "metaDescription": "Healthy Breakfast : आधुनिक जीवनशैलीत वाढते वजन ही अनेकांसाठी चिंतेची बाब ठरत आहे. वजन कमी करण्यासाठी अनेकजण आहारामध्ये बदल करतात, परंतु ‘डाएटिंग’ म्हणजे केवळ उपाशी राहणे नव्हे, तर योग्य वेळी पौष्टिक आ",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26718930346040054,
+      "crawledAt": "2026-04-09T13:18:53.545Z",
+      "id": "14t485",
+      "entities": [],
+      "summary": "’s’ ‘‘’ ‘I’m’ – ’ — “’  ” –   -  ’S’-’ - �",
+      "language": "en",
+      "processed_at": "2026-04-09T13:38:41.996Z"
+    },
+    {
+      "title": "Puducherry Assembly : लोकशाहीचा ‘हायटेक’ आविष्कार;पुदुच्चेरीच्या मतदान केंद्रावर चक्क साडी नेसलेल्या ‘नीला’ रोबोटने केलं मतदारांचं स्वागत….",
+      "url": "https://www.navakal.in/desh-videsh/puducherry-assembly-a-high-tech-invention-of-democracy-a-blue-robot-wearing-a-saree-welcomed-voters-at-a-polling-station-in-puducherry/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:56:18.000Z",
+      "metaDescription": "Puducherry Assembly : भारताच्या लोकशाही प्रवासातील अत्यंत महत्त्वाचा टप्पा असलेल्या विधानसभा निवडणुकांसाठी आज, गुरुवारी (९ एप्रिल) सकाळी ७ वाजल्यापासून मतदानाला प्रारंभ झाला आहे. आसाम, केरळ आणि केंद्र",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.38122262593128214,
+      "crawledAt": "2026-04-09T13:18:53.933Z",
+      "id": "d5exee",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9947524666786194,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.840503454208374,
+          "index": 2,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8612697720527649,
+          "index": 3,
+          "word": "##uche",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9002341628074646,
+          "index": 4,
+          "word": "##rry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9437167644500732,
+          "index": 5,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Puducherry Assembly. Pudukherry Assembly:         ‘  ’s’  - “’.’’  -‘’",
+      "language": "en",
+      "processed_at": "2026-04-09T13:39:09.397Z"
+    },
+    {
+      "title": "Why Choose Vishnu IAS Academy for Your UPSC Journey?",
+      "url": "https://medium.com/@vishnuiasacademy569/why-choose-vishnu-ias-academy-for-your-upsc-journey-738fcbf9da4f?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T09:47:18.000Z",
+      "metaDescription": "A One-Stop Solution for UPSC Preparation\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.28378683256406984,
+      "crawledAt": "2026-04-09T13:20:07.324Z",
+      "id": "ixlqfs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.963443398475647,
+          "index": 4,
+          "word": "Vishnu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9086248874664307,
+          "index": 5,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8575074672698975,
+          "index": 6,
+          "word": "##AS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A One-Stop Solution for UPSC Preparation. A One Stop Solution for the UPSC Prepation Solution.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:40:00.214Z"
+    },
+    {
+      "title": "Maharashtra Rain Alert : दोन दिवसांत पावसाला पोषक हवामान; राज्यातील अनेक भागात तापमान वाढल्याने उन्हाचा चटकाही वाढला",
+      "url": "https://agrowon.esakal.com/agro-special/maharashtra-weather-rain-forecast-heatwave-update-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T09:45:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.8219254143631302,
+      "crawledAt": "2026-04-09T13:17:51.980Z",
+      "id": "u0230f",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9642689228057861,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:40:26.063Z"
+    },
+    {
+      "title": "What’s Driving Startup Investors’ Shift Towards Domestic LPs?",
+      "url": "https://inc42.com/features/whats-driving-startup-investors-shift-towards-domestic-lps/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:43:01.000Z",
+      "metaDescription": "Amid an increasingly volatile macroeconomic situation and geopolitical uncertainty, Indian venture investors are leaning towards domestic capital as against the…",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.4734365712835723,
+      "crawledAt": "2026-04-09T13:19:52.169Z",
+      "id": "pr9r92",
+      "entities": [],
+      "summary": " Amid an increasingly volatile macroeconomic situation and geopolitical uncertainty, Indian venture investors are leaning towards domestic capital as against the…",
+      "language": "en",
+      "processed_at": "2026-04-09T13:40:34.686Z"
+    },
+    {
+      "title": "Maize Procurement: साडेआठ हजार क्विंटल मका खरेदी",
+      "url": "https://agrowon.esakal.com/agro-special/sangli-maize-procurement-8549-quintals-farmers-benefit-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T09:30:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9846549170857802,
+      "crawledAt": "2026-04-09T13:17:52.220Z",
+      "id": "7ft8y3",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:41:26.870Z"
+    },
+    {
+      "title": "Cycle Pure buys stake in Satvik to spark digital growth in India's $35 billion spiritual products market",
+      "url": "https://www.livemint.com/companies/cycle-pure-agarbatti-acquires-satvik-spirituals-digital-push-11775715722482.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:24:53.000Z",
+      "metaDescription": "The incense giant expands its reach beyond traditional agarbatti, aiming for young consumers and online sales through a strategic e-commerce acquisition.",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.26202345272125555,
+      "crawledAt": "2026-04-09T13:19:04.567Z",
+      "id": "o6riab",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9902117252349854,
+          "index": 1,
+          "word": "Cycle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9922316074371338,
+          "index": 2,
+          "word": "Pure",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9904084801673889,
+          "index": 6,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8487071394920349,
+          "index": 7,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9419327974319458,
+          "index": 8,
+          "word": "##vik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996851682662964,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The incense giant expands its reach beyond traditional agarbatti. It is aiming for young consumers and online sales through a strategic e-commerce acquisition.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:41:36.193Z"
+    },
+    {
+      "title": "Your Ultimate Guide to UPSC Success with Vishnu IAS Academy",
+      "url": "https://medium.com/@vishnuiasacademy569/your-ultimate-guide-to-upsc-success-with-vishnu-ias-academy-e81619fa0ea1?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T09:17:53.000Z",
+      "metaDescription": "Cracking the Union Public Service Commission (UPSC) Civil Services Examination is one of the most prestigious achievements in India. It…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.38391069594219207,
+      "crawledAt": "2026-04-09T13:20:07.507Z",
+      "id": "a3vabz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9350149035453796,
+          "index": 5,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8710063099861145,
+          "index": 6,
+          "word": "##SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9814159870147705,
+          "index": 9,
+          "word": "Vishnu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9133506417274475,
+          "index": 10,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.967252790927887,
+          "index": 11,
+          "word": "##AS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9787106513977051,
+          "index": 12,
+          "word": "Academy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Cracking the Union Public Service Commission (UPSC) is one of the most prestigious achievements in India. The UPSC is the largest body of the U.S. Civil Service Commission.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:41:49.360Z"
+    },
+    {
+      "title": "DGS directs direct pass-through of port concessions to exporters amid West Asia crisis",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/dgs-directs-direct-pass-through-of-port-concessions-to-exporters-amid-west-asia-crisis/article70841863.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T09:16:44.000Z",
+      "metaDescription": "The advisory further places responsibility on port authorities to monitor compliance at the terminal level, ensuring that the intended beneficiaries receive the concessions without delay",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3516672714018152,
+      "crawledAt": "2026-04-09T13:19:27.476Z",
+      "id": "s237pn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990098476409912,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9880896210670471,
+          "index": 2,
+          "word": "##GS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9402655363082886,
+          "index": 15,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9819343686103821,
+          "index": 16,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The advisory further places responsibility on port authorities to monitor compliance at the terminal level. The intended beneficiaries receive the concessions without delay.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:41:57.240Z"
+    },
+    {
+      "title": "India-EU trade push: Denmark launches India chamber of commerce to deepen ties amid FTA momentum",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-trade-push-denmark-launches-india-chamber-of-commerce-to-deepen-ties-amid-fta-momentum/articleshow/130137388.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T09:14:47.000Z",
+      "metaDescription": "The Indian Danish Chamber of Commerce is launching its India chapter in New Delhi on April 8, 2026. This initiative will support Danish companies in India and foster trade and investment. India-Denmar",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.31858597089071633,
+      "crawledAt": "2026-04-09T13:18:19.052Z",
+      "id": "30pwva",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998273849487305,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9948250651359558,
+          "index": 3,
+          "word": "EU",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998346567153931,
+          "index": 7,
+          "word": "Denmark",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998257756233215,
+          "index": 9,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9819042086601257,
+          "index": 18,
+          "word": "F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Indian Danish Chamber of Commerce is launching its India chapter in New Delhi on April 8, 2026. This initiative will support Danish companies in India and foster trade and investment.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:42:21.798Z"
+    },
     {
       "title": "Induction vs infrared cooktops, and how India’s electric cooking push could affect power grid",
       "url": "https://indianexpress.com/article/explained/explained-economics/induction-vs-infrared-cooktops-challenges-electricity-10627373/",
@@ -327,6 +2893,42 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-09T09:08:51.597Z"
+    },
+    {
+      "title": "From Naxal shadow to investment hub: Gadchiroli sees realty boom",
+      "url": "https://www.nagpurtoday.in/from-naxal-shadow-to-investment-hub-gadchiroli-sees-realty-boom/04091405",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T08:35:04.000Z",
+      "metaDescription": "Nagpur: Once known primarily for security concerns linked to Left-Wing Extremism, Gadchiroli is now witnessing a remarkable transformation as economic activity gathers pace and real estate demand surg",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.31446106749393904,
+      "crawledAt": "2026-04-09T13:18:03.157Z",
+      "id": "fiprf1",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9035555720329285,
+          "index": 2,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8722631335258484,
+          "index": 14,
+          "word": "##i",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nagpur is now known primarily for security concerns linked to Left-Wing Extremism. Economic activity gathers pace and real estate demand grows.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:42:56.109Z"
     },
     {
       "title": "Ashok Kharat case |भोंदू अशोक खरातला पाच दिवसांची पोलीस कोठडी; गरोदर महिलेवरील अत्याचाराचे प्रकरण",
@@ -908,6 +3510,74 @@
       "processed_at": "2026-04-09T09:16:34.910Z"
     },
     {
+      "title": "RSS built on discipline and selfless service of Swayamsevaks: Dr Bhagwat",
+      "url": "https://www.nagpurtoday.in/rss-built-on-discipline-and-selfless-service-of-swayamsevaks-dr-bhagwat/04091304",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T07:34:13.000Z",
+      "metaDescription": "Nagpur: Emphasising the role of discipline and dedication in shaping society, Dr Mohan Bhagwat on Wednesday said that the Rashtriya Swayamsevak Sangh has been built on the selfless efforts and commitm",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.25755005064821423,
+      "crawledAt": "2026-04-09T13:18:03.876Z",
+      "id": "qug98k",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9956570863723755,
+          "index": 1,
+          "word": "RS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9725176692008972,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9402921795845032,
+          "index": 11,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9602320790290833,
+          "index": 14,
+          "word": "##eva",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991986155509949,
+          "index": 18,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.92183917760849,
+          "index": 21,
+          "word": "##wat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mohan Bhagwat says Rashtriya Swayamsevak Sangh has been built on selfless efforts and commitm.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:43:15.473Z"
+    },
+    {
       "title": "Is Algae The Answer To Carbon Capture? Intrinsic Foundries’ Green Fix For Toxic Waste",
       "url": "https://inc42.com/startups/algae-for-carbon-capture-intrinsic-foundries-green-toxic-waste/",
       "source": "Inc42 — startups & policy",
@@ -1393,6 +4063,42 @@
       "summary": " Congress can't afford to lose the state for a third time. For the Left, it is a battle for existence.",
       "language": "en",
       "processed_at": "2026-04-09T09:22:22.106Z"
+    },
+    {
+      "title": "NVIDIA DGX Spark brings sovereign AI to your desktop",
+      "url": "https://yourstory.com/2026/04/nvidia-dgx-spark-brings-sovereign-ai-to-your-desktop",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T06:46:54.000Z",
+      "metaDescription": "Learn how to deploy models like Sarvam 30B and Param-2-17B on a personal AI supercomputer in an upcoming technical session hosted by RP Tech, an NVIDIA partner.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.38096737425767013,
+      "crawledAt": "2026-04-09T13:19:49.559Z",
+      "id": "89fnk7",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9470389485359192,
+          "index": 2,
+          "word": "##VI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8046250939369202,
+          "index": 5,
+          "word": "D",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Learn how to deploy a personal AI supercomputer on a personal computer. Sarvam 30B and Param-2-17B models are among the models being tested.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:43:26.621Z"
     },
     {
       "title": "Free Uber ride helps first-time voters cast ballots in Kerala",
@@ -2331,6 +5037,66 @@
       "processed_at": "2026-04-09T05:55:00.865Z"
     },
     {
+      "title": "World Health Day: Awareness Lecture on Body Posture in Nagpur",
+      "url": "https://www.nagpurtoday.in/world-health-day-awareness-lecture-on-body-posture-in-nagpur/04091035",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T05:05:52.000Z",
+      "metaDescription": "Nagpur. On the occasion of World Health Day, a special lecture on “Wrong Body Posture and Health Problems” was organized on Tuesday at The Institution of Engineers (India), Nagpur Centre. On this occa",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3166368828772853,
+      "crawledAt": "2026-04-09T13:18:04.640Z",
+      "id": "xoe0x8",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9978035688400269,
+          "index": 1,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9973120093345642,
+          "index": 2,
+          "word": "Health",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9987450838088989,
+          "index": 3,
+          "word": "Day",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9957676529884338,
+          "index": 14,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9281184077262878,
+          "index": 16,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " On the occasion of World Health Day, a special lecture was organized on Tuesday at The Institution of Engineers (India) Nagpur Centre.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:44:02.750Z"
+    },
+    {
       "title": "Paramount President Jeff Shell resigns amid insider leak lawsuit — his second controversial exit in 3 years",
       "url": "https://www.livemint.com/companies/news/paramount-president-jeff-shell-resigns-amid-insider-leak-lawsuit-his-second-controversial-exit-in-3-years-11775706132106.html",
       "source": "Livemint — Companies",
@@ -2469,6 +5235,34 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-09T05:56:28.830Z"
+    },
+    {
+      "title": "From Cashback to Free UC: How UniPin is Gamifying the Gaming Economy",
+      "url": "https://www.nagpurtoday.in/from-cashback-to-free-uc-how-unipin-is-gamifying-the-gaming-economy/04091030",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T05:00:22.000Z",
+      "metaDescription": "The gaming economy in India is evolving at a pace few could have predicted. Just a few years ago, buying in-game currency was a straightforward process—players paid, received their credits, and moved ",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.255425859899809,
+      "crawledAt": "2026-04-09T13:18:04.875Z",
+      "id": "xamast",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8762710094451904,
+          "index": 11,
+          "word": "##P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The gaming economy in India is evolving at a pace few could have predicted. Just a few years ago, buying in-game currency was a straightforward process.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:44:12.132Z"
     },
     {
       "title": "Case Over Auntie Remark In UK : ‘आंटी’ म्हणणं पडलं महागात! लंडनमधील नर्सला टोमणा मारला अन कोर्टाने ठोठावला लाखो रुपयांचा दंड",
@@ -2751,6 +5545,42 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-09T05:58:11.190Z"
+    },
+    {
+      "title": "Speeding car hits bike, husband, wife killed in Nagpur, driver held",
+      "url": "https://www.nagpurtoday.in/speeding-car-driven-by-drunk-driver-kills-couple-in-nagpur/04091008",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-09T04:38:33.000Z",
+      "metaDescription": "Nagpur: A birthday celebration turned into a tragedy when a couple died in a road accident after their motorcycle was hit by a speeding car in the Beltarodi area in the early hours of Wednesday. Accor",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.33911813015228826,
+      "crawledAt": "2026-04-09T13:18:05.107Z",
+      "id": "952grd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9975641369819641,
+          "index": 12,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9786903262138367,
+          "index": 14,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A couple died in a road accident after their motorcycle was hit by a speeding car in the early hours of Wednesday.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:44:22.435Z"
     },
     {
       "title": "Analysis: Trump's Iran U-Turn Exposes Limits Of His Leverage",
@@ -4009,6 +6839,42 @@
       "processed_at": "2026-04-09T09:25:52.896Z"
     },
     {
+      "title": "Assembly Elections 2026 Live Updates | Voter turnout at 5 pm at 84.42% in Assam, Kerala clocks 75.01%",
+      "url": "https://www.deccanherald.com/elections/assam/india-news-assembly-elections-2026-live-updates-polling-in-kerala-assam-puducherry-bjp-congress-narendra-modi-pinarayi-vijayan-himanta-biswa-sarma-n-rangasamy-3961440",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-09T01:38:48.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2814762342667736,
+      "crawledAt": "2026-04-09T13:20:08.805Z",
+      "id": "38hhea",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996829628944397,
+          "index": 21,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996871948242188,
+          "index": 23,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:44:32.220Z"
+    },
+    {
       "title": "J&K HC flags ‘ex facie’ Sports Code violations in Badminton Association, seeks affidavit from Sports Council",
       "url": "https://indianexpress.com/article/india/jk-hc-flags-ex-facie-sports-code-violations-in-badminton-association-seeks-affidavit-from-sports-council-10626522/",
       "source": "Indian Express — India",
@@ -4651,6 +7517,58 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-09T01:59:53.489Z"
+    },
+    {
+      "title": "Ikea turns food into a growth engine for its India stores",
+      "url": "https://www.livemint.com/companies/news/ikea-india-food-strategy-driving-growth-customer-footfall-store-experience-11775622929260.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-09T00:26:02.000Z",
+      "metaDescription": "IKEA India’s innovative F&amp;B playbook is boosting repeat visits and extending dwell time, emerging as a key driver of its financial turnaround.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.28171607404177346,
+      "crawledAt": "2026-04-09T13:19:06.337Z",
+      "id": "1ol7y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9927001595497131,
+          "index": 1,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9538642168045044,
+          "index": 2,
+          "word": "##ke",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9786142110824585,
+          "index": 3,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994769096374512,
+          "index": 12,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " IKEA's innovative F&amp;B playbook is boosting repeat visits and extending dwell time. IKEa's financial turnaround is a key driver of its financial turnaround.",
+      "language": "en",
+      "processed_at": "2026-04-09T13:44:43.454Z"
     },
     {
       "title": "Ceasefire calm sparks bargain hunting in beaten-down stocks",
@@ -6443,20 +9361,20 @@
       "processed_at": "2026-04-09T02:13:58.282Z"
     }
   ],
-  "processedAt": "2026-04-09T09:25:53.939Z",
+  "processedAt": "2026-04-09T13:44:43.463Z",
   "categories": [
+    "maharashtra-state-local",
+    "government-schemes",
+    "education-skills",
     "jobs-recruitment",
     "legal-judiciary",
-    "education-skills",
-    "government-schemes",
-    "maharashtra-state-local",
-    "banking-credit",
-    "msme-industry-trade",
+    "policy-regulation",
     "civic-public-service",
-    "policy-regulation"
+    "msme-industry-trade",
+    "banking-credit"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 38,
-  "dailyArticlesCount": 157,
+  "newArticlesProcessed": 69,
+  "dailyArticlesCount": 226,
   "filterDate": "2026-04-09"
 }
