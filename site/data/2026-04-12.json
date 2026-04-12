@@ -1,9 +1,1550 @@
 {
-  "crawledAt": "2026-04-12T05:53:42.396Z",
+  "crawledAt": "2026-04-12T08:44:41.458Z",
   "totalSources": 75,
-  "totalArticles": 64,
+  "totalArticles": 100,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "AIG Hospitals, ICMR team up for digital health innovation",
+      "url": "https://www.thehindubusinessline.com/news/aig-hospitals-icmr-team-up-for-digital-health-innovation/article70853458.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:38:52.000Z",
+      "metaDescription": "Partnership to focus on translational research, healthcare delivery models and scalable solutions",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3125560167903145,
+      "crawledAt": "2026-04-12T08:43:57.821Z",
+      "id": "l60fp9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981276988983154,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9834712743759155,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987821102142334,
+          "index": 3,
+          "word": "Hospital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9866885542869568,
+          "index": 4,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9987622499465942,
+          "index": 6,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957791566848755,
+          "index": 7,
+          "word": "##CM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9950873851776123,
+          "index": 8,
+          "word": "##R",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Partnership to focus on translational research, healthcare delivery models and scalable solutions. Partnership to aim to focus to focus upon translationalResearch, healthcare deliver models and solutions.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:45:05.625Z"
+    },
+    {
+      "title": "Asha Bhosle, singing legend passes away in Mumbai; tributes pour in | LIVE",
+      "url": "https://www.thehindu.com/news/national/asha-bhosle-singer-dies-in-mumbai-asha-bhosle-passes-away-entertainment-music-news-updates/article70853643.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:37:33.000Z",
+      "metaDescription": "Asha Bhosle's last rites will be held at Mumbai's Shivaji Park on Monday (April 13) after a public homage",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.49072369918236397,
+      "crawledAt": "2026-04-12T08:43:51.616Z",
+      "id": "zff5mo",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995951652526855,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994292855262756,
+          "index": 3,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9939941167831421,
+          "index": 4,
+          "word": "##hos",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9950071573257446,
+          "index": 5,
+          "word": "##le",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.998694121837616,
+          "index": 12,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Asha Bhosle's last rites will be held at Mumbai's Shivaji Park on Monday (April 13) Asha's last rite will be at Mumbai.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:45:17.581Z"
+    },
+    {
+      "title": "Jyotiba temple | चैत्र यात्रेनंतर जोतिबा मंदिरात उद्या ‘पाकाळणी’ विधी; मंदिर दुपारी दर्शनासाठी ‘या’ वेळेत राहणार बंद",
+      "url": "https://www.tarunbharat.com/pakalani-ritual-to-be-held-at-jyotiba-temple-tomorrow-after-chaitra-yatra-temple-will-be-closed-for-darshan-in-the-afternoon-during-this-time-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T08:33:20.000Z",
+      "metaDescription": "जोतिबा मंदिर उद्या  बंद राहणार जोतिबा डोंगर -श्री क्षेत्र वाडीरत्नागिरी जोतिया डोंगर येथे चैत्र यात्रेच्यानंतर रूढी परंपरेनुसार सोमवारी दि. १३ एप्रिल रोजी जोतिबा मंदिरात पाकाळणी विधी करून मंदिर स्वच्छ",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3712019585414548,
+      "crawledAt": "2026-04-12T08:42:30.396Z",
+      "id": "br86my",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9446102380752563,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "’s’   “’S’M’D’T’E’: ‘I’ – ’ -  ’   - ”  ",
+      "language": "en",
+      "processed_at": "2026-04-12T08:45:46.984Z"
+    },
+    {
+      "title": "Minister urges entrepreneurs to set up industries in Raichur",
+      "url": "https://www.thehindu.com/news/national/karnataka/minister-urges-entrepreneurs-to-set-up-industries-in-raichur/article70815765.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:30:08.000Z",
+      "metaDescription": "Boseraju was speaking after inaugurating Tejas workshop at the Jagajyoti Basaveshwara Auditorium on UAS campus in Raichur",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.49493518656332575,
+      "crawledAt": "2026-04-12T08:43:51.928Z",
+      "id": "mc03fk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9968248605728149,
+          "index": 9,
+          "word": "Rai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9871442317962646,
+          "index": 10,
+          "word": "##chu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8149481415748596,
+          "index": 11,
+          "word": "##r",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Boseraju was speaking after inaugurating Tejas workshop at the Jagajyoti Basaveshwara Auditorium on UAS campus in Raichur.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:46:11.935Z"
+    },
+    {
+      "title": "FD rates: Top five private banks of India offer up to 7.5% fixed deposit interest rates — Check full list",
+      "url": "https://www.livemint.com/money/personal-finance/fd-rates-top-five-private-banks-of-india-offer-up-to-7-5-fixed-deposit-interest-rates-hdfc-icici-axis-kotak-mahindra-11775966101756.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T08:29:30.000Z",
+      "metaDescription": "Fixed deposits are a popular low-risk investment choice, offering guaranteed returns and higher interest rates than savings accounts. Here's how much interest rates top private banks of India are offe",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.7775421445656312,
+      "crawledAt": "2026-04-12T08:42:53.767Z",
+      "id": "omgu4p",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993261694908142,
+          "index": 10,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Fixed deposits are a popular low-risk investment choice for investors. They offer guaranteed returns and higher interest rates than savings.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:46:20.601Z"
+    },
+    {
+      "title": "Sindhudurg News | प्रती झाड २२० नुकसानभरपाई जाहीर करून शासनाने बागायतदारांचे थट्टा केली",
+      "url": "https://pudhari.news/maharashtra/kokan/sindhudurg/sindhudurg-horticulture-compensation-220-per-tree-mockery-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T08:26:57.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.29016624386582796,
+      "crawledAt": "2026-04-12T08:42:26.551Z",
+      "id": "mt07jg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987845420837402,
+          "index": 1,
+          "word": "Sindh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967096447944641,
+          "index": 2,
+          "word": "##ud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9968536496162415,
+          "index": 3,
+          "word": "##urg",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9981240630149841,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:46:39.220Z"
+    },
+    {
+      "title": "‘Devious intentions’: Derek O'Brien attacks govt ahead of Parliament sitting on women's quota, delimitation",
+      "url": "https://www.thehindu.com/news/national/opposition-on-womens-quota-discussions-parliament/article70853530.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:26:21.000Z",
+      "metaDescription": "Prime Minister Narendra Modi on Sunday, April 12, wrote to floor leaders of Lok Sabha and Rajya Sabha, urging them to support the amendments to the women's reservation law during the special three-day",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.8902462281833573,
+      "crawledAt": "2026-04-12T08:43:52.221Z",
+      "id": "w8eogm",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997365474700928,
+          "index": 7,
+          "word": "Derek",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999584972858429,
+          "index": 8,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9974279999732971,
+          "index": 9,
+          "word": "'",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991715550422668,
+          "index": 10,
+          "word": "Brien",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Narendra Modi wrote to floor leaders of Lok Sabha and Rajya Sabha. Modi urged them to support amendments to women's reservation law during the special three-day event.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:46:51.845Z"
+    },
+    {
+      "title": "Sinnar Rural Hospital | बाह्यरुग्ण तपासणी अडीचशे पार; वैद्यकीय अधीक्षक अन् डॉक्टरांवर भार",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/sinnar-rural-hospital-doctor-shortage-opd-burden-vacant-posts-health-crisis-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T08:19:36.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3153840409578083,
+      "crawledAt": "2026-04-12T08:42:26.940Z",
+      "id": "if64wh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9917812943458557,
+          "index": 1,
+          "word": "Sin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9950682520866394,
+          "index": 2,
+          "word": "##nar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9900552034378052,
+          "index": 3,
+          "word": "Rural",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9912413954734802,
+          "index": 4,
+          "word": "Hospital",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8442693948745728,
+          "index": 6,
+          "word": "ब",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:47:02.534Z"
+    },
+    {
+      "title": "Cab drivers announce indefinite ‘no pickup, no drop’ strike at airport",
+      "url": "https://thelivenagpur.com/2026/04/12/cab-drivers-announce-indefinite-no-pickup-no-drop-strike-at-airport/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T08:11:32.000Z",
+      "metaDescription": "In a move likely to disrupt passenger travel, app-based taxi drivers in Nagpur have announced an…",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.3950340442588649,
+      "crawledAt": "2026-04-12T08:42:39.070Z",
+      "id": "u1kxfl",
+      "entities": [],
+      "summary": " app-based taxi drivers in Nagpur have announced an… In a move likely to disrupt passenger travel, app- based taxi drivers have announced a move.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:48:31.666Z"
+    },
+    {
+      "title": "Asha Bhosle Dies In Mumbai, Tributes Pour In For Legendary Singer",
+      "url": "https://www.youtube.com/watch?v=Gk026aaZsX4",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:08:41.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5377049991255188,
+      "crawledAt": "2026-04-12T08:44:15.616Z",
+      "id": "dx2zmb",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993135929107666,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9982799291610718,
+          "index": 3,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9882306456565857,
+          "index": 4,
+          "word": "##hos",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9783068895339966,
+          "index": 5,
+          "word": "##le",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.997994601726532,
+          "index": 9,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:49:10.678Z"
+    },
+    {
+      "title": "11 Bangladeshi ‘victims’ of flesh trade escape high-security Pune shelter home after attacking staffer",
+      "url": "https://indianexpress.com/article/cities/pune/11-bangladeshi-victims-of-flesh-trade-escape-high-security-pune-shelter-home-after-attacking-staffer-10632355/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T08:05:19.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.26859642944822343,
+      "crawledAt": "2026-04-12T08:43:01.289Z",
+      "id": "seccfl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996601343154907,
+          "index": 2,
+          "word": "Bangladeshi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.996818482875824,
+          "index": 13,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:49:45.483Z"
+    },
+    {
+      "title": "Nashik Crime News : माणुसकीची अंतयात्रा ! डॉक्टरने मृतदेहाच्या गळ्यातील दागिन्यांवर मारला डल्ला",
+      "url": "https://deshdoot.com/nashik-crime-news-doctor-stole-jewelry-from-the-neck-of-a-dead-body/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T08:01:20.000Z",
+      "metaDescription": "नाशिक | प्रतिनिधी | Nashik ज्या हातांनी मरणाच्या दारात उभे असलेल्या रुग्णाला जीवदान द्यायचे, त्याच हातांनी एका मृतदेहाच्या (Dead Body) गळ्यातील सोन्याची साखळी ओरबाडून माणुसकीचा गळा घोटल्याचा संतापजनक ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26992610711019294,
+      "crawledAt": "2026-04-12T08:43:11.877Z",
+      "id": "yd7665",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9989108443260193,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9925047159194946,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987660050392151,
+          "index": 3,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976214170455933,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The body was found in the body of a man who was found dead in a shallow grave. The body of the man is believed to have been found in a nearby lake.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:50:10.012Z"
+    },
+    {
+      "title": "Bhayandar fire : भाईंदर अग्नीतांडवांतील तिघांची ओळख पटली",
+      "url": "https://pudhari.news/maharashtra/thane/bhayandar-fire-victims-identified-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T07:43:03.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.28467828749512236,
+      "crawledAt": "2026-04-12T08:42:27.840Z",
+      "id": "2l1p0e",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:51:35.679Z"
+    },
+    {
+      "title": "‌Kalubalu tamasha performance: ’काळूबाळू‌’च्या पाचव्या पिढीचीही रसिकांवर जादू; रांजणीत पीर साहेब महाराज यात्रेनिमित्त तमाशाचे आयोजन",
+      "url": "https://pudhari.news/maharashtra/pune/ranjani-tamasha-kalubalu-loknatya-performance-traditional-folk-art-return-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T07:40:57.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30077433200530046,
+      "crawledAt": "2026-04-12T08:42:28.020Z",
+      "id": "zh4odh",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:51:52.901Z"
+    },
+    {
+      "title": "Nashik Kumbh Mela | सिंहस्थाच्या कामात अडथळे? नाशिक महापालिकेची सारवासारव; 'सगळं काही आलबेल' असल्याचा दावा",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashik-municipal-corporation-denies-hurdles-kumbh-mela-development-works-update-sd22",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T07:38:54.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.30838866695244654,
+      "crawledAt": "2026-04-12T08:42:28.229Z",
+      "id": "jh1rls",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8378182649612427,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:51:53.239Z"
+    },
+    {
+      "title": "India-UK free trade pact may come into force from second week of May: Official",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uk-free-trade-pact-may-come-into-force-from-second-week-of-may-official/articleshow/130204305.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T07:33:05.000Z",
+      "metaDescription": "The India-UK free trade agreement is set to begin in the second week of May. This pact will allow 99 percent of Indian exports to enter Britain duty-free. Tariffs on British products like cars and whi",
+      "category": "msme-industry-trade",
+      "difficulty": 7,
+      "confidence": 0.3191400573505409,
+      "crawledAt": "2026-04-12T08:42:49.430Z",
+      "id": "aqvwtj",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997537732124329,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9990442395210266,
+          "index": 3,
+          "word": "UK",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The India-UK free trade agreement is set to begin in the second week of May. It will allow 99 percent of Indian exports to enter Britain duty-free.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:52:16.974Z"
+    },
+    {
+      "title": "Ashok Kharat case |अशोक खरात प्रकरण साधे नाही, येणार्‍या काळात मोठे राजकीय 'वादळ' येणार : संजय राऊतांचा दावा",
+      "url": "https://pudhari.news/maharashtra/mumbai/ashok-kharat-case-political-storm-sanjay-raut-claim-cdr-leak-maharashtra-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-12T07:32:53.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2727249884614101,
+      "crawledAt": "2026-04-12T08:42:28.650Z",
+      "id": "csgdvp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9852785468101501,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8899255990982056,
+          "index": 3,
+          "word": "K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:52:17.246Z"
+    },
+    {
+      "title": "Traditional Food Culture: वरण-भात आणि खाद्यसंस्कृती",
+      "url": "https://agrowon.esakal.com/agro-special/varan-bhaat-food-culture-maharashtra-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T07:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.7093238784875746,
+      "crawledAt": "2026-04-12T08:42:37.301Z",
+      "id": "cenubb",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:52:30.378Z"
+    },
+    {
+      "title": "RBI proposes safeguards for digital transactions — what it means for senior citizens and other users",
+      "url": "https://www.livemint.com/money/personal-finance/rbi-proposes-safeguards-for-digital-transactions-what-it-means-for-senior-citizens-and-other-users-11775971344350.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T07:17:25.000Z",
+      "metaDescription": "The RBI has proposed measures to combat online fraud, including transaction delays, additional authentication for vulnerable users, and caps on bank account credits. Here's what it means for senior ci",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.2961749197144703,
+      "crawledAt": "2026-04-12T08:42:54.001Z",
+      "id": "g4wsu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990270137786865,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The RBI has proposed measures to combat online fraud, including transaction delays, additional authentication for vulnerable users, and caps on bank account credits.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:53:24.360Z"
+    },
+    {
+      "title": "Potential ban looms over Rajasthan Royals manager for using phone in dugout",
+      "url": "https://www.deccanherald.com/sports/cricket/potential-ban-looms-over-rajasthan-royals-manager-for-using-phone-in-dugout-3965136",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-12T07:14:47.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.35295151239229994,
+      "crawledAt": "2026-04-12T08:44:35.218Z",
+      "id": "vnlzef",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981688261032104,
+          "index": 8,
+          "word": "Rajasthan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982299208641052,
+          "index": 9,
+          "word": "Royals",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:53:34.016Z"
+    },
+    {
+      "title": "SC to hear on Monday pleas related to SIR of electoral rolls in West Bengal",
+      "url": "https://www.thehindubusinessline.com/news/national/sc-to-hear-on-monday-pleas-related-to-sir-of-electoral-rolls-in-west-bengal/article70853536.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T07:13:58.000Z",
+      "metaDescription": "On April 10, the top court had agreed to hear on April 13 a fresh plea along with pending ones challenging the freezing of electoral rolls by the Election Commission ahead of the upcoming assembly pol",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2688823651003472,
+      "crawledAt": "2026-04-12T08:43:58.948Z",
+      "id": "hcgvif",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963034391403198,
+          "index": 1,
+          "word": "SC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9712420701980591,
+          "index": 10,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999624490737915,
+          "index": 16,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9987968802452087,
+          "index": 17,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Top court agreed to hear on April 13 a fresh plea along with pending ones challenging the freezing of electoral rolls by the Election Commission.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:53:55.865Z"
+    },
+    {
+      "title": "West Bengal Assembly Elections 2026 | Supreme Court to hear on Monday pleas related to SIR of electoral rolls",
+      "url": "https://www.deccanherald.com/elections/west-bengal/west-bengal-assembly-elections-2026-supreme-court-to-hear-on-monday-pleas-related-to-sir-of-electoral-rolls-3965133",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-12T07:06:35.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3179394046696999,
+      "crawledAt": "2026-04-12T08:44:35.343Z",
+      "id": "wrk4g7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9622348546981812,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9918661713600159,
+          "index": 2,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.923204243183136,
+          "index": 3,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8892128467559814,
+          "index": 4,
+          "word": "Elections",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9981555938720703,
+          "index": 8,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9921568632125854,
+          "index": 9,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:54:31.976Z"
+    },
+    {
+      "title": "Healthy Summer Diet Tips : जाणून घ्या तुमच्या आरोग्याचा उन्हाळ्यातील योग्य आहार",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/healthy-summer-diet-tips-hydrating-foods-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T07:03:25.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.54757710730683,
+      "crawledAt": "2026-04-12T08:42:37.410Z",
+      "id": "kentme",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:54:32.363Z"
+    },
+    {
+      "title": "IPL Rules Breach Controversy: राजस्थान रॉयल्सच्या अडचणीत वाढ! डगआउटमध्ये मोबाईल वापरल्याने उडाली खळबळ",
+      "url": "https://www.navakal.in/krida/rajasthan-royals-manager-mobile-phone-use-dugout-ipl-2026-controversy/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T07:00:00.000Z",
+      "metaDescription": "IPL Rules Breach Controversy: आयपीएल 2026 मध्ये सलग चार सामने जिंकून विजयाचा चौकार मारणाऱ्या राजस्थान रॉयल्सच्या गोटात सध्या चिंतेचे वातावरण आहे. गुवाहाटी येथे रॉयल चॅलेंजर्स बेंगळुरूविरुद्ध झालेल्या ",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2810093873455158,
+      "crawledAt": "2026-04-12T08:43:20.175Z",
+      "id": "90uu8z",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.996551513671875,
+          "index": 1,
+          "word": "IP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9936078190803528,
+          "index": 2,
+          "word": "##L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The World's first ever IPL Rules Breach Breach. The Breach is a breach of the IPL rules.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:54:55.097Z"
+    },
+    {
+      "title": "Madhya Pradesh Board Result 2026: Ways To Check, Past Trends",
+      "url": "https://www.ndtv.com/education/mp-board-result-2026-ways-to-check-class-10-and-12-marksheets-previous-years-trends-11345902#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T06:51:23.000Z",
+      "metaDescription": "MP Board Result 2026: Class 10 and 12 students can also check their MP board results through SMS, DigiLocker, and MPBSE mobile application.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2586676009752162,
+      "crawledAt": "2026-04-12T08:44:05.566Z",
+      "id": "un8gbx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988123178482056,
+          "index": 1,
+          "word": "Madhya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985039830207825,
+          "index": 2,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954996705055237,
+          "index": 3,
+          "word": "Board",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Students can also check their MP board results through SMS, DigiLocker, and MPBSE mobile application.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:55:21.952Z"
+    },
+    {
+      "title": "Man Booked for Stalking, Defaming Jyoti Bawankule",
+      "url": "https://thelivenagpur.com/2026/04/12/man-booked-for-stalking-defaming-jyoti-bawankule/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T06:36:19.000Z",
+      "metaDescription": "KORADI Police have registered a case against a man identified as Raviraj Sable Patil, a resident…",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.8162005642128713,
+      "crawledAt": "2026-04-12T08:42:39.406Z",
+      "id": "bq0uoq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9975250959396362,
+          "index": 12,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9712168574333191,
+          "index": 13,
+          "word": "##yo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9759571552276611,
+          "index": 14,
+          "word": "##ti",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992109537124634,
+          "index": 15,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9368313550949097,
+          "index": 16,
+          "word": "##wan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9785070419311523,
+          "index": 17,
+          "word": "##ku",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " KORADI Police have registered a case against a man identified as Raviraj Sable Patil, a resident.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:55:42.358Z"
+    },
+    {
+      "title": "FASTag Cashback Offer: टोल प्लाझावरील अस्वच्छता आता तुम्हाला मिळवून देणार पैसे! तक्रार करा आणि FASTag खात्यात मिळवा 1,000 रुपये",
+      "url": "https://www.navakal.in/lekh/report-unclean-toll-plaza-toilets-earn-1000-fastag-credit-rajmargyatra-app/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T06:30:00.000Z",
+      "metaDescription": "FASTag Cashback Offer: देशातील महामार्गांचे जाळे वेगाने विस्तारत असतानाच, आता तिथल्या सुविधांच्या स्वच्छतेवर केंद्र सरकारने विशेष लक्ष केंद्रित केले आहे. अनेकदा प्रवाशांना टोल प्लाझावरील अस्वच्छ शौचाल",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.2581431723553801,
+      "crawledAt": "2026-04-12T08:43:20.513Z",
+      "id": "gh98th",
+      "entities": [],
+      "summary": "FASTag Cashback Offer: \"FASTAG Cashback offer\" FASTag cashback offer: \"The offer is a cashback deal\"",
+      "language": "en",
+      "processed_at": "2026-04-12T08:55:54.671Z"
+    },
+    {
+      "title": "Mumbai Civic Body To Test Gen Z Solutions To Urban Challenges",
+      "url": "https://www.ndtv.com/mumbai-news/mumbai-civic-body-to-test-gen-z-solutions-to-urban-challenges-11345842#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T06:22:01.000Z",
+      "metaDescription": "The initiative integrates fresh perspectives and technological literacy of the younger generation to bring innovative solutions.",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.8380048694607114,
+      "crawledAt": "2026-04-12T08:44:10.131Z",
+      "id": "p05p4y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999001145362854,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9951738119125366,
+          "index": 2,
+          "word": "Civic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9959316849708557,
+          "index": 3,
+          "word": "Body",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9371237754821777,
+          "index": 7,
+          "word": "Z",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The initiative integrates fresh perspectives and technological literacy of the younger generation. The initiative aims to bring innovative solutions to the young generation.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:56:37.198Z"
+    },
+    {
+      "title": "'I'm honestly overwhelmed': Ravie Dubey featured on Times Square Billboard as Lakshman ahead of Ramayana release",
+      "url": "https://www.deccanherald.com/entertainment/im-honestly-overwhelmed-ravie-dubey-featured-on-times-square-billboard-as-lakshman-ahead-of-ramayana-release-3965011",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-12T06:19:12.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2626603147000918,
+      "crawledAt": "2026-04-12T08:44:35.961Z",
+      "id": "ravxtn",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9983886480331421,
+          "index": 9,
+          "word": "Ravi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989699721336365,
+          "index": 11,
+          "word": "Dub",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9737547039985657,
+          "index": 12,
+          "word": "##ey",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9545383453369141,
+          "index": 15,
+          "word": "Times",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8177227973937988,
+          "index": 16,
+          "word": "Square",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.847989022731781,
+          "index": 17,
+          "word": "Billboard",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9974212646484375,
+          "index": 19,
+          "word": "La",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9081369638442993,
+          "index": 24,
+          "word": "Rama",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9880114793777466,
+          "index": 25,
+          "word": "##yana",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:56:37.596Z"
+    },
+    {
+      "title": "Big party in power may poach own allies, not Opposition: Rohit Pawar",
+      "url": "https://www.deccanherald.com/india/maharashtra/big-party-in-power-may-poach-own-allies-not-opposition-rohit-pawar-3965103",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-12T06:18:45.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.29040720092366673,
+      "crawledAt": "2026-04-12T08:44:36.078Z",
+      "id": "cx4w84",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995787739753723,
+          "index": 15,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9960739016532898,
+          "index": 16,
+          "word": "##oh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991324543952942,
+          "index": 17,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997397065162659,
+          "index": 18,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9066511392593384,
+          "index": 19,
+          "word": "##war",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:56:49.885Z"
+    },
+    {
+      "title": "Ashok Kharat Crime News : खरातची ‘मॅनेजमेंट’ गँग; पंधरा गुन्ह्यांनंतरही ‘मॅनेजमेंट टीम’ एसआयटीच्या रडारबाहेरच!",
+      "url": "https://deshdoot.com/ashok-kharat-crime-news-sit-not-investigating-ashok-kharats-digital-team-in-the-this-case/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T06:13:17.000Z",
+      "metaDescription": "नाशिक | प्रतिनिधी | Nashik अशोक खरातच्या (Ashok Kharat) भोंदू‌गिरीचा आणि लैंगिक शोषणाचा विळखा खोलवर होता, याचे वास्तव आता समोर आले आहे. महिलांना जाळ्यात ओढण्यासाठी खरात केवळ ‘दैवी शक्ती’चा बनाव करत नव",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.309442115422981,
+      "crawledAt": "2026-04-12T08:43:13.610Z",
+      "id": "6xzxhm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9916470050811768,
+          "index": 1,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9321755766868591,
+          "index": 2,
+          "word": "##ok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980350732803345,
+          "index": 3,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9906756281852722,
+          "index": 4,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9970058798789978,
+          "index": 5,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985702037811279,
+          "index": 6,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958469271659851,
+          "index": 7,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "N.C. Kharat: ‘Nashik’s’ is a ‘nashik.’",
+      "language": "en",
+      "processed_at": "2026-04-12T08:57:03.882Z"
+    },
+    {
+      "title": "NCLAT reaffirms project-specific insolvency proceedings against realty firms",
+      "url": "https://www.thehindubusinessline.com/news/nclat-reaffirms-project-specific-insolvency-proceedings-against-realty-firms/article70853448.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T06:10:09.000Z",
+      "metaDescription": "The appellate tribunal highlighted that putting all other projects of the realty firms, which are unrelated to the default, is not in the interest of homebuyers and other stakeholders of other project",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.32705320624049466,
+      "crawledAt": "2026-04-12T08:43:59.681Z",
+      "id": "sfvt2b",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.993861973285675,
+          "index": 1,
+          "word": "NC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9905977249145508,
+          "index": 2,
+          "word": "##LA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9776544570922852,
+          "index": 3,
+          "word": "##T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The appellate tribunal highlighted that putting all other projects of the realty firms, which are unrelated to the default, is not in the interest of homebuyers and other stakeholders of other project.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:57:16.783Z"
+    },
+    {
+      "title": "Will there be more plastic than fish in our oceans?",
+      "url": "https://www.downtoearth.org.in/environment/will-there-be-more-plastic-than-fish-in-our-oceans",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-12T06:03:28.000Z",
+      "metaDescription": "An in-depth interview with expert Satish Sinha explores how human-made marine litter, especially plastics and microplastics, is overwhelming oceans, threatening marine ecosystems, entering the food ch",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.38206458305116003,
+      "crawledAt": "2026-04-12T08:44:32.026Z",
+      "id": "kjmvap",
+      "entities": [],
+      "summary": " Satish Sinha explores how human-made marine litter, especially plastics and microplastics, is overwhelming oceans, threatening marine ecosystems, entering the food ch ch ch.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:57:54.585Z"
+    },
+    {
+      "title": "Drugstore Beetle Pest: ड्रग-स्टोअर बीटलची ओळख",
+      "url": "https://agrowon.esakal.com/agro-special/drugstore-beetle-stored-grain-pest-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-12T06:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.28963391366452507,
+      "crawledAt": "2026-04-12T08:42:37.757Z",
+      "id": "b18wtj",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8718476295471191,
+          "index": 3,
+          "word": "Bee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8046064376831055,
+          "index": 4,
+          "word": "##tle",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8199719786643982,
+          "index": 5,
+          "word": "P",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:58:04.889Z"
+    },
+    {
+      "title": "Pak-Flagged, Iraq-Bound Supertankers U-Turn In Hormuz As US-Iran Talks Break Down",
+      "url": "https://www.ndtv.com/world-news/pak-flagged-iraq-bound-supertankers-u-turn-in-hormuz-as-us-iran-talks-break-down-11345776#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T05:58:38.000Z",
+      "metaDescription": "A trio of very large crude carriers - all without direct links to Iran - began to approach the narrow waterway from the Gulf of Oman late on Saturday.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2904614132330017,
+      "crawledAt": "2026-04-12T08:44:10.818Z",
+      "id": "novzgn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8229153156280518,
+          "index": 6,
+          "word": "Iraq",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9868228435516357,
+          "index": 17,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9538410902023315,
+          "index": 18,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.941533088684082,
+          "index": 19,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9332462549209595,
+          "index": 23,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A trio of very large crude carriers began to approach the narrow waterway from the Gulf of Oman late on Saturday.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:58:36.347Z"
+    },
     {
       "title": "१",
       "url": "https://www.esakal.com/paschim-maharashtra/kolhapur/todays-latest-marathi-news-kop26d92407-txt-kolhapur-20260411070011",
@@ -22,6 +1563,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-12T05:53:44.703Z"
+    },
+    {
+      "title": "Telangana Inter 1st And 2nd Year Marks Memo 2026 Out, Check Download Link, Details Here",
+      "url": "https://www.ndtv.com/education/telangana-inter-1st-and-2nd-year-marks-memo-2026-out-today-check-download-link-details-here-11345369#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-12T05:46:46.000Z",
+      "metaDescription": "Telangana Inter 2026 Results: Telangana Board will announce Intermediate 1st and 2nd year 2026 results today at 11 am from TGBIE Hyderabad office. Check download link here.",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3038037999174146,
+      "crawledAt": "2026-04-12T08:44:06.612Z",
+      "id": "lrqiyh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986776113510132,
+          "index": 1,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949076771736145,
+          "index": 2,
+          "word": "Inter",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Telangana Board will announce Intermediate 1st and 2nd year 2026 results today at 11 am from TGBIE Hyderabad office.",
+      "language": "en",
+      "processed_at": "2026-04-12T08:59:17.185Z"
     },
     {
       "title": "TSBIE-TS Inter Results 2026 Live Updates: 1st, 2nd Year Marks Memo Out, Download Link Here",
@@ -2455,19 +4032,20 @@
       "processed_at": "2026-04-12T02:20:36.725Z"
     }
   ],
-  "processedAt": "2026-04-12T06:09:04.004Z",
+  "processedAt": "2026-04-12T08:59:36.895Z",
   "categories": [
-    "legal-judiciary",
     "education-skills",
-    "government-schemes",
     "maharashtra-state-local",
+    "legal-judiciary",
+    "jobs-recruitment",
     "banking-credit",
+    "government-schemes",
     "msme-industry-trade",
-    "civic-public-service",
-    "jobs-recruitment"
+    "policy-regulation",
+    "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 34,
-  "dailyArticlesCount": 64,
+  "newArticlesProcessed": 36,
+  "dailyArticlesCount": 100,
   "filterDate": "2026-04-12"
 }
