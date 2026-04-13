@@ -1,9 +1,2118 @@
 {
-  "crawledAt": "2026-04-13T09:53:43.457Z",
+  "crawledAt": "2026-04-13T13:20:23.997Z",
   "totalSources": 75,
-  "totalArticles": 118,
+  "totalArticles": 168,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Govt imposes import curbs on Glufosinate for 6 months",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/govt-imposes-import-curbs-on-glufosinate-for-6-months/article70857693.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T13:10:41.000Z",
+      "metaDescription": "“The import of Glufosinate and its salts will be restricted if the combined CIF value and anti-dumping duty is less than ₹1,154 per kg,” stated the Directorate General of Foreign Trade",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.2741097336990267,
+      "crawledAt": "2026-04-13T13:19:32.732Z",
+      "id": "gqrol6",
+      "entities": [],
+      "summary": " The import of Glufosinate and its salts will be restricted if the combined CIF value and anti-dumping duty is less than ₹1,154 per kg.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:20:59.009Z"
+    },
+    {
+      "title": "Noida Protests | Workers' Protest Over Wage Hike Turns Violent In Noida",
+      "url": "https://www.youtube.com/shorts/6tULd9XJqqU",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T13:00:20.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.250817864682952,
+      "crawledAt": "2026-04-13T13:19:59.035Z",
+      "id": "uj7waw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9548853039741516,
+          "index": 1,
+          "word": "No",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:22:38.404Z"
+    },
+    {
+      "title": "Time for a double-engine government in T.N., says Nitin Nabin",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/time-for-a-double-engine-government-in-tn-says-nitin-nabin/article70857047.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:58:52.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.512326386805213,
+      "crawledAt": "2026-04-13T13:19:25.281Z",
+      "id": "m12vpk",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.8898437023162842,
+          "index": 11,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992927312850952,
+          "index": 15,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9626097083091736,
+          "index": 16,
+          "word": "##tin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9990730881690979,
+          "index": 17,
+          "word": "Na",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:22:58.654Z"
+    },
+    {
+      "title": "Greengine Deploys World’s First Vertical Algal Biofilm Carbon Capture & Utilization Unit",
+      "url": "https://yourstory.com/2026/04/greengine-g-urban-tree-100x-carbon-capture-india-gurugram",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:50:22.000Z",
+      "metaDescription": "In a development that could reshape how Indian cities approach air quality and carbon neutrality, Kanpur-based startup Greengine",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2530132103691606,
+      "crawledAt": "2026-04-13T13:19:55.261Z",
+      "id": "mmd0ih",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8028011918067932,
+          "index": 2,
+          "word": "##gin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8462652564048767,
+          "index": 15,
+          "word": "Al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8724557757377625,
+          "index": 19,
+          "word": "##film",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8543373346328735,
+          "index": 20,
+          "word": "Carbon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9877188205718994,
+          "index": 21,
+          "word": "Capt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.93614262342453,
+          "index": 22,
+          "word": "##ure",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9762511253356934,
+          "index": 23,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9821963906288147,
+          "index": 24,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9808589220046997,
+          "index": 26,
+          "word": "##ization",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9752898216247559,
+          "index": 27,
+          "word": "Unit",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Greengine is a Kanpur-based startup that could reshape how Indian cities approach air quality and carbon neutrality.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:24:34.703Z"
+    },
+    {
+      "title": "Healthy Dinner Ideas : रात्रीचं हलकं आणि आरोग्यदायी जेवण कसं असावं?",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/healthy-dinner-ideas-high-protein-low-carb-options-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:46:38.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.444131388498201,
+      "crawledAt": "2026-04-13T13:18:08.967Z",
+      "id": "ub6dhb",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:24:45.182Z"
+    },
+    {
+      "title": "Iran US War | Why Bab el-Mandeb Matters: A Vital Global Shipping Chokepoint",
+      "url": "https://www.youtube.com/watch?v=REatY48s1ic",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:45:06.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.4010811727476871,
+      "crawledAt": "2026-04-13T13:19:59.290Z",
+      "id": "74j34n",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.8996790051460266,
+          "index": 12,
+          "word": "##b",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:24:45.359Z"
+    },
+    {
+      "title": "New labour laws: Do changes impact your in-hand salary and tax regime? We ask experts…",
+      "url": "https://www.livemint.com/money/personal-finance/new-labour-laws-2025-do-codes-change-impact-your-in-hand-salary-and-tax-regime-ask-experts-faqs-retirement-savings-money-11776078687330.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:42:06.000Z",
+      "metaDescription": "India's new Labour Codes focus on salary structure and long-term savings, according to experts. We ask them if it will also impact your in-hand salary and preferred tax regime. Here's are your questio",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3343478673950474,
+      "crawledAt": "2026-04-13T13:18:25.438Z",
+      "id": "4h4qk8",
+      "entities": [],
+      "summary": " India's new Labour Codes focus on salary structure and long-term savings. We ask if it will also impact your in-hand salary and preferred tax regime.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:04.186Z"
+    },
+    {
+      "title": "Koradi Power Plant Accident | कोराडी वीज प्रकल्पात वाफेमुळे ८ अधिकारी, कर्मचारी जखमी, एकाची प्रकृती चिंताजनक",
+      "url": "https://pudhari.news/maharashtra/vidarbha/nagpur/nagpur-koradi-power-plant-accident-8-injured-steam-leak-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T12:39:39.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.28918713196794643,
+      "crawledAt": "2026-04-13T13:17:58.572Z",
+      "id": "357jgn",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9746328592300415,
+          "index": 4,
+          "word": "Power",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:04.652Z"
+    },
+    {
+      "title": "Rajasthan highway modernisation project gets $225 million World Bank boost, to benefit 3 million people",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/rajasthan-highway-modernisation-project-gets-225-million-world-bank-boost-to-benefit-3-million-people/articleshow/130236879.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:39:29.000Z",
+      "metaDescription": "The World Bank has approved a USD 225 million loan for Rajasthan's highway modernization. This project will benefit over 3 million people by improving road efficiency, resilience, and safety. It aims ",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2542740230062081,
+      "crawledAt": "2026-04-13T13:18:29.536Z",
+      "id": "vh3udj",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995691776275635,
+          "index": 1,
+          "word": "Rajasthan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9988657832145691,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972846508026123,
+          "index": 11,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The World Bank has approved a USD 225 million loan for Rajasthan's modernization. The project will benefit over 3 million people by improving road efficiency.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:15.028Z"
+    },
+    {
+      "title": "Pune News : ज्येष्ठ पत्रकार प्रकाश भोईटे यांचे निधन",
+      "url": "https://pudhari.news/maharashtra/pune/pune-news-senior-journalist-prakash-bhoite-passes-away-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T12:36:34.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.834656846652936,
+      "crawledAt": "2026-04-13T13:17:58.665Z",
+      "id": "dw4u9h",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9938799738883972,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9462523460388184,
+          "index": 2,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:26.239Z"
+    },
+    {
+      "title": "11 killed as speeding high-speed cement mixer rams into overcrowded van in Thane",
+      "url": "https://indianexpress.com/article/cities/mumbai/thane-road-accident-cement-truck-eco-van-11-dead-10634308/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:35:36.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.25141797456401926,
+      "crawledAt": "2026-04-13T13:18:36.046Z",
+      "id": "sea9vs",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9815228581428528,
+          "index": 19,
+          "word": "Than",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:26.567Z"
+    },
+    {
+      "title": "US Iran War Latest Updates | Gulf Ports On Iran's Radar As Region Braces For Escalation",
+      "url": "https://www.youtube.com/watch?v=PvaIC7e_iWU",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:30:06.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3010108733062462,
+      "crawledAt": "2026-04-13T13:19:59.509Z",
+      "id": "ydwy29",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9888139367103577,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9255086779594421,
+          "index": 2,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9650508165359497,
+          "index": 3,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9553400278091431,
+          "index": 9,
+          "word": "Gulf",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9928644299507141,
+          "index": 13,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:25:36.738Z"
+    },
+    {
+      "title": "Maharashtra Monsoon 2026 : यंदा पाऊस किती पडणार? हवामान विभागाचा ‘मोठा’ अंदाज जाहीर; शेतकऱ्यांच्या नजरा आता आभाळाकडे!",
+      "url": "https://www.navakal.in/maharashtra/maharashtra-monsoon-2026-maharashtra-monsoon-forecast-2026-the-india-meteorological-department/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:28:40.000Z",
+      "metaDescription": "Maharashtra Monsoon 2026 : देशाच्या कृषी अर्थव्यवस्थेचा कणा असलेल्या नैऋत्य मान्सूनबाबत भारतीय हवामान विभागाने (IMD) आपला पहिला अधिकृत दीर्घकालीन अंदाज जाहीर केला आहे. २०२६ च्या पावसाळ्यात देशात सरासर",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.9320258322012586,
+      "crawledAt": "2026-04-13T13:19:00.187Z",
+      "id": "2ph9x4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9947671890258789,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.986781120300293,
+          "index": 2,
+          "word": "Mon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9323205351829529,
+          "index": 3,
+          "word": "##so",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8850528001785278,
+          "index": 4,
+          "word": "##on",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "M.M. Monsoon 2026:   ‘I’m. ’s’ M’S’: “I‘m’ – ”   ‚’",
+      "language": "en",
+      "processed_at": "2026-04-13T13:26:05.497Z"
+    },
+    {
+      "title": "PM Modi: Corruption ‘part of system’ under DMK govt in Tamil Nadu",
+      "url": "https://www.thehindubusinessline.com/news/elections/pm-modi-corruption-part-of-system-under-dmk-govt-in-tamil-nadu/article70857524.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:26:51.000Z",
+      "metaDescription": "Addressing BJP workers, he said people in the state are looking towards the BJP-NDA for change and are ready to punish the ruling party",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.42887513732801147,
+      "crawledAt": "2026-04-13T13:19:39.310Z",
+      "id": "2juf5o",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9954781532287598,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9410563111305237,
+          "index": 15,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8964754939079285,
+          "index": 16,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9721845984458923,
+          "index": 17,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994491338729858,
+          "index": 22,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992967247962952,
+          "index": 23,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "People in the state are looking towards the BJP-NDA for change and are ready to punish the ruling party.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:26:15.430Z"
+    },
+    {
+      "title": "Delhi Court's \"Hope You Don't Return\" Comment To Arvind Kejriwal",
+      "url": "https://www.ndtv.com/india-news/liquor-policy-delhi-courts-hope-you-dont-return-comment-to-arvind-kejriwal-11350902#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:26:34.000Z",
+      "metaDescription": "Kejriwal and the others discharged in the liquor policy case have sought the recusal of Justice Swarana Kanta Sharma from hearing a petition by the Central Bureau of Investigation against the trial co",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.45495044279332464,
+      "crawledAt": "2026-04-13T13:19:42.356Z",
+      "id": "81o1by",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997512698173523,
+          "index": 1,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9725293517112732,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9973658919334412,
+          "index": 17,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998913586139679,
+          "index": 20,
+          "word": "Ke",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kejriwal and the others discharged in the liquor policy case have sought the recusal of Justice Swarana Kanta Sharma from hearing a petition by the Central Bureau of Investigation against the trial co-star.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:26:27.852Z"
+    },
+    {
+      "title": "Pineapple Prices Crash: अननसाचे भाव घसरले, उत्पादन खर्चही निघेना, केरळमधील शेतकरी अडचणीत",
+      "url": "https://agrowon.esakal.com/agro-special/pineapple-price-crash-kerala-farmers-loss-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:18:32.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3147825863651575,
+      "crawledAt": "2026-04-13T13:18:09.537Z",
+      "id": "kehvjj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9099878668785095,
+          "index": 1,
+          "word": "Pine",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9684683084487915,
+          "index": 2,
+          "word": "##ap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.893267035484314,
+          "index": 3,
+          "word": "##ple",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:27:36.702Z"
+    },
+    {
+      "title": "Ashok Kharat Case : अशोक खरातची रवानगी कोठडीत!न्यायाधीशांसमोर हात जोडून उभा राहिला ‘महाभाग -खरातला ७ दिवसांची न्यायालयीन कोठडी!",
+      "url": "https://www.navakal.in/maharashtra/ashok-kharat-case-ashok-kharat-sent-to-custody-mahabhaag-stood-before-the-judge-with-folded-hands-kharat-sent-to-7-days-judicial-custody/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:16:35.000Z",
+      "metaDescription": "Ashok Kharat Case : अध्यात्माच्या नावाखाली महिलांचे लैंगिक शोषण आणि सर्वसामान्यांची आर्थिक फसवणूक केल्याचा आरोप असलेल्या कथित भोंदू बाबा अशोक खरात याच्या अडचणीत वाढ झाली आहे. आज झालेल्या सुनावणीत न्या",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2927223442280409,
+      "crawledAt": "2026-04-13T13:19:00.994Z",
+      "id": "9660pd",
+      "entities": [],
+      "summary": "Ashok Kharat Case:    -  – -  -.  ‘ -’ - ‘-‘- ’ – ” “  ’s’",
+      "language": "en",
+      "processed_at": "2026-04-13T13:27:53.814Z"
+    },
+    {
+      "title": "US Vs Iran | Warning Vs Warning: US Announces Iran Ports Blockade, Tehran Issues Counter Threat",
+      "url": "https://www.youtube.com/watch?v=1NGxj4SxWqc",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:15:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.253658403211863,
+      "crawledAt": "2026-04-13T13:19:59.726Z",
+      "id": "tpklgx",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9936172366142273,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.997864842414856,
+          "index": 4,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9687032699584961,
+          "index": 11,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.881391167640686,
+          "index": 17,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8177487254142761,
+          "index": 18,
+          "word": "Block",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.828165590763092,
+          "index": 19,
+          "word": "##ade",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:28:02.499Z"
+    },
+    {
+      "title": "Love triangle, hired gun, shared location: Wife arrested for ‘helping plot Odisha man’s murder’",
+      "url": "https://indianexpress.com/article/india/wife-arrested-plot-odisha-man-murder-gun-love-triange-location-10634278/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T12:12:17.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9967482690808803,
+      "crawledAt": "2026-04-13T13:18:34.187Z",
+      "id": "tnj75f",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9991735219955444,
+          "index": 16,
+          "word": "Odisha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:28:23.442Z"
+    },
+    {
+      "title": "Panchayat To Parliament: Women's Quota Bill In Focus | Will The Women's Quota Bill Become A Reality?",
+      "url": "https://www.youtube.com/watch?v=59GK-SYLP0E",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T12:10:06.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.30610016163399817,
+      "crawledAt": "2026-04-13T13:19:59.853Z",
+      "id": "l1tomi",
+      "entities": [],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:28:23.977Z"
+    },
+    {
+      "title": "Samruddhi Expressway Accident | समृद्धी महामार्गावर भीषण अपघात; आई-वडील गंभीर, दीड वर्षांचे बाळ चमत्कारिकरित्या बचावले",
+      "url": "https://pudhari.news/maharashtra/vidarbha/vashim/washim-samruddhi-expressway-accident-parents-critical-toddler-survives-miraculously-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T12:00:05.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.38134691013596217,
+      "crawledAt": "2026-04-13T13:17:59.314Z",
+      "id": "z18lmq",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:28:53.447Z"
+    },
+    {
+      "title": "The MSME Transformation: India’s New Economic Powerhouse",
+      "url": "https://medium.com/@dpkbawa89/the-msme-transformation-indias-new-economic-powerhouse-f03a7718e6d0?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T11:58:02.000Z",
+      "metaDescription": "India’s Micro, Small, and Medium Enterprises (MSMEs) have evolved from a secondary support structure into a primary engine of national…\nContinue reading on Medium »",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3762535351668063,
+      "crawledAt": "2026-04-13T13:19:57.155Z",
+      "id": "zg0f6d",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9783692955970764,
+          "index": 2,
+          "word": "MS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9760543704032898,
+          "index": 3,
+          "word": "##ME",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9879859685897827,
+          "index": 4,
+          "word": "Trans",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9807573556900024,
+          "index": 5,
+          "word": "##formation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996918439865112,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9252109527587891,
+          "index": 11,
+          "word": "Economic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9668383598327637,
+          "index": 12,
+          "word": "Power",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9694756269454956,
+          "index": 13,
+          "word": "##house",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India’s Micro, Small, and Medium Enterprises (MSMEs) have evolved from a secondary support structure into a primary engine of national.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:29:04.452Z"
+    },
+    {
+      "title": "Hormuz Blockade + Limited Strikes On Iran: Trump's Plan After Pakistan Talks Fail",
+      "url": "https://www.ndtv.com/world-news/donald-trump-iran-us-war-israel-lebanon-hormuz-blockade-limited-strikes-on-iran-trumps-plan-after-pakistan-talks-fail-11351269#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T11:56:02.000Z",
+      "metaDescription": "These additional measures come as options to break the current impasse in efforts to reach a lasting agreement with Tehran, following the collapse of direct negotiations in Pakistan over the weekend.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2861715172088995,
+      "crawledAt": "2026-04-13T13:19:48.997Z",
+      "id": "mrmyg4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9933112263679504,
+          "index": 11,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9974543452262878,
+          "index": 13,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9859166145324707,
+          "index": 18,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Additional measures come as options to break the current impasse in efforts to reach a lasting agreement with Tehran. Follows collapse of direct negotiations in Pakistan over the weekend.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:29:14.510Z"
+    },
+    {
+      "title": "Southwest monsoon to be 8% below Long Period Average: IMD",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/southwest-monsoon-to-be-8-below-long-period-average-imd/articleshow/130235442.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:42:51.000Z",
+      "metaDescription": "India anticipates below-normal monsoon rainfall in 2026. Precipitation is projected to be 8% below the Long Period Average. This forecast raises concerns for crop output and inflation. While some regi",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.2673854859655592,
+      "crawledAt": "2026-04-13T13:18:29.977Z",
+      "id": "q6v5s9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9624760150909424,
+          "index": 12,
+          "word": "I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Precipitation is projected to be 8% below the Long Period Average. This forecast raises concerns for crop output and inflation.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:29:59.279Z"
+    },
+    {
+      "title": "Rohit Sharma-Virat Kohli : “अरे मार ना…” वानखेडेवर रोहित-विराटमध्ये मजेशीर खडाजंगी; सामन्यापूर्वीची गळाभेट आणि नंतरची मैदानी टशन!",
+      "url": "https://www.navakal.in/maharashtra/rohit-sharma-virat-kohli-rohit-sharma-virat-kohli-video-mi-vs-rcb-ipl-2026/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T11:42:09.000Z",
+      "metaDescription": "Rohit Sharma-Virat Kohli : आयपीएल २०२६ च्या रणधुमाळीत वानखेडे स्टेडियमवर पार पडलेल्या मुंबई इंडियन्स विरुद्ध रॉयल चॅलेंजर्स बंगळुरू या महामुकाबल्यात आरसीबीने यजमान मुंबईवर १८ धावांनी मात केली. या सामन",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2723350235710508,
+      "crawledAt": "2026-04-13T13:19:01.731Z",
+      "id": "18zdjp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996523857116699,
+          "index": 1,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.993882954120636,
+          "index": 2,
+          "word": "##oh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9937154650688171,
+          "index": 3,
+          "word": "##it",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993416666984558,
+          "index": 4,
+          "word": "Sharma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996376633644104,
+          "index": 6,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9930775761604309,
+          "index": 7,
+          "word": "##ira",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9813093543052673,
+          "index": 8,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995627999305725,
+          "index": 9,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9964506030082703,
+          "index": 10,
+          "word": "##hl",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Rohit Sharma-Virat Kohli:    ’s Rohit Sharma -Virsat Rolat Kohli: ‘ ” “’  ’d",
+      "language": "en",
+      "processed_at": "2026-04-13T13:30:15.850Z"
+    },
+    {
+      "title": "No Supreme Court Relief For Bengal Voters Deleted In SIR Process",
+      "url": "https://www.ndtv.com/india-news/sir-hearing-in-supreme-court-west-bengal-elections-no-supreme-court-relief-for-bengal-voters-deleted-in-sir-process-11351035#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T11:39:22.000Z",
+      "metaDescription": "SIR Hearing In Supreme Court, West Bengal Elections: No Supreme Court Relief For Bengal Voters Deleted In SIR Process",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.9213424344153537,
+      "crawledAt": "2026-04-13T13:19:42.884Z",
+      "id": "hx5qzi",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9788414835929871,
+          "index": 2,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9935393929481506,
+          "index": 3,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9505718350410461,
+          "index": 4,
+          "word": "Relief",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9884504079818726,
+          "index": 5,
+          "word": "For",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932946562767029,
+          "index": 6,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " SIR Hearing In Supreme Court, West Bengal Elections: No Supreme Court Relief For Bengal Voters Deleted in SIR Process.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:30:36.780Z"
+    },
+    {
+      "title": "Pune Crime Files: How cops posed as drivers and technicians to nab killers of elderly farmer",
+      "url": "https://indianexpress.com/article/cities/pune/pune-crime-files-ambegaon-farmer-murder-undercover-police-arrest-10634132/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:33:25.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9546579260768056,
+      "crawledAt": "2026-04-13T13:18:38.372Z",
+      "id": "31hr88",
+      "entities": [],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:30:47.491Z"
+    },
+    {
+      "title": "MHADA Redevelopment Project: पुनर्विकासाचा धडाका",
+      "url": "https://agrowon.esakal.com/agro-special/mumbai-redevelopment-mhada-project-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:30:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2798433436531543,
+      "crawledAt": "2026-04-13T13:18:10.018Z",
+      "id": "nr2psf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.957825243473053,
+          "index": 1,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9626387357711792,
+          "index": 2,
+          "word": "##HA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9768437147140503,
+          "index": 3,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.968950092792511,
+          "index": 4,
+          "word": "Red",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:30:47.923Z"
+    },
+    {
+      "title": "From Maoist stronghold to tap water: Remote Abujhmad village gets first home supply",
+      "url": "https://indianexpress.com/article/india/maoist-stronghold-tap-water-abujhmad-village-home-supply-10634040/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:29:04.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.37508148301185584,
+      "crawledAt": "2026-04-13T13:18:34.432Z",
+      "id": "t76wt6",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9988967776298523,
+          "index": 2,
+          "word": "Mao",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8515601754188538,
+          "index": 3,
+          "word": "##ist",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.980688214302063,
+          "index": 11,
+          "word": "Abu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9746427536010742,
+          "index": 12,
+          "word": "##j",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8737210631370544,
+          "index": 13,
+          "word": "##hm",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:30:56.726Z"
+    },
+    {
+      "title": "Trump vs Pope |इराण युद्धावरून आता ट्रम्प आणि पोप आमने-सामने! अमेरिकन राष्ट्राध्यक्षांच्या सोशल मीडिया पोस्टने खळबळ!",
+      "url": "https://pudhari.news/international/trump-vs-pope-iran-war-vatican-tensions-divine-claim-controversy-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T11:25:21.000Z",
+      "metaDescription": "Trump vs Pope |इराण युद्धावरून आता ट्रम्प आणि पोप आमने-सामने! अमेरिकन राष्ट्राध्यक्षांच्या सोशल मीडिया पोस्टने खळबळ!",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.35445144988277216,
+      "crawledAt": "2026-04-13T13:18:00.316Z",
+      "id": "zc1vkc",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9925340414047241,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9354036450386047,
+          "index": 3,
+          "word": "Pope",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trump vs. Trump vs Pope. Trump is the first time the two men have met. The two men will meet at the White House.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:31:36.170Z"
+    },
+    {
+      "title": "Retail inflation inches up to 3.4% in March: Govt data",
+      "url": "https://www.deccanherald.com/business/economy/retail-inflation-at-34-in-march-govt-data-3966252",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T11:13:56.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.26895388760357036,
+      "crawledAt": "2026-04-13T13:20:17.880Z",
+      "id": "gz2kih",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:32:41.733Z"
+    },
+    {
+      "title": "Public Provident Fund: How many times can you extend your PPF account after maturity?",
+      "url": "https://www.livemint.com/money/personal-finance/public-provident-fund-how-many-times-can-you-extend-your-ppf-account-after-maturity-15-year-tenure-extension-5-yr-blocks-11776071694573.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:05:29.000Z",
+      "metaDescription": "The public provident fund (PPF) is a top choice when planning your finances for retirement. With guaranteed tax-exemption and a fixed interest rate of 7.1% this quarter it is among the safest investme",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.3048400562297527,
+      "crawledAt": "2026-04-13T13:18:26.198Z",
+      "id": "or0j49",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9090995192527771,
+          "index": 14,
+          "word": "PP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8755629658699036,
+          "index": 15,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The public provident fund (PPF) is a top choice when planning your finances for retirement. With guaranteed tax-exemption and a fixed interest rate of 7.1% this quarter it is among the safest investme.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:33:16.884Z"
+    },
+    {
+      "title": "Malani Adchani Ani Upay: मळणी करताना येणाऱ्या अडचणी आणि त्यावरील उपाय",
+      "url": "https://agrowon.esakal.com/agro-special/problems-encountered-during-threshing-their-solutions-ssp-25",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T11:05:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2749777984448472,
+      "crawledAt": "2026-04-13T13:18:10.404Z",
+      "id": "k14o4m",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9928096532821655,
+          "index": 1,
+          "word": "Mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9932706356048584,
+          "index": 3,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9667981266975403,
+          "index": 4,
+          "word": "##chan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8909565806388855,
+          "index": 6,
+          "word": "An",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:33:17.076Z"
+    },
+    {
+      "title": "Sukanya Samriddhi Yojana: How to transfer SSY account from one bank to another? Step-by-step process explained",
+      "url": "https://www.livemint.com",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:53:13.000Z",
+      "metaDescription": "Sukanya Samriddhi Yojana is a savings scheme designed to improve the lives of girls in the nation. Here is how you can transfer your SSY account from one bank to another.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.4326227830431014,
+      "crawledAt": "2026-04-13T13:18:26.466Z",
+      "id": "9dv0ut",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9939520359039307,
+          "index": 1,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9862547516822815,
+          "index": 4,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9669932723045349,
+          "index": 5,
+          "word": "##rid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8895135521888733,
+          "index": 7,
+          "word": "Yo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9530929327011108,
+          "index": 13,
+          "word": "SS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8331577777862549,
+          "index": 14,
+          "word": "##Y",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sukanya Samriddhi Yojana is a savings scheme designed to improve the lives of girls in the country.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:34:35.772Z"
+    },
+    {
+      "title": "“Others affected too, but Muslims disproportionately targeted in Bengal SIR. This can’t be random”",
+      "url": "https://www.altnews.in/others-affected-too-but-muslims-disproportionately-targeted-in-bengal-sir-this-cant-be-random/",
+      "source": "Alt News — fact-check",
+      "source_domain": "altnews.in",
+      "source_category": "newsletter",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T10:50:36.000Z",
+      "metaDescription": "Just before the Assembly elections in West Bengal, Kerala, Tamil Nadu, Puducchery and other states in 2026, the Election Commission of India initiated a special Intensive Revision(SIR) of the electora",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3351343238001576,
+      "crawledAt": "2026-04-13T13:20:21.791Z",
+      "id": "fr6z7m",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9994193315505981,
+          "index": 7,
+          "word": "Muslims",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9969269633293152,
+          "index": 16,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Election Commission of India initiated a special Intensive Revision (SIR) of the electora. The election will take place in West Bengal, Kerala, Tamil Nadu, Puducchery and other states in 2026.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:35:15.433Z"
+    },
+    {
+      "title": "Virat Kohli Meet Sachin Tendulkar : शब्दांशिवाय बरंच काही! सचिनने विराटाच्या पाठीवर मारलेली थाप आणि तो डोळ्यांतील आदर; क्रिकेटप्रेमी झाले भावूक..",
+      "url": "https://www.navakal.in/maharashtra/virat-kohli-meet-sachin-tendulkar-cricket-virat-kohli-meet-sachin-tendulkar-photo-rohit-sharma/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:47:11.000Z",
+      "metaDescription": "Virat Kohli Meet Sachin Tendulkar : आयपीएल २०२६ च्या हंगामात वानखेडे स्टेडियमवर पार पडलेल्या हाय-व्होल्टेज सामन्यात रॉयल चॅलेंजर्स बंगळुरूने (RCB) यजमान मुंबई इंडियन्सवर १८ धावांनी मात केली. या सामन्य",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26037127965955004,
+      "crawledAt": "2026-04-13T13:19:02.489Z",
+      "id": "np1jan",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9982672929763794,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9926310777664185,
+          "index": 2,
+          "word": "##ira",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9815962314605713,
+          "index": 3,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9987792372703552,
+          "index": 4,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9748891592025757,
+          "index": 5,
+          "word": "##hl",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991368651390076,
+          "index": 8,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9585407972335815,
+          "index": 9,
+          "word": "##chin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998876690864563,
+          "index": 10,
+          "word": "Ten",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.963798463344574,
+          "index": 11,
+          "word": "##du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8142674565315247,
+          "index": 12,
+          "word": "##lk",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Virat Kohli Meet Sachin Tendulkar. The Sachin Kohli meet Sachin.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:35:33.920Z"
+    },
+    {
+      "title": "West Bengal polls: Supreme Court refuses to intervene in voter list row",
+      "url": "https://www.thehindubusinessline.com/news/elections/west-bengal-polls-supreme-court-refuses-to-intervene-in-voter-list-row/article70857029.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:43:36.000Z",
+      "metaDescription": "The court noted that thousands of appeals are already pending and emphasised that due process must be followed without disrupting the election process",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.7569183077079072,
+      "crawledAt": "2026-04-13T13:19:41.246Z",
+      "id": "inwrvt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993550777435303,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9985935091972351,
+          "index": 2,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9983934760093689,
+          "index": 5,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9878440499305725,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The court noted that thousands of appeals are already pending and emphasised that due process must be followed without disrupting the election process.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:35:55.201Z"
+    },
+    {
+      "title": "Opinion: Analysis: Islamic NATO Or Europe - Is Gulf Rethinking Its Options After Trump's 'Betrayal'?",
+      "url": "https://www.ndtv.com/opinion/us-israel-iran-war-islamic-nato-or-europe-partnership-is-gulf-rethinking-its-options-11350872#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:43:18.000Z",
+      "metaDescription": "A wounded Iran, which is emboldened by its experience of attacking its neighbours and hijacking the global energy supply chain, coupled with Trump's failure to prioritise the region, makes a strong ca",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3542322234085691,
+      "crawledAt": "2026-04-13T13:19:44.424Z",
+      "id": "75cq1p",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9358032941818237,
+          "index": 13,
+          "word": "Gulf",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9923447370529175,
+          "index": 21,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Iran is emboldened by its experience of attacking its neighbours and hijacking the global energy supply chain. Trump's failure to prioritise the region makes a strong ca ca ca.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:36:07.265Z"
+    },
+    {
+      "title": "Maharashtra Cabinet Decisions: सरकारचा मच्छिमारांसाठी महत्त्वाचा निर्णय, मंत्रिमंडळ बैठकीत ६१ कोटींच्या निधीस मंजुरी",
+      "url": "https://agrowon.esakal.com/agro-special/maharashtra-cabinet-decisions-fishermen-61-crore-budget-approval-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:41:55.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.27143140980364394,
+      "crawledAt": "2026-04-13T13:18:10.621Z",
+      "id": "1s4bqa",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9578984379768372,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:36:19.787Z"
+    },
+    {
+      "title": "Supreme Court seeks Centre, EC response on plea for biometric voting system",
+      "url": "https://www.thehindubusinessline.com/news/elections/supreme-court-seeks-centre-ec-response-on-plea-for-biometric-voting-system/article70857025.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:37:09.000Z",
+      "metaDescription": "A bench led by Chief Justice Surya Kant clarified that the proposal cannot be implemented/applicable for ongoing state Assembly elections but may be examined for future polls",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.9295703974710453,
+      "crawledAt": "2026-04-13T13:19:41.653Z",
+      "id": "xne4gf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9975114464759827,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9728671312332153,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8157444596290588,
+          "index": 4,
+          "word": "Centre",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9978654980659485,
+          "index": 6,
+          "word": "EC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A bench led by Chief Justice Surya Kant clarified that the proposal cannot be implemented/applicable for ongoing state Assembly elections but may be examined for future polls.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:36:42.471Z"
+    },
+    {
+      "title": "India’s March retail inflation quickens to 3.4% as US war on Iran disrupts global trade flows",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-march-retail-inflation-3-40-percent-cpi-us-iran-middle-east-war-global-trade-flows-disruption/articleshow/130233288.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:35:10.000Z",
+      "metaDescription": "In March, India's retail inflation ticked up to 3.4%, influenced by escalating tensions in the Middle East that are affecting global oil supplies. However, this increase remains comfortably within the",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2638627797633934,
+      "crawledAt": "2026-04-13T13:18:30.709Z",
+      "id": "uorx9v",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998567700386047,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9093165993690491,
+          "index": 15,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997976422309875,
+          "index": 18,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In March, India's retail inflation ticked up to 3.4%, influenced by escalating tensions in the Middle East. However, this increase remains comfortably within the 3.5% increase.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:37:10.754Z"
+    },
+    {
+      "title": "Maharashtra Heat Wave: कोकणात तीन दिवस उष्ण आणि दमट हवामानाची शक्यता",
+      "url": "https://agrowon.esakal.com/video/hot-and-humid-weather-likely-in-konkan-for-next-three-days",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:30:29.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6591707211031234,
+      "crawledAt": "2026-04-13T13:18:10.787Z",
+      "id": "21kf9n",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8076861500740051,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:37:19.244Z"
+    },
+    {
+      "title": "'Ready to play full part': France, UK plan joint mission to protect Hormuz shipping route",
+      "url": "https://timesofindia.indiatimes.com/world/europe/ready-to-play-full-part-france-uk-plan-joint-mission-to-protect-hormuz-shipping-route/articleshow/130233811.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:30:03.000Z",
+      "metaDescription": "France and the UK will jointly lead a multinational initiative to restore free and secure navigation in the Strait of Hormuz amid rising US-Iran tensions. This strictly defensive mission aims to safeg",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3412488627748583,
+      "crawledAt": "2026-04-13T13:19:46.957Z",
+      "id": "jundcq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998181462287903,
+          "index": 9,
+          "word": "France",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997079372406006,
+          "index": 11,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9989697933197021,
+          "index": 17,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9815993309020996,
+          "index": 18,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9958943724632263,
+          "index": 19,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " France and the UK will jointly lead a multinational initiative to restore free and secure navigation in the Strait of Hormuz. This strictly defensive mission aims to safegegeg.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:37:32.154Z"
+    },
+    {
+      "title": "Water Scarcity: लघू प्रकल्पांवरील गावांवर पाणीटंचाईचे सावट",
+      "url": "https://agrowon.esakal.com/agro-special/water-scarcity-small-projects-dharashiv-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2674279687119806,
+      "crawledAt": "2026-04-13T13:18:10.881Z",
+      "id": "iezv30",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:37:32.279Z"
+    },
+    {
+      "title": "NIT Trichy Admission Process Explained: Courses Offered, Counselling Details",
+      "url": "https://www.ndtv.com/education/nit-trichy-admission-2026-explained-courses-offered-counselling-details-11350805#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:30:00.000Z",
+      "metaDescription": "NIT Counselling 2026: The admission criteria also include the performance of the candidate in the Class 12 qualifying examination.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.5689399479584542,
+      "crawledAt": "2026-04-13T13:19:44.596Z",
+      "id": "64czw5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9886618256568909,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.882683515548706,
+          "index": 3,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The admission criteria include the performance of the candidate in the Class 12 qualifying examination. The admission process also includes the performance.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:37:49.735Z"
+    },
+    {
+      "title": "Uma Bharti Chain Pulling : झाशीत हाय व्होल्टेज ड्रामा! चेन ओढली अन् पंजाब मेल थांबवली! माजी मुख्यमंत्री उमा भारतींसाठी झाशीत थांबवली एक्स्प्रेस..",
+      "url": "https://www.navakal.in/desh-videsh/uma-bharti-chain-pullinguma-bharti-chain-pulling-high-voltage-drama-in-jhansi-chain-pulled-and-punjab-mailsavali-chief-minister-uma-bharti-jhansi-express/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T10:25:28.000Z",
+      "metaDescription": "Uma Bharti Chain Pulling : मध्य प्रदेशच्या माजी मुख्यमंत्री उमा भारती यांच्या प्रवासादरम्यान रविवारी झाशी रेल्वे स्थानकावर एक अनपेक्षित प्रकार घडला. नवी दिल्लीला जाणारी पंजाब मेल ही रेल्वे गाडी उमा भा",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.275073168811495,
+      "crawledAt": "2026-04-13T13:19:03.190Z",
+      "id": "wz0vit",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9977850914001465,
+          "index": 1,
+          "word": "Um",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9750951528549194,
+          "index": 3,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8449320793151855,
+          "index": 4,
+          "word": "##hart",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Uma Bharti Chain Pulling is the latest in a series of Uma Chain Pulls. It is the first time the group has pulled together.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:38:11.628Z"
+    },
+    {
+      "title": "“Firuni navi janmen mi…” on 14th April",
+      "url": "https://thelivenagpur.com/2026/04/13/firuni-navi-janmen-mi-on-14th-april/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:18:17.000Z",
+      "metaDescription": "A musical tribute by Swarvedh to Padma Vibhushan Late Asha Bhosle A unique musical tribute will…",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.35786867425578117,
+      "crawledAt": "2026-04-13T13:18:14.560Z",
+      "id": "bpgoby",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9562809467315674,
+          "index": 2,
+          "word": "Fi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A musical tribute by Swarvedh to Padma Vibhushan Late Asha Bhosle A unique musical tribute will be performed by SwARvedh.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:38:32.781Z"
+    },
+    {
+      "title": "Vegetable Farming: फेरपालट पद्धतीने भाजीपाला लागवडीवर भर",
+      "url": "https://agrowon.esakal.com/agro-special/shade-net-farming-success-vegetable-cultivation-maharashtra-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:15:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.31091517198006857,
+      "crawledAt": "2026-04-13T13:18:11.006Z",
+      "id": "sf2f77",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:38:56.331Z"
+    },
+    {
+      "title": "Cashew Theft Case: ‘काजू चोरी प्रकरणात व्यापाऱ्यांना त्रास देऊ नका’",
+      "url": "https://agrowon.esakal.com/agro-special/cashew-theft-trader-harassment-sindhudurg-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T10:00:00.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.27853160957245565,
+      "crawledAt": "2026-04-13T13:18:11.121Z",
+      "id": "8vd4n7",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:40:01.832Z"
+    },
+    {
+      "title": "Supreme Court On MSP : महाराष्ट्रातील तीन शेतकऱ्यांची जनहित याचिका ; हमीभावबाबत भूमिका स्पष्ट करण्याचे सर्वोच्च न्यायालयाने केंद्र सरकारला दिले निर्देश",
+      "url": "https://agrowon.esakal.com/agro-special/supreme-court-notice-on-c2-based-msp-petition-by-maharashtra-farmers-ds98",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T09:56:39.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.9315062505661204,
+      "crawledAt": "2026-04-13T13:18:11.327Z",
+      "id": "8p18co",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8604592680931091,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-13T13:40:02.173Z"
+    },
     {
       "title": "Stock Market LIVE: Sensex traded 76,836.62; Nifty 50 was down 214.05 pts or 0.89% to 23,836.55",
       "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-april-13-2026/article70853732.ece",
@@ -5019,21 +7128,21 @@
       "processed_at": "2026-04-13T10:12:58.831Z"
     }
   ],
-  "processedAt": "2026-04-13T10:12:58.847Z",
+  "processedAt": "2026-04-13T13:40:03.149Z",
   "categories": [
-    "msme-industry-trade",
-    "jobs-recruitment",
-    "maharashtra-state-local",
     "government-schemes",
+    "maharashtra-state-local",
+    "jobs-recruitment",
     "education-skills",
+    "msme-industry-trade",
     "legal-judiciary",
-    "policy-regulation",
     "civic-public-service",
     "banking-credit",
+    "policy-regulation",
     "tax-compliance-gst"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 51,
-  "dailyArticlesCount": 118,
+  "newArticlesProcessed": 50,
+  "dailyArticlesCount": 168,
   "filterDate": "2026-04-13"
 }
