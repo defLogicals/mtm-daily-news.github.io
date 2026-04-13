@@ -1,9 +1,1246 @@
 {
-  "crawledAt": "2026-04-13T17:01:39.988Z",
+  "crawledAt": "2026-04-13T20:52:33.068Z",
   "totalSources": 75,
-  "totalArticles": 219,
+  "totalArticles": 246,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Grassroots-level SIR drives impacted voter turnout in Kerala, say community forums",
+      "url": "https://www.thehindu.com/news/national/kerala//article70857754.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T20:42:51.000Z",
+      "metaDescription": "Volunteers had guided voters through documentation procedures amid widespread concern over disenfranchisement",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.2850990210407191,
+      "crawledAt": "2026-04-13T20:51:43.000Z",
+      "id": "3qxr4a",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8183080554008484,
+          "index": 5,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996447563171387,
+          "index": 12,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Volunteers guided voters through documentation procedures amid widespread concern over disenfranchisement. Volunteers had guided voters on documentation procedures. Volunteers had been guided through documentation Procedures amid widespread concerns over disenfranchism.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:52:46.856Z"
+    },
+    {
+      "title": "Strait Of Hormuz | Mines, Uncertainty And Risk: The Real Challenge In The Strait Of Hormuz",
+      "url": "https://www.youtube.com/watch?v=JVNiopkJnP0",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T20:30:06.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3106543980441153,
+      "crawledAt": "2026-04-13T20:52:07.236Z",
+      "id": "a4axb3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9190060496330261,
+          "index": 1,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9537602663040161,
+          "index": 2,
+          "word": "Of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9929529428482056,
+          "index": 3,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9931542873382568,
+          "index": 4,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9968892335891724,
+          "index": 5,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9448577761650085,
+          "index": 21,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9870634078979492,
+          "index": 22,
+          "word": "Of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9967964887619019,
+          "index": 23,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9930609464645386,
+          "index": 24,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9978262186050415,
+          "index": 25,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:52:58.990Z"
+    },
+    {
+      "title": "Bengaluru: Azim Premji University plans Dr Rajkumar tribute events",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-azim-premji-university-plans-dr-rajkumar-tribute-events-3966956",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T20:17:14.000Z",
+      "metaDescription": "Azim Premji varsity plans Dr Rajkumar tribute events",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.32053097658671476,
+      "crawledAt": "2026-04-13T20:52:26.197Z",
+      "id": "hp4pli",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9972028136253357,
+          "index": 1,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9965150952339172,
+          "index": 2,
+          "word": "##uru",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9233292937278748,
+          "index": 4,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.885376513004303,
+          "index": 5,
+          "word": "##zi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.92901211977005,
+          "index": 6,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9910767078399658,
+          "index": 7,
+          "word": "Pre",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9904500246047974,
+          "index": 8,
+          "word": "##m",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952712059020996,
+          "index": 9,
+          "word": "##ji",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9594562649726868,
+          "index": 10,
+          "word": "University",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9976999759674072,
+          "index": 13,
+          "word": "Raj",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9589641690254211,
+          "index": 14,
+          "word": "##kumar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Azim Premji varsity plans Dr Rajkumar tribute events. AzimPremji plans Dr. Rajk Kumar tribute events.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:54:16.381Z"
+    },
+    {
+      "title": "Bangalore Rural MP C N Manjunath urges revival of Hosakerehalli Lake",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/bangalore-rural-mp-c-n-manjunath-urges-revival-of-hosakerehalli-lake-3966955",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T20:09:30.000Z",
+      "metaDescription": "MP urges revival of Hosakerehalli Lake",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3903519988511803,
+      "crawledAt": "2026-04-13T20:52:26.339Z",
+      "id": "r151dp",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8940251469612122,
+          "index": 1,
+          "word": "Bangalore",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9988125562667847,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998351514339447,
+          "index": 6,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9681539535522461,
+          "index": 7,
+          "word": "##jun",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9812400341033936,
+          "index": 8,
+          "word": "##ath",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8792826533317566,
+          "index": 12,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9548864960670471,
+          "index": 14,
+          "word": "##ker",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9209343194961548,
+          "index": 15,
+          "word": "##eh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9048306941986084,
+          "index": 16,
+          "word": "##all",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9638794660568237,
+          "index": 17,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9010412693023682,
+          "index": 18,
+          "word": "Lake",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:54:37.116Z"
+    },
+    {
+      "title": "Farmers want tomato, moringa processing units in Vedasandur constituency",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/farmers-want-tomato-moringa-processing-units-in-vedasandur-constituency/article70858010.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:58:07.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3484643453978935,
+      "crawledAt": "2026-04-13T20:51:44.315Z",
+      "id": "xbn013",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9975738525390625,
+          "index": 11,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9263479709625244,
+          "index": 12,
+          "word": "##eda",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9801482558250427,
+          "index": 13,
+          "word": "##san",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9768989086151123,
+          "index": 14,
+          "word": "##du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8153821229934692,
+          "index": 15,
+          "word": "##r",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:54:37.619Z"
+    },
+    {
+      "title": "Two-cornered contest at the drought-prone Bargur constituency",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/two-cornered-contest-at-the-drought-prone-bargur-constituency/article70858094.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:55:46.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.33974351131917235,
+      "crawledAt": "2026-04-13T20:51:44.406Z",
+      "id": "f7rfkd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9883564114570618,
+          "index": 11,
+          "word": "Bar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9641106128692627,
+          "index": 12,
+          "word": "##gu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:54:37.773Z"
+    },
+    {
+      "title": "Supreme Court expresses ‘shock’ at the impunity of Chambal sand miners",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/supreme-court-expresses-shock-at-the-impunity-of-chambal-sand-miners/article70858435.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:52:43.000Z",
+      "metaDescription": "The Bench further suggested that a GPS system could be installed in heavy earth-moving machines in the area to keep a track of their movement",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.9087708751410681,
+      "crawledAt": "2026-04-13T20:51:44.595Z",
+      "id": "4auo1e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9887341260910034,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8867969512939453,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Bench suggested that a GPS system could be installed in heavy earth-moving machines in the area to keep a track of their movement.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:54:50.533Z"
+    },
+    {
+      "title": "T.N. Assembly election 2026: Slow progress of infrastructure work, unemployment frustrate voters of Mayiladuthurai constituency",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-slow-progress-of-infrastructure-work-unemployment-frustrate-voters-of-mayiladuthurai-constituency/article70857015.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:43:43.000Z",
+      "metaDescription": "Be it the ₹83.03-crore underground sewerage project, the ₹29.01-crore Perunthalaivar Kamarajar Bus Stand of the Sarangapani flyover, poor planning and execution remain the common factors; the governme",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3734534825892608,
+      "crawledAt": "2026-04-13T20:51:45.319Z",
+      "id": "ya5z1s",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9824404716491699,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975383281707764,
+          "index": 3,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8156865239143372,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949669241905212,
+          "index": 5,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9629461169242859,
+          "index": 22,
+          "word": "May",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9816756844520569,
+          "index": 23,
+          "word": "##ila",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8584941029548645,
+          "index": 24,
+          "word": "##du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8968145847320557,
+          "index": 26,
+          "word": "##urai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Sarangapani flyover is the latest project to be built in the city. The project has been dubbed the \"Sarangapana\"",
+      "language": "en",
+      "processed_at": "2026-04-13T20:55:38.555Z"
+    },
+    {
+      "title": "Crime News : अत्याचार करून युवतीला हॉटेलमध्ये डांबले",
+      "url": "https://deshdoot.com/young-woman-abuse-crime-news-ahilyanagar-2/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:33:59.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar अहिल्यानगर- सोलापूर रस्त्यावरील अंबिलवाडी (ता. अहिल्यानगर) शिवारातील एका हॉटेल मध्ये युवतीवर हॉटेल मालकानेच कामगाराच्या मदतीने अत्याचार केल्याची घटना उघडकीस आली आहे.",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.3083946955013526,
+      "crawledAt": "2026-04-13T20:51:12.812Z",
+      "id": "606nje",
+      "entities": [],
+      "summary": " The city of Ahilyanagar is located in the eastern part of the country. It is located near the city of San Francisco.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:56:07.374Z"
+    },
+    {
+      "title": "Florida man arrested after swinging machete at milk crates; charged with possession of deadly weapon",
+      "url": "https://timesofindia.indiatimes.com/world/us/florida-man-arrested-after-swinging-machete-at-milk-crates-charged-with-possession-of-deadly-weapon/articleshow/130244599.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T19:31:45.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2843972547098619,
+      "crawledAt": "2026-04-13T20:51:52.125Z",
+      "id": "p9upgm",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997085928916931,
+          "index": 1,
+          "word": "Florida",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:56:07.499Z"
+    },
+    {
+      "title": "Officials from India and France discuss bilateral ties, West Asia situation",
+      "url": "https://www.deccanherald.com/india/officials-from-india-and-france-discuss-bilateral-ties-west-asia-situation-3966821",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T19:03:47.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2906812318907538,
+      "crawledAt": "2026-04-13T20:52:26.729Z",
+      "id": "tpfsro",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998191595077515,
+          "index": 4,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.999763011932373,
+          "index": 6,
+          "word": "France",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9986209869384766,
+          "index": 11,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9974107146263123,
+          "index": 12,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:56:42.348Z"
+    },
+    {
+      "title": "3 Al Qaeda-linked operatives sentenced to life imprisonment by NIA court in Lucknow",
+      "url": "https://www.deccanherald.com/india/uttar-pradesh/3-al-qaeda-linked-operatives-sentenced-to-life-imprisonment-by-nia-court-in-lucknow-3966854",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T18:59:49.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.29094697203226133,
+      "crawledAt": "2026-04-13T20:52:26.834Z",
+      "id": "yt3aw5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9979830980300903,
+          "index": 2,
+          "word": "Al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9929952621459961,
+          "index": 3,
+          "word": "Qaeda",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9953517913818359,
+          "index": 13,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.937452495098114,
+          "index": 14,
+          "word": "##IA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9983227252960205,
+          "index": 17,
+          "word": "Lucknow",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:56:42.502Z"
+    },
+    {
+      "title": "Six from Bengal make death plea to President fearing detention after names 'deleted' from voter list",
+      "url": "https://www.deccanherald.com/india/west-bengal/six-from-bengal-make-death-plea-to-president-fearing-detention-after-names-deleted-from-voter-list-3966870",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-13T18:55:19.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2722666301654614,
+      "crawledAt": "2026-04-13T20:52:27.171Z",
+      "id": "torepz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997839331626892,
+          "index": 3,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:56:43.023Z"
+    },
+    {
+      "title": "Food, fuel prices push up March retail inflation to 3.4%",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/food-fuel-prices-push-up-march-retail-inflation-to-3-4/articleshow/130244119.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T18:52:15.000Z",
+      "metaDescription": "India's retail inflation climbed to 3.4 percent in March. Higher food and fuel costs are driving this increase. Experts predict inflation could reach 4 percent in April. This is due to ongoing global ",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.262152613546895,
+      "crawledAt": "2026-04-13T20:50:51.774Z",
+      "id": "ao1uhv",
+      "entities": [],
+      "summary": " India's retail inflation climbed to 3.4 percent in March. Higher food and fuel costs are driving this increase. Experts predict inflation could reach 4 percent in April.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:57:06.057Z"
+    },
+    {
+      "title": "West Bengal Election: Supreme Court Denies Relief To SIR Voters, Manoj Tiwari Campaigns In Belgachia",
+      "url": "https://www.youtube.com/watch?v=g0kEfTNGKQ8",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T18:50:07.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.34979007134663864,
+      "crawledAt": "2026-04-13T20:52:08.311Z",
+      "id": "h553x",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9951157569885254,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.992694616317749,
+          "index": 2,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9972179532051086,
+          "index": 5,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958599805831909,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.994631826877594,
+          "index": 7,
+          "word": "Den",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9328041672706604,
+          "index": 8,
+          "word": "##ies",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9048627018928528,
+          "index": 11,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9057866930961609,
+          "index": 16,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9691200852394104,
+          "index": 19,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9919092059135437,
+          "index": 25,
+          "word": "Bel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9530335664749146,
+          "index": 26,
+          "word": "##ga",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9888657927513123,
+          "index": 27,
+          "word": "##chia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:57:06.368Z"
+    },
+    {
+      "title": "Meta To Surpass Google In Global Digital Ad Revenue For First Time: Report",
+      "url": "https://www.ndtv.com/world-news/meta-to-surpass-google-in-global-digital-ad-revenue-for-first-time-report-11353134#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T18:06:34.000Z",
+      "metaDescription": "The Instagram-owner's global net ad revenues are expected to reach $243.46 billion in 2026, ahead of Google's projected $239.54 billion, the market research firm said.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.25950705701342314,
+      "crawledAt": "2026-04-13T20:51:59.130Z",
+      "id": "48hyui",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9737873673439026,
+          "index": 1,
+          "word": "Met",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9277439117431641,
+          "index": 9,
+          "word": "Digital",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Instagram-owner's global net ad revenues are expected to reach $243.46 billion in 2026. Google's projected $239.54 billion is $239 billion.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:58:51.953Z"
+    },
+    {
+      "title": "'He's Wrong, Very Weak On Crime': Trump Refuses To Apologise To Pope Leo",
+      "url": "https://www.ndtv.com/world-news/us-iran-war-hes-wrong-very-weak-on-crime-trump-refuses-to-apologise-to-pope-leo-11353133#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T18:04:56.000Z",
+      "metaDescription": "\"There's nothing to apologise for. He's wrong,\" Trump told reporters, a day after a social media post and comments slamming the US-born pope.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3047741136944533,
+      "crawledAt": "2026-04-13T20:51:59.371Z",
+      "id": "wz54ad",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9983615875244141,
+          "index": 14,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.967295229434967,
+          "index": 24,
+          "word": "Pope",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9499642252922058,
+          "index": 25,
+          "word": "Leo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"There's nothing to apologise for. He's wrong,\" Trump tells reporters. A day after a social media post and comments slammed the US-born pope.",
+      "language": "en",
+      "processed_at": "2026-04-13T20:59:19.565Z"
+    },
+    {
+      "title": "F-35B Lightning II Jets, MV-22 Ospreys, 15 Warships: Trump's Hormuz Arsenal",
+      "url": "https://www.ndtv.com/world-news/iran-us-war-donald-trump-strait-of-hormuz-f-35b-lightning-ii-jets-mv-22-ospreys-15-warships-trumps-hormuz-arsenal-11352956#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T17:36:20.000Z",
+      "metaDescription": "US President Donald Trump warned on Monday that any Iranian fast-attack ships approaching the blockade would be destroyed.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2536672019693074,
+      "crawledAt": "2026-04-13T20:51:59.825Z",
+      "id": "fk4zkv",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9978606104850769,
+          "index": 1,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9269660115242004,
+          "index": 2,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9976277947425842,
+          "index": 3,
+          "word": "35",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9982554912567139,
+          "index": 6,
+          "word": "II",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9211281538009644,
+          "index": 7,
+          "word": "Jets",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9966288805007935,
+          "index": 9,
+          "word": "MV",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9743488430976868,
+          "index": 10,
+          "word": "-",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9944291710853577,
+          "index": 11,
+          "word": "22",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8749586343765259,
+          "index": 13,
+          "word": "##sp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9793859124183655,
+          "index": 14,
+          "word": "##rey",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9103596806526184,
+          "index": 15,
+          "word": "##s",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9745892286300659,
+          "index": 18,
+          "word": "Wars",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9571017622947693,
+          "index": 19,
+          "word": "##hips",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US President Donald Trump warned on Monday that any Iranian fast-attack ships approaching the blockade would be destroyed. The US President warned that any vessels approaching the Iranian blockade would have to be destroyed.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:00:12.721Z"
+    },
+    {
+      "title": "Stray dog attack : पिसाळलेल्या कुत्र्याचा कहर : चिमुकलीचा दुर्दैवी मृत्यू, ग्रामस्थ आक्रमक",
+      "url": "https://pudhari.news/maharashtra/vidarbha/chandrapur/chandrapur-news-stray-dog-attack-child-death-villagers-protest-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T17:06:45.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2693909612400161,
+      "crawledAt": "2026-04-13T20:50:29.408Z",
+      "id": "2buct1",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:00:47.269Z"
+    },
+    {
+      "title": "Teachers threaten statewide agitation over salary delay in Maharashtra schools",
+      "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-schools-salary-delay-teachers-agitation-10634724/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T17:06:39.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2569643866687886,
+      "crawledAt": "2026-04-13T20:51:00.747Z",
+      "id": "wuf4jp",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9970751404762268,
+          "index": 9,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:00:47.407Z"
+    },
+    {
+      "title": "Chandrapur Fire News : वरोरा हादरले! रवी कमल जिनिंगला भीषण आग; १० कोटींचे पांढरे सोने खाक",
+      "url": "https://pudhari.news/maharashtra/vidarbha/chandrapur/chandrapur-warora-ravi-kamal-ginning-fire-100-million-cotton-loss-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-13T17:02:07.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2935920002835156,
+      "crawledAt": "2026-04-13T20:50:29.562Z",
+      "id": "78r8t",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988792538642883,
+          "index": 1,
+          "word": "Chandra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986481666564941,
+          "index": 2,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983994364738464,
+          "index": 3,
+          "word": "Fire",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965695142745972,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:00:47.812Z"
+    },
+    {
+      "title": "MAGA-friendly Bishop Barron says Trump owes pope an apology: 'No president in my lifetime...'",
+      "url": "https://timesofindia.indiatimes.com/world/us/maga-friendly-bishop-barron-says-trump-owes-pope-an-apology-no-president-in-my-lifetime-/articleshow/130242425.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T16:55:14.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.4403298292306629,
+      "crawledAt": "2026-04-13T20:51:53.199Z",
+      "id": "kf2a2l",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8436501026153564,
+          "index": 1,
+          "word": "MA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994803071022034,
+          "index": 6,
+          "word": "Barron",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993922710418701,
+          "index": 8,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:00:48.543Z"
+    },
     {
       "title": "Workers’ protest over wage hike leads to unrest, violent face-off in Noida",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-workers-protest-violent-updates-delhi-border-april-13-2026/article70856363.ece",
@@ -508,6 +1745,58 @@
       "processed_at": "2026-04-13T17:02:54.234Z"
     },
     {
+      "title": "Decoding Tamil Nadu Elections: The Numbers Game With Rahul Kanwal",
+      "url": "https://www.ndtv.com/tamil-nadu-news/decoding-tamil-nadu-assembly-election-2026-the-numbers-game-with-rahul-kanwal-11352659#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T16:23:31.000Z",
+      "metaDescription": "Traditionally, Tamil Nadu has shown strong swings in change of power every five years. Would MK Stalin's DMK be able to hold on to power, or Vijay's TVK reshape the contest entirely?",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3246401924841541,
+      "crawledAt": "2026-04-13T20:52:00.734Z",
+      "id": "3zswzh",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9379965662956238,
+          "index": 10,
+          "word": "Game",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992982149124146,
+          "index": 12,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9923762083053589,
+          "index": 13,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997042417526245,
+          "index": 14,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tamil Nadu has shown strong swings in change of power every five years. Would MK Stalin's DMK be able to hold on to power?",
+      "language": "en",
+      "processed_at": "2026-04-13T21:01:18.996Z"
+    },
+    {
       "title": "Green discounts on property tax for eco-friendly buildings: PCMC",
       "url": "https://indianexpress.com/article/cities/pune/green-discounts-on-property-tax-for-eco-friendly-buildings-pcmc-10634596/",
       "source": "Indian Express — Pune",
@@ -728,6 +2017,66 @@
       "processed_at": "2026-04-13T17:04:24.950Z"
     },
     {
+      "title": "Trump's Iran Blockade Sees \"Elimination\" Warning, \"Pure Propaganda\" Retort",
+      "url": "https://www.ndtv.com/world-news/iran-us-war-donald-trump-strait-of-hormuz-trumps-warning-after-hormuz-blockade-irans-pure-propaganda-retort-11352589#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T16:14:10.000Z",
+      "metaDescription": "In a social media post on Monday, Trump claimed that Iran's navy had already been largely destroyed in the fighting, with 158 ships sunk.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.52345866974113,
+      "crawledAt": "2026-04-13T20:52:00.928Z",
+      "id": "ywdff2",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9982357025146484,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9525410532951355,
+          "index": 4,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9724888801574707,
+          "index": 5,
+          "word": "Block",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9751481413841248,
+          "index": 6,
+          "word": "##ade",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8692151308059692,
+          "index": 17,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Trump claimed that Iran's navy had already been destroyed by the fighting. He said that 158 ships were sunk in the fight.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:01:49.903Z"
+    },
+    {
       "title": "From MSME Knowledge to Market Awareness: Expanding My Learning as an SEO Analyst",
       "url": "https://medium.com/@dalip_seo_content_msme_gsce/from-msme-knowledge-to-market-awareness-expanding-my-learning-as-an-seo-analyst-1c1cc0fff52e?source=rss------msme-5",
       "source": "Medium — tag MSME",
@@ -762,6 +2111,58 @@
       "summary": " When I started my journey as an SEO analyst, my focus was to understand search behavior, build content, and drive organic growth. When I was an SEO Analyst, my goal was to understanding search behavior and build content.",
       "language": "en",
       "processed_at": "2026-04-13T17:04:51.490Z"
+    },
+    {
+      "title": "CoreWeave shares jump 12% on deal with Anthropic; stock surges 40% in unbeaten five-session rally",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-shares-jump-12-on-deal-with-anthropic-stock-surges-40-in-unbeaten-five-session-rally/articleshow/130241485.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T16:00:44.000Z",
+      "metaDescription": "CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models, extending a five-session rally. The agreement boosts its position in AI infrastructure as demand for large-sca",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26797738453658404,
+      "crawledAt": "2026-04-13T20:50:48.896Z",
+      "id": "2lbmlt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998668372631073,
+          "index": 1,
+          "word": "Core",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991097450256348,
+          "index": 2,
+          "word": "##W",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977828860282898,
+          "index": 3,
+          "word": "##ea",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9981828331947327,
+          "index": 4,
+          "word": "##ve",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The agreement boosts its position in AI infrastructure as demand for large-sca. CoreWeave shares surged after a multi-year deal with Anthropic to power Claude AI models.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:01:59.348Z"
     },
     {
       "title": "Khanapur Crime : बहिणीला अपशब्द वापरल्याचा राग अनावर; मजुराची चाकू खुपसून हत्या",
@@ -1168,6 +2569,58 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-13T17:07:54.372Z"
+    },
+    {
+      "title": "Goldman Sachs shares fall 5% despite 19% YoY earnings growth amid Wall Street gloom",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-shares-fall-5-despite-19-yoy-earnings-growth-amid-wall-street-gloom/articleshow/130240531.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-13T15:06:44.000Z",
+      "metaDescription": "Goldman Sachs shares dropped nearly 5% despite strong Q1 results, as geopolitical tensions and market volatility weighed on sentiment. Revenue, profit, and trading performance improved year-on-year, b",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.3135947826551955,
+      "crawledAt": "2026-04-13T20:50:48.115Z",
+      "id": "fqomzy",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987998604774475,
+          "index": 1,
+          "word": "Goldman",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986968040466309,
+          "index": 2,
+          "word": "Sachs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987376928329468,
+          "index": 15,
+          "word": "Wall",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9991542100906372,
+          "index": 16,
+          "word": "Street",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Goldman Sachs shares dropped nearly 5% despite strong Q1 results. Revenue, profit, and trading performance improved year-on-year.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:02:22.199Z"
     },
     {
       "title": "FTAs to aid India’s export growth despite global turmoil: Piyush Goyal",
@@ -2179,6 +3632,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-13T17:13:25.200Z"
+    },
+    {
+      "title": "US begins blockade on Iranian ports: What it means, its implications",
+      "url": "https://indianexpress.com/article/explained/us-iran-blockade-impact-trade-law-hormuz-10634387/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-13T13:19:52.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.31786091650606785,
+      "crawledAt": "2026-04-13T20:51:45.581Z",
+      "id": "yv3d9z",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9961162805557251,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9997588396072388,
+          "index": 5,
+          "word": "Iranian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-13T21:02:36.094Z"
     },
     {
       "title": "Man missing after jumping in nullah to escape cow vigilantes, angry locals block J-K highway",
@@ -9539,21 +11028,21 @@
       "processed_at": "2026-04-13T10:12:58.831Z"
     }
   ],
-  "processedAt": "2026-04-13T17:14:40.352Z",
+  "processedAt": "2026-04-13T21:02:50.758Z",
   "categories": [
-    "jobs-recruitment",
-    "maharashtra-state-local",
-    "education-skills",
-    "msme-industry-trade",
-    "legal-judiciary",
     "civic-public-service",
+    "msme-industry-trade",
+    "government-schemes",
+    "maharashtra-state-local",
+    "jobs-recruitment",
+    "legal-judiciary",
+    "education-skills",
     "banking-credit",
     "policy-regulation",
-    "government-schemes",
     "tax-compliance-gst"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 51,
-  "dailyArticlesCount": 219,
+  "newArticlesProcessed": 27,
+  "dailyArticlesCount": 246,
   "filterDate": "2026-04-13"
 }
