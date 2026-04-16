@@ -1,9 +1,1283 @@
 {
-  "crawledAt": "2026-04-16T17:12:31.479Z",
+  "crawledAt": "2026-04-16T20:46:13.169Z",
   "totalSources": 75,
-  "totalArticles": 271,
+  "totalArticles": 305,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Citizens demand all-day park access amid rising heat in city",
+      "url": "https://www.thehindu.com/news/cities/bangalore/citizens-demand-all-day-park-access-amid-rising-heat-in-city/article70869899.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T20:20:10.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9361441785599047,
+      "crawledAt": "2026-04-16T20:45:20.657Z",
+      "id": "3oewm2",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:46:28.589Z"
+    },
+    {
+      "title": "Karnataka Folklore University under scanner for offering PG courses unrelated to its specialisation",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-folklore-university-under-scanner-for-offering-pg-courses-unrelated-to-its-specialisation/article70869808.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T20:19:02.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.61664499518002,
+      "crawledAt": "2026-04-16T20:45:21.017Z",
+      "id": "f6ipq1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991947412490845,
+          "index": 1,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988974928855896,
+          "index": 2,
+          "word": "Folk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991016387939453,
+          "index": 3,
+          "word": "##lore",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982974529266357,
+          "index": 4,
+          "word": "University",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:46:29.196Z"
+    },
+    {
+      "title": "Delimitation Bill Linked To Women’s Quota, PM's 50% Seat Promise | Vijay’s Big Tvk Freebies",
+      "url": "https://www.youtube.com/watch?v=5OHKI1Jx-DY",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T20:00:06.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2783225852937879,
+      "crawledAt": "2026-04-16T20:45:47.307Z",
+      "id": "nxhr3",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9933873414993286,
+          "index": 24,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:47:05.336Z"
+    },
+    {
+      "title": "Cases against DMK, AIADMK candidates in Madras High Court over alleged distribution of ₹8,000 coupons and ₹10,000 tokens",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-polls-2026-cases-filed-against-dmk-aiadmk-candidates-for-alleged-distribution-of-rs-8000-coupons-and-rs-10000-tokens/article70868001.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:58:16.000Z",
+      "metaDescription": "Madras High Court Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan agree to hear both the cases on Friday",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.46692893271883873,
+      "crawledAt": "2026-04-16T20:45:21.767Z",
+      "id": "5z9mkg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990619421005249,
+          "index": 4,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9869410395622253,
+          "index": 5,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973983764648438,
+          "index": 6,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.998924195766449,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9906468391418457,
+          "index": 9,
+          "word": "##AD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9984206557273865,
+          "index": 10,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997383713722229,
+          "index": 11,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Madras High Court Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan agree to hear both cases on Friday.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:47:17.140Z"
+    },
+    {
+      "title": "Caste, Logistics, Digital Tools: How India Will Count 1.4 Billion People",
+      "url": "https://www.ndtv.com/india-news/caste-logistics-digital-tools-how-india-will-count-1-4-billion-people-11368854#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:57:51.000Z",
+      "metaDescription": "More than 3 million officials, mostly school teachers, will physically visit every house, knock on every door and count every single person living in the country, across its 36 states and federal terr",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.25503543170306264,
+      "crawledAt": "2026-04-16T20:45:36.513Z",
+      "id": "gdf3ll",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9981182217597961,
+          "index": 11,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " More than 3 million officials, mostly school teachers, will physically visit every house, knock on every door and count every single person living in the country.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:47:32.113Z"
+    },
+    {
+      "title": "Tamil Nadu election 2026: Cleanliness, safety, housing top agenda of many women candidates in Chennai",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cleanliness-safety-housing-top-agenda-of-many-women-candidates-contesting-in-chennai/article70865785.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:52:34.000Z",
+      "metaDescription": "NTK’s Ayesha says traffic congestion has to be addressed immediately in Triplicane; AIADMK’s Gokula Indira seeks increased patrol for women’s safety and designated spaces for food carts",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.28751459661977324,
+      "crawledAt": "2026-04-16T20:45:22.461Z",
+      "id": "6fj841",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995985627174377,
+          "index": 1,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9990814328193665,
+          "index": 2,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995108246803284,
+          "index": 20,
+          "word": "Chennai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " NTK’s Ayesha says traffic congestion has to be addressed immediately in Triplicane. AIADMK’'s Gokula Indira seeks increased patrol for women's safety and designated spaces for food carts.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:48:28.924Z"
+    },
+    {
+      "title": "Allahabad HC declines to quash FIR against schoolgirls booked under U.P.’s anti-conversion Act",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hcdeclines-to-quash-fir-against-schoolgirls-booked-underups-anti-conversion-act/article70870657.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:50:22.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.279029959431832,
+      "crawledAt": "2026-04-16T20:45:22.587Z",
+      "id": "xwztgk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9797188639640808,
+          "index": 1,
+          "word": "Allah",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8479115962982178,
+          "index": 2,
+          "word": "##abad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9695103168487549,
+          "index": 18,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8605817556381226,
+          "index": 19,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989511251449585,
+          "index": 20,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8083629012107849,
+          "index": 27,
+          "word": "Act",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:48:29.249Z"
+    },
+    {
+      "title": "Crime News : खुनातील सराईत आरोपी व त्याचा साथीदार गजाआड",
+      "url": "https://deshdoot.com/murder-case-accused-arrested-shevgaon/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:49:42.000Z",
+      "metaDescription": "शेवगाव |तालुका प्रतिनिधी| Shevgaon सालवडगाव येथील खुनाच्या गंभीर गुन्ह्यातील फरार असलेले मुख्य आरोपी रामा गाडे व त्याचा साथीदार असलेल्या विधीसंघर्षित बालकाला शेवगाव पोलिसांनी अवघ्या पाच दिवसांत अटक कर",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2721644852010695,
+      "crawledAt": "2026-04-16T20:44:46.621Z",
+      "id": "gubror",
+      "entities": [],
+      "summary": " Shevgaon. ShevGAon. The city of Shevggaon is located in the city of    Shevgaons in the city of the city of Shevaon.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:48:48.630Z"
+    },
+    {
+      "title": "In manifestos, political parties in Tamil Nadu firm on moving education back to State list, retaining two-language formula",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/political-parties-firm-on-moving-education-back-to-state-list-retaining-two-language-formula/article70861910.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:49:31.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.31634177307004036,
+      "crawledAt": "2026-04-16T20:45:22.710Z",
+      "id": "6abrhq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999599814414978,
+          "index": 8,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9992863535881042,
+          "index": 9,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:48:48.821Z"
+    },
+    {
+      "title": "AI impact: Wipro's campus hiring gradually comes down in 4 years",
+      "url": "https://www.deccanherald.com/business/companies/ai-impact-wipros-campus-hiring-gradually-comes-down-in-4-years-3970729",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T19:47:56.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.9333639201466583,
+      "crawledAt": "2026-04-16T20:46:06.006Z",
+      "id": "kpk4j0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8470860123634338,
+          "index": 4,
+          "word": "W",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8898904919624329,
+          "index": 6,
+          "word": "##ro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:48:49.012Z"
+    },
+    {
+      "title": "Labour-intensive sectors see steep fall in exports in March",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/labour-intensive-sectors-see-steep-fall-in-exports-in-march/articleshow/130317440.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T19:46:59.000Z",
+      "metaDescription": "The fiscal year 2026 brought a mixed bag for India's exports. On one hand, engineering goods, electronics, and pharmaceuticals excelled, driving growth. On the flip side, textiles and gems were hamper",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.5347250779394994,
+      "crawledAt": "2026-04-16T20:44:25.199Z",
+      "id": "m78mah",
+      "entities": [],
+      "summary": " The fiscal year 2026 brought a mixed bag for India's exports. Engineering goods, electronics, and pharmaceuticals excelled.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:49:00.047Z"
+    },
+    {
+      "title": "Kangana Ranaut In Parliament | 'No Bigger Feminist Than PM Modi’: Kangana Ranaut In Parliament",
+      "url": "https://www.youtube.com/watch?v=DxKMIIxpn64",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:45:06.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.27047868171028505,
+      "crawledAt": "2026-04-16T20:45:47.537Z",
+      "id": "4hokpp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.998481273651123,
+          "index": 1,
+          "word": "Kang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9411774277687073,
+          "index": 2,
+          "word": "##ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9955064058303833,
+          "index": 3,
+          "word": "Rana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.865639328956604,
+          "index": 4,
+          "word": "##ut",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9979454278945923,
+          "index": 17,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991285800933838,
+          "index": 21,
+          "word": "Kang",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8591052889823914,
+          "index": 22,
+          "word": "##ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.997651994228363,
+          "index": 23,
+          "word": "Rana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9050137400627136,
+          "index": 24,
+          "word": "##ut",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:49:11.970Z"
+    },
+    {
+      "title": "8th Pay Commission: Government staff seek Rs 69,000 minimum pay, DA merger proposal",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/8th-pay-commission-government-staff-seek-rs-69000-minimum-pay-da-merger-proposal/articleshow/130317352.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T19:38:18.000Z",
+      "metaDescription": "Government employees are pushing for major changes in pay and pensions with the Eighth Central Pay Commission. They want a higher basic salary and better benefits. Proposals include a new fitment fact",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.7712099188274879,
+      "crawledAt": "2026-04-16T20:44:25.625Z",
+      "id": "unbkzw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9846619367599487,
+          "index": 1,
+          "word": "8th",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9951830506324768,
+          "index": 2,
+          "word": "Pay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960867762565613,
+          "index": 3,
+          "word": "Commission",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9941202402114868,
+          "index": 15,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.945069432258606,
+          "index": 16,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Government employees are pushing for major changes in pay and pensions. They want a higher basic salary and better benefits. Proposals include a new fitment fact fact fact.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:49:55.544Z"
+    },
+    {
+      "title": "Textiles Ministry plans duty cuts to shield industry amid West Asia crisis",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/textiles-ministry-plans-duty-cuts-to-shield-industry-amid-west-asia-crisis/articleshow/130317315.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T19:32:48.000Z",
+      "metaDescription": "In a bid to navigate the turbulent waters of global shipping issues, India's textiles ministry is advocating for lower duties on rayon pulp and certain cotton varieties. Furthermore, there's potential",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2924698881366903,
+      "crawledAt": "2026-04-16T20:44:25.829Z",
+      "id": "dbsuhm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9088026881217957,
+          "index": 1,
+          "word": "Text",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9221324324607849,
+          "index": 11,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9856494665145874,
+          "index": 12,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India's textiles ministry is advocating for lower duties on rayon pulp and certain cotton varieties. There's potential potential to lower duties.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:50:04.731Z"
+    },
+    {
+      "title": "Nashik TCS Case: Accused Raza Memon & Shafi Sheikh Produced In Court",
+      "url": "https://www.youtube.com/watch?v=yYLp45oewNA",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T19:30:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.40990360750353366,
+      "crawledAt": "2026-04-16T20:45:47.887Z",
+      "id": "rf0xc0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9961840510368347,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8499332070350647,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8812488913536072,
+          "index": 3,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991034269332886,
+          "index": 10,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9976048469543457,
+          "index": 11,
+          "word": "##za",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994900226593018,
+          "index": 12,
+          "word": "Me",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9701674580574036,
+          "index": 13,
+          "word": "##mon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993759989738464,
+          "index": 15,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9932763576507568,
+          "index": 16,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9939417839050293,
+          "index": 17,
+          "word": "##fi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9926364421844482,
+          "index": 18,
+          "word": "Sheikh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:50:04.860Z"
+    },
+    {
+      "title": "Youth murder case | चोकाक येथे दगडाने ठेचून अतिग्रेतील तरुणाचा खून",
+      "url": "https://pudhari.news/maharashtra/kolhapur/chokak-atigre-youth-brutally-murdered-by-stone-attack-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-16T18:59:46.000Z",
+      "metaDescription": "Youth murder case | चोकाक येथे दगडाने ठेचून अतिग्रेतील तरुणाचा खून",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.29890446054062914,
+      "crawledAt": "2026-04-16T20:44:02.274Z",
+      "id": "5655ba",
+      "entities": [],
+      "summary": "C. Youth murder case is a murder case in a case that has been dubbed a murder trial in the past two years.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:50:50.356Z"
+    },
+    {
+      "title": "\"World Being Ravaged By Tyrants\": Pope In Cameroon Amid Spat With Trump",
+      "url": "https://www.ndtv.com/world-news/iran-war-pope-leo-in-cameroon-amid-spat-with-donald-trump-11368731#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T18:53:26.000Z",
+      "metaDescription": "Pope Leo XIV on Thursday criticised the \"tyrants\" ransacking the world, on a high-security visit to a \"bloodstained\" region of Cameroon following a war of words with US President Donald Trump.",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.339359979206126,
+      "crawledAt": "2026-04-16T20:45:41.245Z",
+      "id": "xfazyy",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9029926657676697,
+          "index": 12,
+          "word": "Pope",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995161890983582,
+          "index": 14,
+          "word": "Cameroon",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Pope Leo XIV criticised the \"tyrants\" on a high-security visit to a \"bloodstained\" region of Cameroon.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:51:10.690Z"
+    },
+    {
+      "title": "Global War, Local Collapse: Madhya Pradesh's Soy Economy Takes Direct Hit",
+      "url": "https://www.ndtv.com/india-news/global-war-local-collapse-madhya-pradeshs-soy-economy-takes-direct-hit-11368641#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T18:46:20.000Z",
+      "metaDescription": "The ongoing conflict in West Asia has disrupted critical shipping routes, triggering a chain reaction that is now crippling India's soybean meal exports.",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.3162489395545536,
+      "crawledAt": "2026-04-16T20:45:37.543Z",
+      "id": "x6c0yz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9979323148727417,
+          "index": 9,
+          "word": "Madhya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9987906813621521,
+          "index": 10,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The conflict in West Asia has disrupted India's soybean exports. The conflict is now crippling India's exports of soybeans.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:51:43.941Z"
+    },
+    {
+      "title": "'Absolutely bizarre': Congress on govt notifying Nari Shakti Vandan Adhiniyam",
+      "url": "https://www.deccanherald.com/india/absolutely-bizarre-congress-on-govt-notifying-nari-shakti-vandan-adhiniyam-3970672",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T18:34:22.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.6007157302231534,
+      "crawledAt": "2026-04-16T20:46:06.226Z",
+      "id": "id8rq",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991292953491211,
+          "index": 6,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9980762004852295,
+          "index": 13,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.812923014163971,
+          "index": 14,
+          "word": "##ri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9677130579948425,
+          "index": 17,
+          "word": "Van",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8935859203338623,
+          "index": 18,
+          "word": "##dan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9905776381492615,
+          "index": 19,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:52:25.737Z"
+    },
+    {
+      "title": "Quote of the day by Barack Obama: “Our problems are man-made, therefore they can be solved by man, and man can be as big as we want.”",
+      "url": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-barack-obama-our-problems-are-man-made-therefore-they-can-be-solved-by-man-and-man-can-be-as-big-as-we-want-/articleshow/130315159.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T18:01:53.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2703216158194862,
+      "crawledAt": "2026-04-16T20:45:29.259Z",
+      "id": "62psie",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.998559296131134,
+          "index": 8,
+          "word": "Barack",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983962774276733,
+          "index": 9,
+          "word": "Obama",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:52:55.971Z"
+    },
+    {
+      "title": "Pension Schemes Bill: MPs back powers to steer private pensions; House of Lords to review next week",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-pension-schemes-bill-mps-back-governments-power-to-influence-investment-choices/articleshow/130314721.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T17:59:00.000Z",
+      "metaDescription": "In a bold shift, Parliament has empowered the Labour Party to steer private pension investments, a key development in the Pension Schemes Bill. This regulation introduces a framework for government-le",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.40157598947436857,
+      "crawledAt": "2026-04-16T20:45:29.715Z",
+      "id": "f0mu45",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987888932228088,
+          "index": 16,
+          "word": "House",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9985876083374023,
+          "index": 17,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976971745491028,
+          "index": 18,
+          "word": "Lords",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Parliament has empowered the Labour Party to steer private pension investments, a key development in the Pension Schemes Bill.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:53:06.082Z"
+    },
+    {
+      "title": "Jobs, Clean Governance: Suvendu Adhikari On What BJP Will Deliver In Bengal",
+      "url": "https://www.ndtv.com/india-news/2026-west-bengal-election-jobs-clean-governance-suvendu-adhikari-on-what-bjp-will-deliver-in-bengal-11368096#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T17:52:59.000Z",
+      "metaDescription": "Speaking on NDTV's Walk the Talk, recorded in the Bhowanipore constituency, BJP leader Suvendu Adhikari positioned himself as the face of the party's campaign against the Trinamool Congress and Chief ",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.33251623848720047,
+      "crawledAt": "2026-04-16T20:45:38.821Z",
+      "id": "kdcmek",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.997931182384491,
+          "index": 9,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8058193922042847,
+          "index": 10,
+          "word": "##ven",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9861608743667603,
+          "index": 11,
+          "word": "##du",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991291761398315,
+          "index": 12,
+          "word": "Ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9351533055305481,
+          "index": 13,
+          "word": "##hi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8847447037696838,
+          "index": 14,
+          "word": "##kari",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.995189905166626,
+          "index": 17,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9857622981071472,
+          "index": 18,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9978623390197754,
+          "index": 23,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Suvendu Adhikari is the face of the party's campaign against the Trinamool Congress and Chief Chief Chief. Adhkari was recorded in the Bhowanipore constituency.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:53:42.565Z"
+    },
+    {
+      "title": "Kick streamer Clavicular dodges Charleston White question on overdose stunt at club launch days after hospital incident",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-clavicular-dodges-charleston-white-question-on-overdose-stunt-at-club-launch-days-after-hospital-incident/articleshow/130313931.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T17:45:00.000Z",
+      "metaDescription": "Clavicular, also known as Braden Peters, refused to discuss his suspected overdose when asked by Charleston White at a club event. The question came days after a livestream incident where he was hospi",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.25561112572795747,
+      "crawledAt": "2026-04-16T20:45:29.098Z",
+      "id": "j711st",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9927310943603516,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The question came days after a livestream incident where he was hospi. Braden Peters refused to discuss his suspected overdose.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:53:51.449Z"
+    },
+    {
+      "title": "Sukanya Samriddhi, provident fund, bank deposits, mutual funds: Compare investments for your child's future",
+      "url": "https://www.livemint.com/money/personal-finance/sukanya-samriddhi-scheme-public-provident-fund-ppf-bank-deposit-fd-rd-mutual-funds-your-child-future-compare-investments-11776352274556.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T17:32:45.000Z",
+      "metaDescription": "Investing in children's future is crucial for parents, with options like Sukanya Samriddhi Yojana, NPS Vatsalya Yojana, and PPF accounts. These plans help build savings for education and healthcare, o",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5555116938573217,
+      "crawledAt": "2026-04-16T20:44:29.315Z",
+      "id": "nd8ppl",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9969738721847534,
+          "index": 1,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9800928235054016,
+          "index": 4,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9097528457641602,
+          "index": 5,
+          "word": "##rid",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Investing in children's future is crucial for parents, with options like Sukanya Samriddhi Yojana, NPS Vatsalya Yojan, and PPF accounts.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:54:19.313Z"
+    },
+    {
+      "title": "Samsung Galaxy Buds4 Pro review: Stylish TWS earphones with exceptionally good ANC capabilities",
+      "url": "https://www.deccanherald.com/technology/samsung-galaxy-buds4-pro-review-stylish-tws-earphones-with-exceptionally-good-anc-capabilities-3970437",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T17:23:11.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.374181847854636,
+      "crawledAt": "2026-04-16T20:46:06.576Z",
+      "id": "nmf4e7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9057159423828125,
+          "index": 1,
+          "word": "Samsung",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8430373668670654,
+          "index": 2,
+          "word": "Galaxy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8761405944824219,
+          "index": 6,
+          "word": "Pro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:54:28.281Z"
+    },
+    {
+      "title": "Some people cannot poop away from home, experts call it 'shy bowel syndrome'",
+      "url": "https://www.deccanherald.com/health/some-people-cannot-poop-away-from-home-experts-call-it-shy-bowel-syndrome-3970353",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T17:22:33.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26247619225825847,
+      "crawledAt": "2026-04-16T20:46:06.688Z",
+      "id": "rkr2yg",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:54:28.457Z"
+    },
+    {
+      "title": "Setback for Ranya Rao in gold smuggling case as Supreme Court upholds preventive detention",
+      "url": "https://www.deccanherald.com/india/delhi/setback-for-ranya-rao-in-gold-smuggling-case-as-supreme-court-upholds-preventive-detention-3970602",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T17:21:04.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.47163935789953587,
+      "crawledAt": "2026-04-16T20:46:06.797Z",
+      "id": "6w44m",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999119222164154,
+          "index": 4,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9955292344093323,
+          "index": 5,
+          "word": "##nya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9925044178962708,
+          "index": 6,
+          "word": "Rao",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9972816109657288,
+          "index": 12,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9844735264778137,
+          "index": 13,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:54:40.852Z"
+    },
+    {
+      "title": "Weight Gain Causes : सावधान... जास्त न खाताही वाढू शकतं वजन!",
+      "url": "https://pudhari.news/ampstories/web-stories/weight-gain-without-overeating-causes-health-tips-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-16T17:08:20.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.2569921136298067,
+      "crawledAt": "2026-04-16T20:44:03.101Z",
+      "id": "9n5d5b",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:54:54.076Z"
+    },
     {
       "title": "Moringa Leaves Benefits : शेवग्याच्या शेंगाचा पाला आरोग्यासाठी आहे फायदेशीर",
       "url": "https://agrowon.esakal.com/ampstories/web-stories/moringa-leaves-benefits-superfood-drumstick-leaves-nutrition-aak11",
@@ -22,6 +1296,66 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-16T17:12:51.276Z"
+    },
+    {
+      "title": "Plea filed in Supreme Court against deceitful religious conversion following Nashik TCS case",
+      "url": "https://www.deccanherald.com/india/plea-filed-in-supreme-court-against-deceitful-religious-conversion-following-nashik-tcs-case-3970582",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T17:05:26.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.37272375856410755,
+      "crawledAt": "2026-04-16T20:46:07.000Z",
+      "id": "1r8uj7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987301230430603,
+          "index": 5,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975463151931763,
+          "index": 6,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9954875111579895,
+          "index": 15,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9529696702957153,
+          "index": 17,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9887141585350037,
+          "index": 18,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:55:02.513Z"
     },
     {
       "title": "Supreme Court asks Uttar Pradesh to consider plea flagging risk of liquor cartons in educational campuses",
@@ -76,6 +1410,25 @@
       "processed_at": "2026-04-16T17:13:13.680Z"
     },
     {
+      "title": "'Pressured Women To Join Them In Hotels': Big Claim In TCS 'Conversion' Case",
+      "url": "https://www.ndtv.com/india-news/tcs-nashik-conversion-case-wore-rudraksha-later-converted-to-islam-more-claims-in-tcs-nashik-case-11367805#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-16T17:01:59.000Z",
+      "metaDescription": "The claims describe a conversion syndicate and a sexual harassment network operating inside TCS, one of India's largest IT firms.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.38432405277649756,
+      "crawledAt": "2026-04-16T20:45:39.240Z",
+      "id": "jsrjrp",
+      "entities": [],
+      "summary": " The claims describe a conversion syndicate and a sexual harassment network operating inside TCS. TCS is one of India's largest IT firms.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:55:34.203Z"
+    },
+    {
       "title": "Israel Attacks Lebanon | Lebanon Onslaught: Peace Talks Amid Deadly Escalation",
       "url": "https://www.youtube.com/watch?v=YlQlTSP6GAE",
       "source": "YouTube — Marathi news (sample channel)",
@@ -118,6 +1471,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-16T17:13:13.968Z"
+    },
+    {
+      "title": "Amravati Video Case : अमरावती लैंगिक शोषण प्रकरणात 8 आरोपींना बेड्या, ‘त्या’ सदनिकेचा मालकही चौकशीच्या फेर्‍यात",
+      "url": "https://pudhari.news/maharashtra/vidarbha/amravati/amravati-video-case-8-accused-arrested-in-exploitation-flat-owner-under-investigation-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-16T16:57:03.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4137972853404097,
+      "crawledAt": "2026-04-16T20:44:03.416Z",
+      "id": "mwvotx",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8896626234054565,
+          "index": 1,
+          "word": "Am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8196873664855957,
+          "index": 2,
+          "word": "##ra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:55:47.657Z"
     },
     {
       "title": "Meghalaya approves Khasi, Garo as official state languages alongside English",
@@ -282,6 +1671,78 @@
       "summary": " Corporations are awaiting official notice and see the development as an opportunity to increase revenue generation. Citizens question how this will be different, as such violations are rampa.",
       "language": "en",
       "processed_at": "2026-04-16T17:14:17.428Z"
+    },
+    {
+      "title": "Pakistan mediation Iran US | अमेरिका युद्धविराम वाढवणार?",
+      "url": "https://pudhari.news/international/talks-on-extending-us-iran-ceasefire-after-april-22-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-16T16:43:36.000Z",
+      "metaDescription": "Pakistan mediation Iran US | अमेरिका युद्धविराम वाढवणार?",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3062597679663957,
+      "crawledAt": "2026-04-16T20:44:03.529Z",
+      "id": "tcl95z",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998366832733154,
+          "index": 1,
+          "word": "Pakistan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996566772460938,
+          "index": 4,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Pakistan mediation Iran US. Pakistan mediation Iran U.S. is a part of the U.N. Pakistan mediator Iran US.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:55:57.091Z"
+    },
+    {
+      "title": "Raigad Water Crisis : रायगड जिल्ह्यातील २८ धरणक्षेत्रात ३८.२३ टक्के पाणीसाठा",
+      "url": "https://pudhari.news/maharashtra/raigad/raigad-district-28-dams-water-storage-drops-to-38-percent-summer-update-dc95",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-16T16:42:14.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3646763783425889,
+      "crawledAt": "2026-04-16T20:44:03.646Z",
+      "id": "pqdqs0",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8538874983787537,
+          "index": 1,
+          "word": "Rai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8587347865104675,
+          "index": 4,
+          "word": "Water",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:55:57.257Z"
     },
     {
       "title": "No injustice to South States in delimitation process: PM",
@@ -3449,6 +4910,66 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-16T13:41:55.873Z"
+    },
+    {
+      "title": "Zerodha traders saved Rs 25,620 cr brokerage: Nithin Kamath shows math",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-traders-saved-rs-25620-crore-brokerage-nithin-kamath-shows-the-calculation/articleshow/130304748.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T10:56:46.000Z",
+      "metaDescription": "Zerodha traders saved Rs 25,620 crore in brokerage between 2016 and 2025 due to the firm’s zero-delivery brokerage model, founder Nithin Kamath said. He credited the bootstrapped structure for enablin",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.34208990484460233,
+      "crawledAt": "2026-04-16T20:44:21.815Z",
+      "id": "5odl62",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8077703714370728,
+          "index": 1,
+          "word": "Zero",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9988023042678833,
+          "index": 14,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9704295992851257,
+          "index": 15,
+          "word": "##thin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983803033828735,
+          "index": 16,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8328643441200256,
+          "index": 17,
+          "word": "##mat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Zerodha traders saved Rs 25,620 crore in brokerage between 2016 and 2025. Founder Nithin Kamath credited the bootstrapped structure for enablin.",
+      "language": "en",
+      "processed_at": "2026-04-16T20:56:18.667Z"
     },
     {
       "title": "Pune crime news | वृद्ध आई-वडिलांचा सांभाळ टाळणे पडले महागात; आदेश धुडकावणाऱ्या मुलावर पुण्यात गुन्हा दाखल",
@@ -10758,20 +12279,20 @@
       "processed_at": "2026-04-16T06:26:59.930Z"
     }
   ],
-  "processedAt": "2026-04-16T17:25:11.507Z",
+  "processedAt": "2026-04-16T20:56:30.338Z",
   "categories": [
-    "banking-credit",
-    "legal-judiciary",
-    "maharashtra-state-local",
-    "government-schemes",
-    "policy-regulation",
-    "education-skills",
     "jobs-recruitment",
+    "education-skills",
+    "legal-judiciary",
+    "civic-public-service",
     "msme-industry-trade",
-    "civic-public-service"
+    "government-schemes",
+    "banking-credit",
+    "maharashtra-state-local",
+    "policy-regulation"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 51,
-  "dailyArticlesCount": 271,
+  "newArticlesProcessed": 34,
+  "dailyArticlesCount": 305,
   "filterDate": "2026-04-16"
 }
