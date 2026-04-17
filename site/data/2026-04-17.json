@@ -1,9 +1,2645 @@
 {
-  "crawledAt": "2026-04-17T06:03:38.813Z",
+  "crawledAt": "2026-04-17T09:15:25.758Z",
   "totalSources": 75,
-  "totalArticles": 94,
+  "totalArticles": 168,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "India's first maritime-focused lender eyes $1 billion FY27 fundraise",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/indias-first-maritime-focused-lender-eyes-1-billion-fy27-fundraise/article70872893.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T09:10:05.000Z",
+      "metaDescription": "The company aims to disburse ₹8,000 crore to ₹9,000 crore ⁠in loans in the year ending March 2027 and has already sanctioned ₹3,700 crore ‌for two greenfield ports in Andhra Pradesh, taking the total ",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.31067227140152925,
+      "crawledAt": "2026-04-17T09:14:45.234Z",
+      "id": "pr7ew5",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997643232345581,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The company aims to disburse ₹8,000 crore to ⁠in loans in the year ending March 2027.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:15:42.395Z"
+    },
+    {
+      "title": "How Nagpur is Emerging as a Hub for Quality Higher Education",
+      "url": "https://www.deccanherald.com/connect/how-nagpur-is-emerging-as-a-hub-for-quality-higher-education-2-3971214",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T09:07:26.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.27385556375826414,
+      "crawledAt": "2026-04-17T09:15:22.550Z",
+      "id": "38ucq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.912753701210022,
+          "index": 2,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9400745630264282,
+          "index": 14,
+          "word": "Higher",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9187785387039185,
+          "index": 15,
+          "word": "Education",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:16:05.906Z"
+    },
+    {
+      "title": "Didn't know he moved away from writing and hosting, now serving Pune/PCMC with his startup",
+      "url": "https://www.reddit.com/r/pune/comments/1snvkmr/didnt_know_he_moved_away_from_writing_and_hosting/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T09:04:24.000Z",
+      "metaDescription": "We are talking about that someone who made many mistakes in his life ;)\n    submitted by    /u/sunscorpio19  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.27512571182678064,
+      "crawledAt": "2026-04-17T09:14:08.433Z",
+      "id": "mc6ert",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9851104021072388,
+          "index": 15,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9926647543907166,
+          "index": 17,
+          "word": "PC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.98127681016922,
+          "index": 18,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:16:17.828Z"
+    },
+    {
+      "title": "Opinion: Opinion | Can Donald Trump Face An 'Arrest Warrant' - Like Netanyahu And Putin?",
+      "url": "https://www.ndtv.com/opinion/can-donald-trump-face-an-arrest-warrant-like-putin-netanyahu-11370771#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T09:02:06.000Z",
+      "metaDescription": "No one in living memory imagined a moment when the world would seriously debate the possibility of an American president being dragged before a court. Can it happen?",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.40848815300728336,
+      "crawledAt": "2026-04-17T09:14:54.955Z",
+      "id": "z7zm3a",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.99882972240448,
+          "index": 10,
+          "word": "Donald",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.997409462928772,
+          "index": 11,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9976653456687927,
+          "index": 23,
+          "word": "Net",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8719769716262817,
+          "index": 24,
+          "word": "##any",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9286187291145325,
+          "index": 25,
+          "word": "##ahu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9963646531105042,
+          "index": 27,
+          "word": "Putin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " No one in living memory has ever imagined a moment when an American president could be dragged before a court. The world would be shocked if the president was dragged before the court.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:16:41.809Z"
+    },
+    {
+      "title": "Turf Plan",
+      "url": "https://www.reddit.com/r/pune/comments/1snvfjl/turf_plan/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:56:41.000Z",
+      "metaDescription": "Anyone interested to join cricket game tomorrow evening \n Area - Kothrud /Karvenagar Side\n Please dm\n    submitted by    /u/Old_Radish696  \n [link]   [comments]",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.40528475604154673,
+      "crawledAt": "2026-04-17T09:14:08.550Z",
+      "id": "xjdnyu",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:17:29.148Z"
+    },
+    {
+      "title": "Gerrymandering: Meaning, history, and usage in politics",
+      "url": "https://www.thehindu.com/news/international/gerrymandering-meaning-explained-parliament-delimitation-politics-definition-usage-america-political-definition/article70872921.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:54:35.000Z",
+      "metaDescription": "While the word was coined in the U.S., it has been frequently used across the globe, including France and the U.K.",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.28458581726946924,
+      "crawledAt": "2026-04-17T09:14:42.243Z",
+      "id": "crpr2v",
+      "entities": [],
+      "summary": " The word was coined in the U.S. It has been frequently used across the globe, including France and the U.-K.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:18:11.916Z"
+    },
+    {
+      "title": "Myanmar Reduces Ex-leader Aung San Suu Kyi's Sentence: Report",
+      "url": "https://www.ndtv.com/world-news/myanmar-reduces-ex-leader-aung-san-suu-kyis-sentence-report-11370738#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:51:36.000Z",
+      "metaDescription": "SuuKyi, 80, was serving a 27-year sentence for a litany of offences her allies said were politically motivated to keep her at bay.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2593899331592751,
+      "crawledAt": "2026-04-17T09:14:51.030Z",
+      "id": "q1t4ac",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997708797454834,
+          "index": 1,
+          "word": "Myanmar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994352459907532,
+          "index": 8,
+          "word": "Au",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8591951727867126,
+          "index": 9,
+          "word": "##ng",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9983381032943726,
+          "index": 10,
+          "word": "San",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9960354566574097,
+          "index": 11,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8797509074211121,
+          "index": 12,
+          "word": "##u",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.995676577091217,
+          "index": 13,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9713762998580933,
+          "index": 14,
+          "word": "##yi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " SuuKyi, 80, was serving a 27-year sentence for a litany of offences her allies said were politically motivated to keep her at bay.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:18:32.700Z"
+    },
+    {
+      "title": "Assam CM's wife passport row: Supreme Court refuses to protect Pawan Khera, declines plea to extend pre-arrest bail",
+      "url": "https://www.deccanherald.com/india/assam-cms-wife-passport-row-supreme-court-refuses-to-protect-pawan-khera-declines-plea-to-extend-pre-arrest-bail-3971126",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T08:48:31.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.27265192637079944,
+      "crawledAt": "2026-04-17T09:15:22.873Z",
+      "id": "y5a7ga",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9571326375007629,
+          "index": 1,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9666221141815186,
+          "index": 3,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985975027084351,
+          "index": 10,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989858865737915,
+          "index": 11,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9991073608398438,
+          "index": 15,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8088736534118652,
+          "index": 16,
+          "word": "##wan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9969735145568848,
+          "index": 17,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9699438214302063,
+          "index": 18,
+          "word": "##her",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:19:06.679Z"
+    },
+    {
+      "title": "TCS Nashik Scandal Widens: Foreign Links, Cover-Up Angle Under Probe",
+      "url": "https://www.youtube.com/watch?v=dSCczXyaMjU",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:45:06.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2809807320232288,
+      "crawledAt": "2026-04-17T09:15:04.356Z",
+      "id": "lx169m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9696113467216492,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9493252038955688,
+          "index": 2,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9740066528320312,
+          "index": 3,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9639409780502319,
+          "index": 4,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.812336802482605,
+          "index": 11,
+          "word": "Foreign",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:19:29.381Z"
+    },
+    {
+      "title": "Your Cibil score could update faster. Here's what changed",
+      "url": "https://www.livemint.com/money/personal-finance/credit-score-cibil-rbi-credit-reporting-norms-outstanding-loan-balance-emi-default-impact-11776336050304.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:44:25.000Z",
+      "metaDescription": "RBI has mandated lenders to report credit data weekly instead of fortnightly to ensure more accurate and ‘fresh’ credit scores. This shift enables faster loan approvals and quicker score recoveries fo",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2812042368879093,
+      "crawledAt": "2026-04-17T09:13:56.412Z",
+      "id": "nd4l1r",
+      "entities": [],
+      "summary": " RBI has mandated lenders to report credit data weekly instead of fortnightly to ensure more accurate and ‘fresh’ scores. This shift enables faster loan approvals and quicker score recoveries.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:19:42.286Z"
+    },
+    {
+      "title": "Telangana caste survey: 89,000 child labourers exist in state, mostly from SC and ST",
+      "url": "https://www.deccanherald.com/india/telangana/telangana-caste-survey-89000-child-labourers-exist-in-state-mostly-from-sc-st-3971137",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T08:40:07.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5235682871389942,
+      "crawledAt": "2026-04-17T09:15:23.385Z",
+      "id": "exks1f",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9911574125289917,
+          "index": 1,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8282520771026611,
+          "index": 19,
+          "word": "ST",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:20:03.411Z"
+    },
+    {
+      "title": "Suggest Good Garage for Servicing my Car in Kharadi",
+      "url": "https://www.reddit.com/r/pune/comments/1snv3k8/suggest_good_garage_for_servicing_my_car_in/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:36:36.000Z",
+      "metaDescription": "I own a 2019 Hyundai i20 and I’m currently looking for a reliable garage or service center to get it serviced. I’m exploring my options and want to make sure I don’t compromise on quality.\n I wanted t",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.39542900101133416,
+      "crawledAt": "2026-04-17T09:14:08.795Z",
+      "id": "fq05jk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9965745806694031,
+          "index": 15,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9885058999061584,
+          "index": 16,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I'm currently looking for a reliable garage or service center to get it serviced. I'm exploring my options and want to make sure I don't compromise on quality.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:20:47.937Z"
+    },
+    {
+      "title": "Debt-Ridden Bengal Needs BJP Government: D Fadnavis Targets Trinamool",
+      "url": "https://www.ndtv.com/india-news/bengal-assembly-election-2026-debt-ridden-bengal-needs-bjp-government-devendra-fadnavis-targets-trinamool-11370642#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:35:21.000Z",
+      "metaDescription": "Highlighting Bengal's past economic strength, he noted that the state once ranked among the top five economies in the country but has since lost its position.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.9775633037398037,
+      "crawledAt": "2026-04-17T09:14:55.608Z",
+      "id": "2fszu3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8167863488197327,
+          "index": 4,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9019126296043396,
+          "index": 7,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9978175163269043,
+          "index": 10,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9844381213188171,
+          "index": 11,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9965869188308716,
+          "index": 14,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9919843673706055,
+          "index": 15,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8564794659614563,
+          "index": 16,
+          "word": "##ad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8142145276069641,
+          "index": 21,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9896252751350403,
+          "index": 22,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8356662392616272,
+          "index": 23,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Highlighting Bengal's past economic strength, he says. State once ranked among the top five economies in the country.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:20:57.620Z"
+    },
+    {
+      "title": "Russia Is Building Army Of Teen Influencers To Creat Pro-War Content",
+      "url": "https://www.ndtv.com/world-news/russia-is-building-army-of-teen-influencers-to-creat-pro-war-content-11370661#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:34:24.000Z",
+      "metaDescription": "In a promotional video from the event, children were shown cheering a cadet racing against Golovin to see who could reload a sniper rifle the fastest.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.8365333956702724,
+      "crawledAt": "2026-04-17T09:14:51.516Z",
+      "id": "l0y6o0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995261430740356,
+          "index": 1,
+          "word": "Russia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Children were shown cheering a cadet racing against Golovin to see who could reload a sniper rifle the fastest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:21:07.772Z"
+    },
+    {
+      "title": "am i domed ? need honest advice am i doomed or not?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1snv20a/am_i_domed_need_honest_advice_am_i_doomed_or_not/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T08:34:02.000Z",
+      "metaDescription": "gap year person need advice\n Lost soul need help need advice need help need advice\n help..... feeling hopeless need advice. can you give me\n 3 year gap post 12th, is that ok or bad ? what to do\n perso",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.27096299983923855,
+      "crawledAt": "2026-04-17T09:15:19.163Z",
+      "id": "hv86tt",
+      "entities": [],
+      "summary": " gap year person need advice from the world. gap year. gap-year-old needs advice from a friend.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:21:15.811Z"
+    },
+    {
+      "title": "When oil refineries burn, here’s what happens to your lungs and heart",
+      "url": "https://www.thehindubusinessline.com/news/when-oil-refineries-burn-heres-what-happens-to-your-lungs-and-heart/article70872494.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:34:01.000Z",
+      "metaDescription": "Smoke from an oil refinery fire is made up of many different pollutants",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2744677618951747,
+      "crawledAt": "2026-04-17T09:14:57.319Z",
+      "id": "rv37gc",
+      "entities": [],
+      "summary": " Smoke from an oil refinery fire is made up of many different pollutants. Smoke from a refinery fire can be made up from many different different pollutants.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:21:25.318Z"
+    },
+    {
+      "title": "No work at Mogharpada metro depot despite legal clearances; farmers move Supreme Court",
+      "url": "https://indianexpress.com/article/cities/mumbai/work-mogharpada-metro-depot-legal-clearances-farmers-supreme-court-10641393/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:33:55.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5846489490318325,
+      "crawledAt": "2026-04-17T09:14:03.739Z",
+      "id": "dsjqvo",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9940655827522278,
+          "index": 4,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9384267926216125,
+          "index": 6,
+          "word": "##ar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9774605631828308,
+          "index": 7,
+          "word": "##pad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.985613226890564,
+          "index": 8,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9921194911003113,
+          "index": 18,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9855422973632812,
+          "index": 19,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:21:25.401Z"
+    },
+    {
+      "title": "\"Delimitation Will Be Political Demonetisation, Don't Do It\": Shashi Tharoor",
+      "url": "https://www.ndtv.com/india-news/womens-reservation-bill-shashi-tharoors-demonetisation-reminder-to-government-over-delimitation-11370194#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:26:06.000Z",
+      "metaDescription": "The Congress MP referenced the 2016 demonetisation move as a cautionary tale, urging the BJP-led government at the Centre to give the delimitation exercise a rethink.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3496174562127869,
+      "crawledAt": "2026-04-17T09:14:55.754Z",
+      "id": "oe1v6n",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994381666183472,
+          "index": 19,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.987320601940155,
+          "index": 20,
+          "word": "##hashi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.994195282459259,
+          "index": 21,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.825387716293335,
+          "index": 22,
+          "word": "##har",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Congress MP referenced the 2016 demonetisation move as a cautionary tale. He urged the BJP-led government at the Centre to give the exercise a rethink.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:21:50.291Z"
+    },
+    {
+      "title": "Maharashtra Sahitya Parishad: महाराष्ट्र साहित्य परिषदेच्या बैठकीत उपाध्यक्ष-विश्वस्त निवड पुढे ढकलली",
+      "url": "https://pudhari.news/maharashtra/pune/maharashtra-sahitya-parishad-executive-meeting-decision-postponed-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T08:21:25.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.4012111134408133,
+      "crawledAt": "2026-04-17T09:13:23.347Z",
+      "id": "1jpsu2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9949390888214111,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9979167580604553,
+          "index": 2,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9968101382255554,
+          "index": 3,
+          "word": "##hit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975932836532593,
+          "index": 4,
+          "word": "##ya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982590079307556,
+          "index": 5,
+          "word": "Parish",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9758439064025879,
+          "index": 6,
+          "word": "##ad",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:22:33.058Z"
+    },
+    {
+      "title": "Kurundwad news | खिद्रापूर हादरले! एकाच रात्रीत लाखो रुपयांची जनावरे लंपास",
+      "url": "https://www.tarunbharat.com/khidrapur-shaken-livestock-worth-lakhs-of-rupees-looted-in-a-single-night-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T08:11:20.000Z",
+      "metaDescription": "खिद्रापूर परिसरात बोकड-शेळी चोरीचा धुमाकूळ कुरुंदवाड : खिद्रापूर (ता. शिरोळ)व परिसरात बोकड-शेळी चोरीच्या घटनांनी डोके वर काढले असून अज्ञात चोरट्यांच्या टोळीने धुमाकूळ घातला आहे. गेल्या आठवड्यात ग्रामस",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.352833472466828,
+      "crawledAt": "2026-04-17T09:13:26.060Z",
+      "id": "jg33l3",
+      "entities": [],
+      "summary": " The World War II. The World Cup is being held in a special event at the World Cup in London.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:23:59.649Z"
+    },
+    {
+      "title": "Things To Do In Pune - Weekend Of 18th Apr, 19th Apr",
+      "url": "https://www.reddit.com/r/pune/comments/1snul10/things_to_do_in_pune_weekend_of_18th_apr_19th_apr/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:06:33.000Z",
+      "metaDescription": "Hello hello! This is a packed weekend - given that it's World Heritage Day on 18th and Akshaya Tritiya on 19th. \n *This is ONLY the weekly list. For additional events, Pune related trivia, giveaways a",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9251791732269389,
+      "crawledAt": "2026-04-17T09:14:08.945Z",
+      "id": "a9x9do",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9800034165382385,
+          "index": 5,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This is a packed weekend - given that it's World Heritage Day on 18th and Akshaya Tritiya on 19th.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:24:38.046Z"
+    },
+    {
+      "title": "TCS Latest Update | TCS 'Conversion' Accused Nida Khan Claims She's Pregnant, Wants Court Relief",
+      "url": "https://www.youtube.com/watch?v=HfOM1LBJdFU",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T08:05:03.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3089694984756644,
+      "crawledAt": "2026-04-17T09:15:04.526Z",
+      "id": "91y0nd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8962388634681702,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8323493599891663,
+          "index": 2,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9607445001602173,
+          "index": 8,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8085837960243225,
+          "index": 9,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9945012927055359,
+          "index": 17,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9497160315513611,
+          "index": 18,
+          "word": "##da",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9959506392478943,
+          "index": 19,
+          "word": "Khan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:24:38.189Z"
+    },
+    {
+      "title": "Kolhapur municipal | कोल्हापूर महापालिकेचा अतिक्रमणांवर हातोडा; महाद्वार आणि ताराबाई रोड परिसरात मोठी कारवाई",
+      "url": "https://www.tarunbharat.com/kolhapur-municipal-corporation-cracks-down-on-encroachments-major-action-in-mahadwar-and-tarabai-road-areas-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T08:01:37.000Z",
+      "metaDescription": "महाद्वार रोडवर पालिकेचा ‘अ‍ॅक्शन मोड’ कोल्हापूर -महापालिकेच्या विभागीय कार्यालय क्र. २ छत्रपती शिवाजी मार्केट आणि अतिक्रमण निर्मूलन पथकाकडून गुरुवारी तटाकडील तालीम चौक ते ताराबाई रोड तसेच महाद्वार परि",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.9621833344497543,
+      "crawledAt": "2026-04-17T09:13:26.271Z",
+      "id": "wcluu3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9923452734947205,
+          "index": 1,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9428772926330566,
+          "index": 3,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9391646981239319,
+          "index": 4,
+          "word": "##pur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "‘�’s’  ‘’ ‘�.’ ’’ –     ”  - “ ‍’S’ —  – �",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:18.531Z"
+    },
+    {
+      "title": "Is anyone here mbbs student or practicing doctor help needed",
+      "url": "https://www.reddit.com/r/pune/comments/1snuh9h/is_anyone_here_mbbs_student_or_practicing_doctor/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:00:43.000Z",
+      "metaDescription": "Hey guys i need some advice on the.medical.issue i dont its right to ask here for help but if here is anyone mbbs student or practicing doctor plz let me know if u can help me And I hope that the post",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.7107781685883334,
+      "crawledAt": "2026-04-17T09:14:09.089Z",
+      "id": "b6m552",
+      "entities": [],
+      "summary": " The medical issue is not the right to ask for help. Hey guys i need some advice on the medical issue.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:28.293Z"
+    },
+    {
+      "title": "Corporator Sahar Sheikh | 'कैसे हराया' फेम नगरसेवक सहर शेखचे वडील मुंब्रा पोलीस ठाण्यात हजर",
+      "url": "https://pudhari.news/maharashtra/thane/thane-corporator-sahar-sheikh-father-mumbra-police-station-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T08:00:27.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3151188044414034,
+      "crawledAt": "2026-04-17T09:13:24.195Z",
+      "id": "d61ykw",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9966790080070496,
+          "index": 4,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8643327951431274,
+          "index": 6,
+          "word": "Sheikh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:28.411Z"
+    },
+    {
+      "title": "Fertilizers Regulation: खतांसोबत लिंकिंग, साठेबाजी करणाऱ्यांवर कडक कारवाई",
+      "url": "https://agrowon.esakal.com/agro-special/fertilizer-hoarding-linking-action-maharashtra-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T08:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.2622140796656128,
+      "crawledAt": "2026-04-17T09:13:33.913Z",
+      "id": "g5r8af",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:28.574Z"
+    },
+    {
+      "title": "India's first maritime-focused lender eyes $1 bln FY27 fundraise",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-first-maritime-focused-lender-eyes-1-bln-fy27-fundraise/articleshow/130326673.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T07:59:25.000Z",
+      "metaDescription": "Sagarmala Finance Corp. will raise 100 billion rupees in FY27. This funding will support ports, shipbuilding, and waterways. The company will borrow through bonds, term loans, and foreign currency. Sa",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.820535294341305,
+      "crawledAt": "2026-04-17T09:13:58.812Z",
+      "id": "ouke8b",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997668266296387,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sagarmala Finance Corp. will raise 100 billion rupees in FY27. This funding will support ports, shipbuilding, and waterways. The company will borrow through bonds, term loans, and foreign currency.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:41.302Z"
+    },
+    {
+      "title": "Vijay Courts Fisherfolk With MSP Promise As Parties Eye Key Voting Bloc",
+      "url": "https://www.ndtv.com/india-news/tamil-nadu-assembly-polls-2026-vijay-courts-fisherfolk-with-msp-promise-as-parties-eye-key-voting-bloc-11370501#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:57:25.000Z",
+      "metaDescription": "TVK's manifesto goes beyond MSP, promising accident insurance, a fishermen protection rights fund and large-scale coastal infrastructure, including sea erosion barriers stretching up to 200 km in vuln",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.8471327096182999,
+      "crawledAt": "2026-04-17T09:14:56.466Z",
+      "id": "y354rd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9273155927658081,
+          "index": 1,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8451935648918152,
+          "index": 2,
+          "word": "Courts",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9067419171333313,
+          "index": 4,
+          "word": "##fo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " TVK's manifesto goes beyond MSP, promising accident insurance, a fishermen protection rights fund and large-scale coastal infrastructure.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:54.461Z"
+    },
+    {
+      "title": "Jalna merchant bank fraud : जालना मर्चंट बँकेला गंडा घालणारा आरोपी जेरबंद",
+      "url": "https://pudhari.news/maharashtra/marathwada/jalna/jalna-merchant-bank-fraud-accused-arrested-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T07:56:09.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.4409782020444716,
+      "crawledAt": "2026-04-17T09:13:24.400Z",
+      "id": "cux4xf",
+      "entities": [],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:54.551Z"
+    },
+    {
+      "title": "Women’s representation in Parliament and Vidhan Sabhas, explained in 4 charts",
+      "url": "https://indianexpress.com/article/explained/explained-politics/women-reservation-bill-parliament-vidhan-sabha-representation-data-10641232/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:53:19.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.28013796562784965,
+      "crawledAt": "2026-04-17T09:14:48.590Z",
+      "id": "7iq2jp",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9208813309669495,
+          "index": 11,
+          "word": "Sabha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:25:54.724Z"
+    },
+    {
+      "title": "Aplech lok mhantat ki 'mumbai is a global city and not just a Marathi city.'",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1snuaqz/aplech_lok_mhantat_ki_mumbai_is_a_global_city_and/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T07:50:21.000Z",
+      "metaDescription": "submitted by    /u/MightyCelestial  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9830375502065126,
+      "crawledAt": "2026-04-17T09:13:29.048Z",
+      "id": "kdhao4",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9973496794700623,
+          "index": 23,
+          "word": "Marathi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:26:21.581Z"
+    },
+    {
+      "title": "Ericsson lags profit expectations as AI demand drives up chip costs",
+      "url": "https://www.deccanherald.com/business/companies/ericsson-lags-profit-expectations-as-ai-demand-drives-up-chip-costs-3971124",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:46:06.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.2711213704694537,
+      "crawledAt": "2026-04-17T09:15:23.596Z",
+      "id": "6rqgah",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9086907505989075,
+          "index": 1,
+          "word": "Eric",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8378711938858032,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:26:34.337Z"
+    },
+    {
+      "title": "This US City Has So Much Water That It's Selling It",
+      "url": "https://www.ndtv.com/world-news/san-diego-has-so-much-water-it-s-selling-the-extra-11369742#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:45:10.000Z",
+      "metaDescription": "The move reflects San Diego's shift from years of drought-driven conservation to a position of relative abundance.",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.26707236092420694,
+      "crawledAt": "2026-04-17T09:14:52.518Z",
+      "id": "fkoxn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9755076169967651,
+          "index": 2,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.837146520614624,
+          "index": 3,
+          "word": "City",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The move reflects San Diego's shift from years of drought-driven conservation to a position of relative abundance. The move is a shift from drought- driven conservation to relative abundance.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:26:47.621Z"
+    },
+    {
+      "title": "New bird flu variant sweeps North America, spreading across migratory bird routes",
+      "url": "https://www.downtoearth.org.in/health/new-bird-flu-variant-sweeps-north-america-spreading-across-migratory-bird-routes",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:44:28.000Z",
+      "metaDescription": "A new H5N1 D1.1 bird flu variant has rapidly swept North America, nearly replacing earlier strains by late 2024. Spread along major migratory flyways, it has devastated wild birds, hit poultry industr",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2856233567562529,
+      "crawledAt": "2026-04-17T09:15:18.105Z",
+      "id": "wisr3p",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.997692883014679,
+          "index": 7,
+          "word": "North",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9974424242973328,
+          "index": 8,
+          "word": "America",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A new H5N1.1 bird flu variant has rapidly swept North America. Spread along major migratory flyways, it has devastated wild birds.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:26:58.452Z"
+    },
+    {
+      "title": "\"Am I A Terrorist?\" Another Court Setback For Congress' Pawan Khera",
+      "url": "https://www.ndtv.com/india-news/pawan-khera-news-am-i-a-terrorist-another-court-setback-for-congress-pawan-khera-11370315#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:44:26.000Z",
+      "metaDescription": "Pawan Khera News: \"Am I A Terrorist?\" Another Court Setback For Congress' Pawan Khera",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3449085617607716,
+      "crawledAt": "2026-04-17T09:14:56.584Z",
+      "id": "faxzor",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997837483882904,
+          "index": 14,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995278120040894,
+          "index": 16,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9064087271690369,
+          "index": 17,
+          "word": "##wan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991769194602966,
+          "index": 18,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9890984296798706,
+          "index": 19,
+          "word": "##her",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Pawan Khera: \"Am I a Terrorist?\" Another Court Setback for Congress' PawanKhera.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:27:10.095Z"
+    },
+    {
+      "title": "Nashik Conversion Case: नाशिक 'TCS' धर्मांतर प्रकरणातील धक्कादायक Video समोर; हिंदू तरुणाला बीफ खाण्यासाठी, नमाज पठणासाठी भाग पाडले?",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/nashik/nashtik-tcs-conversion-case-shocking-video-evidence-tauseef-attar-allegations-marathi-2026-aas86",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T07:44:09.000Z",
+      "metaDescription": "नाशिक 'TCS' धर्मांतर प्रकरणातील धक्कादायक Video समोर; हिंदू तरुणाला बीफ खाण्यासाठी, नमाज पठणासाठी भाग पाडले?",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.287826510316578,
+      "crawledAt": "2026-04-17T09:13:24.921Z",
+      "id": "89d4zc",
+      "entities": [],
+      "summary": " The \"TCS\" 'TCS' 'TCs' 'S' is a company that has been in the U.S.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:27:21.041Z"
+    },
+    {
+      "title": "Vidyalakshmi Loan Reapplication Urgent Help Needed",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1snu62v/vidyalakshmi_loan_reapplication_urgent_help_needed/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:42:55.000Z",
+      "metaDescription": "My qualifications- GNEF 9/8/7, XAT 93.3. I have an active loan application on Pm vidyalakshmi portal for Welingkar Mumbai. My loan amount for 1st installment (3.7L) is disbursed by the bank (SBI).\n I ",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.43899686468526067,
+      "crawledAt": "2026-04-17T09:15:19.486Z",
+      "id": "ov1dya",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9116976857185364,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9700006246566772,
+          "index": 3,
+          "word": "##ala",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9588077068328857,
+          "index": 4,
+          "word": "##ks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8911727666854858,
+          "index": 5,
+          "word": "##hm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8682682514190674,
+          "index": 6,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.985397458076477,
+          "index": 7,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " My loan amount for 1st installment (3.7L) is disbursed by the bank (SBI) I have an active loan application on Pm vidyalakshmi portal for Welingkar Mumbai.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:27:37.445Z"
+    },
+    {
+      "title": "Sangli Crime | कुपवाड हादरले! पत्नीला घरात ठेवण्याच्या वादातून पोटच्या मुलाने केला जन्मदात्या आईचा खून",
+      "url": "https://www.tarunbharat.com/kupwad-rocked-son-kills-biological-mother-over-dispute-over-keeping-wife-in-house-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T07:42:32.000Z",
+      "metaDescription": "कुपवाड पोलिसांची अवघ्या काही तासांत मोठी कारवाई कुपवाड़ -मानमोडी येथे माणुसकीता काळिमा फाराणारी एक अत्यंत धक्कादायक घटना समोर आली आहे. पत्नीला घरात ठेवण्याच्या कारणावरुन तसेच घरगुती मांडणातून रागाच्या",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.26206801123633233,
+      "crawledAt": "2026-04-17T09:13:26.922Z",
+      "id": "aux9gz",
+      "entities": [],
+      "summary": " The World War II. The World Cup is the first time the World Cup has been held in India.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:27:45.868Z"
+    },
+    {
+      "title": "Credit Society Scam: चाकणमध्ये 6.5 कोटींचा पतसंस्था घोटाळा; 36 जणांवर गुन्हा",
+      "url": "https://pudhari.news/maharashtra/pune/bhairavnath-credit-society-scam-chakan-pune-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T07:36:11.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.2754192551466015,
+      "crawledAt": "2026-04-17T09:13:25.160Z",
+      "id": "b8nbw1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9957868456840515,
+          "index": 1,
+          "word": "Credit",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9878458976745605,
+          "index": 2,
+          "word": "Society",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:28:18.289Z"
+    },
+    {
+      "title": "White House works to give US agencies Anthropic Mythos AI",
+      "url": "https://www.thehindubusinessline.com/news/world/white-house-works-to-give-us-agencies-anthropic-mythos-ai/article70872687.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:33:02.000Z",
+      "metaDescription": "The move signals the US government’s continued interest in Anthropic’s tools despite a public spat and ongoing legal fight between the company and top Trump administration officials",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.30981408877390987,
+      "crawledAt": "2026-04-17T09:14:57.444Z",
+      "id": "k0bd80",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9952829480171204,
+          "index": 1,
+          "word": "White",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9965658187866211,
+          "index": 2,
+          "word": "House",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9902539849281311,
+          "index": 8,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9873605370521545,
+          "index": 10,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9940317273139954,
+          "index": 11,
+          "word": "My",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9823617935180664,
+          "index": 12,
+          "word": "##th",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9940481781959534,
+          "index": 13,
+          "word": "##os",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9893637895584106,
+          "index": 14,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The move signals the US government's continued interest in Anthropic’s tools despite a public spat and ongoing legal fight between the company and top Trump administration officials.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:29:15.396Z"
+    },
+    {
+      "title": "Watch: How is the US Navy enforcing blockade amid Hormuz deadlock",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-how-is-the-us-navy-enforcing-blockade-amid-hormuz-deadlock/articleshow/130326218.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:30:04.000Z",
+      "metaDescription": "US Navy forces, aboard the USS Michael Murphy, diverted a merchant vessel in the Gulf of Oman to enforce restrictions on Iran's maritime routes. This operation, involving over 10,000 personnel and mul",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.7011715267969126,
+      "crawledAt": "2026-04-17T09:14:53.700Z",
+      "id": "1tng54",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9636325836181641,
+          "index": 6,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9653652310371399,
+          "index": 7,
+          "word": "Navy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9938601851463318,
+          "index": 12,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9668847918510437,
+          "index": 13,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9654212594032288,
+          "index": 14,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " US Navy forces diverted a merchant vessel in the Gulf of Oman to enforce restrictions on Iran's maritime routes. This operation involved over 10,000 personnel and mul.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:29:51.337Z"
+    },
+    {
+      "title": "Fans react as Sykkuno admits infidelity and takes streaming break",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/fans-react-as-sykkuno-admits-infidelity-and-takes-streaming-break/articleshow/130326255.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:28:50.000Z",
+      "metaDescription": "Beloved streamer Sykkuno has admitted to infidelity in a public statement, confirming he lied to multiple people about his relationship status. He apologized to his girlfriend and announced a break fr",
+      "category": "jobs-recruitment",
+      "difficulty": 7,
+      "confidence": 0.3063233361974846,
+      "crawledAt": "2026-04-17T09:14:53.562Z",
+      "id": "uuycg7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9980816841125488,
+          "index": 5,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8247463703155518,
+          "index": 6,
+          "word": "##yk",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Sykkuno has admitted to infidelity in a public statement. He apologized to his girlfriend and announced a break.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:30:12.900Z"
+    },
+    {
+      "title": "19M, feeling lost and urgently need career guidance",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sntwwi/19m_feeling_lost_and_urgently_need_career_guidance/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:27:58.000Z",
+      "metaDescription": "qualifications\n passed out last year and did my 12th with nios subject: English, political science, physical education, hindi, psychology \n Honestly I don't know what careers options can I even do wit",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.33963822823333295,
+      "crawledAt": "2026-04-17T09:15:19.612Z",
+      "id": "gl07g8",
+      "entities": [],
+      "summary": " qualifications passed out last year and did my 12th with nios subject: English, political science, political Science, physical education, physicalEducation, hindi, psychology and hindi.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:30:27.147Z"
+    },
+    {
+      "title": "Information about NFSU gandhinagar in india ..",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sntwh9/information_about_nfsu_gandhinagar_in_india/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:27:18.000Z",
+      "metaDescription": "I really want to become a forensic DNA analyst or even a toxicologist. Here in india i hope i can get some recommendations or any personal experience. I just finished my 10th boards.( myquals) I want ",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2533499748906973,
+      "crawledAt": "2026-04-17T09:15:19.748Z",
+      "id": "2fkd2l",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991363286972046,
+          "index": 3,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9003161191940308,
+          "index": 4,
+          "word": "##FS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9841576814651489,
+          "index": 5,
+          "word": "##U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.905271589756012,
+          "index": 9,
+          "word": "##aga",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8391656279563904,
+          "index": 12,
+          "word": "in",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.963070809841156,
+          "index": 13,
+          "word": "##dia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I just finished my 10th boards. I want to become a forensic DNA analyst or toxicologist. I want some recommendations or any personal experience.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:30:49.212Z"
+    },
+    {
+      "title": "URGENT - Confused between BCA Cybersecurity, BSc Bioinformatics with ai/ds,bsc bioinformatics and data science,BTech Biotech, and BSc Psychology – need career advice",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sntufm/urgent_confused_between_bca_cybersecurity_bsc/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:24:04.000Z",
+      "metaDescription": "Job opportunities and salary after graduation\n Scope in India \n Whether I’ll need to do MSc for a stable career\n Which field has better long-term growth\n I’m okay with working hard, and I’m also inter",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.33854926863104656,
+      "crawledAt": "2026-04-17T09:15:19.937Z",
+      "id": "wc5qea",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9855392575263977,
+          "index": 9,
+          "word": "BC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9641283750534058,
+          "index": 10,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8734073042869568,
+          "index": 11,
+          "word": "Cy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8305565714836121,
+          "index": 14,
+          "word": "##urity",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9923000931739807,
+          "index": 39,
+          "word": "BT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9889653325080872,
+          "index": 40,
+          "word": "##ech",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995799720287323,
+          "index": 41,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.993037760257721,
+          "index": 42,
+          "word": "##iot",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9883478879928589,
+          "index": 43,
+          "word": "##ech",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "MSc has better long-term growth in India. Whether I’ll need to do MSc for a stable career, I‘m okay with working hard, and I�’m also inter-working hard.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:31:05.839Z"
+    },
+    {
+      "title": "‘Delimitation will turn out to be political demonetisation’: Shashi Tharoor in Lok Sabha",
+      "url": "https://indianexpress.com/article/india/shashi-tharoor-delimitation-speech-lok-sabha-disunited-india-10641221/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T07:19:16.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3591161823940489,
+      "crawledAt": "2026-04-17T09:14:02.451Z",
+      "id": "dxbyva",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9995303750038147,
+          "index": 16,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.995564877986908,
+          "index": 17,
+          "word": "##hashi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9992992281913757,
+          "index": 18,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9779403805732727,
+          "index": 19,
+          "word": "##har",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9857379198074341,
+          "index": 20,
+          "word": "##oor",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:31:36.695Z"
+    },
+    {
+      "title": "“Machines are standing still”: Fuel shortages disrupt wheat harvest in Uttar Pradesh",
+      "url": "https://www.downtoearth.org.in/energy/machines-are-standing-still-fuel-shortages-disrupt-wheat-harvest-in-uttar-pradesh",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T07:17:59.000Z",
+      "metaDescription": "Fuel shortages across multiple districts in Uttar Pradesh have brought wheat harvesting to a near standstill, with machines idle, petrol pumps shut or overcrowded, and farmers facing mounting delays. ",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.3115063032500828,
+      "crawledAt": "2026-04-17T09:15:18.236Z",
+      "id": "ao1yyw",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994571805000305,
+          "index": 15,
+          "word": "Uttar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.999148428440094,
+          "index": 16,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Wheat harvesting in Uttar Pradesh has brought wheat harvesting to a near standstill. Fuel shortages across multiple districts in Uttar Uttar Pradesh have brought wheat harvest to a standstill.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:31:47.284Z"
+    },
+    {
+      "title": "'Everything Is Scripted': TCS Case Accused's Family's \"Conspiracy\" Charge",
+      "url": "https://www.ndtv.com/india-news/tcs-nashik-case-accuseds-familys-conspiracy-charge-at-bajrang-dal-everything-is-scripted-11370317#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:13:37.000Z",
+      "metaDescription": "Seven employees of the TCS' BPO unit in Nashik have been arrested after they were accused of sexual harassment and forcible religious conversion.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.49663911832186153,
+      "crawledAt": "2026-04-17T09:14:56.946Z",
+      "id": "lxw240",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9941166043281555,
+          "index": 9,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8514122366905212,
+          "index": 10,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9171304106712341,
+          "index": 17,
+          "word": "Family",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Seven employees of the TCS' BPO unit in Nashik have been arrested. They were accused of sexual harassment and religious conversion.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:32:26.554Z"
+    },
+    {
+      "title": "Flipkart loses ‘MarQ’ trademark case in Delhi high court",
+      "url": "https://www.livemint.com/companies/news/flipkart-loses-marq-trademark-case-in-delhi-high-court-11776404073123.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T07:02:09.000Z",
+      "metaDescription": "The high court has dismissed the appeal against Marc Enterprises, and allowed Flipkart time until 15 May to clear existing inventory",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3292252128111689,
+      "crawledAt": "2026-04-17T09:14:31.708Z",
+      "id": "p62jsv",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.97943514585495,
+          "index": 1,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9735519886016846,
+          "index": 2,
+          "word": "##lip",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9906628131866455,
+          "index": 3,
+          "word": "##kar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995121359825134,
+          "index": 13,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The high court has dismissed the appeal against Marc Enterprises, and allowed Flipkart time until 15 May to clear existing inventory.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:34:22.168Z"
+    },
+    {
+      "title": "Struggling to find affordable, good food in Kharadi, any recommendations?",
+      "url": "https://www.reddit.com/r/pune/comments/1sntgdj/struggling_to_find_affordable_good_food_in/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T07:02:06.000Z",
+      "metaDescription": "Namaskar everyone :)\n I recently shifted to Kharadi from Kothrud, and honestly, I’m struggling with the food scene here. 🥲 Most places seem overpriced, and the taste just isn’t worth it. Everywhere I",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.3135301537535505,
+      "crawledAt": "2026-04-17T09:14:09.937Z",
+      "id": "6xv6uz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.992215633392334,
+          "index": 11,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.911129355430603,
+          "index": 12,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Most places in the world seem to be overpriced, and the taste of the food is not worth it. Namaskar is one of the most popular destinations in the country.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:34:34.186Z"
+    },
+    {
+      "title": "Antop Hill’s silent story: Peace-ful shrine links Mumbai and China",
+      "url": "https://indianexpress.com/article/cities/mumbai/antop-hills-silent-story-links-mumbai-china-10641148/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T07:01:34.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.5257221107964535,
+      "crawledAt": "2026-04-17T09:14:03.894Z",
+      "id": "c1ln03",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9543287754058838,
+          "index": 1,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9790212512016296,
+          "index": 2,
+          "word": "##top",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9849656820297241,
+          "index": 3,
+          "word": "Hill",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996137619018555,
+          "index": 15,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997455477714539,
+          "index": 17,
+          "word": "China",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:34:34.263Z"
+    },
+    {
+      "title": "MBA student Offering help with PPTs, assignments & last minute submission",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sntaaw/mba_student_offering_help_with_ppts_assignments/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T06:53:01.000Z",
+      "metaDescription": "Hi everyone,\n I’m an MBA Finance student currently taking up freelance work to support myself.\n My qualifications:\n – MBA (Finance) student\n – Experience as an Audit Intern at Grant Thornton\n – Financ",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.34786434311939246,
+      "crawledAt": "2026-04-17T09:15:20.214Z",
+      "id": "y45z4v",
+      "entities": [],
+      "summary": " The student is currently taking up freelance work to support himself. He is an MBA Finance student and Audit Intern at Grant Thornton.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:34:54.129Z"
+    },
+    {
+      "title": "I dont want to give another competitive exam or study science ever again after neet, what to do?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1snt19l/i_dont_want_to_give_another_competitive_exam_or/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T06:38:58.000Z",
+      "metaDescription": "myquals 10th 84%\n 12th pcb 68%\n first drop for neet never wanna study science or prepare for any comp exam what to do next and how to pivot?\n    submitted by    /u/Impressive-Fix2305  \n [link]   [comm",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.31325447001987894,
+      "crawledAt": "2026-04-17T09:15:20.526Z",
+      "id": "dttxve",
+      "entities": [],
+      "summary": "Update on jobs, recruitment, or competitive exams relevant to readers.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:36:16.936Z"
+    },
+    {
+      "title": "What does the Supreme Court’s latest order mean for Bengal’s deleted voters",
+      "url": "https://indianexpress.com/article/explained/explained-law/what-does-sc-latest-order-mean-bengal-deleted-voters-10641096/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T06:37:37.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.8465632006885113,
+      "crawledAt": "2026-04-17T09:14:48.660Z",
+      "id": "3wyi0f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9986030459403992,
+          "index": 4,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.996711254119873,
+          "index": 5,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997408390045166,
+          "index": 12,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:36:17.016Z"
+    },
+    {
+      "title": "Macron, Starmer hold international summit on reopening Strait of Hormuz",
+      "url": "https://www.thehindubusinessline.com/news/world/macron-starmer-hold-international-summit-on-reopening-strait-of-hormuz/article70872366.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T06:36:23.000Z",
+      "metaDescription": "The US is not part of the planning for what has been branded the Strait of Hormuz Maritime Freedom of Navigation Initiative",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2516592573809876,
+      "crawledAt": "2026-04-17T09:14:45.541Z",
+      "id": "he4f58",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8389319777488708,
+          "index": 1,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.949931800365448,
+          "index": 2,
+          "word": "##ron",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9949688911437988,
+          "index": 4,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9707846641540527,
+          "index": 13,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9798745512962341,
+          "index": 14,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9805649518966675,
+          "index": 15,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9904425740242004,
+          "index": 16,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9959338903427124,
+          "index": 17,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The US is not part of the planning for what has been branded the Strait of Hormuz Maritime Freedom of Navigation Initiative.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:36:29.679Z"
+    },
+    {
+      "title": "Why Are Marathi Manus Posting on Other Subs And Still No Active, Casual, Non-Political Space for Maharashtra Yet?",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1snsvr7/why_are_marathi_manus_posting_on_other_subs_and/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T06:30:23.000Z",
+      "metaDescription": "We already have r/marathi , r/Maharashtra , r/MaharashtraSocial\n but activity feels inconsistent and discussions don’t last.\n At the same time, Marathi manus is active…\n just not here.People are posti",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.4365018418834727,
+      "crawledAt": "2026-04-17T09:13:30.126Z",
+      "id": "qa7d88",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9977517127990723,
+          "index": 26,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "At the same time, Marathi manus is active. People are posti, posti and posti.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:36:51.605Z"
+    },
+    {
+      "title": "Commercial Farming: तेंडोली गावाने स्वीकारली व्यावसायिक पीक पद्धती",
+      "url": "https://agrowon.esakal.com/techno-wan/tendoli-village-commercial-farming-success-story-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T06:30:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.30151923947419007,
+      "crawledAt": "2026-04-17T09:13:34.350Z",
+      "id": "lexx51",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:36:51.683Z"
+    },
+    {
+      "title": "Chalisagaon : शिकारीच्या नादात विहिरीत पडला, रात्रभर पाईपला धरून मृत्यूला रोखले..अखेर बिबट्याची रेस्क्यूने सुखरूप सुटका",
+      "url": "https://jalgaonlive.news/rescue-of-a-leopard-that-fell-into-a-well-chalisagaon-133552/",
+      "source": "Jalgaon Live — feed",
+      "source_domain": "jalgaonlive.news",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T06:28:05.000Z",
+      "metaDescription": "जळगाव लाईव्ह न्यूज । जळगाव जिल्ह्यात गेल्या काही दिवसांपासून बिबट्याची दहशत कायम असतानाच, चाळीसगाव तालुक्यातील शिवापूर शिवारात एक थरारक घटना ... \nRead more",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2561200256290314,
+      "crawledAt": "2026-04-17T09:14:30.541Z",
+      "id": "efim0v",
+      "entities": [],
+      "summary": "’s ‘‘“’.’  ‘I’m’",
+      "language": "en",
+      "processed_at": "2026-04-17T09:37:16.442Z"
+    },
+    {
+      "title": "NU Zoology Dept Develops Quick Breath-Based Diabetes Testing Kit",
+      "url": "https://thelivenagpur.com/2026/04/17/nu-zoology-dept-develops-quick-breath-based-diabetes-testing-kit/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T06:23:35.000Z",
+      "metaDescription": "Researchers from the Post Graduate Department of Zoology at Nagpur University have developed an innovative device…",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.466947031245046,
+      "crawledAt": "2026-04-17T09:13:36.146Z",
+      "id": "n9gysz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9895957708358765,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9067828059196472,
+          "index": 2,
+          "word": "##U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9819582104682922,
+          "index": 3,
+          "word": "Zoo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9889887571334839,
+          "index": 4,
+          "word": "##logy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9699218273162842,
+          "index": 5,
+          "word": "De",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8650007843971252,
+          "index": 6,
+          "word": "##pt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8415254354476929,
+          "index": 14,
+          "word": "Based",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Researchers from the Post Graduate Department of Zoology at Nagpur University have developed an innovative device. They have developed the device.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:37:48.765Z"
+    },
+    {
+      "title": "Centre Sets Up AI Governance Body To Align Policy Across Ministries",
+      "url": "https://inc42.com/buzz/centre-sets-up-ai-governance-body-to-align-policy-across-ministries/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T06:14:41.000Z",
+      "metaDescription": "The Centre has set up a new high-level body to take charge of how India governs AI, as it looks…",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.7899377066988125,
+      "crawledAt": "2026-04-17T09:15:06.424Z",
+      "id": "sns5i4",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9464263319969177,
+          "index": 6,
+          "word": "Go",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.969812273979187,
+          "index": 8,
+          "word": "##ance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9388236999511719,
+          "index": 9,
+          "word": "Body",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9781923294067383,
+          "index": 15,
+          "word": "Mini",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9554032683372498,
+          "index": 16,
+          "word": "##st",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Centre has set up new high-level body to take charge of how India governs AI. The Centre has been set up by the Centre to take control of how it looks.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:38:11.602Z"
+    },
+    {
+      "title": "Mumbai High Court : “नजर घाणेरडी, पण कायदा हतबल?” महिलेच्या शरीराकडे एकटक पाहणे गुन्हा नाही; हायकोर्टाचा निकालाने खळबळ!",
+      "url": "https://www.navakal.in/maharashtra/mumbai-high-court-mumbai-high-court-verdict-staring-at-female-colleague-breasts-in-office/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T06:05:30.000Z",
+      "metaDescription": "Mumbai High Court : भारतीय समाजात अलीकडच्या काळात महिलांवरील अत्याचारांच्या घटना घडल्यानंतर जनमानसातून तीव्र संताप आणि सहानुभूती व्यक्त केली जाते. छेडछाडीसारख्या प्रकरणांमध्ये तर अनेकदा संतप्त नागरिका",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.6738853260248009,
+      "crawledAt": "2026-04-17T09:14:26.401Z",
+      "id": "4zzntv",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8361601233482361,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Mumbai High Court. Mumbai High Court: ‘I’s’  ‘I.S.’",
+      "language": "en",
+      "processed_at": "2026-04-17T09:38:52.077Z"
+    },
     {
       "title": "Four of a family hospitalised after suspected food poisoning in Kerala’s Kozhikode",
       "url": "https://www.thehindu.com/news/national/kerala/four-of-a-family-hospitalised-after-suspected-food-poisoning-in-keralas-kozhikode/article70872493.ece",
@@ -63,6 +2699,70 @@
       "summary": " The four developed symptoms of food poisoning after consuming spinach curry kept in the refrigerator. According to hospital sources, the four developed food poisoning.",
       "language": "en",
       "processed_at": "2026-04-17T06:04:11.290Z"
+    },
+    {
+      "title": "South Africans want solar power but they worry panels will be stolen — study",
+      "url": "https://www.downtoearth.org.in/africa/south-africans-want-solar-power-but-they-worry-panels-will-be-stolen-study",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T05:57:51.000Z",
+      "metaDescription": "In sun-drenched South Africa, a study of Eastern Cape households finds strong interest in solar to escape blackouts and rising bills, yet adoption lags. Fear of panel theft, high upfront and maintenan",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.31256677678958045,
+      "crawledAt": "2026-04-17T09:15:18.649Z",
+      "id": "8t2ygi",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9992339611053467,
+          "index": 1,
+          "word": "South",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9975227117538452,
+          "index": 2,
+          "word": "Africans",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Study of Eastern Cape households finds strong interest in solar to escape blackouts and rising bills. Study of South Africa finds stronginterest in solar.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:39:13.656Z"
+    },
+    {
+      "title": "Pov: Mumbai local with doors",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sns9nl/pov_mumbai_local_with_doors/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T05:56:18.000Z",
+      "metaDescription": "submitted by    /u/No-Formal2300  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9834819612846902,
+      "crawledAt": "2026-04-17T09:14:11.005Z",
+      "id": "vuobr8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993911981582642,
+          "index": 4,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:39:13.715Z"
     },
     {
       "title": "Karnataka Cabinet approves AI Centre of Excellence at Electronics City in Bengaluru",
@@ -478,6 +3178,34 @@
       "summary": " The Vidarbha Bridge Association (VBA) will organise a two-day Pranic Healing Open Bridge Tournament on April.",
       "language": "en",
       "processed_at": "2026-04-17T06:07:06.213Z"
+    },
+    {
+      "title": "Rupee touches one-week high; RBI plans to ease dollar bids",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-touches-one-week-high-on-report-of-rbi-plan-to-ease-oil-refiners-dollar-bids/articleshow/130323902.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T05:36:40.000Z",
+      "metaDescription": "The rupee hit a one-week high as expectations of RBI measures to curb oil refiners’ dollar demand boosted sentiment and eased pressure on the currency.",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.26715826120788894,
+      "crawledAt": "2026-04-17T09:13:54.932Z",
+      "id": "ruhzp1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987596869468689,
+          "index": 10,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The rupee hit a one-week high as expectations of measures to curb oil refiners’ dollar demand boosted sentiment.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:39:34.036Z"
     },
     {
       "title": "Maharashtra MIDC Land Acquisition: मावळमध्ये एमआयडीसीला ग्रामस्थांचा विरोध; जमीन संपादनावर ठाम भूमिका",
@@ -1353,6 +4081,85 @@
       "processed_at": "2026-04-17T06:12:55.250Z"
     },
     {
+      "title": "CM Medical Assistance Scheme: ‘मुख्यमंत्री वैद्यकीय सहाय्यता’ची पुणे जिल्ह्यात ३८६१ रुग्णांना मदत",
+      "url": "https://agrowon.esakal.com/agro-special/cm-medical-assistance-pune-patients-aid-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T04:30:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.5591148617964491,
+      "crawledAt": "2026-04-17T09:13:34.700Z",
+      "id": "ws4bsp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9971497654914856,
+          "index": 1,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9944310188293457,
+          "index": 2,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9947843551635742,
+          "index": 3,
+          "word": "Medical",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9976215362548828,
+          "index": 4,
+          "word": "Assistance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913550019264221,
+          "index": 5,
+          "word": "Scheme",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:40:43.303Z"
+    },
+    {
+      "title": "Waaree Renewable soars 12% as Q4 revenue soars 131% YoY",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-renewable-shares-rocket-12-as-q4-revenue-soars-131-profit-up-66-check-details/articleshow/130322767.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T04:27:16.000Z",
+      "metaDescription": "Waaree Renewable Technologies shares jumped up to 12% after reporting a strong Q4, with net profit rising 66% YoY to Rs 155.72 crore and revenue surging 131% to Rs 1,102.40 crore. EBITDA also grew 63.",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.3115110567890669,
+      "crawledAt": "2026-04-17T09:13:54.814Z",
+      "id": "dgqbgi",
+      "entities": [],
+      "summary": " Waaree Renewable Technologies shares jumped up to 12% after reporting a strong Q4. Net profit rose 66% YoY to Rs 155.72 crore and revenue surging 131% to Rs 1,102.40 crore. EBITDA also grew 63.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:00.039Z"
+    },
+    {
       "title": "‘Language isn’t the issue, fare disputes are’: Pune commuters flag real gaps as Maharashtra mandates Marathi for drivers",
       "url": "https://indianexpress.com/article/cities/pune/language-isnt-the-issue-fare-disputes-are-pune-commuters-flag-real-gaps-as-maharashtra-mandates-marathi-for-drivers-10640834/",
       "source": "Indian Express — Pune",
@@ -1442,6 +4249,25 @@
       "summary": " Among major parties, the highest proportion of candidates with criminal cases was found in the BJP. 106 out of 152 candidates (70%) have declared such cases.",
       "language": "en",
       "processed_at": "2026-04-17T06:13:37.218Z"
+    },
+    {
+      "title": "any thrift stores or shopping suggestions- versova",
+      "url": "https://www.reddit.com/r/mumbai/comments/1snqcgo/any_thrift_stores_or_shopping_suggestions_versova/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T04:14:10.000Z",
+      "metaDescription": "so ill be reaching ltt at 11am tomorrow, and i need an outfit for calvin harris concert, im staying near versova where to shop from any suggestions??\n    submitted by    /u/hollowedcheeks  \n [link]   ",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2627804393928841,
+      "crawledAt": "2026-04-17T09:14:11.694Z",
+      "id": "fvg9q3",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:20.601Z"
     },
     {
       "title": "Harassment, religious conversions at TCS unit: 2 accused sent in fresh police custody",
@@ -1691,6 +4517,66 @@
       "processed_at": "2026-04-17T06:16:29.679Z"
     },
     {
+      "title": "High conviction picks! Bharti Airtel &amp; 4 other stocks that can rocket up to 70%",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/high-conviction-picks-bharti-airtel-kotak-bank-3-other-stocks-with-up-to-70-upside-potential/slideshow/130322096.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T03:29:44.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.37128677102756275,
+      "crawledAt": "2026-04-17T09:13:54.205Z",
+      "id": "uu8s6e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974273443222046,
+          "index": 5,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9763790369033813,
+          "index": 6,
+          "word": "##hart",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9374002814292908,
+          "index": 7,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992324709892273,
+          "index": 8,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990583658218384,
+          "index": 9,
+          "word": "##tel",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:20.842Z"
+    },
+    {
       "title": "HDFC Life Insurance shares tank 4% Q4 results. What are Morgan Stanley and Goldman Sachs saying?",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-life-insurance-shares-in-focus-on-strong-q4-what-are-morgan-stanley-and-goldman-sachs-saying/articleshow/130322038.cms",
       "source": "Economic Times — default homepage",
@@ -1775,6 +4661,34 @@
       "processed_at": "2026-04-17T06:16:56.231Z"
     },
     {
+      "title": "Pls help me pick a hostel for Welingkar mumbai",
+      "url": "https://www.reddit.com/r/mumbai/comments/1snp7n6/pls_help_me_pick_a_hostel_for_welingkar_mumbai/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T03:20:08.000Z",
+      "metaDescription": "there are 5 to 6 options for welingkar mumbai girls' hostel and I need urgent advice regarding which one to pick. if anyone knows that area or is a student pls reach out to me. how are these apartment",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.25443684963271324,
+      "crawledAt": "2026-04-17T09:14:12.069Z",
+      "id": "95czmx",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9575931429862976,
+          "index": 10,
+          "word": "We",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " There are 5 to 6 options for welingkar mumbai girls' hostel. If anyone knows that area or is a student pls reach out to me.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:33.956Z"
+    },
+    {
       "title": "Need help to choose an art college/university",
       "url": "https://www.reddit.com/r/Indian_Academia/comments/1snox3p/need_help_to_choose_an_art_collegeuniversity/",
       "source": "Reddit — r/Indian_Academia",
@@ -1792,6 +4706,53 @@
       "summary": "Myquals: passed my 12th (pcb) with 74% from rbse board, I want to pursue 2d animation in upcoming years as a profession.",
       "language": "en",
       "processed_at": "2026-04-17T06:17:51.263Z"
+    },
+    {
+      "title": "Where can I get good and affordable body con dresses / pencil heels and Pakistani type salwars",
+      "url": "https://www.reddit.com/r/mumbai/comments/1snocp9/where_can_i_get_good_and_affordable_body_con/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T02:40:44.000Z",
+      "metaDescription": "Hey help me where can I find good and affordable bodycon dresses, pencil heels and Pakistani type salwars for my girl friend. Kindly help me.\n    submitted by    /u/idli_vadai  \n [link]   [comments]",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.41005922196797107,
+      "crawledAt": "2026-04-17T09:14:12.376Z",
+      "id": "95tzj7",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9991276264190674,
+          "index": 15,
+          "word": "Pakistani",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:47.382Z"
+    },
+    {
+      "title": "Internship Opportunity",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sno9sh/internship_opportunity/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T02:37:06.000Z",
+      "metaDescription": "A friend who runs a healthy snacking brand is looking to hire his first intern in the sales and marketing function. Interested folks can fill this form: https://forms.gle/g65XdvPXT54N7ML7A\n Please don",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9363346277995449,
+      "crawledAt": "2026-04-17T09:14:12.515Z",
+      "id": "qufj6s",
+      "entities": [],
+      "summary": " A friend who runs a healthy snacking brand is looking to hire his first intern in the sales and marketing function. Interested folks can fill this form.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:41:59.689Z"
     },
     {
       "title": "Startups In DPDP Maze, Flipkart Eyes $2.5 Bn & More",
@@ -3825,22 +6786,146 @@
       "summary": " The kittens were left in the care of a neighbor who is now threatening to abandon them on. The neighbor is now threatened to abandon the kittens on.",
       "language": "en",
       "processed_at": "2026-04-17T06:25:39.174Z"
+    },
+    {
+      "title": "Youth Killed in Brutal Ajni Attack; Multiple Accused on Run",
+      "url": "https://www.nagpurtoday.in/youth-killed-in-brutal-ajni-attack-multiple-accused-on-run/04161852",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T13:22:34.000Z",
+      "metaDescription": "Nagpur: A brutal murder case has surfaced in Nagpur, where a young man was stabbed to death after being attacked by a group over a previous altercation. The incident occurred between 10:30 pm and 11:0",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3073637657426096,
+      "crawledAt": "2026-04-17T09:13:47.463Z",
+      "id": "bttym2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.994219183921814,
+          "index": 5,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9343152046203613,
+          "index": 7,
+          "word": "##tal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9799765944480896,
+          "index": 8,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9693994522094727,
+          "index": 9,
+          "word": "##jn",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.845420777797699,
+          "index": 10,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.94244384765625,
+          "index": 11,
+          "word": "Attack",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A young man was stabbed to death in Nagpur, Nagpur. The incident occurred between 10:30pm and 11:0pm.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:43:31.206Z"
+    },
+    {
+      "title": "Recovery Timeline After Hair Transplant in Mumbai Weather: Week-by-Week Reality",
+      "url": "https://www.nagpurtoday.in/recovery-timeline-after-hair-transplant-in-mumbai-weather-week-by-week-reality/04161845",
+      "source": "Nagpur Today",
+      "source_domain": "nagpurtoday.in",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-16T13:15:52.000Z",
+      "metaDescription": "Many people planning a hair transplant in Mumbai spend weeks researching the procedure itself but very little time thinking about what comes after. The surgery is one part of the journey. Recovery is ",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9934065861550312,
+      "crawledAt": "2026-04-17T09:13:47.815Z",
+      "id": "ivpvkl",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9965919852256775,
+          "index": 10,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Many people planning a hair transplant in Mumbai spend weeks researching the procedure itself but little time thinking about what comes after.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:43:41.396Z"
+    },
+    {
+      "title": "Rural India caught in the energy gap",
+      "url": "https://www.downtoearth.org.in/energy/caught-in-the-energy-gap",
+      "source": "Down To Earth — stories",
+      "source_domain": "downtoearth.org.in",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-16T12:10:21.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5876337432777319,
+      "crawledAt": "2026-04-17T09:15:18.849Z",
+      "id": "v6q4lh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9912803173065186,
+          "index": 2,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T09:43:41.456Z"
     }
   ],
-  "processedAt": "2026-04-17T06:25:39.601Z",
+  "processedAt": "2026-04-17T09:43:53.944Z",
   "categories": [
-    "jobs-recruitment",
-    "government-schemes",
-    "education-skills",
-    "legal-judiciary",
     "msme-industry-trade",
+    "education-skills",
     "maharashtra-state-local",
-    "policy-regulation",
+    "legal-judiciary",
+    "government-schemes",
+    "jobs-recruitment",
+    "banking-credit",
     "civic-public-service",
-    "banking-credit"
+    "policy-regulation"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 63,
-  "dailyArticlesCount": 94,
+  "newArticlesProcessed": 74,
+  "dailyArticlesCount": 168,
   "filterDate": "2026-04-17"
 }
