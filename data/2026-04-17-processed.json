@@ -1,9 +1,1843 @@
 {
-  "crawledAt": "2026-04-17T13:11:50.492Z",
+  "crawledAt": "2026-04-17T16:54:21.296Z",
   "totalSources": 75,
-  "totalArticles": 229,
+  "totalArticles": 270,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Telangana caste census reveals inequality in income, business ownerships; SC/STs least represented",
+      "url": "https://www.deccanherald.com/india/telangana/telangana-caste-census-reveals-inequality-in-income-business-ownerships-scsts-least-represented-3971860",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:52:33.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.29936026572434454,
+      "crawledAt": "2026-04-17T16:54:13.549Z",
+      "id": "eepjmy",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9840654730796814,
+          "index": 1,
+          "word": "Telangana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8159500956535339,
+          "index": 13,
+          "word": "SC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:23.396Z"
+    },
+    {
+      "title": "Sena 's Priyanka Chaturvedi takes stand different from party, expresses grief on women's quota bill defeat",
+      "url": "https://www.deccanherald.com/india/sena-ubts-priyanka-chaturvedi-takes-stand-different-from-party-expresses-grief-on-womens-quota-bill-defeat-3971756",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:47:39.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2639225494640968,
+      "crawledAt": "2026-04-17T16:54:13.681Z",
+      "id": "dxfmz1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9793161153793335,
+          "index": 1,
+          "word": "Sen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995944499969482,
+          "index": 5,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9974321126937866,
+          "index": 6,
+          "word": "##riya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.99959397315979,
+          "index": 8,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9968785047531128,
+          "index": 9,
+          "word": "##tur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9637752175331116,
+          "index": 10,
+          "word": "##ved",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:23.605Z"
+    },
+    {
+      "title": "Constitution Amendment Bill, part of delimitation package, defeated",
+      "url": "https://www.thehindu.com/news/national/united-opposition-defeats-constitutional-amendment-bill-for-womens-quota/article70874431.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:45:33.000Z",
+      "metaDescription": "While 298 votes were polled in favour of the Bill, 230 were polled against, failing to meet the necessary two-thirds majority mark needed for a constitutional amendment Bill",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.9031900140666687,
+      "crawledAt": "2026-04-17T16:53:34.711Z",
+      "id": "d1dr1v",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9842067360877991,
+          "index": 1,
+          "word": "Constitution",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9963141679763794,
+          "index": 2,
+          "word": "Amendment",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9917795658111572,
+          "index": 3,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 298 votes were polled in favour of the Bill, but 230 were polled against, failing to meet the necessary two-thirds majority needed for a constitutional amendment.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:33.674Z"
+    },
+    {
+      "title": "'Tides are turning against BJP': Abhishek Banerjee tells Rahul Gandhi after Lok Sabha Bill defeat",
+      "url": "https://www.deccanherald.com/india/tides-are-turning-against-bjp-abhishek-banerjee-tells-rahul-gandhi-after-lok-sabha-bill-defeat-3971867",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:44:51.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2615518590353074,
+      "crawledAt": "2026-04-17T16:54:13.807Z",
+      "id": "rkv78o",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974720478057861,
+          "index": 7,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9797404408454895,
+          "index": 8,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995493292808533,
+          "index": 11,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.993270993232727,
+          "index": 12,
+          "word": "##b",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.961300253868103,
+          "index": 13,
+          "word": "##his",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8177255392074585,
+          "index": 15,
+          "word": "##k",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9997166395187378,
+          "index": 16,
+          "word": "Ban",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9986499547958374,
+          "index": 17,
+          "word": "##erjee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9987565875053406,
+          "index": 19,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9764068722724915,
+          "index": 20,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9989264011383057,
+          "index": 21,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9687685966491699,
+          "index": 23,
+          "word": "Lok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9587153792381287,
+          "index": 24,
+          "word": "Sabha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:33.834Z"
+    },
+    {
+      "title": "Schemes offering cash incentive to women takes centre stage is Bengal poll campaign",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/schemes-offering-cash-incentive-to-women-takes-centre-stage-is-bengal-poll-campaign/article70870246.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:44:21.000Z",
+      "metaDescription": "As the Bengal poll campaign has reached its peak, the contest is gathering pace between the Lakshmir Bhandar of the Trinamool Congress and the Matri Shakti Vandan Yojana of the Bharatiya Janata Party",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.43620187809953387,
+      "crawledAt": "2026-04-17T16:53:34.938Z",
+      "id": "g3zv7d",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9978170394897461,
+          "index": 12,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bengal poll campaign has reached its peak. The contest is gathering pace between the Trinamool Congress and the Matri Shakti Shakti Vandan Yojana of the Bharatiya Janata Party.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:44.942Z"
+    },
+    {
+      "title": "Maharashtra govt employees to go on strike over pension demands from April 21",
+      "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-government-employees-strike-pension-demands-10642295/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T16:40:29.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.29124581344509715,
+      "crawledAt": "2026-04-17T16:52:42.114Z",
+      "id": "spsg0f",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996893405914307,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:54:55.021Z"
+    },
+    {
+      "title": "TCS case: pregnant Nida Khan to move court for anticipatory bail; police quiz her spouse",
+      "url": "https://www.thehindu.com/news/national/maharashtra/tcs-case-pregnant-nida-khan-to-move-court-for-anticipatory-bail-police-quiz-her-spouse/article70874691.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:37:45.000Z",
+      "metaDescription": "Maharashtra Chief Minister Devendra Fadnavis says: “TCS is a very serious incident; we are trying to get to the roots of it”",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.31128769284079616,
+      "crawledAt": "2026-04-17T16:53:35.667Z",
+      "id": "shsf0i",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.956790566444397,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9989240765571594,
+          "index": 6,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9793229103088379,
+          "index": 7,
+          "word": "##da",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.998609721660614,
+          "index": 8,
+          "word": "Khan",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Maharashtra Chief Minister Devendra Fadnavis says: “TCS is a very serious incident; we are trying to get to the roots of it’",
+      "language": "en",
+      "processed_at": "2026-04-17T16:55:29.413Z"
+    },
+    {
+      "title": "Sri Venkateswara Zoo receives donation for animal adoption",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sri-venkateswara-zoo-receives-donation-for-animal-adoption/article70873048.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:36:26.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.4883055021643258,
+      "crawledAt": "2026-04-17T16:53:35.755Z",
+      "id": "gjxsv7",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:55:29.516Z"
+    },
+    {
+      "title": "Supreme Court asks whether religious belief or rationality could be matter of judicial review",
+      "url": "https://www.deccanherald.com/india/supreme-court-asks-whether-religious-belief-or-rationality-could-be-matter-of-judicial-review-3971818",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:30:20.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.623071033614975,
+      "crawledAt": "2026-04-17T16:54:14.248Z",
+      "id": "rjw1rp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9976106882095337,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9793832898139954,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:56:01.364Z"
+    },
+    {
+      "title": "Shipping firms seek clarifications before crossing Strait of Hormuz",
+      "url": "https://www.deccanherald.com/world/rest-of-world/shipping-firms-seek-clarifications-before-crossing-strait-of-hormuz-3971849",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:22:36.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.856076134334612,
+      "crawledAt": "2026-04-17T16:54:14.581Z",
+      "id": "r7yv63",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9968226552009583,
+          "index": 9,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9967697858810425,
+          "index": 10,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9961990118026733,
+          "index": 11,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9940369725227356,
+          "index": 12,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9978430867195129,
+          "index": 13,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:56:23.113Z"
+    },
+    {
+      "title": "Bangladesh's request for Hasina's extradition under 'judicial and legal process'",
+      "url": "https://www.deccanherald.com/india/bangladeshs-request-for-hasinas-extradition-under-judicial-and-legal-process-3971774",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-17T16:21:08.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.9942799854533221,
+      "crawledAt": "2026-04-17T16:54:14.690Z",
+      "id": "718i14",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998472929000854,
+          "index": 1,
+          "word": "Bangladesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9994603395462036,
+          "index": 6,
+          "word": "Has",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:56:34.193Z"
+    },
+    {
+      "title": "Trump Changes H-2B Visa Policy After Private Lobbying",
+      "url": "https://www.youtube.com/watch?v=CHcbQWLGQrk",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:13:51.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3093967539033282,
+      "crawledAt": "2026-04-17T16:53:54.414Z",
+      "id": "bzn1bp",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9537116885185242,
+          "index": 1,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9340087175369263,
+          "index": 3,
+          "word": "H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9800491333007812,
+          "index": 5,
+          "word": "2",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:57:19.724Z"
+    },
+    {
+      "title": "Folk artistes in Kozhikode stage cultural protest demanding justice for Nithin Raj",
+      "url": "https://www.thehindu.com/news/national/kerala/folk-artistes-in-kozhikode-stage-cultural-protest-demanding-justice-for-nithin-raj/article70874497.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:10:50.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.29796282598576235,
+      "crawledAt": "2026-04-17T16:53:37.294Z",
+      "id": "apcz5g",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9992623925209045,
+          "index": 5,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9808483719825745,
+          "index": 6,
+          "word": "##zhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9852572679519653,
+          "index": 7,
+          "word": "##ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9897770881652832,
+          "index": 8,
+          "word": "##de",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9974349737167358,
+          "index": 15,
+          "word": "Ni",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9752333760261536,
+          "index": 16,
+          "word": "##thin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8690555691719055,
+          "index": 17,
+          "word": "Raj",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:57:49.390Z"
+    },
+    {
+      "title": "Sabarimala hearing: Should judges rise above their religious perceptions when examining matters of conscience, SC judge asks",
+      "url": "https://www.thehindu.com/news/national/sabarimala-hearing-should-judges-rise-above-their-religious-perceptions-when-examining-matters-of-conscience-sc-judge-asks/article70874642.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T16:07:19.000Z",
+      "metaDescription": "Senior advocate Rajeev Dhavan says a judge cannot be identified with his personal religion when asked to examine a matter of faith and conscience",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3788913144775066,
+      "crawledAt": "2026-04-17T16:53:37.501Z",
+      "id": "98tzpw",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9375773072242737,
+          "index": 21,
+          "word": "SC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Rajeev Dhavan says a judge cannot be identified with his personal religion when asked to examine a matter of faith and conscience.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:58:23.981Z"
+    },
+    {
+      "title": "Assam Violence | अतिक्रमणावरून आसाममध्ये हिंसाचार",
+      "url": "https://pudhari.news/national/violence-erupts-in-assam-over-encroachment-issue-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T15:59:56.000Z",
+      "metaDescription": "Assam Violence | अतिक्रमणावरून आसाममध्ये हिंसाचार",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.4257736701582907,
+      "crawledAt": "2026-04-17T16:52:08.644Z",
+      "id": "cg4hgn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9259892106056213,
+          "index": 1,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:58:44.815Z"
+    },
+    {
+      "title": "Prestige battle as DMK heavyweight Senthil Balaji takes on AIADMK’s simple man Amman Arjun in high-stakes contest",
+      "url": "https://www.thehindubusinessline.com/news/elections/prestige-battle-as-dmk-heavyweight-senthil-balaji-takes-on-aiadmks-simple-man-amman-arjun-in-high-stakes-contest/article70874293.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T15:54:28.000Z",
+      "metaDescription": "While TVK has been gaining popularity in the State, the party seems to have zero presence in the constituency",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.36978565415045195,
+      "crawledAt": "2026-04-17T16:53:39.492Z",
+      "id": "5jrdc1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9988869428634644,
+          "index": 6,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973328709602356,
+          "index": 7,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9961838722229004,
+          "index": 8,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993864893913269,
+          "index": 10,
+          "word": "Sen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9895183444023132,
+          "index": 12,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996536374092102,
+          "index": 13,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9854617714881897,
+          "index": 14,
+          "word": "##la",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9940305948257446,
+          "index": 15,
+          "word": "##ji",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989202618598938,
+          "index": 18,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9957756400108337,
+          "index": 19,
+          "word": "##AD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983343482017517,
+          "index": 20,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958316087722778,
+          "index": 21,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993703365325928,
+          "index": 26,
+          "word": "Am",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9966825842857361,
+          "index": 28,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8610112071037292,
+          "index": 29,
+          "word": "##r",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9433606863021851,
+          "index": 30,
+          "word": "##jun",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " TVK has been gaining popularity in the State. While TVK is gaining popularity, the party seems to have zero presence in the constituency.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:59:31.703Z"
+    },
+    {
+      "title": "West Asia crisis: Govt expands export insurance scheme",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/west-asia-crisis-govt-expands-export-insurance-scheme/articleshow/130337450.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T15:52:33.000Z",
+      "metaDescription": "India's government has expanded its RELIEF scheme to cover Jordan and Egypt. This move offers higher insurance to exporters facing disruptions from the West Asia crisis. The scheme aims to strengthen ",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.6570458283540815,
+      "crawledAt": "2026-04-17T16:52:30.033Z",
+      "id": "llohst",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9947048425674438,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.99412602186203,
+          "index": 2,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India's government has expanded its RELIEF scheme to cover Jordan and Egypt. This move offers higher insurance to exporters facing disruptions from the West Asia crisis.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:59:42.246Z"
+    },
+    {
+      "title": "Row over anti-Islam US influencer granted UK visa approval, calls out British leaders",
+      "url": "https://timesofindia.indiatimes.com/world/us/row-over-anti-islam-us-influencer-granted-uk-visa-approval-calls-out-british-leaders-england-belongs-to-/articleshow/130337038.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T15:46:36.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28410195376460623,
+      "crawledAt": "2026-04-17T16:53:41.910Z",
+      "id": "4ncvys",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9975152015686035,
+          "index": 3,
+          "word": "anti",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9823086857795715,
+          "index": 5,
+          "word": "Islam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9985207319259644,
+          "index": 10,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9997433423995972,
+          "index": 16,
+          "word": "British",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T16:59:58.886Z"
+    },
+    {
+      "title": "Lift Irrigation Scheme: उद्दिष्ट ३६०० हेक्टरचे; सिंचन फक्त दोन हजारच!",
+      "url": "https://agrowon.esakal.com/agro-special/bhandara-irrigation-project-shortfall-wainganga-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T15:30:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3179291640459066,
+      "crawledAt": "2026-04-17T16:52:18.613Z",
+      "id": "721cvm",
+      "entities": [],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:01:22.128Z"
+    },
+    {
+      "title": "West Asia Conflict: Oil Ministry points at softening LPG demand as summers kick-in",
+      "url": "https://www.thehindubusinessline.com/economy/west-asia-conflict-oil-ministry-points-at-softening-lpg-demand-as-summers-kick-in/article70874684.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T15:20:30.000Z",
+      "metaDescription": "Refiners are doing their ​best ⁠to line-up oil cargoes to ‌meet local demand, says Ministry",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.9432196301016884,
+      "crawledAt": "2026-04-17T16:53:32.184Z",
+      "id": "ygf62w",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.8228026628494263,
+          "index": 2,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9981821775436401,
+          "index": 5,
+          "word": "Oil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963451027870178,
+          "index": 6,
+          "word": "Ministry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9923888444900513,
+          "index": 11,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9539527893066406,
+          "index": 12,
+          "word": "##G",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Refiners are doing their best ⁠to line-up oil cargoes to ‌meet local demand, says Ministry. Refiners were doing their 'best ⁥to line up oil cargooes to meet local demand.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:02:32.451Z"
+    },
+    {
+      "title": "5 arrested for kidnapping Pune Railway Metro contractor kidnapped for ransom of Rs 50 lakh",
+      "url": "https://indianexpress.com/article/cities/pune/5-arrested-for-kidnapping-pune-railway-metro-contractor-kidnapped-for-ransom-of-rs-50-lakh-10642161/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T15:12:53.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.34677348927255275,
+      "crawledAt": "2026-04-17T16:52:44.618Z",
+      "id": "tgc89r",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987660050392151,
+          "index": 5,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9992401599884033,
+          "index": 6,
+          "word": "Railway",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988256692886353,
+          "index": 7,
+          "word": "Metro",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:02:41.779Z"
+    },
+    {
+      "title": "Fertilizer Dealers Notices: अमरावती विभागातील ५३ खत विक्रेत्यांना नोटिसा",
+      "url": "https://agrowon.esakal.com/agro-special/fertilizer-hoarding-action-amravati-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T15:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.3540781028381805,
+      "crawledAt": "2026-04-17T16:52:19.118Z",
+      "id": "nthv1e",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:03:03.748Z"
+    },
+    {
+      "title": "School Assembly News Headlines : National, World, Sports Updates",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-18-national-world-sports-updates-11372740#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T14:53:46.000Z",
+      "metaDescription": "Today's News Headline: Learn more about the Women's Reservation Bill failing the Lok Sabha test and Iran's big announcement on the Strait of Hormuz.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.25887558177205766,
+      "crawledAt": "2026-04-17T16:53:46.154Z",
+      "id": "ys2yre",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8419700264930725,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8125330209732056,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.887310266494751,
+          "index": 7,
+          "word": "National",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Strait of Hormuz is the Strait of the Strait. The Strait is the world's largest Strait of Sea. The Strait has been closed to Iran for years.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:03:41.678Z"
+    },
+    {
+      "title": "Children Still Draw The Sun: Art From Destroyed Iran School Shown In Delhi",
+      "url": "https://www.ndtv.com/india-news/us-israel-iran-war-children-still-draw-the-sun-art-from-destroyed-iran-school-shown-in-delhi-11372709#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T14:47:32.000Z",
+      "metaDescription": "According to the organisers, the exhibition showcases artworks created by children whose lives were cut short in a devastating military strike.",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.28587775401561333,
+      "crawledAt": "2026-04-17T16:53:46.324Z",
+      "id": "6ndb8q",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.998516857624054,
+          "index": 17,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The exhibition showcases artworks created by children whose lives were cut short in a military strike. The exhibition is being held in London, London and London.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:04:01.712Z"
+    },
+    {
+      "title": "TCS brings back regular salary hikes amid workforce dip, ‘double-digit’ raise for top performers",
+      "url": "https://www.livemint.com/companies/news/tcs-brings-back-regular-salary-hikes-amid-workforce-dip-double-digit-raise-for-top-performers-11776430788763.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T14:41:15.000Z",
+      "metaDescription": "TCS said that in FY26, it hired over 750 employees with deep advisory and consulting expertise",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.7886545138887926,
+      "crawledAt": "2026-04-17T16:53:09.868Z",
+      "id": "az1e7g",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9976511001586914,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9740550518035889,
+          "index": 2,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " TCS said that in FY26, it hired over 750 employees with deep advisory and consulting expertise. In FY26 it hired 750 employees.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:04:23.677Z"
+    },
+    {
+      "title": "'After Love And Land, Now Corporate Jihad': Devendra Fadnavis On TCS Case",
+      "url": "https://www.ndtv.com/india-news/after-love-and-land-now-corporate-jihad-devendra-fadnavis-on-tcs-case-11372419#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T14:32:44.000Z",
+      "metaDescription": "\"We are very concerned about this because we have seen this jihad in various other forms,\" Devendra Fadnavis said on what he called TCS \"love jihad\" case",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.3712350772028596,
+      "crawledAt": "2026-04-17T16:53:46.551Z",
+      "id": "oz0ql5",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9756138920783997,
+          "index": 4,
+          "word": "And",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9300500154495239,
+          "index": 5,
+          "word": "Land",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9996618628501892,
+          "index": 13,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999159574508667,
+          "index": 15,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8068487048149109,
+          "index": 20,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9107587337493896,
+          "index": 21,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " \"We are very concerned about this because we have seen this jihad in various other forms,\" Devendra Fadnavis said.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:05:26.493Z"
+    },
+    {
+      "title": "Nagbhid Farmers Protest | नागभीडमध्ये शेतकऱ्यांचा जनआक्रोश; वाघाला पकडण्यास अपयश आल्याने वनविभागाला घेराव",
+      "url": "https://pudhari.news/maharashtra/vidarbha/chandrapur/chandrapur-nagbhid-farmers-protest-forest-department-tiger-conflict-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T14:31:39.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.25188123944002866,
+      "crawledAt": "2026-04-17T16:52:10.405Z",
+      "id": "vhcslm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8372886776924133,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9843389987945557,
+          "index": 3,
+          "word": "##b",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8972088694572449,
+          "index": 4,
+          "word": "##hi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8533990383148193,
+          "index": 5,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9540585875511169,
+          "index": 6,
+          "word": "Farmers",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:05:26.681Z"
+    },
+    {
+      "title": "Fridge Water Health Risks : फ्रिजमधील पाणी पिणं आरोग्यासाठी आहे का चांगल?",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/fridge-water-health-risks-side-effects-of-cold-water-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T14:26:11.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2901394788606469,
+      "crawledAt": "2026-04-17T16:52:20.238Z",
+      "id": "7d8gh5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:05:35.304Z"
+    },
+    {
+      "title": "Tripura ADC elections: High hopes for tribal solidarity in Northeast as Tipra Motha sweeps 24 of 28 seats",
+      "url": "https://indianexpress.com/article/india/tripura-adc-election-results-tipra-motha-bjp-loss-10642130/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T14:24:07.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.28640432323762716,
+      "crawledAt": "2026-04-17T16:52:47.384Z",
+      "id": "cy0kkm",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9284127950668335,
+          "index": 1,
+          "word": "Trip",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9758824110031128,
+          "index": 2,
+          "word": "##ura",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8207892775535583,
+          "index": 3,
+          "word": "AD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9865178465843201,
+          "index": 4,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9772072434425354,
+          "index": 13,
+          "word": "Northeast",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9958202242851257,
+          "index": 15,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8374042510986328,
+          "index": 16,
+          "word": "##ip",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8922609686851501,
+          "index": 17,
+          "word": "##ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9928278923034668,
+          "index": 18,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:05:45.417Z"
+    },
+    {
+      "title": "Government move to spend Rs 14.50 crore for documentary on petroglyphs under Opposition fire",
+      "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-konkan-petroglyphs-documentary-controversy-10642105/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T14:16:40.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.7756027087746433,
+      "crawledAt": "2026-04-17T16:52:42.724Z",
+      "id": "rlniaz",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:06:12.791Z"
+    },
+    {
+      "title": "Pune doctor negligence case: 11 महिन्याच्या चिमुकलीचा चुकीच्या पद्धतीने उपचार केल्याने मृत्यू, पुण्याच्या 4 डॉक्टरांविरुद्ध गुन्हा",
+      "url": "https://pudhari.news/maharashtra/pune/pune-doctor-negligence-case-4-booked-in-11-month-child-death",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T14:12:18.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4430564622864457,
+      "crawledAt": "2026-04-17T16:52:10.667Z",
+      "id": "6u4kke",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9970948696136475,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:06:25.170Z"
+    },
+    {
+      "title": "FSSAI asks States to crack down on fruit ripening agents",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/fssai-asks-states-to-crack-down-on-fruit-ripening-agents/article70874222.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T14:10:28.000Z",
+      "metaDescription": "In its order, FSSAI reiterated that the use of calcium carbide for artificial ripening of fruits such as mangoes, bananas and papayas is strictly prohibited as it poses serious health risks",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.38226243594359943,
+      "crawledAt": "2026-04-17T16:53:32.906Z",
+      "id": "6cs8oe",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9982544183731079,
+          "index": 1,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9057450890541077,
+          "index": 2,
+          "word": "##SS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969964623451233,
+          "index": 3,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9321923851966858,
+          "index": 4,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9909542202949524,
+          "index": 6,
+          "word": "States",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " FSSAI reiterated that the use of calcium carbide for artificial ripening of fruits such as mangoes, bananas and papayas is strictly prohibited.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:06:46.397Z"
+    },
+    {
+      "title": "The Youva Way: Navneet Unveils New Naruto Collection, Bringing Shinobi Discipline to Every Desk",
+      "url": "https://thelivenagpur.com/2026/04/17/the-youva-way-navneet-unveils-new-naruto-collection-bringing-shinobi-discipline-to-every-desk/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T13:58:58.000Z",
+      "metaDescription": "Youva, the stationery brand from the House of Navneet is thrilled to announce the launch of…",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.37687392517793805,
+      "crawledAt": "2026-04-17T16:52:23.883Z",
+      "id": "br8ofc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9713442921638489,
+          "index": 2,
+          "word": "You",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9396790266036987,
+          "index": 4,
+          "word": "Way",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8351209759712219,
+          "index": 6,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8047637939453125,
+          "index": 14,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9708202481269836,
+          "index": 16,
+          "word": "##to",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9430724382400513,
+          "index": 22,
+          "word": "##ob",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9566568732261658,
+          "index": 28,
+          "word": "Every",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9853032231330872,
+          "index": 29,
+          "word": "Des",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9745594263076782,
+          "index": 30,
+          "word": "##k",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Youva, the stationery brand from the House of Navneet is thrilled to announce the launch of the new brand.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:07:37.812Z"
+    },
+    {
+      "title": "Kharat aide killed in Samruddhi Expressway crash; family injured",
+      "url": "https://indianexpress.com/article/cities/mumbai/jitendra-shelke-ashok-kharat-aide-killed-samruddhi-expressway-accident-ahmednagar-foul-play-claims-10642092/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T13:46:53.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.5119934523975666,
+      "crawledAt": "2026-04-17T16:52:42.821Z",
+      "id": "v0p3vy",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9391000866889954,
+          "index": 1,
+          "word": "K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8716639280319214,
+          "index": 7,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9333269000053406,
+          "index": 8,
+          "word": "##rud",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8823089599609375,
+          "index": 9,
+          "word": "##dhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9358031153678894,
+          "index": 10,
+          "word": "Expressway",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:08:00.940Z"
+    },
+    {
+      "title": "Wheat Procurement: अवकाळीने नुकसान, गहू खरेदीच्या नियमांत शिथिलता, केंद्राचा मोठा निर्णय",
+      "url": "https://agrowon.esakal.com/agro-special/centre-relaxed-wheat-procurement-rules-punjab-chandigarh-crop-damage-ddb79",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T13:45:28.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2770656609745811,
+      "crawledAt": "2026-04-17T16:52:21.461Z",
+      "id": "6qea8q",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:08:01.133Z"
+    },
+    {
+      "title": "Industries urge GST Council to allow inverted duty refunds on input services",
+      "url": "https://www.thehindubusinessline.com/economy/industries-urge-gst-council-to-allow-inverted-duty-refunds-on-input-services/article70873679.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T13:30:48.000Z",
+      "metaDescription": "Experts feel that absence of such a mechanism creates structural disadvantage for manufacturers",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2677920235800125,
+      "crawledAt": "2026-04-17T16:53:33.041Z",
+      "id": "qnq2pc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9993364810943604,
+          "index": 3,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980983734130859,
+          "index": 4,
+          "word": "##ST",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989054203033447,
+          "index": 5,
+          "word": "Council",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " absence of such a mechanism creates structural disadvantage for manufacturers. Experts feel that absence of this mechanism creates a structural disadvantage.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:08:08.318Z"
+    },
+    {
+      "title": "Mob snatches four rifles from forest officers during Assam clash",
+      "url": "https://indianexpress.com/article/india/mob-snatches-four-rifles-from-forest-officers-during-assam-clash-10642058/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T13:27:49.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.32441949905623846,
+      "crawledAt": "2026-04-17T16:52:47.691Z",
+      "id": "s4xee0",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999591588973999,
+          "index": 12,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:08:23.459Z"
+    },
+    {
+      "title": "Jalgaon Police | जळगाव पोलीस दलात खळबळ: शनिपेठेतील लाचखोरी प्रकरणी पोलीस नाईक बडतर्फ; निरीक्षकांची बदली",
+      "url": "https://pudhari.news/maharashtra/north-maharashtra/jalgaon/jalgaon-police-constable-dismissed-bribery-case-shanipeth-inspector-transferred-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T13:06:57.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2561338364403435,
+      "crawledAt": "2026-04-17T16:52:11.541Z",
+      "id": "2euupe",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9969997406005859,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8836228251457214,
+          "index": 2,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.982883095741272,
+          "index": 3,
+          "word": "##gaon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9836883544921875,
+          "index": 4,
+          "word": "Police",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:08:46.305Z"
+    },
     {
       "title": "Jio Financial Services Q4: PAT Dips 14% YoY To ₹272 Cr, Revenue Zooms Over 2X",
       "url": "https://inc42.com/buzz/jio-financial-services-q4-pat-dips-14-yoy-to-%e2%82%b9272-cr-revenue-more-than-doubles/",
@@ -405,6 +2239,77 @@
       "summary": " The Bench observed that the deprivation faced by EWS individuals was not comparable to caste-based discrimination. The Bench said the deprivation was not similar to caste based discrimination.",
       "language": "en",
       "processed_at": "2026-04-17T13:14:15.661Z"
+    },
+    {
+      "title": "Gurugram Boy Scores 100% In CBSE Class 10 Exam, Aims For Career In Research",
+      "url": "https://www.ndtv.com/education/meet-gurugram-student-tanay-srivastava-who-scored-100-marks-in-cbse-class-10-exam-2026-11371887#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-17T12:55:14.000Z",
+      "metaDescription": "Tanay said his success was driven by conceptual clarity, consistent self-discipline, structured revision, and close adherence to teachers' guidance, rather than fixed study hours.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.34108049950537883,
+      "crawledAt": "2026-04-17T16:53:47.550Z",
+      "id": "vuaitj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8976858258247375,
+          "index": 1,
+          "word": "Guru",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9311366677284241,
+          "index": 2,
+          "word": "##gram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9495666027069092,
+          "index": 9,
+          "word": "CBS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8426679968833923,
+          "index": 19,
+          "word": "Career",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tanay said his success was driven by conceptual clarity, consistent self-discipline, structured revision, and close adherence to teachers' guidance.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:09:18.786Z"
+    },
+    {
+      "title": "स्वच्छता विभागाच्या ताफ्यात दाखल दोन यांत्रिक झाडूंचे लोकार्पण",
+      "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mum26i67573-txt-thane-today-20260417125455",
+      "source": "eSakal — stories (Marathi)",
+      "source_domain": "esakal.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T12:54:55.000Z",
+      "metaDescription": "स्वच्छता विभागाच्या ताफ्यात दाखल दोन यांत्रिक झाडूंचे लोकार्पण",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2595701494278901,
+      "crawledAt": "2026-04-17T16:52:07.772Z",
+      "id": "pcj5np",
+      "entities": [],
+      "summary": " The World Cup has been held in the past four years. The World Series has been called the World Cup.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:09:28.129Z"
     },
     {
       "title": "Minister inaugurates Shashtripuram Road Over Bridge",
@@ -4701,6 +6606,34 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-17T09:31:36.695Z"
+    },
+    {
+      "title": "Delimitation will turn out to be political demonetisation: Tharoor in Lok Sabha",
+      "url": "https://indianexpress.com/article/india/shashi-tharoor-delimitation-speech-lok-sabha-disunited-india-10641221/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-17T07:19:16.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2636135867534759,
+      "crawledAt": "2026-04-17T16:52:48.427Z",
+      "id": "7alw0l",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9794372916221619,
+          "index": 14,
+          "word": "T",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-17T17:10:01.086Z"
     },
     {
       "title": "“Machines are standing still”: Fuel shortages disrupt wheat harvest in Uttar Pradesh",
@@ -9674,20 +11607,20 @@
       "processed_at": "2026-04-17T09:43:41.456Z"
     }
   ],
-  "processedAt": "2026-04-17T13:31:11.057Z",
+  "processedAt": "2026-04-17T17:10:01.298Z",
   "categories": [
-    "banking-credit",
+    "maharashtra-state-local",
     "government-schemes",
-    "education-skills",
+    "policy-regulation",
     "jobs-recruitment",
     "legal-judiciary",
-    "maharashtra-state-local",
-    "policy-regulation",
     "msme-industry-trade",
+    "education-skills",
+    "banking-credit",
     "civic-public-service"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 61,
-  "dailyArticlesCount": 229,
+  "newArticlesProcessed": 41,
+  "dailyArticlesCount": 270,
   "filterDate": "2026-04-17"
 }
