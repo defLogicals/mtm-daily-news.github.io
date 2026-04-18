@@ -1,9 +1,743 @@
 {
-  "crawledAt": "2026-04-18T16:37:56.824Z",
+  "crawledAt": "2026-04-18T20:33:53.960Z",
   "totalSources": 75,
-  "totalArticles": 216,
+  "totalArticles": 237,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Maharashtra RTO official gets threat call from ‘Bishnoi gang’ while on Bengaluru visit; FIR registered",
+      "url": "https://www.deccanherald.com/india/maharashtra/maharashtra-rto-official-gets-threat-call-from-bishnoi-gang-while-on-bengaluru-visit-fir-registered-3973022",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T20:18:32.000Z",
+      "metaDescription": "M'rashtra RTO official gets threat call from \n‘Bishnoi gang’ while on B'luru visit; FIR registered",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5473576572783179,
+      "crawledAt": "2026-04-18T20:33:46.243Z",
+      "id": "nahtl2",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.974700391292572,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9930247068405151,
+          "index": 3,
+          "word": "##TO",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8792991638183594,
+          "index": 10,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9984224438667297,
+          "index": 18,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9966270327568054,
+          "index": 19,
+          "word": "##uru",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " M'rashtra RTO official gets threat call from  ‘Bishnoi gang’ while on B'luru visit; FIR registered registered.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:34:17.233Z"
+    },
+    {
+      "title": "Bannerghatta zoo gets 4 cheetahs from South Africa",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/b-ghatta-zoo-gets-4-cheetahs-from-south-africa-3973020",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T20:14:31.000Z",
+      "metaDescription": "B’ghatta zoo gets 4 cheetahs from South Africa",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.26531839736349494,
+      "crawledAt": "2026-04-18T20:33:46.384Z",
+      "id": "15klni",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9921776652336121,
+          "index": 1,
+          "word": "Banner",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9771471619606018,
+          "index": 2,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9554855227470398,
+          "index": 3,
+          "word": "##att",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9760410189628601,
+          "index": 4,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9996336698532104,
+          "index": 13,
+          "word": "South",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9988539218902588,
+          "index": 14,
+          "word": "Africa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:34:29.862Z"
+    },
+    {
+      "title": "Education, livelihoods drive change for Devadasi families",
+      "url": "https://www.deccanherald.com/india/karnataka/education-livelihoods-drive-change-3972986",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T19:34:30.000Z",
+      "metaDescription": "Education, livelihoods drive change",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.7373910755663206,
+      "crawledAt": "2026-04-18T20:33:46.924Z",
+      "id": "jzr6pl",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.8902370929718018,
+          "index": 9,
+          "word": "Dev",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:35:53.608Z"
+    },
+    {
+      "title": "Justice is served in Sattankulam",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/justice-is-served-in-sattankulam/article70876990.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T19:30:45.000Z",
+      "metaDescription": "The judgment in the Sattankulam custodial torture case arrived with the fragrance of justice. The court found nine policemen guilty of the torture and murder of Jayaraj and Benicks, and sentenced them",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.31781987859262295,
+      "crawledAt": "2026-04-18T20:33:04.809Z",
+      "id": "65hfhh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9941160678863525,
+          "index": 5,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9724394679069519,
+          "index": 6,
+          "word": "##tta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9809280037879944,
+          "index": 7,
+          "word": "##nk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.987504243850708,
+          "index": 8,
+          "word": "##ula",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8759151101112366,
+          "index": 9,
+          "word": "##m",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The court found nine policemen guilty of torture and murder of Jayaraj and Benicks. They were sentenced to prison for their role in the torture case.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:36:04.864Z"
+    },
+    {
+      "title": "Governor to inaugurate Sankara Jayanti celebrations",
+      "url": "https://www.thehindu.com/news/national/kerala/governor-to-inaugurate-sankara-jayanthi-celebrations-at-ssus/article70877791.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T19:17:38.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.30371759335405457,
+      "crawledAt": "2026-04-18T20:33:05.379Z",
+      "id": "h3uzx9",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9864210486412048,
+          "index": 7,
+          "word": "San",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8251593112945557,
+          "index": 8,
+          "word": "##kara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9602951407432556,
+          "index": 9,
+          "word": "Jaya",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:36:37.924Z"
+    },
+    {
+      "title": "You must divulge, we shan’t disclose",
+      "url": "https://www.deccanherald.com/opinion/you-must-divulge-we-shan-t-disclose-3973052",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T19:16:48.000Z",
+      "metaDescription": "You must divulge, \nwe shan’t disclose",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.2500046182347483,
+      "crawledAt": "2026-04-18T20:33:47.276Z",
+      "id": "bgjybs",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:36:38.074Z"
+    },
+    {
+      "title": "A contested code for reform",
+      "url": "https://www.deccanherald.com/opinion/a-contested-code-for-reform-3973053",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T19:14:54.000Z",
+      "metaDescription": "A contested code \nfor reform",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4774867737631148,
+      "crawledAt": "2026-04-18T20:33:47.361Z",
+      "id": "88v9ag",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:36:52.725Z"
+    },
+    {
+      "title": "From courts to community: The global resurrection of Islam",
+      "url": "https://www.deccanherald.com/opinion/from-courts-to-community-the-global-resurrection-of-islam-3973054",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T19:12:22.000Z",
+      "metaDescription": "From courts to community: The global resurrection of Islam",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.7705736777909976,
+      "crawledAt": "2026-04-18T20:33:47.476Z",
+      "id": "ictgpd",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8487533330917358,
+          "index": 10,
+          "word": "Islam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " From courts to community to community, Islam is a global resurrection of Islam. From courts and community to court to community: The global resurrection is the global resurrection.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:37:17.555Z"
+    },
+    {
+      "title": "What the space missions are teaching me",
+      "url": "https://www.deccanherald.com/opinion/what-the-space-missions-are-teaching-me-3973050",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T19:07:53.000Z",
+      "metaDescription": "What the space missions are teaching me",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.5160454319956441,
+      "crawledAt": "2026-04-18T20:33:47.576Z",
+      "id": "pd5xob",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:37:29.999Z"
+    },
+    {
+      "title": "Sabrina Carpenter-Madonna Collab Rocks Coachella 2026 Stage",
+      "url": "https://www.youtube.com/shorts/LoN3v-OnWJ8",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T19:00:30.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.8403484935435178,
+      "crawledAt": "2026-04-18T20:33:27.226Z",
+      "id": "nlzrp0",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994808435440063,
+          "index": 1,
+          "word": "Sabrina",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9993813037872314,
+          "index": 2,
+          "word": "Carpenter",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8528522849082947,
+          "index": 4,
+          "word": "Madonna",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8682311773300171,
+          "index": 10,
+          "word": "##ella",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:37:30.320Z"
+    },
+    {
+      "title": "Crime News : बनावट सुगंधीत तंबाखू कारखान्यावर छापा",
+      "url": "https://deshdoot.com/fake-tobacco-factory-police-raid-ahilyanagar/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T19:00:00.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar स्थानिक गुन्हे शाखेने एमआयडीसी हद्दीतील गजराजनगर येथे सुरू असलेला बनावट सुगंधीत तंबाखू तयार करण्याचा कारखाना उद्ध्वस्त करत मोठी कारवाई केली आहे. या कारवाईत तीन आरोपी",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.37819924801139826,
+      "crawledAt": "2026-04-18T20:32:36.391Z",
+      "id": "f5sqqx",
+      "entities": [],
+      "summary": " Ahilyanagar. The city is home to the world's largest city, the city of Ahilya.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:37:42.980Z"
+    },
+    {
+      "title": "\"They Can Not Blackmail US\": Donald Trump Warns Iran",
+      "url": "https://www.youtube.com/shorts/NNb2lkbfRHs",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T18:51:19.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.30088525732975496,
+      "crawledAt": "2026-04-18T20:33:27.423Z",
+      "id": "gk8q8z",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.966498851776123,
+          "index": 7,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9987505674362183,
+          "index": 10,
+          "word": "Donald",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9984006285667419,
+          "index": 11,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997416734695435,
+          "index": 14,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:37:43.451Z"
+    },
+    {
+      "title": "DH Toon | Women vote bank",
+      "url": "https://www.deccanherald.com/opinion/cartoon/dh-toon-women-vote-bank-3973047",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T18:35:45.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2994124664733334,
+      "crawledAt": "2026-04-18T20:33:47.653Z",
+      "id": "f4vvdm",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9879338145256042,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9843485355377197,
+          "index": 2,
+          "word": "##H",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9922488927841187,
+          "index": 3,
+          "word": "Too",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9284487962722778,
+          "index": 4,
+          "word": "##n",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:38:28.393Z"
+    },
+    {
+      "title": "Truck driver Baljeet Singh pleads guilty to causing death of two, was playing mobile game",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-truck-driver-baljeet-singh-pleads-guilty-to-causing-death-of-two-in-crash-in-canada-was-playing-mobile-game/articleshow/130360555.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T18:32:57.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28350646010002717,
+      "crawledAt": "2026-04-18T20:33:12.584Z",
+      "id": "tkkmth",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9996764063835144,
+          "index": 3,
+          "word": "Ba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9943892955780029,
+          "index": 5,
+          "word": "##jee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9987649321556091,
+          "index": 7,
+          "word": "Singh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:38:28.756Z"
+    },
+    {
+      "title": "\"Being Probed Minutely\": Collector On Vedanta Boiler Blast That Killed 23",
+      "url": "https://www.ndtv.com/india-news/collector-on-vedanta-boiler-blast-that-killed-23-being-probed-minutely-11377369#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T18:24:55.000Z",
+      "metaDescription": "Sakti Collector Amrit Vikas Topno said a central government team is examining the logs to pinpoint what triggered one of the worst industrial accidents in Chhattisgarh.",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.2780077806631053,
+      "crawledAt": "2026-04-18T20:33:15.372Z",
+      "id": "bfaixb",
+      "entities": [],
+      "summary": " Sakti Collector Amrit Vikas Topno said the accident was one of the worst accidents in Chhattisgarh.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:38:39.461Z"
+    },
+    {
+      "title": "French Soldier Killed In Attack On UN Peacekeepers In Lebanon: Macron",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-french-soldier-killed-in-attack-on-un-peacekeepers-in-lebanon-macron-11377221#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T17:23:23.000Z",
+      "metaDescription": "The attack near the southern Lebanese village of Ghandouriyeh came after a 10-day ceasefire went into effect at midnight Thursday between Israel and Lebanon's militant Hezbollah group.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2767143554898378,
+      "crawledAt": "2026-04-18T20:33:24.578Z",
+      "id": "l76rvl",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9997031092643738,
+          "index": 1,
+          "word": "French",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8443515300750732,
+          "index": 8,
+          "word": "UN",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9986222386360168,
+          "index": 12,
+          "word": "Lebanon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9870243072509766,
+          "index": 14,
+          "word": "Mac",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The attack comes after a 10-day ceasefire between Israel and Hezbollah. The ceasefire went into effect at midnight Thursday.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:39:44.194Z"
+    },
+    {
+      "title": "Talks, Reintroduction: How Centre May Move Forward With Women's Quota Bill",
+      "url": "https://www.ndtv.com/india-news/talks-reintroduction-how-centre-may-move-forward-with-womens-quota-bill-11377177#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T17:07:19.000Z",
+      "metaDescription": "According to top government sources, the government led by Prime Minister Narendra Modi remains committed to 33 per cent women's reservation by 2029",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2655486139973124,
+      "crawledAt": "2026-04-18T20:33:16.427Z",
+      "id": "6qarr9",
+      "entities": [],
+      "summary": " Prime Minister Narendra Modi remains committed to 33 per cent women's reservation by 2029. According to top government sources, the government remains committed.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:40:16.345Z"
+    },
+    {
+      "title": "'Will Not Compromise': Iran Says Reviewing New Proposals From US",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-will-not-compromise-iran-says-reviewing-new-proposals-from-us-11377127#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:53:07.000Z",
+      "metaDescription": "The Supreme National Security Council said Iran's negotiating delegation \"will not make even the slightest compromise, retreat or leniency, and will defend with all its strength the interests of the I",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2652303706288962,
+      "crawledAt": "2026-04-18T20:33:25.207Z",
+      "id": "2mxzgh",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8510041832923889,
+          "index": 10,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9983050227165222,
+          "index": 21,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Supreme National Security Council said Iran's negotiating delegation \"will not make even the slightest compromise, retreat or leniency\"",
+      "language": "en",
+      "processed_at": "2026-04-18T20:40:26.910Z"
+    },
+    {
+      "title": "Girl, 15, Files First Complaint By Survivor In Amravati 'Love Trap' Case",
+      "url": "https://www.ndtv.com/india-news/girl-15-files-first-complaint-by-survivor-in-amravati-love-trap-case-11377115#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:48:03.000Z",
+      "metaDescription": "The police launched a probe after obscene video clips and photographs of minor girls surfaced on social media sites on April 11.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2832848630304812,
+      "crawledAt": "2026-04-18T20:33:16.760Z",
+      "id": "uegun9",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.809056282043457,
+          "index": 19,
+          "word": "Love",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.994834303855896,
+          "index": 20,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9738487005233765,
+          "index": 21,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " obscene video clips and photographs of minor girls surfaced on social media sites. Police launched a probe after the images surfaced on April 11.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:40:45.812Z"
+    },
     {
       "title": "PM Modi says 'will get more chances' to push for women's quota, blames Congress as 'anti-reform party' | LIVE",
       "url": "https://www.thehindu.com/news/national/pm-modi-address-to-nation-live-updates-womens-reservation-bill-delimitation-april-18-2026/article70877110.ece",
@@ -396,6 +1130,82 @@
       "summary": " The C.C. C. A.C.: I want to switch but have to switch. I want a change but have been in the bank for a few years.",
       "language": "en",
       "processed_at": "2026-04-18T16:41:37.026Z"
+    },
+    {
+      "title": "Dual Citizenship Row: Allahabad High Court Defers Order On Case Against Rahul Gandhi",
+      "url": "https://www.ndtv.com/india-news/dual-citizenship-row-allahabad-high-court-defers-order-on-case-against-rahul-gandhi-11376992#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:11:18.000Z",
+      "metaDescription": "The Lucknow bench of theAllahabadHighCourthas deferred itsorderdirecting anFIRagainstCongress MP RahulGandhiin connection with the alleged dual citizenship controversy.",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.45928254838458954,
+      "crawledAt": "2026-04-18T20:33:17.409Z",
+      "id": "uiolds",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9441490769386292,
+          "index": 6,
+          "word": "Allah",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9334169030189514,
+          "index": 7,
+          "word": "##abad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8257676959037781,
+          "index": 8,
+          "word": "High",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8020535707473755,
+          "index": 9,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9979767799377441,
+          "index": 16,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9712081551551819,
+          "index": 17,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9924502968788147,
+          "index": 18,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Lucknow bench of theAllahabad High Court has ordered anFIR against Congress MP RahulGandhiin.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:40:56.457Z"
     },
     {
       "title": "Is cybersecurity a good career path to get into",
@@ -2326,6 +3136,50 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-18T12:57:50.623Z"
+    },
+    {
+      "title": "PM Modi Speech Live Updates: ‘Distress, not national address’, Congress reacts to PM’s speech",
+      "url": "https://indianexpress.com/article/india/pm-modi-speech-address-to-nation-today-live-updates-latest-news-10643620/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T12:31:38.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.2635801094568953,
+      "crawledAt": "2026-04-18T20:32:25.800Z",
+      "id": "3103gf",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9987343549728394,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9251887798309326,
+          "index": 3,
+          "word": "##di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9987282156944275,
+          "index": 19,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T20:40:56.604Z"
     },
     {
       "title": "How Big is Maharashtra’s Billion-Dollor Haldi Empire?",
@@ -8857,21 +9711,21 @@
       "processed_at": "2026-04-18T05:57:42.415Z"
     }
   ],
-  "processedAt": "2026-04-18T16:58:08.448Z",
+  "processedAt": "2026-04-18T20:40:56.620Z",
   "categories": [
-    "government-schemes",
-    "education-skills",
-    "jobs-recruitment",
     "maharashtra-state-local",
-    "banking-credit",
-    "civic-public-service",
     "legal-judiciary",
+    "education-skills",
+    "government-schemes",
+    "banking-credit",
+    "jobs-recruitment",
+    "civic-public-service",
     "msme-industry-trade",
     "policy-regulation",
     "tax-compliance-gst"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 64,
-  "dailyArticlesCount": 216,
+  "newArticlesProcessed": 21,
+  "dailyArticlesCount": 237,
   "filterDate": "2026-04-18"
 }
