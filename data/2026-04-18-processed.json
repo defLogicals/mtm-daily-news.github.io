@@ -1,9 +1,2110 @@
 {
-  "crawledAt": "2026-04-18T12:56:16.047Z",
+  "crawledAt": "2026-04-18T16:37:56.824Z",
   "totalSources": 75,
-  "totalArticles": 152,
+  "totalArticles": 216,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "PM Modi says 'will get more chances' to push for women's quota, blames Congress as 'anti-reform party' | LIVE",
+      "url": "https://www.thehindu.com/news/national/pm-modi-address-to-nation-live-updates-womens-reservation-bill-delimitation-april-18-2026/article70877110.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:30:22.000Z",
+      "metaDescription": "Prime Minister Narendra Modi, in his address to the nation, said parties that opposed the Nari Shakti Vandan Adhiniyam in Parliament were taking women's power for granted.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.287844055863815,
+      "crawledAt": "2026-04-18T16:37:00.993Z",
+      "id": "ugcjhq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994927048683167,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9318008422851562,
+          "index": 3,
+          "word": "##di",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9985764622688293,
+          "index": 21,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Narendra Modi said parties that opposed Nari Shakti Vandan Adhiniyam were taking women's power for granted.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:39:16.482Z"
+    },
+    {
+      "title": "CUET 2027: Is it realistic to prepare alongside a B.Sc Statistics degree, and should I choose Law or Stats?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sp29p2/cuet_2027_is_it_realistic_to_prepare_alongside_a/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T16:30:20.000Z",
+      "metaDescription": "my_qualifications: 12th PCM (52%). I’m 19 and planning to prepare for CUET 2027. I passed 12th with PCM (52%) and am considering reappearing, but I’m not sure if it’s actually worth the time. I’m thin",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.47253714427243965,
+      "crawledAt": "2026-04-18T16:37:49.398Z",
+      "id": "2zqoib",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9358771443367004,
+          "index": 14,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9608696103096008,
+          "index": 16,
+          "word": "Sc",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8413931131362915,
+          "index": 17,
+          "word": "Statistics",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8756350874900818,
+          "index": 24,
+          "word": "Law",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8933623433113098,
+          "index": 27,
+          "word": "##ats",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " I'm 19 and planning to prepare for CUET 2027. I passed 12th with PCM (52%) and am considering reappearing. I'm not sure if it’s worth the time. I’m thin. I”m thin",
+      "language": "en",
+      "processed_at": "2026-04-18T16:39:32.996Z"
+    },
+    {
+      "title": "Tamil Nadu election 2026: Kurinjipadi constituency voters want non-polluting, agro-based industrial boost",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/kurinjipadi-voters-want-non-polluting-agro-based-industrial-boost/article70774721.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:29:06.000Z",
+      "metaDescription": "Minister MRK Panneerselvam is in the fray aiming for a hat-trick in Kurinjipadi. The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi headed by T. Velmur",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3428728230054555,
+      "crawledAt": "2026-04-18T16:37:01.453Z",
+      "id": "c4bt0n",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993139505386353,
+          "index": 1,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.998735785484314,
+          "index": 2,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9499332904815674,
+          "index": 7,
+          "word": "Ku",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8747788667678833,
+          "index": 8,
+          "word": "##rin",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8882972598075867,
+          "index": 9,
+          "word": "##ji",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8809226155281067,
+          "index": 10,
+          "word": "##pad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9364013075828552,
+          "index": 11,
+          "word": "##i",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The DMK-led Democratic Progressive Alliance needs to be aware that the Tamizhaga Vazhvurimai Katchi is headed by T. Velmur.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:39:47.729Z"
+    },
+    {
+      "title": "Food safety drive targets juice shops, bottled water sales",
+      "url": "https://www.thehindu.com/news/national/kerala/food-safety-drive-targets-juice-shops-bottled-water-sales/article70878428.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:26:48.000Z",
+      "metaDescription": "The initiative comes amid a surge in demand for packaged drinking water and fruit juices during the summer months",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.4168738129972821,
+      "crawledAt": "2026-04-18T16:37:01.782Z",
+      "id": "3oorar",
+      "entities": [],
+      "summary": " The initiative comes amid a surge in demand for packaged drinking water and fruit juices during the summer months. It comes amid surge indemand for packaged water and juices during summer months.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:40:11.750Z"
+    },
+    {
+      "title": "Commercial vehicles’ manual fitness tests deadline extended till Oct",
+      "url": "https://indianexpress.com/article/cities/pune/commercial-vehicles-manual-fitness-tests-deadline-extended-till-oct-10643982/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T16:26:18.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.498111275450479,
+      "crawledAt": "2026-04-18T16:36:10.084Z",
+      "id": "shkng8",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:40:21.778Z"
+    },
+    {
+      "title": "Cleanup drive, heritage walk shine spotlight on Irrum Manzil Palace on World Heritage Day",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/cleanup-drive-heritage-walk-shine-spotlight-on-irrum-manzil-palace-on-world-heritage-day/article70878253.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:26:13.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.6799759696228831,
+      "crawledAt": "2026-04-18T16:37:01.892Z",
+      "id": "gisl",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.8755124807357788,
+          "index": 13,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8931891322135925,
+          "index": 14,
+          "word": "##zi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8741835951805115,
+          "index": 16,
+          "word": "Palace",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9982640743255615,
+          "index": 18,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9980131387710571,
+          "index": 19,
+          "word": "Heritage",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9981368780136108,
+          "index": 20,
+          "word": "Day",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:40:21.957Z"
+    },
+    {
+      "title": "Passengers Allege Expired Snacks Served on Pune–Ajni Vande Bharat Express",
+      "url": "https://thelivenagpur.com/2026/04/18/passengers-allege-expired-snacks-served-on-pune-ajni-vande-bharat-express/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T16:24:05.000Z",
+      "metaDescription": "Passengers travelling on the Pune–Ajni Vande Bharat Express on Saturday evening alleged that expired food items…",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.26797878382833196,
+      "crawledAt": "2026-04-18T16:35:45.081Z",
+      "id": "4rt5p9",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8364915251731873,
+          "index": 17,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9131119847297668,
+          "index": 18,
+          "word": "Van",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8986568450927734,
+          "index": 20,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8583502173423767,
+          "index": 22,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8935099840164185,
+          "index": 23,
+          "word": "Express",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Passengers travelling on the Pune–Ajni Vande Bharat Express on Saturday evening alleged that expired food items…",
+      "language": "en",
+      "processed_at": "2026-04-18T16:40:34.973Z"
+    },
+    {
+      "title": "\"Divide And Rule — Congress Has Inherited This From The British\"",
+      "url": "https://www.youtube.com/watch?v=LMUTNK65yZw",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T16:22:06.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.6321936127253022,
+      "crawledAt": "2026-04-18T16:37:21.432Z",
+      "id": "2uh9hs",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9903220534324646,
+          "index": 7,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:40:45.809Z"
+    },
+    {
+      "title": "Post CA with internship and few months post qualification exp in banking what are the exits . I want to switch but have absolutely no idea what I want or what I am interested in. Anyone with similar profiles,what has been you exits?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sp1t13/post_ca_with_internship_and_few_months_post/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T16:12:01.000Z",
+      "metaDescription": "Qualifications: CA. Post CA with internship and few months post qualification exp in banking (risk team and preperation of Credit Appraisal Memorandums) what are the exits . I want to switch but have ",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.3598165981811354,
+      "crawledAt": "2026-04-18T16:37:50.025Z",
+      "id": "pu5krd",
+      "entities": [],
+      "summary": " The C.C. C. A.C.: I want to switch but have to switch. I want a change but have been in the bank for a few years.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:41:37.026Z"
+    },
+    {
+      "title": "Is cybersecurity a good career path to get into",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sp1nd2/is_cybersecurity_a_good_career_path_to_get_into/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T16:05:55.000Z",
+      "metaDescription": "Is cybersecurity a good career path to get into?\n I just completed my highschool and I'm reallyy confused what to do now is cybersecurity a good career that I could get into? I'm willing to put effort",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.49856001881035245,
+      "crawledAt": "2026-04-18T16:37:50.279Z",
+      "id": "85y7pv",
+      "entities": [],
+      "summary": " Is cybersecurity a good career path to get into? I just completed my highschool and I'm reallyy confused what to do now is cybersecurity agood career that I could get into. I'm willing to put effort. Is cybersecurity is a good path to go into?",
+      "language": "en",
+      "processed_at": "2026-04-18T16:42:02.211Z"
+    },
+    {
+      "title": "Water Scarcity: पेठ तालुक्यात पाणीटंचाई, तातडीने टँकर सुरू करा : खासदार भगरे",
+      "url": "https://agrowon.esakal.com/agro-special/water-shortage-peth-taluka-nashik-tanker-demand-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T16:00:00.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.25624438505831726,
+      "crawledAt": "2026-04-18T16:35:42.044Z",
+      "id": "gnlh8w",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:42:22.085Z"
+    },
+    {
+      "title": "Repayment of loans can't be considered to dilute maintenance amount for wife: Supreme Court",
+      "url": "https://www.deccanherald.com/india/repayment-of-loans-cant-be-considered-to-dilute-maintenance-amount-for-wife-supreme-court-3972863",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T15:58:09.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.4106858126580233,
+      "crawledAt": "2026-04-18T16:37:45.835Z",
+      "id": "gjrra1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983165860176086,
+          "index": 20,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9934717416763306,
+          "index": 21,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:42:36.025Z"
+    },
+    {
+      "title": "I posted on society group",
+      "url": "https://www.reddit.com/r/pune/comments/1sp1f02/i_posted_on_society_group/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T15:57:24.000Z",
+      "metaDescription": "After the recent tanker strike in Pune I posted the following messages on our society group:\n \"Water tankers run by corporators and mafia, now blackmailing municipality who cant provide basic faciliti",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.5817541132247898,
+      "crawledAt": "2026-04-18T16:36:15.575Z",
+      "id": "8yu2es",
+      "entities": [],
+      "summary": "After the recent tanker strike in Pune I posted the following messages on our society group: \"Water tankers run by corporators and mafia, now blackmailing municipality who cant provide basic faciliti\"",
+      "language": "en",
+      "processed_at": "2026-04-18T16:42:49.024Z"
+    },
+    {
+      "title": "Grading system of SSLC third language: Karnataka files plea seeking review of High Court order",
+      "url": "https://www.deccanherald.com/india/karnataka/grading-system-of-sslc-third-language-karnataka-files-plea-seeking-review-of-high-court-order-3972796",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T15:38:20.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.7384852076386844,
+      "crawledAt": "2026-04-18T16:37:46.556Z",
+      "id": "84bm9f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9964638352394104,
+          "index": 5,
+          "word": "SS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907450079917908,
+          "index": 6,
+          "word": "##LC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9984659552574158,
+          "index": 10,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:44:05.597Z"
+    },
+    {
+      "title": "'Might Not Have 66% Votes, But We Have 100% Support Of Women': PM Modi",
+      "url": "https://www.ndtv.com/india-news/opposition-snatched-womens-rights-then-celebrated-pm-on-reservation-bill-11376702#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T15:36:50.000Z",
+      "metaDescription": "Opposition Snatched Women's Rights, Then Celebrated: PM On Reservation Bill",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.29349189502260603,
+      "crawledAt": "2026-04-18T16:37:17.732Z",
+      "id": "ihvros",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9993284344673157,
+          "index": 21,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Opposition Snatched Women's Rights, Then Celebrated: PM On Reservation Bill. PM OnReservation Bill.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:44:14.005Z"
+    },
+    {
+      "title": "Cabinet nod for Bharat Maritime Insurance Pool to shield Indian shipping from West Asia conflict",
+      "url": "https://www.deccanherald.com/india/cabinet-nod-for-bharat-maritime-insurance-pool-to-shield-indian-shipping-from-west-asia-conflict-3972834",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T15:34:41.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2931511973233664,
+      "crawledAt": "2026-04-18T16:37:46.667Z",
+      "id": "aleqn9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977325797080994,
+          "index": 4,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9498418569564819,
+          "index": 5,
+          "word": "##hara",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963440299034119,
+          "index": 6,
+          "word": "##t",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990913271903992,
+          "index": 7,
+          "word": "Maritime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990168213844299,
+          "index": 8,
+          "word": "Insurance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978037476539612,
+          "index": 9,
+          "word": "Pool",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.999657154083252,
+          "index": 12,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.987246036529541,
+          "index": 15,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9948734641075134,
+          "index": 16,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:44:26.512Z"
+    },
+    {
+      "title": "Health Benefits Of Raw Mango : कच्ची कैरी खाल्ल्याने शरीराला होतात 'हे' फायदे",
+      "url": "https://agrowon.esakal.com/ampstories/web-stories/health-benefits-of-raw-mango-nutritional-value-aak11",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T15:28:26.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.3083752835841132,
+      "crawledAt": "2026-04-18T16:35:42.302Z",
+      "id": "h99ru2",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.9684491157531738,
+          "index": 7,
+          "word": "Man",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:44:50.260Z"
+    },
+    {
+      "title": "Eight men held for gang-rape and blackmail of teenage girl since 2023",
+      "url": "https://www.deccanherald.com/india/gujarat/eight-men-held-for-gang-rape-and-blackmail-of-teenage-girl-since-2023-3972603",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T15:25:56.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2927959368946917,
+      "crawledAt": "2026-04-18T16:37:46.888Z",
+      "id": "2cxmmh",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:45:06.727Z"
+    },
+    {
+      "title": "Free AI Tutor for Maths and Science for Class 9-10.",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sp0kbr/free_ai_tutor_for_maths_and_science_for_class_910/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T15:24:39.000Z",
+      "metaDescription": "Hey guys. I, along with my elder brother have developed an AI tutor for class 9th and 10th (science and maths) which operates on a digital board -> can draw visual figures and annotates important thin",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.6829512499652846,
+      "crawledAt": "2026-04-18T16:37:50.516Z",
+      "id": "b3wk3f",
+      "entities": [],
+      "summary": " The AI tutor is an AI tutor for class 9th and 10th grade students. It can be used to help students with reading comprehension and vocabulary.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:45:20.293Z"
+    },
+    {
+      "title": "Sunday Morning run - Karvenagar",
+      "url": "https://www.reddit.com/r/pune/comments/1sp0if4/sunday_morning_run_karvenagar/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T15:22:35.000Z",
+      "metaDescription": "Hey guys! I’m new to Pune, recently moved from Bangalore and staying in Karvenagar.\n Planning to start running in the mornings, but I’m not very familiar with the area or routes yet.\n If anyone around",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.32922689381365283,
+      "crawledAt": "2026-04-18T16:36:16.230Z",
+      "id": "4576v4",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9575940370559692,
+          "index": 5,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.894634485244751,
+          "index": 7,
+          "word": "##nagar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "I'm not very familiar with the area or routes yet, but I'm planning to start running in the morning. I'm not quite very familiar to the area.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:45:58.084Z"
+    },
+    {
+      "title": "MEITY constitutes Technology and Policy Expert Committee for AI",
+      "url": "https://www.thehindubusinessline.com/news/meity-constitutes-technology-and-policy-expert-committee-for-ai/article70878337.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T15:15:50.000Z",
+      "metaDescription": "The Committee, among other duties, will provide expertise to the AIGEG in relation to AI policy and governance",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.38509418712417576,
+      "crawledAt": "2026-04-18T16:37:11.047Z",
+      "id": "t5dc8a",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9497960805892944,
+          "index": 1,
+          "word": "ME",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.806691586971283,
+          "index": 2,
+          "word": "##IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9846122860908508,
+          "index": 5,
+          "word": "Technology",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958203434944153,
+          "index": 6,
+          "word": "and",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9908779859542847,
+          "index": 7,
+          "word": "Policy",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9722058176994324,
+          "index": 8,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9860079884529114,
+          "index": 9,
+          "word": "##pert",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9770867824554443,
+          "index": 10,
+          "word": "Committee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9537521004676819,
+          "index": 11,
+          "word": "for",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9281944632530212,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Committee will provide expertise to AIGEG in relation to AI policy and governance. The Committee, among other duties, will provide expert expertise to the AIGeg.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:46:55.976Z"
+    },
+    {
+      "title": "Skoda Group buy",
+      "url": "https://www.reddit.com/r/pune/comments/1sp04wy/skoda_group_buy/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T15:08:29.000Z",
+      "metaDescription": "I am planning for a skoda and during process came in contact with Skoda India Sales Head \n While discussing with him, I asked can a group buy be possible for skoda enthusiasts.\n And he said yes, and b",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.27472664576059724,
+      "crawledAt": "2026-04-18T16:36:16.437Z",
+      "id": "gvbg1f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9996194243431091,
+          "index": 1,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9827359318733215,
+          "index": 3,
+          "word": "##da",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9991866946220398,
+          "index": 4,
+          "word": "Group",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Skoda India Sales Head said yes to a skoda group buy. He said yes, and b b bb, and he said yes.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:47:07.235Z"
+    },
+    {
+      "title": "2 Including Retired Soldier Killed In Highway Ambush In Manipur's Ukhrul",
+      "url": "https://www.ndtv.com/india-news/2-including-retired-soldier-killed-in-highway-ambush-in-manipurs-ukhrul-11376526#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T15:02:43.000Z",
+      "metaDescription": "The killings happened just a day after Chief Minister Yumnam Khemchand Singh visited the district and spoke about providing security for common people to use the highway safely",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2729845164539541,
+      "crawledAt": "2026-04-18T16:37:18.425Z",
+      "id": "jza6k6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993889927864075,
+          "index": 12,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9951843619346619,
+          "index": 13,
+          "word": "##ipur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9886351823806763,
+          "index": 16,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8930383324623108,
+          "index": 17,
+          "word": "##kh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The killings happened just a day after Chief Minister Yumnam Khemchand Singh visited the district. He spoke about providing security for common people to use the highway safely.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:47:19.280Z"
+    },
+    {
+      "title": "Describe your THE BEST PLACE in Pune 🤌🏻",
+      "url": "https://www.reddit.com/r/pune/comments/1sozxn2/describe_your_the_best_place_in_pune/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T15:00:51.000Z",
+      "metaDescription": "Suggest your must visit hangout, peace, dine places that i should visit before leaving Pune.\n    submitted by    /u/blahblahblah_707  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.28088843074547376,
+      "crawledAt": "2026-04-18T16:36:16.637Z",
+      "id": "jissy5",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9928580522537231,
+          "index": 12,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:47:29.507Z"
+    },
+    {
+      "title": "'Debate With Trump Doesn't Interest Me At All': Pope Leo",
+      "url": "https://www.ndtv.com/world-news/debate-with-trump-doesnt-interest-me-at-all-pope-leo-11376664#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T14:59:40.000Z",
+      "metaDescription": "An example was a speech about \"tyrants\" ransacking the world that he delivered in Cameroon on the second leg of a tour of Africa, said Pope Leo.",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.33431087899629314,
+      "crawledAt": "2026-04-18T16:37:14.097Z",
+      "id": "klsahd",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9916655421257019,
+          "index": 5,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9844741225242615,
+          "index": 15,
+          "word": "Pope",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Pope Leo says a speech about \"tyrants\" was a speech he gave in Cameroon. The speech was in Cameroon on the second leg of a tour of Africa.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:47:40.873Z"
+    },
+    {
+      "title": "FSSAI says only Ashwagandha roots permitted in nutraceuticals, supplements",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/fssai-says-only-ashwagandha-roots-permitted-in-nutraceuticals-supplements/article70877587.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T14:56:51.000Z",
+      "metaDescription": "The Authority added that the Ministry of Ayush has in its recent letter has also directed Ayush drug and product manufacturers to use only Ashwagandha roots and their extracts and not the leaves, in a",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.30287052342170706,
+      "crawledAt": "2026-04-18T16:37:02.840Z",
+      "id": "v3n8e4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985917210578918,
+          "index": 1,
+          "word": "F",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.877386212348938,
+          "index": 2,
+          "word": "##SS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975321292877197,
+          "index": 3,
+          "word": "##A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9871361255645752,
+          "index": 4,
+          "word": "##I",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Ministry of Ayush has also directed drug and product manufacturers to use only Ashwagandha roots and their extracts and not the leaves.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:48:10.990Z"
+    },
+    {
+      "title": "DA hiked by 2%: Salary boost for govt employees - How much more will you take home?",
+      "url": "https://www.livemint.com/money/personal-finance/da-hikes-by-2-per-cent-salary-boost-for-govt-employees-how-much-more-will-you-take-home-11776522043590.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:56:40.000Z",
+      "metaDescription": "The new DA hike of two per cent is an increase over the existing rate of 58 per cent in the Basic Pay. The hike now takes the Dearness Allowance to 60 per cent.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.36219483626892524,
+      "crawledAt": "2026-04-18T16:36:00.738Z",
+      "id": "23sqyz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997583270072937,
+          "index": 1,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9847204089164734,
+          "index": 2,
+          "word": "##A",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The new DA hike of two per cent is an increase over the existing rate of 58 per cent. The hike now takes the Dearness Allowance to 60 per cent.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:48:23.198Z"
+    },
+    {
+      "title": "eClerx for Financial Analyst",
+      "url": "https://www.reddit.com/r/pune/comments/1sozqhv/eclerx_for_financial_analyst/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:53:27.000Z",
+      "metaDescription": "Hii I've applied for a financial analyst role at eClerx Pune and I'm having my aptitude and manegerial round in few days. Please guide me abt what can I expect for both. Also, I can smell something fi",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.5120348454916686,
+      "crawledAt": "2026-04-18T16:36:16.871Z",
+      "id": "h47wry",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9875733256340027,
+          "index": 1,
+          "word": "e",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9910938143730164,
+          "index": 2,
+          "word": "##C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9560233354568481,
+          "index": 3,
+          "word": "##ler",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9864813089370728,
+          "index": 4,
+          "word": "##x",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.812434196472168,
+          "index": 5,
+          "word": "for",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9853988289833069,
+          "index": 7,
+          "word": "Ana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9692510366439819,
+          "index": 8,
+          "word": "##ly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9534754753112793,
+          "index": 9,
+          "word": "##st",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Hii has applied for a financial analyst role at eClerx Pune. Hii is having his manegerial round in a few days.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:48:33.844Z"
+    },
+    {
+      "title": "SMBC-backed Yes Bank poised for balance sheet expansion: MD Tonse",
+      "url": "https://www.livemint.com/companies/company-results/yes-bank-q4-results-smbc-md-tonse-banking-industry-india-11776520973789.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T14:41:28.000Z",
+      "metaDescription": "Yes Bank posted a net profit of  ₹1,068 crore for the March quarter, up 44.7% on year.",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.902347559020691,
+      "crawledAt": "2026-04-18T16:36:47.331Z",
+      "id": "83dhpu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9599217772483826,
+          "index": 1,
+          "word": "SM",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9994203448295593,
+          "index": 5,
+          "word": "Yes",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990237951278687,
+          "index": 6,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9958219528198242,
+          "index": 13,
+          "word": "MD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9934288263320923,
+          "index": 14,
+          "word": "To",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Yes Bank posted a net profit of  ₹1,068 crore for the March quarter, up 44.7% on year.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:48:54.469Z"
+    },
+    {
+      "title": "should I open a dormitory in Pune?",
+      "url": "https://www.reddit.com/r/pune/comments/1soz5v2/should_i_open_a_dormitory_in_pune/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:30:34.000Z",
+      "metaDescription": "So I travel between Bangalore and Pune a lot for work and I’ve been noticing something for a while now. \n There’s a pretty obvious gap in the social travel space here compared to other cities. The kin",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.259901992941446,
+      "crawledAt": "2026-04-18T16:36:17.085Z",
+      "id": "socadk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9986050128936768,
+          "index": 7,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " There's a gap in the social travel space between Bangalore and Pune, says author. The kin of the kin is a big gap between the two cities.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:49:58.734Z"
+    },
+    {
+      "title": "Computational Biology & Bioinformatics What to opt for future?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1soz17q/computational_biology_bioinformatics_what_to_opt/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T14:25:20.000Z",
+      "metaDescription": "Hii Everyone!\n myquals- M.Sc. Biotechnology(gonna start PhD this july after qualifying NET AND GATE)\n It's been 2 years since I've started working as a Bioinformatician in a research institute.\n But s",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.4766445398624061,
+      "crawledAt": "2026-04-18T16:37:51.223Z",
+      "id": "j6bhgc",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9938028454780579,
+          "index": 1,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9624291062355042,
+          "index": 2,
+          "word": "##mp",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9563722610473633,
+          "index": 3,
+          "word": "##uta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.986079216003418,
+          "index": 4,
+          "word": "##tional",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995899498462677,
+          "index": 5,
+          "word": "Biology",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980481863021851,
+          "index": 6,
+          "word": "&",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982725381851196,
+          "index": 7,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972800612449646,
+          "index": 8,
+          "word": "##io",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9953292608261108,
+          "index": 9,
+          "word": "##in",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9871698617935181,
+          "index": 10,
+          "word": "##formatics",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " It's been 2 years since I've started working as a Bioinformatician in a research institute. But s s. M.Sc. has been working as an analyst for two years.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:50:11.826Z"
+    },
+    {
+      "title": "Naturals Punawale",
+      "url": "https://www.reddit.com/r/pune/comments/1soyzaj/naturals_punawale/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:23:08.000Z",
+      "metaDescription": "I pass through Natural's punawale almost everyday. The franchise is hardly an year old but looks extraordinarily successful. Huge crowd, tons of cars parked in evening. \n Just curious how much franchi",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2516283813778456,
+      "crawledAt": "2026-04-18T16:36:17.511Z",
+      "id": "3l9gm5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9774768948554993,
+          "index": 1,
+          "word": "Natural",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9840165972709656,
+          "index": 3,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9339308738708496,
+          "index": 4,
+          "word": "##una",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9802894592285156,
+          "index": 5,
+          "word": "##wal",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Natural's franchise is hardly an year old but looks extraordinarily successful. Huge crowd, tons of cars parked in evening. Just curious how much franchi is.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:50:21.661Z"
+    },
+    {
+      "title": "Parents paying 15-20L for BTech: what exactly are you getting for that money?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1soywdp/parents_paying_1520l_for_btech_what_exactly_are/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T14:19:59.000Z",
+      "metaDescription": "Genuine question for parents and students at mid-to-high tier private colleges.\n The average private engineering college in India charges 10-20 lakhs for 4 years. For that money, what do you actually ",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.3534987011483202,
+      "crawledAt": "2026-04-18T16:37:51.467Z",
+      "id": "cabvx5",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8128153681755066,
+          "index": 8,
+          "word": "BT",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The average cost of a private college in India is 10-15,000 per year. The average price of a college is 10,000.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:50:32.243Z"
+    },
+    {
+      "title": "CSK Captaincy | संजू सॅमसन भूषवेल CSKचे कर्णधारपद : आर. अश्विनने वर्तवले भाकीत",
+      "url": "https://pudhari.news/sports/sanju-samson-csk-captain-ravichandran-ashwin-prediction-ipl-2026-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T14:13:24.000Z",
+      "metaDescription": "CSK Captaincy | संजू सॅमसन भूषवेल CSKचे कर्णधारपद : आर. अश्विनने वर्तवले भाकीत",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2641798796993161,
+      "crawledAt": "2026-04-18T16:35:33.456Z",
+      "id": "7xqsct",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9847937822341919,
+          "index": 1,
+          "word": "CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9570908546447754,
+          "index": 2,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8623998761177063,
+          "index": 10,
+          "word": "##K",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "CSK Captaincy. CSK.C.C.'s \"C.K.K.\" is the world's most popular sport.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:50:43.211Z"
+    },
+    {
+      "title": "LPG Black Market : कुरुंदवाडमध्ये गॅस सिलेंडरचा काळाबाजार; 'त्‍या' रिक्षाचालकावर कारवाईची मागणी",
+      "url": "https://pudhari.news/maharashtra/kolhapur/lpg-black-market-gas-cylinder-black-marketing-in-kurundwad-demand-for-action-against-that-rickshaw-driver-np88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T14:09:10.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2764974341001665,
+      "crawledAt": "2026-04-18T16:35:33.579Z",
+      "id": "3kqy1y",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983875155448914,
+          "index": 1,
+          "word": "LP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9916732907295227,
+          "index": 2,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987427592277527,
+          "index": 3,
+          "word": "Black",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9965961575508118,
+          "index": 4,
+          "word": "Market",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:02.994Z"
+    },
+    {
+      "title": "Private investigator in Pune",
+      "url": "https://www.reddit.com/r/pune/comments/1soyjpc/private_investigator_in_pune/",
+      "source": "Reddit — r/pune",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:05:50.000Z",
+      "metaDescription": "Hi I want to track someone, I am looking for some private investigator. \n DM me if you know someone. \n    submitted by    /u/DataScience123888  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.33741309321614027,
+      "crawledAt": "2026-04-18T16:36:17.705Z",
+      "id": "s1j4mt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9952940940856934,
+          "index": 4,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:03.279Z"
+    },
+    {
+      "title": "To decongest, Cabinet clears Rs 24K-cr multi-tracking projects in UP, Andhra",
+      "url": "https://indianexpress.com/article/india/railway-cabinet-approves-ghaziabad-sitapur-rajahmundry-visakhapatnam-multi-tracking-godavari-bridge-10643799/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:00:52.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3521781937115194,
+      "crawledAt": "2026-04-18T16:36:08.727Z",
+      "id": "hmc4cb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9974645972251892,
+          "index": 21,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9978635311126709,
+          "index": 23,
+          "word": "Andhra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:03.612Z"
+    },
+    {
+      "title": "Jaltara Scheme: जलतारा योजनेने कृषी विभागाला दिले बळ",
+      "url": "https://agrowon.esakal.com/agro-special/jaltara-scheme-nagpur-water-conservation-funding-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T14:00:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4386086210465933,
+      "crawledAt": "2026-04-18T16:35:43.047Z",
+      "id": "pi9yvk",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9226855635643005,
+          "index": 1,
+          "word": "J",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8709902167320251,
+          "index": 2,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8980262875556946,
+          "index": 3,
+          "word": "##tara",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Government scheme, welfare, or policy announcement.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:03.817Z"
+    },
+    {
+      "title": "Coastal Karnataka’s tech boom: Silicon Beach Program launches ‘BaseCamp’ to boost ecosystem",
+      "url": "https://www.thehindubusinessline.com/info-tech/coastal-karnatakas-tech-boom-silicon-beach-program-launches-basecamp-to-boost-ecosystem/article70877550.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T13:53:15.000Z",
+      "metaDescription": "Silicon Beach Program’s ‘BaseCamp’ initiative enables global companies to establish and scale nano-GCCs or satellite offices in Coastal Karnataka",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.3053295158451769,
+      "crawledAt": "2026-04-18T16:37:11.581Z",
+      "id": "564itv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9960981011390686,
+          "index": 8,
+          "word": "Silicon",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973310828208923,
+          "index": 9,
+          "word": "Beach",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997187077999115,
+          "index": 10,
+          "word": "Program",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Silicon Beach Program’s ‘BaseCamp’ enables global companies to establish and scale nano-GCCs or satellite offices in Coastal Karnataka.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:24.301Z"
+    },
+    {
+      "title": "AI Search Revolution in India: Browsers, ChatGPT, and Gemini Are Reshaping Discovery — What It…",
+      "url": "https://medium.com/@mkdmobilekidukan/ai-search-revolution-in-india-browsers-chatgpt-and-gemini-are-reshaping-discovery-what-it-510c726cbba9?source=rss------msme-5",
+      "source": "Medium — tag MSME",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T13:43:02.000Z",
+      "metaDescription": "In 2026, searching the web no longer feels like typing into a box — it feels like talking to a smart assistant right inside your browser…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.2961323641517239,
+      "crawledAt": "2026-04-18T16:37:22.737Z",
+      "id": "11uzm",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8933528661727905,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9330447912216187,
+          "index": 2,
+          "word": "Search",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9846080541610718,
+          "index": 3,
+          "word": "Revolution",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.997302234172821,
+          "index": 5,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8244671821594238,
+          "index": 11,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9006593823432922,
+          "index": 17,
+          "word": "Gemini",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " In 2026, searching the web no longer feels like typing into a box — it feels like talking to a smart assistant right inside your browser.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:51:48.667Z"
+    },
+    {
+      "title": "Goa hotels and shacks are gaming registration process to dodge fees, minister warns",
+      "url": "https://indianexpress.com/article/india/goa-hotels-and-shacks-are-gaming-registration-process-to-dodge-fees-10643800/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T13:40:12.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.27818368129786814,
+      "crawledAt": "2026-04-18T16:36:08.829Z",
+      "id": "tvzcq1",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997570514678955,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:04.253Z"
+    },
+    {
+      "title": "‘Lives paused again’: Kota residents await land titles as Supreme Court stays Chambal denotification",
+      "url": "https://indianexpress.com/article/india/kota-chambal-gharial-sanctuary-supreme-court-stay-land-titles-10643781/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T13:35:47.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.7153742915210792,
+      "crawledAt": "2026-04-18T16:36:08.947Z",
+      "id": "9ayqz9",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8326900005340576,
+          "index": 7,
+          "word": "Kota",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975321292877197,
+          "index": 15,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9849783778190613,
+          "index": 16,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9429548978805542,
+          "index": 18,
+          "word": "Cha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9397557377815247,
+          "index": 19,
+          "word": "##mba",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.912362277507782,
+          "index": 20,
+          "word": "##l",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:04.432Z"
+    },
+    {
+      "title": "Buying products on low-cost EMIs? Here's how it can burn a bigger hole in your pocket in long run",
+      "url": "https://www.livemint.com/money/personal-finance/buying-products-on-low-cost-emis-heres-how-it-can-burn-a-bigger-hole-in-your-pocket-in-long-run-11776518039095.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T13:25:49.000Z",
+      "metaDescription": "Lower EMIs mean paying less immediately but losing much in the long run. Here we explain how.",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.4216230719634752,
+      "crawledAt": "2026-04-18T16:36:00.932Z",
+      "id": "i89opz",
+      "entities": [],
+      "summary": " Lower EMIs mean paying less immediately but losing much in the long run. Here we explain how to pay less immediately and less immediately.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:30.278Z"
+    },
+    {
+      "title": "No impact of West Asia war on portfolio, says ICICI Bank's Batra",
+      "url": "https://www.livemint.com/companies/company-results/icici-bank-q4-results-west-asia-war-corporate-borrowers-banking-industry-india-11776516112739.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T13:17:30.000Z",
+      "metaDescription": "ICICI Bank reported a net profit of  ₹13,702 crore for the three months through March, up 8.5% as provisions dropped nearly 90% in the same period.",
+      "category": "banking-credit",
+      "difficulty": 8,
+      "confidence": 0.3946883194426898,
+      "crawledAt": "2026-04-18T16:36:47.554Z",
+      "id": "vhz8e6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9793938994407654,
+          "index": 4,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.980945348739624,
+          "index": 5,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993759393692017,
+          "index": 11,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9888064861297607,
+          "index": 12,
+          "word": "##CI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9993609189987183,
+          "index": 13,
+          "word": "##CI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999237596988678,
+          "index": 14,
+          "word": "Bank",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9419349431991577,
+          "index": 17,
+          "word": "Bat",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " ICICI Bank reported a net profit of  $13,702 crore for the three months through March, up 8.5%.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:51.699Z"
+    },
+    {
+      "title": "RSS’ Hosabale at Stanford: Invaders destroyed India’s scientific past, Modi govt reviving it",
+      "url": "https://indianexpress.com/article/india/rss-hosabale-stanford-invaders-destroyed-india-scientific-past-modi-govt-10643749/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T13:10:27.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.3083706679730303,
+      "crawledAt": "2026-04-18T16:36:09.183Z",
+      "id": "jlk6nf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983969926834106,
+          "index": 1,
+          "word": "RS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9958311319351196,
+          "index": 2,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.995936393737793,
+          "index": 4,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.992014467716217,
+          "index": 9,
+          "word": "Stanford",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997854828834534,
+          "index": 15,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9719547033309937,
+          "index": 21,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:52.016Z"
+    },
+    {
+      "title": "States’ rights, OBC inclusion: Before legislature, the debates over 33% women’s reservation in local bodies",
+      "url": "https://indianexpress.com/article/explained/explained-politics/women-reservation-local-bodies-debate-obc-inclusion-10643737/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T13:07:14.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6156125500920886,
+      "crawledAt": "2026-04-18T16:36:57.478Z",
+      "id": "42xpvw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987990260124207,
+          "index": 5,
+          "word": "O",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9834101796150208,
+          "index": 6,
+          "word": "##BC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:52:52.451Z"
+    },
+    {
+      "title": "Trekking spots - Female, Solo or with a group!",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1sowznf/trekking_spots_female_solo_or_with_a_group/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T12:58:55.000Z",
+      "metaDescription": "Coming from Raipur, I gotta be in Bengaluru between 20th - 25th of May. And because there are no trains available except one (with seats on waiting as of now) I'm planning to take detour by reaching N",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.6275773182906932,
+      "crawledAt": "2026-04-18T16:35:37.542Z",
+      "id": "71wti6",
+      "entities": [],
+      "summary": "Coming from Raipur, I gotta be in Bengaluru between 20th - 25th of May. There are no trains available except one with seats on waiting as of now.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:53:14.387Z"
+    },
+    {
+      "title": "Brain Health | ध्यानाचा मेंदूवर नेमका कसा परिणाम होतो? काय सांगतेय नवे संशोधन?",
+      "url": "https://pudhari.news/ampstories/web-stories/brain-health-how-meditation-affects-brain-new-research-mindfulness-study-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T12:58:50.000Z",
+      "metaDescription": "ध्यानाचा मेंदूवर नेमका कसा परिणाम होतो? काय सांगतेय नवे संशोधन?",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.36289779513863496,
+      "crawledAt": "2026-04-18T16:35:34.205Z",
+      "id": "vw4i7w",
+      "entities": [],
+      "summary": " The question is: \"What do you think about this??\" The question will be answered by a different person?",
+      "language": "en",
+      "processed_at": "2026-04-18T16:53:23.197Z"
+    },
     {
       "title": "Govt sets up ₹12,980-cr maritime insurance pool",
       "url": "https://www.thehindubusinessline.com/economy/govt-sets-up-12980-cr-maritime-insurance-pool/article70877405.ece",
@@ -144,6 +2245,42 @@
       "processed_at": "2026-04-18T12:57:27.914Z"
     },
     {
+      "title": "UK man pleads guilty in US hacking case involving over $8m in virtual currency theft",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-man-pleads-guilty-in-us-hacking-case-involving-over-8m-in-virtual-currency-theft/articleshow/130353449.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T12:38:24.000Z",
+      "metaDescription": "A British man has pleaded guilty in the US for his role in a cybercrime scheme that defrauded at least 12 companies and stole over $8 million in cryptocurrency. Tyler Buchanan admitted to using SMS ph",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4615834051909257,
+      "crawledAt": "2026-04-18T16:37:07.218Z",
+      "id": "b9m6t6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995260834693909,
+          "index": 1,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9729527831077576,
+          "index": 7,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tyler Buchanan has pleaded guilty to a cybercrime scheme in the US. He has been accused of stealing $8 million in cryptocurrency.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:53:59.528Z"
+    },
+    {
       "title": "Fertilizer Use: खतांचा वापर आणि खर्च कमी, उत्पादन मात्र जास्त! काय आहे टेकनिक?",
       "url": "https://agrowon.esakal.com/ampstories/web-stories/reduce-fertilizer-use-with-scientific-techniques",
       "source": "Agrowon — agriculture (Marathi)",
@@ -189,6 +2326,66 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-18T12:57:50.623Z"
+    },
+    {
+      "title": "How Big is Maharashtra’s Billion-Dollor Haldi Empire?",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1sowddk/how_big_is_maharashtras_billiondollor_haldi_empire/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T12:30:26.000Z",
+      "metaDescription": "It’s wild how our everyday turmeric is actually made. Before electricity and massive cold-storage warehouses, they preserved millions of dollars worth of it just by burying it in deep dirt pits next t",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2657575733144834,
+      "crawledAt": "2026-04-18T16:35:37.768Z",
+      "id": "u9aqlb",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993056654930115,
+          "index": 4,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9374391436576843,
+          "index": 7,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9796274304389954,
+          "index": 8,
+          "word": "##ion",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9035385847091675,
+          "index": 12,
+          "word": "Hal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9585625529289246,
+          "index": 13,
+          "word": "##di",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The turmeric was buried in deep dirt pits next to the ground. It was buried to keep the turmeric from being used as a food product.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:54:08.827Z"
     },
     {
       "title": "Rural Water Crisis: चाळीस गावांची पाण्यासाठी वणवण",
@@ -328,6 +2525,25 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-18T12:58:02.518Z"
+    },
+    {
+      "title": "Suggestions for Plane Spotting",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sowb95/suggestions_for_plane_spotting/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T12:27:48.000Z",
+      "metaDescription": "Any suggestions for locations for a decent plane spotting? \n I’m planning it for the first time, there will be a girl alongside so looking for not so shady place. \n    submitted by    /u/theguywithgoa",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.26084562884418383,
+      "crawledAt": "2026-04-18T16:36:18.154Z",
+      "id": "n4z181",
+      "entities": [],
+      "summary": " The plane spotting is a popular way to find out where to find a good place to spot a plane. The first time a plane has been spotted by a passenger, it will be in a shady location.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:54:22.752Z"
     },
     {
       "title": "Jewelry Theft : उंबरी बाळापूर येथे कुऱ्हाड व कतीचा धाक दाखवून सशस्त्र दरोडा",
@@ -854,6 +3070,44 @@
       "processed_at": "2026-04-18T13:03:23.103Z"
     },
     {
+      "title": "Safety as a woman living alone?",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sovvx2/safety_as_a_woman_living_alone/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T12:07:27.000Z",
+      "metaDescription": "Hi everyone,\n I’d really appreciate some honest perspectives on safety as a woman living alone in Mumbai. \n For context, I’m a half white woman currently living in Europe, and I’m considering spending",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.25297801179586465,
+      "crawledAt": "2026-04-18T16:36:18.362Z",
+      "id": "art1s1",
+      "entities": [],
+      "summary": " A half white woman currently living in Europe, she is considering spending money in Europe. She is a half white women living in Mumbai.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:54:34.098Z"
+    },
+    {
+      "title": "Urgent Medicine Required for my grandmother.",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sovv92/urgent_medicine_required_for_my_grandmother/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T12:06:35.000Z",
+      "metaDescription": "Hi Everyone, requesting for any leads around mumbai suburb where can we get the below injections, it is required for my grand mother. \n  \nColy Monas 2Miu Injection 1ml\n \nCo-trimoxazole Injection\n  \nAn",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.6474830025416902,
+      "crawledAt": "2026-04-18T16:36:18.578Z",
+      "id": "mmi03z",
+      "entities": [],
+      "summary": " The city of Mumbai is home to a number of Mumbai-based hospitals. The city's medical centre is located in the city's capital, Mumbai.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:54:46.388Z"
+    },
+    {
       "title": "Use of Fertilizer: रासायनिक खतांचा कार्यक्षम वापर कसा करावा?",
       "url": "https://agrowon.esakal.com/agro-special/how-to-use-chemical-fertilizers-efficiently-ssp-25",
       "source": "Agrowon — agriculture (Marathi)",
@@ -977,6 +3231,25 @@
       "processed_at": "2026-04-18T13:04:15.733Z"
     },
     {
+      "title": "Help/Questions regarding Xaviers Entrance Test",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sovmrg/helpquestions_regarding_xaviers_entrance_test_xet/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T11:54:58.000Z",
+      "metaDescription": "Hello I am giving the XET this year and Im wondering what all they ask for XET for BMM(BAMCJ). Anyone who has given XET in the past, their inputs would be really appreciated.\n Myquals-Just gave 12th b",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.31044275400719085,
+      "crawledAt": "2026-04-18T16:37:52.195Z",
+      "id": "gaisjy",
+      "entities": [],
+      "summary": " The XET has been given to people who have given it in the past. Anyone who has given it to XET in the last year would be appreciated.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:55:21.748Z"
+    },
+    {
       "title": "2011 bomb attack on RSS-BJP workers: Kerala court sentences 10 CPI cadres, main accused gets 25 years",
       "url": "https://www.thehindubusinessline.com/news/2011-bomb-attack-on-rss-bjp-workers-kerala-court-sentences-10-cpim-cadres-main-accused-gets-25-years/article70877461.ece",
       "source": "The Hindu Business Line — News",
@@ -1043,6 +3316,25 @@
       "summary": " The attack occurred when a bomb was hurled at a vehicle carrying around 30 workers. Nine people were injured in the attack.",
       "language": "en",
       "processed_at": "2026-04-18T13:04:53.027Z"
+    },
+    {
+      "title": "How's your experience at BIG 4 Mumbai?",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sovhr0/hows_your_experience_at_big_4_mumbai/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T11:47:49.000Z",
+      "metaDescription": "This question is from everyone who have recent exposure/experience to the insider actual reality of work culture, team dynamics and nature at any and all of the Big 4s- EY, KPMG, PWC, Delloite. (Mumba",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3297744598791287,
+      "crawledAt": "2026-04-18T16:36:19.040Z",
+      "id": "eoty1d",
+      "entities": [],
+      "summary": " This question is from everyone who has recent exposure to the insider reality of work culture, team dynamics and nature at any and all of the Big 4s- EY, KPMG, K PMG, PWC, Delloite.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:55:37.580Z"
     },
     {
       "title": "Love and War| बॉक्स ऑफिसवर येणार प्रेमाचं वादळ! रणबीर, आलिया अन् विकी कौशलच्या 'लव्ह अँड वॉर'ची रिलीज डेट जाहीर",
@@ -1329,6 +3621,44 @@
       "processed_at": "2026-04-18T13:05:49.399Z"
     },
     {
+      "title": "Hows 5gardens matunga for a walk at night?",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sov2k5/hows_5gardens_matunga_for_a_walk_at_night/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T11:26:19.000Z",
+      "metaDescription": "submitted by    /u/Firm_Pop6493  \n [link]   [comments]",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2662497122107269,
+      "crawledAt": "2026-04-18T16:36:19.647Z",
+      "id": "a347jl",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:55:51.330Z"
+    },
+    {
+      "title": "Konala mahit aahe ka ki he asa ka asta",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1sov2dp/konala_mahit_aahe_ka_ki_he_asa_ka_asta/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T11:26:04.000Z",
+      "metaDescription": "मराठी मध्ये बोलताना जो क्रियापदेचा लिंग असतो तो कशाशी संबंधित असतो क्रिये शी का कर्त्याशी \n उदा.\n जर कोण मुलगा हे वाक्य बोलत असेल तर ते होतं - \n मी भाजी खाल्ली\n आणि जर मुलगी बोलत असेल तरी तसंच होतं \n ",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2775084658793276,
+      "crawledAt": "2026-04-18T16:35:38.331Z",
+      "id": "rmjris",
+      "entities": [],
+      "summary": "’s’ “I’m.’S’d’t’e’a’. ‘I‘m’: ‘’ – ’  ”  ",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:08.900Z"
+    },
+    {
       "title": "Cabinet Approves 2% Increase in Dearness Allowance for Government Employees",
       "url": "https://thelivenagpur.com/2026/04/18/cabinet-approves-2-increase-in-dearness-allowance-for-government-employees/",
       "source": "The Live Nagpur",
@@ -1346,6 +3676,34 @@
       "summary": " Union Cabinet of India has given the green light to a 2% hike in the… The Union Cabinet has given a 2%.",
       "language": "en",
       "processed_at": "2026-04-18T13:06:21.121Z"
+    },
+    {
+      "title": "Maharashtra will be irrelevant, or is already irrelevant",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1souzj6/maharashtra_will_be_irrelevant_or_is_already/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T11:21:49.000Z",
+      "metaDescription": "As said in the title, our State will remain irrelevant and will eventually be counted in the North India region.\n Politicians don't speak on important issues, they're just the worst thing happened in ",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2639265591994947,
+      "crawledAt": "2026-04-18T16:35:38.540Z",
+      "id": "tsl6zv",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996663331985474,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Politicians don't speak on important issues, they're just the worst thing happened in India. As said in the title, our State will remain irrelevant and will eventually be counted in the North India region.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:29.496Z"
     },
     {
       "title": "'US Cannot Impose Their Will And Block Hormuz Strait': Iran Minister",
@@ -1524,6 +3882,58 @@
       "processed_at": "2026-04-18T13:07:44.491Z"
     },
     {
+      "title": "What is Kashmir Care Foundation, US-based non-profit that 3 varsities cancelled MoUs with?",
+      "url": "https://indianexpress.com/article/india/kashmir-care-foundation-kcf-altaf-lal-universities-terminate-mou-intelligence-report-10643542/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T11:07:23.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2529892944119463,
+      "crawledAt": "2026-04-18T16:36:09.814Z",
+      "id": "extp8i",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9991375803947449,
+          "index": 3,
+          "word": "Kashmir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990512728691101,
+          "index": 4,
+          "word": "Care",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9981780648231506,
+          "index": 5,
+          "word": "Foundation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9986436367034912,
+          "index": 7,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:29.881Z"
+    },
+    {
       "title": "Telangana CM seeks Bayyaram steel plant, EV battery hub from Centre",
       "url": "https://www.thehindubusinessline.com/news/national/telangana-cm-seeks-bayyaram-steel-plant-ev-battery-hub-from-centre/article70877289.ece",
       "source": "The Hindu Business Line — News",
@@ -1619,6 +4029,34 @@
       "processed_at": "2026-04-18T13:08:47.007Z"
     },
     {
+      "title": "What is the point of making Marathi compulsory if it is not going to be enforced?",
+      "url": "https://www.reddit.com/r/Maharashtra/comments/1soucyp/what_is_the_point_of_making_marathi_compulsory_if/",
+      "source": "Reddit — r/Maharashtra",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T10:48:15.000Z",
+      "metaDescription": "https://www.google.com/amp/s/marathi.abplive.com/education/maharashtra-government-approved-rule-for-schools-who-not-follow-marathi-language-compulsion-marathi-news-1420651/amp\n Marathi language compul",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.25012540102277425,
+      "crawledAt": "2026-04-18T16:35:39.138Z",
+      "id": "pcec4k",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9993561506271362,
+          "index": 7,
+          "word": "Marathi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:38.970Z"
+    },
+    {
       "title": "Maharashtra Govt Makes Marathi Mandatory from Classes 1–10; Violators Face ₹1 Lakh Fine",
       "url": "https://thelivenagpur.com/2026/04/18/maharashtra-govt-makes-marathi-mandatory-from-classes-1-10-violators-face-%e2%82%b91-lakh-fine/",
       "source": "The Live Nagpur",
@@ -1655,6 +4093,34 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-18T13:09:10.534Z"
+    },
+    {
+      "title": "Marathi mandatory for auto/taxi drivers from May 1 but where are they supposed to learn it?",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sou64i/marathi_mandatory_for_autotaxi_drivers_from_may_1/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T10:37:27.000Z",
+      "metaDescription": "The rule makes sense. Local language should be known, no argument there.\n But 70% of Mumbai's ~5 lakh auto/taxi drivers are North Indian migrants. They've been given 2 weeks to become Marathi-proficie",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3901558296836496,
+      "crawledAt": "2026-04-18T16:36:20.340Z",
+      "id": "2rq563",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9993773698806763,
+          "index": 1,
+          "word": "Marathi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 70% of Mumbai's auto/taxi drivers are North Indian migrants. They've been given 2 weeks to become Marathi-proficie.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:49.096Z"
     },
     {
       "title": "Agriculture Education: विद्यार्थ्यांनी ज्ञानाचा उपयोग देश स्वयंपूर्णतेसाठी करावा : मंत्री सुरेश प्रभू",
@@ -1702,6 +4168,69 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-18T13:09:33.729Z"
+    },
+    {
+      "title": "I graduated in 2024 and have not yet received my convocation degree, as my college claims they have not received it while University of Mumbai states that it has already been dispatched to the college ?",
+      "url": "https://www.reddit.com/r/mumbai/comments/1sou0fb/i_graduated_in_2024_and_have_not_yet_received_my/",
+      "source": "Reddit — r/mumbai",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T10:28:29.000Z",
+      "metaDescription": "submitted by    /u/Helpful_Locksmith_10  \n [link]   [comments]",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.2701657132373349,
+      "crawledAt": "2026-04-18T16:36:20.573Z",
+      "id": "hy7onl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981070756912231,
+          "index": 26,
+          "word": "University",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9927014708518982,
+          "index": 27,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9949764609336853,
+          "index": 28,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:56:49.324Z"
+    },
+    {
+      "title": "I'm really confused about MBA should I start preparing now or gain some work experience? Or look for other career paths?",
+      "url": "https://www.reddit.com/r/Indian_Academia/comments/1sotv6r/im_really_confused_about_mba_should_i_start/",
+      "source": "Reddit — r/Indian_Academia",
+      "source_domain": "reddit.com",
+      "source_category": "reddit",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T10:20:19.000Z",
+      "metaDescription": "I am about to start my second year of college. I am pursuing a BA in Economics from a tier-2 college and want to prepare for an MBA. I scored 89.9% in my 10th grade and 84% in my 12th grade. How pract",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.45181158701774826,
+      "crawledAt": "2026-04-18T16:37:52.920Z",
+      "id": "4v60il",
+      "entities": [],
+      "summary": " I am pursuing a BA in Economics from a tier-2 college and want to prepare for an MBA. I scored 89.9% in my 10th grade and 84% in 12th grade.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:57:15.001Z"
     },
     {
       "title": "CBI arrests former bank manager, 2 others in Rs 1.6 crore digital arrest scam",
@@ -6281,6 +8810,34 @@
       "processed_at": "2026-04-18T02:08:19.185Z"
     },
     {
+      "title": "Nari Shakti Vandan Vidhayak : लोकसभेत मोदी सरकारचा पराभव, महिला आरक्षण विधेयक विरोधकांनी बहुमताने फेटाळले",
+      "url": "https://pudhari.news/national/nari-shakti-vandan-bill-rejected-in-lok-sabha-modi-government-setback-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-17T14:50:45.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2660041652832894,
+      "crawledAt": "2026-04-18T16:35:34.831Z",
+      "id": "qolo9z",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9191531538963318,
+          "index": 1,
+          "word": "Na",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T16:58:08.223Z"
+    },
+    {
       "title": "Cucumber Quality Tips: गोड आणि ताजी काकडी कशी ओळखाल? सोप्या टिप्स जाणून घ्या",
       "url": "https://agrowon.esakal.com/ampstories/web-stories/how-to-choose-fresh-healthy-cucumbers-ssp-25",
       "source": "Agrowon — agriculture (Marathi)",
@@ -6300,21 +8857,21 @@
       "processed_at": "2026-04-18T05:57:42.415Z"
     }
   ],
-  "processedAt": "2026-04-18T13:15:19.642Z",
+  "processedAt": "2026-04-18T16:58:08.448Z",
   "categories": [
     "government-schemes",
-    "maharashtra-state-local",
-    "legal-judiciary",
-    "jobs-recruitment",
-    "civic-public-service",
-    "banking-credit",
     "education-skills",
-    "policy-regulation",
+    "jobs-recruitment",
+    "maharashtra-state-local",
+    "banking-credit",
+    "civic-public-service",
+    "legal-judiciary",
     "msme-industry-trade",
+    "policy-regulation",
     "tax-compliance-gst"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 53,
-  "dailyArticlesCount": 152,
+  "newArticlesProcessed": 64,
+  "dailyArticlesCount": 216,
   "filterDate": "2026-04-18"
 }
