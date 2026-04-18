@@ -1,9 +1,1953 @@
 {
-  "crawledAt": "2026-04-18T05:41:45.515Z",
+  "crawledAt": "2026-04-18T08:44:49.222Z",
   "totalSources": 75,
-  "totalArticles": 59,
+  "totalArticles": 99,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Upload orders, verdicts on the day they are passed: Bombay HC directs judges in Maharashtra, Goa",
+      "url": "https://www.thehindu.com/news/national/maharashtra/upload-orders-verdicts-on-the-day-they-are-passed-bombay-hc-directs-judges-in-maharashtra-goa/article70876923.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:31:37.000Z",
+      "metaDescription": "The move is expected to streamline the judicial process and provide litigants with immediate access to court rulings, reducing the lag between the pronouncement and the official availability of legal ",
+      "category": "maharashtra-state-local",
+      "difficulty": 8,
+      "confidence": 0.25119369210811776,
+      "crawledAt": "2026-04-18T08:43:56.910Z",
+      "id": "t6j1yu",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984210729598999,
+          "index": 14,
+          "word": "Bombay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9815543293952942,
+          "index": 15,
+          "word": "HC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995096325874329,
+          "index": 19,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994837641716003,
+          "index": 21,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The move is expected to streamline the judicial process and provide litigants with immediate access to court rulings. The move will reduce the lag between the pronouncement and the official availability of legal availability.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:45:10.951Z"
+    },
+    {
+      "title": "Civil Securities case: U.S. SEC, Adanis jointly seek extension; propose revised schedule",
+      "url": "https://www.thehindu.com/business/Industry/civil-securities-case-us-sec-adanis-jointly-seek-extension-propose-revised-schedule/article70876913.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:29:58.000Z",
+      "metaDescription": "The SEC had sued Adani Group founder Gautam Adani and his nephew, Sagar, in November 2024, alleging they had misled investors by failing to disclose an alleged bribery scheme tied to Indian state offi",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3918357250914592,
+      "crawledAt": "2026-04-18T08:43:57.363Z",
+      "id": "yr4lre",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.99800705909729,
+          "index": 5,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9590786695480347,
+          "index": 6,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9806711077690125,
+          "index": 7,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8220344185829163,
+          "index": 8,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9789494276046753,
+          "index": 9,
+          "word": "SEC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8925880789756775,
+          "index": 11,
+          "word": "Ada",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The SEC sued Adani Group founder Gautam Adani and his nephew, Sagar, in November 2024. The SEC had sued Adni Group founder, GautAm Adani, and his uncle, Sagars, for alleged bribery scheme.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:45:32.910Z"
+    },
+    {
+      "title": "High Court order for FIR against Rahul Gandhi in dual citizenship case surprising, unwarranted: Gehlot",
+      "url": "https://www.thehindu.com/news/national/rajasthan/high-court-order-for-fir-against-rahul-gandhi-in-dual-citizenship-case-surprising-unwarranted-gehlot/article70876742.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:23:33.000Z",
+      "metaDescription": "The Lucknow bench of the Allahabad High Court directed the filing of an FIR against Rahul Gandhi based on a petition filed by a BJP worker claiming the Congress leader is a U.K. citizen",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5062161072036994,
+      "crawledAt": "2026-04-18T08:43:58.084Z",
+      "id": "h2o67q",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999556303024292,
+          "index": 8,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.993230938911438,
+          "index": 9,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988613724708557,
+          "index": 10,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995067715644836,
+          "index": 22,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9697255492210388,
+          "index": 23,
+          "word": "##eh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Lucknow bench directed the filing of an FIR against Rahul Gandhi based on a petition filed by a BJP worker.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:46:03.678Z"
+    },
+    {
+      "title": "BJP, Opposition in war of words after Constitution Amendment Bill defeat",
+      "url": "https://www.thehindu.com/news/national/bjp-opposition-in-war-of-words-after-constitution-amendment-bill-defeat/article70876908.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:21:59.000Z",
+      "metaDescription": "While the BJP termed the development a “black day” and accused the Congress and other Opposition parties of betraying women, the Congress and its allies asserted that the quota law, passed in 2023, sh",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2776463768460099,
+      "crawledAt": "2026-04-18T08:43:58.317Z",
+      "id": "2ytao5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998292088508606,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.983445942401886,
+          "index": 10,
+          "word": "Constitution",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9954457879066467,
+          "index": 11,
+          "word": "Amendment",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9893782734870911,
+          "index": 12,
+          "word": "Bill",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The BJP calls the development a “black day’s “Black day” and accuses the Congress and other Opposition parties of betraying women.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:46:17.290Z"
+    },
+    {
+      "title": "Supreme Court landlord tenant case | घरमालकाची 'खरी गरज' दावा दाखल केल्याच्या तारखेवरूनच ठरवावी : सर्वोच्च न्यायालय",
+      "url": "https://pudhari.news/national/supreme-court-landlord-bona-fide-need-judgment-tenant-dispute-india-nl76",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T08:20:30.000Z",
+      "metaDescription": "घरमालकाची 'खरी गरज' दावा दाखल केल्याच्या तारखेवरूनच ठरवावी : सर्वोच्च न्यायालय",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.6867978457632716,
+      "crawledAt": "2026-04-18T08:42:25.439Z",
+      "id": "fqzxzk",
+      "entities": [],
+      "summary": " The World Cup is the first World Cup of the year. The tournament will be held in the United States.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:46:35.674Z"
+    },
+    {
+      "title": "Mysore University School of Engineering delivers first batch of graduates; AI and quantum computing will shape future workforce, says Sudhanva Dhananjaya of Excelsoft",
+      "url": "https://www.thehindu.com/news/national/karnataka/ai-and-quantum-computing-will-shape-future-workforce-says-sudhanva-dhananjaya-of-excelsoft-at-mysore-university-school-of-engineering-first-batch-graduation-2026/article70876888.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:20:05.000Z",
+      "metaDescription": "144 students pass out from the Mysore University School of Engineering (MUSE) at its first graduation day",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.29591251049201434,
+      "crawledAt": "2026-04-18T08:43:58.786Z",
+      "id": "e54u42",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985986948013306,
+          "index": 1,
+          "word": "Mysore",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.99776291847229,
+          "index": 2,
+          "word": "University",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9947498440742493,
+          "index": 3,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973828792572021,
+          "index": 4,
+          "word": "of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9980114102363586,
+          "index": 5,
+          "word": "Engineering",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8224849700927734,
+          "index": 12,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9984934329986572,
+          "index": 22,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8704700469970703,
+          "index": 23,
+          "word": "##dha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9966912269592285,
+          "index": 26,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8686594367027283,
+          "index": 27,
+          "word": "##hana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9576854109764099,
+          "index": 28,
+          "word": "##nja",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8021118640899658,
+          "index": 29,
+          "word": "##ya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9702624082565308,
+          "index": 31,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9569714665412903,
+          "index": 32,
+          "word": "##cel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9585121870040894,
+          "index": 33,
+          "word": "##so",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9088255763053894,
+          "index": 34,
+          "word": "##ft",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " 144 students pass out from the Mysore University School of Engineering (MUSE) at its first graduation day.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:46:54.738Z"
+    },
+    {
+      "title": "How to Score 300+ in UPSC History Optional: The Framework Most Students Never Learn — The Study IAS…",
+      "url": "https://medium.com/@subscriptions_63115/how-to-score-300-in-upsc-history-optional-the-framework-most-students-never-learn-the-study-ias-9b0ac2d4046f?source=rss------upsc-5",
+      "source": "Medium — tag UPSC",
+      "source_domain": "medium.com",
+      "source_category": "education",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T08:16:45.000Z",
+      "metaDescription": "It’s not about reading more. It’s about reading differently.\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.4012664682397018,
+      "crawledAt": "2026-04-18T08:44:43.030Z",
+      "id": "owl635",
+      "entities": [],
+      "summary": " It’s not about reading more, it’'s about reading differently, it's about writing differently.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:47:15.049Z"
+    },
+    {
+      "title": "How the war on Iran set off worker protests around Delhi",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/how-the-war-on-iran-set-off-worker-protests-around-delhi/article70873651.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:10:13.000Z",
+      "metaDescription": "Thousands of workers, many migrants, in the industrial clusters of Uttar Pradesh and Haryana are on protest, demanding dignity at work and at least ₹20,000 as minimum wages. A.M. Jigeesh and Ashok Kum",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3580309913748425,
+      "crawledAt": "2026-04-18T08:43:59.262Z",
+      "id": "67h6dm",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.99981689453125,
+          "index": 5,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995914101600647,
+          "index": 11,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Migrants in industrial clusters of Uttar Pradesh and Haryana are on protest. They are demanding dignity at work and at least ₹20,000 as minimum wages.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:47:46.281Z"
+    },
+    {
+      "title": "Allahabad HC order for FIR against Rahul Gandhi in dual citizenship case surprising, unwarranted: Ashok Gehlot",
+      "url": "https://www.deccanherald.com/india/rajasthan/allahabad-hc-order-for-fir-against-rahul-gandhi-in-dual-citizenship-case-surprising-unwarranted-ashok-gehlot-3972314",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T08:09:18.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28586264745622747,
+      "crawledAt": "2026-04-18T08:44:41.199Z",
+      "id": "5jrggw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9948402047157288,
+          "index": 1,
+          "word": "Allah",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9580314755439758,
+          "index": 2,
+          "word": "##abad",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8117138743400574,
+          "index": 3,
+          "word": "HC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993261098861694,
+          "index": 9,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9934499263763428,
+          "index": 10,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9988199472427368,
+          "index": 11,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995231032371521,
+          "index": 23,
+          "word": "Ash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9987379312515259,
+          "index": 25,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9966849088668823,
+          "index": 26,
+          "word": "##eh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8786302208900452,
+          "index": 27,
+          "word": "##lot",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:47:46.808Z"
+    },
+    {
+      "title": "Centre's conspiracy to change federal structure defeated; victory of Opposition unity, says Priyanka",
+      "url": "https://www.thehindu.com/news/national/congress-on-opposition-unity-delimitation-bill-women-reservation/article70876852.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T08:01:24.000Z",
+      "metaDescription": "Congress leader Priyanka Gandhi Vadra demanded that the government implement the Women's Reservation Act of 2023 on the current strength of the Lok Sabha.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.8842087555031026,
+      "crawledAt": "2026-04-18T08:44:00.204Z",
+      "id": "93r3zz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9769705533981323,
+          "index": 1,
+          "word": "Centre",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9993775486946106,
+          "index": 17,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9889163374900818,
+          "index": 18,
+          "word": "##riya",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Congress leader Priyanka Gandhi Vadra wants the government to implement the Women's Reservation Act of 2023.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:48:44.360Z"
+    },
+    {
+      "title": "Jalna theft case : घरफोडीतील फरार आरोपीच्या पोलिसांनी आवळल्या मुसक्या",
+      "url": "https://pudhari.news/maharashtra/marathwada/jalna/jalna-burglary-accused-arrested-kadim-police-action-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T07:50:55.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2781768724956033,
+      "crawledAt": "2026-04-18T08:42:27.736Z",
+      "id": "bvyqry",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:48:56.993Z"
+    },
+    {
+      "title": "No water, rising costs, safety fears: Pune tanker strike exposes Undri’s fragile lifeline",
+      "url": "https://indianexpress.com/article/cities/pune/no-water-rising-costs-safety-fears-pune-tanker-strike-exposes-undris-fragile-lifeline-10643140/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T07:45:56.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.33221910491236895,
+      "crawledAt": "2026-04-18T08:43:06.992Z",
+      "id": "h6gjqi",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9907190799713135,
+          "index": 10,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9609731435775757,
+          "index": 15,
+          "word": "Un",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:05.771Z"
+    },
+    {
+      "title": "Sambhajinagar heatwave temperature : उन्हाने जीव हैराण; तीव्रता वाढली",
+      "url": "https://pudhari.news/maharashtra/marathwada/chhatrapati-sambhajinagar/soyg-aon-heatwave-temperature-rise-42-degree-alert-ab96",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T07:32:02.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2676787191670851,
+      "crawledAt": "2026-04-18T08:42:29.455Z",
+      "id": "nx85x3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8855870366096497,
+          "index": 1,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:28.574Z"
+    },
+    {
+      "title": "Natural Health Drink: पोटाचे विकार दूर अन् चेहऱ्यावर येईल नैसर्गिक चमक! उन्हाळ्यात रोज सकाळी प्या ‘हे’ जादुई पेय",
+      "url": "https://www.navakal.in/lekh/benefits-of-mint-lemon-honey-warm-water-morning-drink-for-health/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T07:30:00.000Z",
+      "metaDescription": "Natural Health Drink: आजच्या धावपळीच्या काळात अनियमित आहार आणि वाढत्या उष्णतेमुळे आरोग्याच्या अनेक समस्या निर्माण होत आहेत. मात्र, निसर्गाकडे अशा काही साध्या गोष्टी आहेत, ज्या आपल्या आरोग्यासाठी औषधाप",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.32826043182445036,
+      "crawledAt": "2026-04-18T08:43:22.985Z",
+      "id": "2akyis",
+      "entities": [],
+      "summary": " The Health Drink. The Natural Health Drink is a Natural Health drink. The drink is a natural health drink.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:36.188Z"
+    },
+    {
+      "title": "Pune RMC Plant Action Stalled: बेकायदा RMC प्लांटवरची कारवाई फोल; ‘विभीषण’ अधिकाऱ्याने दिली टिप",
+      "url": "https://pudhari.news/maharashtra/pune/pune-rmc-plants-action-stalled-leak-officer-dhayari-wadgaon-sk04",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T07:27:38.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.44536278054960204,
+      "crawledAt": "2026-04-18T08:42:29.735Z",
+      "id": "kzcv32",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.904480516910553,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9129981398582458,
+          "index": 2,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9907339811325073,
+          "index": 3,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.837986946105957,
+          "index": 4,
+          "word": "Plant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9773403406143188,
+          "index": 5,
+          "word": "Action",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9871146082878113,
+          "index": 6,
+          "word": "St",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9894874095916748,
+          "index": 17,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9671884775161743,
+          "index": 18,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:46.714Z"
+    },
+    {
+      "title": "‘They deserved this shock’: Priyanka Gandhi’s ‘Black Day’ dig at BJP after delimitation vote loss",
+      "url": "https://indianexpress.com/article/india/priyanka-gandhi-vadra-bjp-womens-reservation-bill-delimitation-conspiracy-lok-sabha-10643050/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T07:26:12.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.33725683602271816,
+      "crawledAt": "2026-04-18T08:43:05.272Z",
+      "id": "dqtj7v",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994974136352539,
+          "index": 8,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9985865354537964,
+          "index": 9,
+          "word": "##riya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995265007019043,
+          "index": 11,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.965552031993866,
+          "index": 15,
+          "word": "Black",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9591134786605835,
+          "index": 16,
+          "word": "Day",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9987185001373291,
+          "index": 20,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913797378540039,
+          "index": 21,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:47.258Z"
+    },
+    {
+      "title": "Tax Relief: टॅक्सपेयर्ससाठी मोठी बातमी! मुलांच्या शिक्षणावर मिळणार 2.88 लाखांपर्यंत करसूट; नियमात काय बदल झाला?",
+      "url": "https://pudhari.news/features/arthabhan/big-tax-relief-for-parents-save-up-to-288-lakh-on-childrens-education-old-tax-regime-advantage-rs98",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-18T07:26:10.000Z",
+      "metaDescription": "",
+      "category": "tax-compliance-gst",
+      "difficulty": 4,
+      "confidence": 0.4182702394965567,
+      "crawledAt": "2026-04-18T08:42:30.058Z",
+      "id": "e4dz6z",
+      "entities": [],
+      "summary": "Banking, tax, or regulatory update for businesses and households.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:49:47.554Z"
+    },
+    {
+      "title": "Pune fighter jet incident: What we know about the undercarriage failure, why this IAF base is critical",
+      "url": "https://indianexpress.com/article/explained/pune-airport-runway-closure-iaf-jet-undercarriage-failure-10643065/",
+      "source": "Indian Express — Explained",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T07:16:39.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.34978103428065305,
+      "crawledAt": "2026-04-18T08:43:54.862Z",
+      "id": "w5zbq8",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9980384111404419,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992877840995789,
+          "index": 19,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9963348507881165,
+          "index": 20,
+          "word": "##AF",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:50:23.149Z"
+    },
+    {
+      "title": "TCS Nashik row: Firm denies misconduct complaints, sets up oversight panel",
+      "url": "https://www.deccanherald.com/india/maharashtra/tcs-nashik-row-firm-denies-misconduct-complaints-sets-up-oversight-panel-3972284",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T07:16:00.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.29520579620504694,
+      "crawledAt": "2026-04-18T08:44:41.441Z",
+      "id": "972x7f",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984151721000671,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9839432239532471,
+          "index": 2,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990019202232361,
+          "index": 3,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.997684895992279,
+          "index": 4,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:50:23.318Z"
+    },
+    {
+      "title": "Government strengthens DGFT Norms Committees to speed up export authorisations, cut delays",
+      "url": "https://www.thehindubusinessline.com/economy/government-strengthens-dgft-norms-committees-to-speed-up-export-authorisations-cut-delays/article70876716.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T07:15:35.000Z",
+      "metaDescription": "The ministry stated that the move comes as part of the government's broader push to enhance ease of doing business and reduce delays in approvals under export-linked schemes",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.7994733697936965,
+      "crawledAt": "2026-04-18T08:43:52.096Z",
+      "id": "1w96vf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9987145662307739,
+          "index": 4,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.895338773727417,
+          "index": 5,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972040057182312,
+          "index": 6,
+          "word": "##FT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973093867301941,
+          "index": 7,
+          "word": "Nor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966403245925903,
+          "index": 8,
+          "word": "##ms",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967769384384155,
+          "index": 9,
+          "word": "Committees",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The move comes as part of the government's broader push to enhance ease of doing business and reduce delays in approvals under export-linked schemes.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:50:33.824Z"
+    },
+    {
+      "title": "Is There A Food Shortage On American Warships Near Iran? What US Said",
+      "url": "https://www.ndtv.com/world-news/us-iran-israel-war-is-there-a-food-shortage-on-american-warships-near-iran-what-us-said-middle-east-conflict-11374551#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T07:14:15.000Z",
+      "metaDescription": "The US Navy said that both ships have adequate food supplies and are providing 'healthy options' to all crew members.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2532414687273847,
+      "crawledAt": "2026-04-18T08:44:08.537Z",
+      "id": "fq55ny",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9902846217155457,
+          "index": 8,
+          "word": "American",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9832848906517029,
+          "index": 9,
+          "word": "Wars",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8280186653137207,
+          "index": 10,
+          "word": "##hips",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9977946877479553,
+          "index": 12,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The US Navy said that both ships have adequate food supplies and are providing 'healthy options' to all crew members.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:50:56.242Z"
+    },
+    {
+      "title": "Amravati sexual exploitation case: NCW calls for stricter action, content to be taken down",
+      "url": "https://www.deccanherald.com/india/maharashtra/amravati-sexual-exploitation-case-ncw-calls-for-stricter-action-content-to-be-taken-down-3972311",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T07:12:35.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4751029187776333,
+      "crawledAt": "2026-04-18T08:44:41.785Z",
+      "id": "27vyzz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998796820640564,
+          "index": 9,
+          "word": "NC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9972565174102783,
+          "index": 10,
+          "word": "##W",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:50:56.571Z"
+    },
+    {
+      "title": "5 equity mutual funds offer over 15% annualised return on SIP investments in 10 years. Check details",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/5-equity-mutual-funds-offer-over-15-annualised-return-on-sip-investments-in-10-years-check-details/slideshow/130348910.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T07:08:35.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.29998231776595036,
+      "crawledAt": "2026-04-18T08:42:58.358Z",
+      "id": "fvb8q5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:51:17.804Z"
+    },
+    {
+      "title": "Agriculture Packhouse Processing: पॅकहाउसमध्ये शेतीमाल स्वीकारण्याची प्रक्रिया",
+      "url": "https://agrowon.esakal.com/agro-special/packhouse-process-agriculture-export-quality-standards-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T07:00:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2865682540815634,
+      "crawledAt": "2026-04-18T08:42:38.236Z",
+      "id": "zczjl7",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:51:18.492Z"
+    },
+    {
+      "title": "Man who evaded court despite 35 warrants arrested at Mangaluru airport",
+      "url": "https://www.deccanherald.com/india/karnataka/mangaluru/man-who-evaded-court-despite-35-warrants-arrested-at-mangaluru-airport-3972327",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-18T06:59:36.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.25436785349330027,
+      "crawledAt": "2026-04-18T08:44:42.007Z",
+      "id": "tvnwmg",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9987505078315735,
+          "index": 13,
+          "word": "Man",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9957129955291748,
+          "index": 14,
+          "word": "##gal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9984584450721741,
+          "index": 15,
+          "word": "##uru",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:51:27.295Z"
+    },
+    {
+      "title": "This Akshaya Tritiya, your gold does not have to sit in a locker to work for you",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/this-akshaya-tritiya-your-gold-does-not-have-to-sit-in-a-locker-to-work-for-you/articleshow/130348543.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:48:48.000Z",
+      "metaDescription": "This Akshaya Tritiya, gold's traditional significance meets a striking financial reality with prices up over 30%. While cultural relevance encourages buying, the article urges a rethink of how gold is",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.258265760508414,
+      "crawledAt": "2026-04-18T08:42:58.628Z",
+      "id": "16s304",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9686460494995117,
+          "index": 2,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9309268593788147,
+          "index": 3,
+          "word": "##ks",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8264037370681763,
+          "index": 4,
+          "word": "##hay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9777659177780151,
+          "index": 6,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " This Akshaya Tritiya, gold's traditional significance meets a striking financial reality with prices up over 30%. While cultural relevance encourages buying, the article urges a rethink of how gold is.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:52:10.940Z"
+    },
+    {
+      "title": "Sanjay Mahakalkar Launches Weekly ‘Janta Darbar’ to Address Civic Issues",
+      "url": "https://thelivenagpur.com/2026/04/18/sanjay-mahakalkar-launches-weekly-janta-darbar-to-address-civic-issues/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:45:07.000Z",
+      "metaDescription": "Nagpur’s Leader of Opposition in the Municipal Corporation, Sanjay Mahakalkar, has launched a weekly ‘janta darbar’…",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.2743699981409052,
+      "crawledAt": "2026-04-18T08:42:40.216Z",
+      "id": "g5vp7k",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9994348883628845,
+          "index": 1,
+          "word": "San",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991917610168457,
+          "index": 3,
+          "word": "Ma",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9981927871704102,
+          "index": 4,
+          "word": "##hak",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9963704943656921,
+          "index": 5,
+          "word": "##alk",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8046273589134216,
+          "index": 9,
+          "word": "Weekly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9947289228439331,
+          "index": 11,
+          "word": "Jan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9290982484817505,
+          "index": 12,
+          "word": "##ta",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9876325130462646,
+          "index": 13,
+          "word": "Dar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8927203416824341,
+          "index": 14,
+          "word": "##bar",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Nagpur’s Leader of Opposition in the Municipal Corporation, Sanjay Mahakalkar, has launched a weekly ‘janta darbar’",
+      "language": "en",
+      "processed_at": "2026-04-18T08:52:28.627Z"
+    },
+    {
+      "title": "Goat Feeding Management: उन्हाळ्यामध्ये शेळ्यांच्या आहाराचे नियोजन",
+      "url": "https://agrowon.esakal.com/animal-care/animal-diseases/goat-feeding-management-summer-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:45:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.2821275255742888,
+      "crawledAt": "2026-04-18T08:42:38.035Z",
+      "id": "wr4cyi",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:52:28.988Z"
+    },
+    {
+      "title": "Govt strengthens DGFT Norms Committees to speed up export authorisations, cut delays",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-strengthens-dgft-norms-committees-to-speed-up-export-authorisations-cut-delays/articleshow/130348453.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:43:05.000Z",
+      "metaDescription": "New reforms aim to speed up approvals for exporters. The Directorate General of Foreign Trade has enhanced Norms Committees operations. This includes fixed meetings and clearing old applications. More",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.648007357758291,
+      "crawledAt": "2026-04-18T08:42:53.987Z",
+      "id": "7bnmeg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981081485748291,
+          "index": 4,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9788464307785034,
+          "index": 5,
+          "word": "##G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9952951669692993,
+          "index": 6,
+          "word": "##FT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9973806142807007,
+          "index": 7,
+          "word": "Nor",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9964545369148254,
+          "index": 8,
+          "word": "##ms",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9938532710075378,
+          "index": 9,
+          "word": "Committees",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Directorate General of Foreign Trade has enhanced Norms Committees operations. This includes fixed meetings and clearing old applications. New reforms aim to speed up approvals for exporters.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:52:49.286Z"
+    },
+    {
+      "title": "Planning to buy Gold on Akshaya Tritiya? Here’s how to check hallmark and purity of 24K, 22K Gold",
+      "url": "https://www.livemint.com/money/personal-finance/buying-gold-on-akshaya-tritiya-how-to-check-hallmarking-purity-11776490747987.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:37:25.000Z",
+      "metaDescription": "With Akshaya Tritiya near, gold buying is set to rise. Buyers must ensure jewelry authenticity using these steps…&nbsp;",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.29058601640951653,
+      "crawledAt": "2026-04-18T08:42:50.055Z",
+      "id": "sey6jc",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8437122106552124,
+          "index": 6,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8107488751411438,
+          "index": 11,
+          "word": "##ti",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Buyers must ensure jewelry authenticity using these steps. Buyers need to ensure jewelry authentic using these Steps. Buyer must ensure authenticity using this steps.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:53:18.277Z"
+    },
+    {
+      "title": "‘Betrayal of Nari Shakti’: BJP to hit streets today for massive nationwide protests as INDIA bloc ‘stalls’ Women’s Reservation Bill",
+      "url": "https://indianexpress.com/article/india/betrayal-of-nari-shakti-bjp-to-hit-streets-today-for-massive-nationwide-protests-as-india-bloc-stalls-womens-reservation-bill-10642982/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:36:59.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2655893344487639,
+      "crawledAt": "2026-04-18T08:43:05.425Z",
+      "id": "mxtpb7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9690032005310059,
+          "index": 6,
+          "word": "Na",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9989803433418274,
+          "index": 12,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9810163378715515,
+          "index": 13,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9583113193511963,
+          "index": 23,
+          "word": "IN",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9267882704734802,
+          "index": 24,
+          "word": "##DI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:53:18.465Z"
+    },
+    {
+      "title": "Mutual Fund SIP: Why is making the first crore the hardest thing to do?",
+      "url": "https://www.livemint.com/money/personal-finance/mutual-fund-sip-why-is-making-the-first-crore-the-hardest-thing-to-do-11776470439203.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:33:05.000Z",
+      "metaDescription": "The toughest part of building a  ₹10 crore retirement fund is reaching the first  ₹1 crore, which may take 14 years. However, with compounding and consistent SIP investments, subsequent crores can be ",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.27851116774857726,
+      "crawledAt": "2026-04-18T08:42:50.304Z",
+      "id": "65ojdv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9939910769462585,
+          "index": 1,
+          "word": "Mutual",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977301955223083,
+          "index": 2,
+          "word": "Fund",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9436640739440918,
+          "index": 3,
+          "word": "S",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The toughest part of building a  ₹10 crore retirement fund is reaching the first  ⁹1 crore. However, with compounding and consistent SIP investments, subsequent crores can be more difficult.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:53:46.787Z"
+    },
+    {
+      "title": "Maharashtra Weather : अक्षयतृतीयापासून पुन्हा अवकाळीचा मुहूर्त; १९ ते २१ एप्रिलदरम्यान पावसाचा येलो अलर्ट",
+      "url": "https://deshdoot.com/maharashtra-unseasonal-rain-forecast-april-19-21-yellow-alert/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T06:29:03.000Z",
+      "metaDescription": "अहिल्यानगर (प्रतिनिधी) राज्यातील अनेक भागात उष्णतेच्या लाटेची नोंद झाली आहे. तर राज्यात आज शनिवारपासून काही ठिकाणी वादळी पावसाला पोषक वातावरण आहे. विदर्भ, मराठवाडा आणि मध्य महाराष्ट्रातील काही भागात प",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.6731652008023655,
+      "crawledAt": "2026-04-18T08:43:15.559Z",
+      "id": "m42qd",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9937472939491272,
+          "index": 1,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The world's largest city is in the middle of the world's most populous region. The city's population is estimated to be at least 50,000 people per year.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:54:25.553Z"
+    },
+    {
+      "title": "A mother in need of treatment, a loan app, and a Kerala student’s death: Behind 3 arrests from Noida",
+      "url": "https://indianexpress.com/article/india/mother-treatment-loan-app-kerala-students-death-arrests-noida-10642964/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:19:22.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.44592512846089943,
+      "crawledAt": "2026-04-18T08:43:05.565Z",
+      "id": "tpxmvl",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999751091003418,
+          "index": 14,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:55:16.950Z"
+    },
+    {
+      "title": "Pune lawyer, wife and minor daughter booked for murdering assistant, suspecting affair",
+      "url": "https://indianexpress.com/article/cities/pune/lawyer-wife-minor-daughter-booked-murdering-assistant-affair-10642932/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-18T06:04:16.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.4854657945120334,
+      "crawledAt": "2026-04-18T08:43:07.190Z",
+      "id": "muubnf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9992467761039734,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:55:44.068Z"
+    },
+    {
+      "title": "Where Can You Learn Graphic Design Course in Chhatrapati Sambhajinagar?",
+      "url": "https://medium.com/@apathade866/where-can-you-learn-graphic-design-course-in-chhatrapati-sambhajinagar-f35b483d14e7?source=rss------maharashtra-5",
+      "source": "Medium — tag Maharashtra",
+      "source_domain": "medium.com",
+      "source_category": "community",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T06:02:56.000Z",
+      "metaDescription": "If you are looking for where to learn a Graphic Design Course in Chhatrapati Sambhajinagar, you have several good options available. Many…\nContinue reading on Medium »",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.3754594888777542,
+      "crawledAt": "2026-04-18T08:44:15.020Z",
+      "id": "10f9a3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9768763184547424,
+          "index": 10,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.888871431350708,
+          "index": 11,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9275827407836914,
+          "index": 12,
+          "word": "##rap",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9914065599441528,
+          "index": 14,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8736236691474915,
+          "index": 15,
+          "word": "##bha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8565576076507568,
+          "index": 16,
+          "word": "##jin",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A Graphic Design Course in Chhatrapati, India, is a course for Graphic Design. The course is available in the city of Chhatra.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:56:02.408Z"
+    },
+    {
+      "title": "Man, Son Stabbed To Death In Delhi, Cops Arrest Neighbour Over Old Dispute",
+      "url": "https://www.ndtv.com/delhi-news/cr-park-double-murder-man-son-stabbed-to-death-in-delhi-cops-arrest-neighbour-over-old-dispute-11374576#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T05:55:30.000Z",
+      "metaDescription": "Following the incident, the opposition Aam Aadmi Party (AAP) targeted the Delhi Police, alleging deteriorating law and order in the national capital.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.36396574602531095,
+      "crawledAt": "2026-04-18T08:44:09.599Z",
+      "id": "mp8pa2",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9989247918128967,
+          "index": 10,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Aam Aadmi Party alleges deteriorating law and order in the capital. The opposition party says the police have been targeted.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:56:43.170Z"
+    },
+    {
+      "title": "4 South African Cheetahs Arrive At Bengaluru's Bannerghatta Biological Park",
+      "url": "https://www.ndtv.com/india-news/4-south-african-cheetahs-arrive-at-bengalurus-bannerghatta-biological-park-11374586#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T05:54:01.000Z",
+      "metaDescription": "Four cheetahs from South Africa arrive at Bannerghatta Park to aid conservation efforts.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3830509629835657,
+      "crawledAt": "2026-04-18T08:44:13.670Z",
+      "id": "t0co43",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9993367195129395,
+          "index": 2,
+          "word": "South",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9983518719673157,
+          "index": 3,
+          "word": "African",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992125034332275,
+          "index": 12,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9981523752212524,
+          "index": 13,
+          "word": "##uru",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9913313388824463,
+          "index": 16,
+          "word": "Banner",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9653214812278748,
+          "index": 17,
+          "word": "##gh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9870256781578064,
+          "index": 18,
+          "word": "##att",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9921367168426514,
+          "index": 19,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9723728895187378,
+          "index": 20,
+          "word": "Biological",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9841387271881104,
+          "index": 21,
+          "word": "Park",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Four cheetahs from South Africa arrive at Bannerghatta Park to aid conservation efforts. Four cheetah from South African nationalities arrive at the park.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:56:52.628Z"
+    },
+    {
+      "title": "Mumbai Crime : महिलेने नकार देताच संतापला ‘होणारा नवरा’; प्रियकराचा काढला काटा, मुंबईतील थरार उघड..",
+      "url": "https://www.navakal.in/maharashtra/mumbai-crime-mumbai-crime-news-woman-refuses-marriage-enraged-fianc-ends/",
+      "source": "Navakal — RSS",
+      "source_domain": "navakal.in",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T05:50:01.000Z",
+      "metaDescription": "Mumbai Crime : मुंबईतील वांद्रे (पूर्व) येथील खेरवाडी परिसरात घडलेल्या अभिनव कुमार हत्याकांडाचा गुंता सोडवण्यात मुंबई पोलिसांना मोठे यश आले आहे. अत्यंत आव्हानात्मक असलेल्या या प्रकरणाचा अवघ्या ६० तासा",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3385136177664357,
+      "crawledAt": "2026-04-18T08:43:25.389Z",
+      "id": "yzgpyx",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9863138794898987,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Mumbai Crime: ‘‘’s’ ‘I’m not a criminal,’ says Mumbai Crime.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:57:19.098Z"
+    },
+    {
+      "title": "‘Trust Trump, not panicans’: Donald pushes ‘the peace president’ image after 'reopening' Hormuz",
+      "url": "https://timesofindia.indiatimes.com/world/us/trust-trump-not-panicans-donald-pushes-the-peace-president-image-after-reopening-hormuz/articleshow/130347262.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-18T05:44:40.000Z",
+      "metaDescription": "Donald Trump declared himself \"The Peace President,\" claiming to have settled eight wars while simultaneously issuing stern warnings of military action against Iran if ongoing negotiations fail. He hi",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.45103445043704166,
+      "crawledAt": "2026-04-18T08:44:05.487Z",
+      "id": "vexorq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9969525933265686,
+          "index": 3,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9990143775939941,
+          "index": 10,
+          "word": "Donald",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9657179713249207,
+          "index": 24,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9162228107452393,
+          "index": 25,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Donald Trump declared himself \"The Peace President\" and said he had settled eight wars. He also issued stern warnings of military action against Iran if negotiations fail.",
+      "language": "en",
+      "processed_at": "2026-04-18T08:57:36.367Z"
+    },
     {
       "title": "Agriculture Department Reform: भाकड काळ संपेल?",
       "url": "https://agrowon.esakal.com/agro-special/parimal-singh-agriculture-secretary-maharashtra-rat16",
@@ -2224,20 +4168,21 @@
       "processed_at": "2026-04-18T05:57:42.415Z"
     }
   ],
-  "processedAt": "2026-04-18T05:57:42.649Z",
+  "processedAt": "2026-04-18T08:58:42.175Z",
   "categories": [
-    "government-schemes",
     "maharashtra-state-local",
+    "legal-judiciary",
+    "government-schemes",
+    "education-skills",
+    "civic-public-service",
+    "tax-compliance-gst",
+    "jobs-recruitment",
     "banking-credit",
     "policy-regulation",
-    "msme-industry-trade",
-    "legal-judiciary",
-    "education-skills",
-    "jobs-recruitment",
-    "civic-public-service"
+    "msme-industry-trade"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 37,
-  "dailyArticlesCount": 59,
+  "newArticlesProcessed": 40,
+  "dailyArticlesCount": 99,
   "filterDate": "2026-04-18"
 }
