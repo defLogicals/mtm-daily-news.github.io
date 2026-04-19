@@ -1,9 +1,1093 @@
 {
-  "crawledAt": "2026-04-19T08:52:23.981Z",
+  "crawledAt": "2026-04-19T12:55:44.964Z",
   "totalSources": 75,
-  "totalArticles": 144,
+  "totalArticles": 172,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Delhi Bets Big On Semiconductors, Eyes Chip Hub Status With New Policy",
+      "url": "https://www.ndtv.com/india-news/delhi-bets-big-on-semiconductors-eyes-chip-hub-status-with-new-policy-11379526#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T12:42:25.000Z",
+      "metaDescription": "Delhi has entered the semiconductor race, with the government drafting a policy to build capacity in chip design, research and related segments, while aiming to create jobs and attract investment.",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.2963255981966804,
+      "crawledAt": "2026-04-19T12:55:13.472Z",
+      "id": "8048ef",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.9480164647102356,
+          "index": 6,
+          "word": "Semi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Delhi has entered the semiconductor race, with the government drafting a policy to build capacity in chip design, research and related segments.",
+      "language": "en",
+      "processed_at": "2026-04-19T12:56:35.152Z"
+    },
+    {
+      "title": "Mamata working for infiltrators, election a battle to save Bengal’s identity: Modi",
+      "url": "https://www.thehindu.com/news/national/mamata-working-for-infiltrators-election-a-battle-to-save-bengals-identity-modi/article70880673.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T12:22:10.000Z",
+      "metaDescription": "Prime Minister Narendra Modi said resentment against the Trinamool government has spread across communities and regions of West Bengal",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2918727563200822,
+      "crawledAt": "2026-04-19T12:54:50.616Z",
+      "id": "wlil43",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9977409839630127,
+          "index": 1,
+          "word": "Mama",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997537732124329,
+          "index": 15,
+          "word": "Bengal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9968670010566711,
+          "index": 20,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8514177799224854,
+          "index": 21,
+          "word": "##di",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Narendra Modi said resentment against the Trinamool government has spread across communities and regions of West Bengal. Modi said the resentment against Trinamools government has Spread across communities.",
+      "language": "en",
+      "processed_at": "2026-04-19T12:58:44.729Z"
+    },
+    {
+      "title": "VHP leader seeks stricter anti-conversion, cow protection laws; flags ‘love jihad’ concerns",
+      "url": "https://www.deccanherald.com/india/karnataka/mangaluru/vhp-leader-seeks-stricter-anti-conversion-cow-protection-laws-flags-love-jihad-concerns-3973483",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-19T12:10:23.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 5,
+      "confidence": 0.39953201448175885,
+      "crawledAt": "2026-04-19T12:55:37.842Z",
+      "id": "ktnvrl",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983860850334167,
+          "index": 1,
+          "word": "V",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.987073540687561,
+          "index": 2,
+          "word": "##HP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T12:59:34.313Z"
+    },
+    {
+      "title": "India’s Tech Patent Surge Meets A Grant Bottleneck",
+      "url": "https://inc42.com/features/indias-tech-patent-surge-meets-a-grant-bottleneck/",
+      "source": "Inc42 — startups & policy",
+      "source_domain": "inc42.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T12:10:10.000Z",
+      "metaDescription": "India’s patent story appears to be one of volume and velocity. India’s patent filings crossed a record 1.43 Lakh mark…",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.773723950121841,
+      "crawledAt": "2026-04-19T12:55:23.523Z",
+      "id": "b835h6",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999782145023346,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9446859955787659,
+          "index": 5,
+          "word": "Patent",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8147903680801392,
+          "index": 6,
+          "word": "Sur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8515428304672241,
+          "index": 12,
+          "word": "Bo",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India's patent filings crossed a record 1.43 Lakh mark. India’s patent story appears to be one of volume and velocity.",
+      "language": "en",
+      "processed_at": "2026-04-19T12:59:52.588Z"
+    },
+    {
+      "title": "Tamil Nadu election 2026: In Kolathur constituency, tangible development does a tango with yet-to-be-addressed civic issues",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tangible-development-does-a-tango-with-yet-to-be-addressed-civic-issues/article70807193.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T12:08:33.000Z",
+      "metaDescription": "HR & CE Minister P.K. Sekarbabu says several works have been taken up to improve the constituency; an activist says Kolathur Main Road should be widened, as its current width is less than 20 feet, and",
+      "category": "civic-public-service",
+      "difficulty": 6,
+      "confidence": 0.4091306686260214,
+      "crawledAt": "2026-04-19T12:54:51.508Z",
+      "id": "k1ab7e",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9993512034416199,
+          "index": 1,
+          "word": "Tamil",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9988335371017456,
+          "index": 2,
+          "word": "Nadu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9947521090507507,
+          "index": 8,
+          "word": "Ko",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.912306547164917,
+          "index": 9,
+          "word": "##lat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9680397510528564,
+          "index": 10,
+          "word": "##hur",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The current width of Kolathur Main Road is less than 20 feet. An activist says the road should be widened.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:00:01.489Z"
+    },
+    {
+      "title": "Platforms, AI, inclusion: test your business creativity with Edition 228 of our weekly quiz!",
+      "url": "https://yourstory.com/2026/04/platforms-ai-inclusion-creativity-entrepreneur-quiz",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T11:48:17.000Z",
+      "metaDescription": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 228th quiz. Ready?",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3082108335495312,
+      "crawledAt": "2026-04-19T12:55:22.969Z",
+      "id": "fs6s6h",
+      "entities": [],
+      "summary": " This is a feature from YourStory tests and strengthens your business acumen. Here are 5 questions to kick off the 228th quiz.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:02:36.518Z"
+    },
+    {
+      "title": "NDA coaching academy officials booked in Pune for negligence over student’s suicide",
+      "url": "https://indianexpress.com/article/cities/pune/pune-yashotej-academy-suicide-case-fir-negligence-nda-aspirant-10645128/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T11:42:33.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.34792815063326593,
+      "crawledAt": "2026-04-19T12:54:08.720Z",
+      "id": "yg4siw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990422129631042,
+          "index": 1,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9835095405578613,
+          "index": 2,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9971513748168945,
+          "index": 8,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:03:12.421Z"
+    },
+    {
+      "title": "Dowry Harassment Case | माहेरून सोन्याची अंगठी आणि पैशांची मागणी; जुळेवाडीतील विवाहितेचा शारीरिक-मानसिक छळ",
+      "url": "https://www.tarunbharat.com/demand-for-gold-ring-and-money-from-husband-physical-and-mental-torture-of-married-woman-in-julewadi-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-19T11:32:29.000Z",
+      "metaDescription": "तासगावात विवाहितेचा छळ तासगाव : मुळगांव ईश्वरपूर वसध्या रा. जुळेवाडी, ता. तासगांव येथील विवाहितेचा पैशाची मागणेचे कारणावरून शिवीगाळ व मारहाण करून शारीरिक मानसिक छळ करून लाथाबुक्यांनी मारहाण करून तुला ",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.258164128229495,
+      "crawledAt": "2026-04-19T12:53:33.916Z",
+      "id": "pppzli",
+      "entities": [],
+      "summary": " The world's largest city is in the middle of the world's most populous region. The city has been dubbed a city of \"The City of New York\"",
+      "language": "en",
+      "processed_at": "2026-04-19T13:03:33.051Z"
+    },
+    {
+      "title": "PM Modi shedding crocodile tears on women's quota: Congress",
+      "url": "https://www.deccanherald.com/india/pm-modi-shedding-crocodile-tears-on-womens-quota-congress-3973454",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-19T11:31:58.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2588294889721974,
+      "crawledAt": "2026-04-19T12:55:38.056Z",
+      "id": "mgkdpb",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9992746710777283,
+          "index": 2,
+          "word": "Mo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982284307479858,
+          "index": 15,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:03:33.169Z"
+    },
+    {
+      "title": "Retrospective jurisdiction fix triggers fresh tax disputes",
+      "url": "https://www.thehindubusinessline.com/economy/retrospective-jurisdiction-fix-triggers-fresh-tax-disputes/article70880184.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T11:30:47.000Z",
+      "metaDescription": "The latest round of litigation follows the Supreme Court’s direction to petitioners to bring to the notice of their respective High Courts the legislative clarification with regards to disposed matter",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.6710338222735083,
+      "crawledAt": "2026-04-19T12:54:56.038Z",
+      "id": "2tb6qe",
+      "entities": [],
+      "summary": " Supreme Court's direction to petitioners to bring to the notice of their respective High Courts the legislative clarification. The latest round of litigation follows the Supreme Court’s direction to petitions.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:03:59.294Z"
+    },
+    {
+      "title": "Yavatmal Crop Insurance: पीकविमा भरपाईतून यवतमाळ जिल्हा वगळला",
+      "url": "https://agrowon.esakal.com/agro-special/yavatmal-crop-insurance-exclusion-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T11:30:00.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.2875020813516373,
+      "crawledAt": "2026-04-19T12:53:44.532Z",
+      "id": "54ktw4",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9946703910827637,
+          "index": 1,
+          "word": "Ya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9124700427055359,
+          "index": 2,
+          "word": "##vat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.996476948261261,
+          "index": 3,
+          "word": "##mal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9986569881439209,
+          "index": 4,
+          "word": "C",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9962620139122009,
+          "index": 5,
+          "word": "##rop",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:03:59.580Z"
+    },
+    {
+      "title": "Delhi–Dehradun in 2.5 Hours? RE Flying Flea EV Ridden & BMW Exclusive | AutoMate EP15",
+      "url": "https://www.youtube.com/watch?v=u5cf1V3r8YU",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T11:22:26.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.4823542020617113,
+      "crawledAt": "2026-04-19T12:55:18.264Z",
+      "id": "ie8x7p",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9983170628547668,
+          "index": 1,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9953102469444275,
+          "index": 3,
+          "word": "De",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9075890183448792,
+          "index": 6,
+          "word": "##n",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:04:45.942Z"
+    },
+    {
+      "title": "Cognizant CEO's pay jumps 18% to $19 million in 2025",
+      "url": "https://www.deccanherald.com/business/cognizant-ceos-pay-jumps-18-to-19-million-in-2025-3973425",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-19T11:02:37.000Z",
+      "metaDescription": "",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.5248062227315722,
+      "crawledAt": "2026-04-19T12:55:38.638Z",
+      "id": "ooabki",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:05:38.221Z"
+    },
+    {
+      "title": "LeT's 'Khargosh' found in Saudi Arabia, used fake passport",
+      "url": "https://www.deccanherald.com/india/lets-khargosh-found-in-saudi-arabia-used-fake-passport-3973388",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-19T10:59:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.31211808776576855,
+      "crawledAt": "2026-04-19T12:55:38.745Z",
+      "id": "qodkyd",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9979445338249207,
+          "index": 1,
+          "word": "Le",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9947614073753357,
+          "index": 2,
+          "word": "##T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.8453764915466309,
+          "index": 7,
+          "word": "##har",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9995749592781067,
+          "index": 13,
+          "word": "Saudi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9993199110031128,
+          "index": 14,
+          "word": "Arabia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:05:38.616Z"
+    },
+    {
+      "title": "Beed Crime News | मस्साजोग शिवारात १० लाखांचा गुटखा साठा जप्त",
+      "url": "https://pudhari.news/maharashtra/marathwada/beed/beed-crime-news-massajog-gutkha-seizure-10-lakh-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-19T10:58:04.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.33590465881995935,
+      "crawledAt": "2026-04-19T12:53:37.958Z",
+      "id": "k862ft",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9984933733940125,
+          "index": 1,
+          "word": "Bee",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9905491471290588,
+          "index": 2,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999241054058075,
+          "index": 3,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9988119006156921,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:05:38.813Z"
+    },
+    {
+      "title": "Solapur Crime | अल्पवयीन मुलीवर अत्याचार करणाऱ्या नराधमाला २० वर्षे सक्त कारावास; सोलापूर न्यायालयाचा मोठा निकाल",
+      "url": "https://www.tarunbharat.com/man-who-raped-minor-girl-gets-20-years-rigorous-imprisonment-solapur-courts-big-verdict-marathi-news/",
+      "source": "Tarun Bharat — feed (Marathi)",
+      "source_domain": "tarunbharat.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-19T10:51:06.000Z",
+      "metaDescription": "सोलापुरात पोक्सो प्रकरणात न्यायालयाचा कडक निर्णय सोलापूर -अल्पवयीन मुलीवर अत्याचार करणाऱ्या तरुणास विशेष न्यायाधीश जे. जे. मोहिते यांनी २० वर्षे सक्त कारावास आणि पाच हजार रुपये दंडाची शिक्षा सुनावली.र",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30170546704749246,
+      "crawledAt": "2026-04-19T12:53:36.072Z",
+      "id": "ltz4hx",
+      "entities": [],
+      "summary": " The World Cup. The World War II was held in 2008. The event was held at the same time as the World Cup.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:06:22.817Z"
+    },
+    {
+      "title": "Kannur Dental College denies caste angle in BDS student death, cites loan app issue",
+      "url": "https://www.deccanherald.com/india/kerala/kannur-dental-college-denies-caste-angle-in-bds-student-death-cites-loan-app-issue-3973248",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-19T10:50:55.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.35747087166772606,
+      "crawledAt": "2026-04-19T12:55:39.011Z",
+      "id": "r1uw6x",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9978517889976501,
+          "index": 1,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9768649339675903,
+          "index": 3,
+          "word": "##ur",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9987195730209351,
+          "index": 4,
+          "word": "Dental",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9964753985404968,
+          "index": 5,
+          "word": "College",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:06:22.943Z"
+    },
+    {
+      "title": "CRPF Constable Recruitment Begins Tomorrow for 9,195 Posts; Check Eligibility, Application Link, Selection Process",
+      "url": "https://www.ndtv.com/education/crpf-constable-recruitment-begins-tomorrow-for-9-195-posts-check-eligibility-application-link-selection-process-11379137#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T10:50:11.000Z",
+      "metaDescription": "CRPF Recruitment 2026: Of the total vacancies, 79 posts are reserved for female candidates, while the remaining are for male candidates.",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.7571939765002851,
+      "crawledAt": "2026-04-19T12:55:15.671Z",
+      "id": "bsbid0",
+      "entities": [],
+      "summary": "Of the total vacancies, 79 posts are reserved for female candidates, while the remaining are for male candidates. Of the total positions, 79 are reserved.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:06:33.731Z"
+    },
+    {
+      "title": "Shriram Finance revises fixed deposit interest rates from 6 May — Check details here",
+      "url": "https://www.livemint.com/money/personal-finance/sriram-finance-revises-fixed-deposit-interest-rates-from-6-may-check-details-here-11776592361651.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T10:39:11.000Z",
+      "metaDescription": "Shriram Finance has revised its fixed deposit interest rates effective 6 May 2026, following upgrades to its credit ratings by CARE Ratings, CRISIL Ratings, ICRA, and India Ratings. Here's all you nee",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.343241457350794,
+      "crawledAt": "2026-04-19T12:53:59.674Z",
+      "id": "p49shr",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9920573830604553,
+          "index": 1,
+          "word": "Shri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9862664937973022,
+          "index": 2,
+          "word": "##ram",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9948057532310486,
+          "index": 3,
+          "word": "Finance",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Shriram Finance revised its fixed deposit interest rates effective 6 May 2026, following upgrades to its credit ratings.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:06:44.929Z"
+    },
+    {
+      "title": "Rs 9,26,02,45,300: What Ukrainian Strikes Is Costing Russia Each Day",
+      "url": "https://www.ndtv.com/world-news/rs-9-26-02-45-300-what-ukrainian-strikes-is-costing-russia-each-day-11378246#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T10:19:08.000Z",
+      "metaDescription": "Kyiv's Unmanned Systems Forces claimed that daily oil shipments through key Russian ports have fallen by around 8,80,000 barrels.",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.25183256943978205,
+      "crawledAt": "2026-04-19T12:55:11.031Z",
+      "id": "uhbo10",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9784900546073914,
+          "index": 13,
+          "word": "Ukrainian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9985523819923401,
+          "index": 19,
+          "word": "Russia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Kyiv's Unmanned Systems Forces claimed that daily oil shipments through Russian ports have fallen by 8,80,000 barrels.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:07:41.258Z"
+    },
+    {
+      "title": "Uddhav Sena MLC Anil Parab alleges cartelisation in MMRDA tenders, flags key Mumbai projects",
+      "url": "https://indianexpress.com/article/cities/mumbai/anil-parab-mmrda-tender-scam-allegations-atal-setu-vikhroli-fob-10645004/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T10:15:09.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.3437803841843784,
+      "crawledAt": "2026-04-19T12:54:04.464Z",
+      "id": "731aw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9906018376350403,
+          "index": 1,
+          "word": "U",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9909733533859253,
+          "index": 3,
+          "word": "##ha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9815810918807983,
+          "index": 4,
+          "word": "##v",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9981175065040588,
+          "index": 5,
+          "word": "Sen",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9925560355186462,
+          "index": 6,
+          "word": "##a",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967302083969116,
+          "index": 7,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8106264472007751,
+          "index": 8,
+          "word": "##LC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.8690959215164185,
+          "index": 9,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9960297346115112,
+          "index": 11,
+          "word": "Para",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975351095199585,
+          "index": 20,
+          "word": "M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.992714524269104,
+          "index": 22,
+          "word": "##DA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987926483154297,
+          "index": 28,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:07:41.577Z"
+    },
+    {
+      "title": "Uttarakhand Board Result 2026 Soon: Ways To Check Class 10, 12 Marksheet",
+      "url": "https://www.ndtv.com/education/uk-board-class-10-12-result-2026-soon-ways-to-check-uttarakhand-marksheet-11379047#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T10:14:10.000Z",
+      "metaDescription": "UK Board Class 10, 12 Result 2026: Last year, the Uttarakhand Board 10th and 12th results were announced on April 19.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.27934344621341844,
+      "crawledAt": "2026-04-19T12:55:16.257Z",
+      "id": "5m9zqf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.997286856174469,
+          "index": 1,
+          "word": "Uttar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9793526530265808,
+          "index": 2,
+          "word": "##ak",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9829520583152771,
+          "index": 3,
+          "word": "##hand",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9502255916595459,
+          "index": 4,
+          "word": "Board",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Last year's Uttarakhand Board results were announced on April 19. Last year's results were the 10th and 12th.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:07:52.318Z"
+    },
+    {
+      "title": "Health camp | उमरगा, लोहारा तालुक्यात सामुदायिक आरोग्य शिबीर",
+      "url": "https://pudhari.news/maharashtra/marathwada/dharashiv/community-health-camp-umarga-lohara-free-medical-checkup-mk94",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-19T10:07:25.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.7039640222896215,
+      "crawledAt": "2026-04-19T12:53:39.191Z",
+      "id": "1rb1jm",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:07:52.823Z"
+    },
+    {
+      "title": "Nashik Suicide News : बावीस वर्षीय तरुणाची राहत्या घरात गळफास घेत आत्महत्या",
+      "url": "https://deshdoot.com/nashik-suicide-news-twenty-two-year-old-youth-commits-suicide-by-hanging-himself-in-his-residential-home/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-19T10:06:19.000Z",
+      "metaDescription": "कळवण | वार्ताहर | Kalwan कळवण तालुक्यातील (Kalwan Taluka) सप्तशृंगीगड येथे २२ वर्षीय युवकाने (Youth) राहत्या घरात गळफास घेत आत्महत्या (Suicide) केल्याची घटना घडली आहे. या घटनेमुळे परिसरात हळहळ व्यक्त ",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.3072232915055056,
+      "crawledAt": "2026-04-19T12:54:18.756Z",
+      "id": "ekc9fp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970141649246216,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9913963675498962,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9933830499649048,
+          "index": 3,
+          "word": "Suicide",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9572710990905762,
+          "index": 4,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Kalwan Taluka is a London-based, London-area town of Kalwan. The city is home to the Kalwan Taluk area of London's North London.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:08:05.705Z"
+    },
+    {
+      "title": "Market Grain Supply: पाचोऱ्यात ज्वारी, मक्याची विक्रमी आवक",
+      "url": "https://agrowon.esakal.com/agro-special/pachora-apmc-jowar-maize-record-arrival-rat16",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T10:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.5092831246175834,
+      "crawledAt": "2026-04-19T12:53:44.871Z",
+      "id": "eovedy",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:08:06.002Z"
+    },
+    {
+      "title": "Palghar tanker accident: मुंबई-अहमदाबाद महामार्गावर दीड तास वाहतूक ठप्प; ज्वलनशील रसायन वाहणाऱ्या टँकरला अपघात",
+      "url": "https://pudhari.news/maharashtra/palghar/palghar-tanker-accident-chemical-leak-mumbai-ahmedabad-highway-sb97",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-19T09:41:06.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.28873727338818905,
+      "crawledAt": "2026-04-19T12:53:39.786Z",
+      "id": "lzwn6x",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.830104410648346,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:08:19.305Z"
+    },
+    {
+      "title": "Respite from heat: Mumbai to witness first pre-monsoon showers starting Tuesday",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-pre-monsoon-rain-forecast-april-2026-imd-yellow-alert-10644937/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T09:19:10.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.9411701365837875,
+      "crawledAt": "2026-04-19T12:54:04.569Z",
+      "id": "5alimk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995749592781067,
+          "index": 7,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:08:51.383Z"
+    },
     {
       "title": "🥵 Garmi in Pune rn",
       "url": "https://www.reddit.com/r/pune/comments/1spnju2/garmi_in_pune_rn/",
@@ -628,6 +1712,42 @@
       "summary": "Several people on this subreddit are against this loot. I saw lot of people on the subreddit areagainst this loot.",
       "language": "en",
       "processed_at": "2026-04-19T08:57:51.226Z"
+    },
+    {
+      "title": "Where’s the Indian MF sector going ahead? 6 trends to watch",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wheres-the-indian-mutual-fund-sector-going-ahead-6-big-trends-to-watch-out-for/articleshow/130366880.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-19T08:11:41.000Z",
+      "metaDescription": "Mutual fund trends highlight a structural shift in investor preference towards mid and small caps, sectoral themes, and multi-asset funds, while large caps lose share. SIP inflows hit record highs, re",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.33968710131762464,
+      "crawledAt": "2026-04-19T12:53:55.590Z",
+      "id": "ksrcrz",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9996972680091858,
+          "index": 5,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9261319041252136,
+          "index": 6,
+          "word": "M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mutual fund trends highlight a shift in investor preference towards mid and small caps, sectoral themes, and multi-asset funds. Large caps lose share, while SIP inflows hit record highs, re-highs, re highs.",
+      "language": "en",
+      "processed_at": "2026-04-19T13:09:59.118Z"
     },
     {
       "title": "ICSE Class 10 Result 2026 Expected Soon: Last Year's Date, Pass Percentage",
@@ -5437,20 +6557,20 @@
       "processed_at": "2026-04-19T06:16:26.693Z"
     }
   ],
-  "processedAt": "2026-04-19T09:13:39.278Z",
+  "processedAt": "2026-04-19T13:10:38.025Z",
   "categories": [
-    "maharashtra-state-local",
-    "education-skills",
-    "jobs-recruitment",
-    "legal-judiciary",
-    "government-schemes",
-    "banking-credit",
-    "civic-public-service",
+    "policy-regulation",
     "msme-industry-trade",
-    "policy-regulation"
+    "jobs-recruitment",
+    "civic-public-service",
+    "education-skills",
+    "maharashtra-state-local",
+    "legal-judiciary",
+    "banking-credit",
+    "government-schemes"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 55,
-  "dailyArticlesCount": 144,
+  "newArticlesProcessed": 28,
+  "dailyArticlesCount": 172,
   "filterDate": "2026-04-19"
 }
