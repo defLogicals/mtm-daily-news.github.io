@@ -1,9 +1,887 @@
 {
-  "crawledAt": "2026-04-20T17:03:01.813Z",
+  "crawledAt": "2026-04-20T20:42:42.399Z",
   "totalSources": 75,
-  "totalArticles": 237,
+  "totalArticles": 261,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "BJP wants to have a puppet AIADMK Chief Minister, says Rahul Gandhi",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-wants-to-have-a-puppet-aiadmk-cm-says-rahul-gandhi/article70877914.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T20:25:42.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.31917979947916003,
+      "crawledAt": "2026-04-20T20:42:09.940Z",
+      "id": "4wpy9n",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992203712463379,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9992491006851196,
+          "index": 8,
+          "word": "AI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9914129972457886,
+          "index": 9,
+          "word": "##AD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9983906745910645,
+          "index": 10,
+          "word": "##M",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9966099858283997,
+          "index": 11,
+          "word": "##K",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995644092559814,
+          "index": 16,
+          "word": "Ra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9945861101150513,
+          "index": 17,
+          "word": "##hul",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9994389414787292,
+          "index": 18,
+          "word": "Gandhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:42:54.398Z"
+    },
+    {
+      "title": "Mumbai Businessman Loses Rs 3.25 Crore In Cheating-Cum-Extortion Case",
+      "url": "https://www.ndtv.com/mumbai-news/mumbai-businessman-loses-rs-3-25-crore-in-cheating-cum-extortion-case-11385386#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T20:25:08.000Z",
+      "metaDescription": "A nine-member inter-state criminal gang allegedly duped a Mumbai-based businessman of around Rs 3.25 crore in a cheating-cum-extortion case and also assaulted and threatened him, a police official sai",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.26513530990856077,
+      "crawledAt": "2026-04-20T20:42:18.620Z",
+      "id": "h0xh2i",
+      "entities": [],
+      "summary": " A nine-member gang allegedly duped a Mumbai-based businessman in a cheating-cum-extortion case. The gang allegedly assaulted and threatened the businessman.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:43:03.647Z"
+    },
+    {
+      "title": "​A plan of change: On Bihar politics and the BJP",
+      "url": "https://www.thehindu.com/opinion/editorial/a-plan-of-change-on-bihar-politics-and-the-bjp/article70884692.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T20:20:52.000Z",
+      "metaDescription": "The BJP achieved its aim of leading Bihar after a long waiting game",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.48329335882127933,
+      "crawledAt": "2026-04-20T20:42:10.009Z",
+      "id": "u2jd0o",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995375275611877,
+          "index": 7,
+          "word": "Bihar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9982427954673767,
+          "index": 11,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9726017117500305,
+          "index": 12,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "The BJP achieved its aim of leading Bihar after a long waiting game. The BJP achieved the aim of lead Bihar after long waitingGame.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:43:11.527Z"
+    },
+    {
+      "title": "T.N. DGP orders return of deputed personnel for poll duty",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-dgp-orders-return-of-deputed-personnel-for-poll-duty/article70877568.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T20:20:39.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.46923372487950316,
+      "crawledAt": "2026-04-20T20:42:10.064Z",
+      "id": "7cb1qf",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9966358542442322,
+          "index": 1,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960624575614929,
+          "index": 3,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9346773028373718,
+          "index": 4,
+          "word": ".",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9971064925193787,
+          "index": 5,
+          "word": "D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9929712414741516,
+          "index": 6,
+          "word": "##GP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:43:11.595Z"
+    },
+    {
+      "title": "Finding the path of happiness",
+      "url": "https://www.deccanherald.com/opinion/finding-the-path-of-happiness-3974799",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:57:00.000Z",
+      "metaDescription": "Finding the path of happiness",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.26743213947589206,
+      "crawledAt": "2026-04-20T20:42:37.719Z",
+      "id": "fefe1u",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:43:22.176Z"
+    },
+    {
+      "title": "Memes at war",
+      "url": "https://www.deccanherald.com/opinion/memes-at-war-3974802",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:56:53.000Z",
+      "metaDescription": "Memes at war",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.6009081087228122,
+      "crawledAt": "2026-04-20T20:42:37.764Z",
+      "id": "j16cxn",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:43:22.246Z"
+    },
+    {
+      "title": "In Andhra Praadesh, Collectors race for investments",
+      "url": "https://www.thehindu.com/opinion/op-ed/in-andhra-praadesh-collectors-race-for-investments/article70886008.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T19:44:58.000Z",
+      "metaDescription": "Chief Minister N. Chandrababu Naidu will assign ranks to districts depending on how much capital is created",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.5219884575013827,
+      "crawledAt": "2026-04-20T20:42:10.148Z",
+      "id": "hbtrpl",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9913280606269836,
+          "index": 2,
+          "word": "Andhra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9664917588233948,
+          "index": 3,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9711666107177734,
+          "index": 6,
+          "word": "##h",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Chief Minister N. Chandrababu Naidu will assign ranks to districts depending on how much capital is created.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:44:01.946Z"
+    },
+    {
+      "title": "Former streamer and singer D4vd charged with murder in shocking case of teen found dismembered in Tesla",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/former-streamer-and-singer-d4vd-charged-with-murder-in-shocking-case-of-teen-found-dismembered-in-tesla/articleshow/130402189.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T19:41:54.000Z",
+      "metaDescription": "Former streamer D4vd has been officially charged with capital murder in the death of 14-year-old Celeste Rivas Hernandez. Her body was discovered in a Tesla in September 2025, months after she went mi",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2515838162683318,
+      "crawledAt": "2026-04-20T20:42:15.599Z",
+      "id": "fi8vah",
+      "entities": [],
+      "summary": "Former streamer D4vd has been charged with capital murder in the death of 14-year-old Celeste Rivas Hernandez. Her body was discovered in a Tesla in September 2015.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:44:12.228Z"
+    },
+    {
+      "title": "Women’s quota and a complex calculus",
+      "url": "https://www.deccanherald.com/opinion/womens-quota-and-a-complex-calculus-3974794",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:36:10.000Z",
+      "metaDescription": "Women’s quota and a complex calculus",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.384024449289845,
+      "crawledAt": "2026-04-20T20:42:37.951Z",
+      "id": "38xm13",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:44:12.282Z"
+    },
+    {
+      "title": "A case for decentralising justice",
+      "url": "https://www.deccanherald.com/opinion/editorial/a-case-for-decentralising-justice-3974800",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:35:54.000Z",
+      "metaDescription": "A case for \ndecentralising justice",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.9310701024693067,
+      "crawledAt": "2026-04-20T20:42:38.052Z",
+      "id": "y7mhp7",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:44:12.423Z"
+    },
+    {
+      "title": "Blurring lines: Politics in the PM’s address",
+      "url": "https://www.deccanherald.com/opinion/editorial/blurring-lines-politics-in-the-pms-address-3974796",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:35:50.000Z",
+      "metaDescription": "Blurring lines: Politics in the PM’s address",
+      "category": "government-schemes",
+      "difficulty": 4,
+      "confidence": 0.4256310479053063,
+      "crawledAt": "2026-04-20T20:42:38.118Z",
+      "id": "6nl2dw",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:44:12.505Z"
+    },
+    {
+      "title": "India is violating its obligations under international law: Francesca Albanese",
+      "url": "https://www.thehindu.com/news/national/francesca-albanese-interview-india-violating-obligations-under-international-law/article70884773.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T19:29:13.000Z",
+      "metaDescription": "The UN Special Rapporteur speaks on her latest report on the situation of human rights in the occupied Palestinian territories, flags legal and moral concerns for countries backing Israel",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3661792499804854,
+      "crawledAt": "2026-04-20T20:42:10.462Z",
+      "id": "90wphn",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998207688331604,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995211362838745,
+          "index": 10,
+          "word": "Francesca",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9976986646652222,
+          "index": 11,
+          "word": "Alba",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UN Special Rapporteur speaks on situation of human rights in occupied Palestinian territories. flags legal and moral concerns for countries backing Israel.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:45:15.669Z"
+    },
+    {
+      "title": "India, South Korea to upgrade pact; eye to double bilateral trade to $50 billion by 2030",
+      "url": "https://www.deccanherald.com/india/india-south-korea-to-upgrade-pact-eye-to-double-bilateral-trade-to-50-billion-by-2030-3974999",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T19:17:13.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.2505172003464732,
+      "crawledAt": "2026-04-20T20:42:38.241Z",
+      "id": "jrrczf",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998212456703186,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997599124908447,
+          "index": 3,
+          "word": "South",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9993451237678528,
+          "index": 4,
+          "word": "Korea",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:45:51.720Z"
+    },
+    {
+      "title": "Turning Hygiene Into Child's Play At The H-BaLa Event",
+      "url": "https://www.youtube.com/shorts/o9fenYudzRM",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T19:15:03.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.40551272562604795,
+      "crawledAt": "2026-04-20T20:42:26.101Z",
+      "id": "x01ls2",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8563584089279175,
+          "index": 11,
+          "word": "H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:45:51.934Z"
+    },
+    {
+      "title": "IPL pitch debate grows as neutral curators blunt home advantage",
+      "url": "https://www.deccanherald.com/sports/cricket/neutral-curators-queer-the-pitch-as-teams-rue-loss-of-home-advantage-3974749",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T18:58:35.000Z",
+      "metaDescription": "Neutral curators queer the pitch as teams rue loss of home advantage",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.41936930807302514,
+      "crawledAt": "2026-04-20T20:42:38.542Z",
+      "id": "hlovpp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9985665678977966,
+          "index": 1,
+          "word": "IP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9932276606559753,
+          "index": 2,
+          "word": "##L",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Neutral curators queer the pitch as teams rue loss of home advantage. Neutral curator queer the Pitch as teams lose home advantage.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:46:33.389Z"
+    },
+    {
+      "title": "\"You Are Entering Military Blockade\": US' Hormuz Action With Machinegun",
+      "url": "https://www.ndtv.com/world-news/video-us-chopper-points-machinegun-at-ship-near-iran-sends-warning-on-radio-11385197#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T18:54:41.000Z",
+      "metaDescription": "In the CENTCOM video, a US soldier is seen pointing a heavy-calibre machinegun at a vessel as the Americans give warnings on radio",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2947832380556022,
+      "crawledAt": "2026-04-20T20:42:18.963Z",
+      "id": "ga9lsk",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.920644998550415,
+          "index": 6,
+          "word": "Military",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9578588008880615,
+          "index": 7,
+          "word": "Block",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.944969117641449,
+          "index": 8,
+          "word": "##ade",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9980314373970032,
+          "index": 11,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.8925530314445496,
+          "index": 13,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.915349006652832,
+          "index": 14,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9806848764419556,
+          "index": 17,
+          "word": "With",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.976618230342865,
+          "index": 18,
+          "word": "Machine",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A US soldier is seen pointing a heavy-calibre machinegun at a vessel as the Americans give warnings on radio.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:46:41.321Z"
+    },
+    {
+      "title": "UP Teen Kills Younger Brother With Scissors During Argument Over New Shoes",
+      "url": "https://www.ndtv.com/india-news/up-teen-kills-younger-brother-with-scissors-during-argument-over-new-shoes-11385224#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T18:44:23.000Z",
+      "metaDescription": "The altercation soon escalated, and in a fit of rage, Suraj allegedly picked up a pair of scissors and attacked Laxman, inflicting multiple injuries on his head and hands.",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.25021828217458425,
+      "crawledAt": "2026-04-20T20:42:20.486Z",
+      "id": "9mp2bz",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8483962416648865,
+          "index": 1,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9567734003067017,
+          "index": 18,
+          "word": "Shoes",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Suraj allegedly attacked Laxman with scissors and a pair of scissors. The incident occurred during a fight between the two men.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:47:01.403Z"
+    },
+    {
+      "title": "AI lipstick technology | लिपस्टिकमध्येही अवतरले ‘एआय’",
+      "url": "https://pudhari.news/sampadakiy/ai-enters-beauty-world-smart-lipstick-innovation-unveiled-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T18:22:07.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.5624985393614259,
+      "crawledAt": "2026-04-20T20:41:16.084Z",
+      "id": "m5zw5v",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8341049551963806,
+          "index": 1,
+          "word": "AI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:47:19.370Z"
+    },
+    {
+      "title": "Cross-Border Car Smuggling In Focus As Bhutan Customs Team Arrives In Kerala",
+      "url": "https://www.ndtv.com/india-news/cross-border-car-smuggling-in-focus-as-bhutan-customs-team-arrives-in-kerala-11385082#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T18:00:43.000Z",
+      "metaDescription": "Bhutan Customs delegation arrived in Kerala as part of the ongoing probe under Operation Numkhor, the multi-agency investigation into suspected illegal import of vehicles from Bhutan that has earlier ",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.5401928304272967,
+      "crawledAt": "2026-04-20T20:42:20.593Z",
+      "id": "2uhncn",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9260801672935486,
+          "index": 1,
+          "word": "Cross",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9774507880210876,
+          "index": 3,
+          "word": "Border",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9152857065200806,
+          "index": 4,
+          "word": "Car",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8479523658752441,
+          "index": 12,
+          "word": "Bhutan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8333349227905273,
+          "index": 13,
+          "word": "Customs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8743540644645691,
+          "index": 14,
+          "word": "Team",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9989229440689087,
+          "index": 19,
+          "word": "Kerala",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bhutan Customs delegation arrived in Kerala as part of the ongoing probe under Operation Numkhor. The multi-agency investigation into suspected illegal import of vehicles from Bhutan that has earlier.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:47:39.388Z"
+    },
+    {
+      "title": "Agricultural Land New Rules : वडिलोपार्जित शेतजमिनीच्या वाटणीपत्रासाठी नोंदणी शुल्क माफ",
+      "url": "https://pudhari.news/maharashtra/mumbai/no-registration-fee-ancestral-farm-land-partition-tehsildar-sub-registrar-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T17:46:10.000Z",
+      "metaDescription": "",
+      "category": "policy-regulation",
+      "difficulty": 4,
+      "confidence": 0.5643146556731152,
+      "crawledAt": "2026-04-20T20:41:16.327Z",
+      "id": "qwcx4o",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:47:39.790Z"
+    },
+    {
+      "title": "Unnao Rape Survivor's Plea Seeking Death Penalty For Kuldeep Sengar Dismissed",
+      "url": "https://www.ndtv.com/india-news/unnao-rape-survivors-plea-seeking-death-penalty-for-kuldeep-sengar-dismissed-11384949#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T17:19:51.000Z",
+      "metaDescription": "A bench of Justices Navin Chawla and Ravinder Dudeja ruled that the appeal against the trial court's 2020 decision to convict and sentence Kuldeep Sengar, his brother Jaideep Sengar and others in the ",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2837856031997867,
+      "crawledAt": "2026-04-20T20:42:20.854Z",
+      "id": "9dmdsy",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9983981847763062,
+          "index": 17,
+          "word": "Ku",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9879200458526611,
+          "index": 20,
+          "word": "Sen",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A bench of Justices Navin Chawla and Ravinder Dudeja ruled that the appeal against the trial court's 2020 decision to convict and sentence Kuldeep Sengar, his brother Jaideep S Engar and others in the case.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:48:29.728Z"
+    },
+    {
+      "title": "All you want to know about the women’s reservation and delimitation bills fiasco",
+      "url": "https://www.thehindubusinessline.com/blexplainer/all-you-want-to-know-about-the-womens-reservation-and-delimitation-bills-fiasco/article70881906.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T17:14:26.000Z",
+      "metaDescription": "Delimitation concerns stall move to advance 33% quota for women; implementation now hinges on 2027 census and the subsequent delimitation as per earlier timeline",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.28480430297666126,
+      "crawledAt": "2026-04-20T20:42:16.810Z",
+      "id": "3uoejg",
+      "entities": [],
+      "summary": "Delimitation concerns stall move to advance 33% quota for women. implementation now hinges on 2027 census and subsequent delimitation.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:48:45.846Z"
+    },
+    {
+      "title": "‘Offensive religious remarks’: Motilal Nagar residents seek FIR against MHADA V-P",
+      "url": "https://indianexpress.com/article/cities/mumbai/mhada-motilal-nagar-redevelopment-controversy-fir-complaint-10647019/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T17:13:34.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.4513369956037167,
+      "crawledAt": "2026-04-20T20:41:44.035Z",
+      "id": "7b0xfh",
+      "entities": [
+        {
+          "entity": "I-LOC",
+          "score": 0.8748244047164917,
+          "index": 9,
+          "word": "##al",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9538602232933044,
+          "index": 10,
+          "word": "Nagar",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8347090482711792,
+          "index": 16,
+          "word": "M",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:48:45.918Z"
+    },
+    {
+      "title": "Solapur Crime : घरासमोर गाणी वाजवण्यास विरोध केल्याने गर्भवतीला भिंतीवर आपटून मारले; नऊ महिन्याच्या गर्भाचाही मृत्यू",
+      "url": "https://pudhari.news/maharashtra/solapur/solapur-crime-pregnant-woman-killed-over-loud-music-dispute-fetus-dies-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T17:10:58.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.27262137885224186,
+      "crawledAt": "2026-04-20T20:41:16.533Z",
+      "id": "igxv1",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T20:48:52.823Z"
+    },
     {
       "title": "India Egypt | Watch Indian and Egyptian Troops Train Together and Flex Military Muscle",
       "url": "https://www.youtube.com/watch?v=C5jmxEUogfE",
@@ -9837,20 +10715,20 @@
       "processed_at": "2026-04-20T02:22:26.598Z"
     }
   ],
-  "processedAt": "2026-04-20T17:16:28.346Z",
+  "processedAt": "2026-04-20T20:50:39.481Z",
   "categories": [
-    "jobs-recruitment",
-    "legal-judiciary",
     "government-schemes",
-    "maharashtra-state-local",
-    "civic-public-service",
-    "education-skills",
     "msme-industry-trade",
-    "banking-credit",
-    "policy-regulation"
+    "jobs-recruitment",
+    "civic-public-service",
+    "legal-judiciary",
+    "education-skills",
+    "policy-regulation",
+    "maharashtra-state-local",
+    "banking-credit"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 45,
-  "dailyArticlesCount": 237,
+  "newArticlesProcessed": 24,
+  "dailyArticlesCount": 261,
   "filterDate": "2026-04-20"
 }
