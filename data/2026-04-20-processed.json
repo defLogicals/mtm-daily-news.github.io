@@ -1,9 +1,1768 @@
 {
-  "crawledAt": "2026-04-20T13:23:57.526Z",
+  "crawledAt": "2026-04-20T17:03:01.813Z",
   "totalSources": 75,
-  "totalArticles": 192,
+  "totalArticles": 237,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "India Egypt | Watch Indian and Egyptian Troops Train Together and Flex Military Muscle",
+      "url": "https://www.youtube.com/watch?v=C5jmxEUogfE",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T17:00:06.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.49698201811457265,
+      "crawledAt": "2026-04-20T17:02:37.084Z",
+      "id": "ok4cl3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.999839723110199,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.984835684299469,
+          "index": 2,
+          "word": "Egypt",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8652523159980774,
+          "index": 5,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9975401759147644,
+          "index": 7,
+          "word": "Egyptian",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:04.183Z"
+    },
+    {
+      "title": "Digital arrest is a crime against human dignity: CJI",
+      "url": "https://www.thehindu.com/news/national/digital-arrest-is-a-crime-against-human-dignity-cji/article70885699.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:55:39.000Z",
+      "metaDescription": "Such frauds result in not only financial loss but also a ‘blistering sense of violation’ in victims, Chief Justice of India Surya Kant says at a lecture; he says while the crimes are executed with spe",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.3353317461334557,
+      "crawledAt": "2026-04-20T17:02:16.195Z",
+      "id": "ah7zog",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9088361263275146,
+          "index": 10,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Chief Justice of India Surya Kant says while the crimes are executed with spe. Such frauds result in not only financial loss but also a ‘blistering sense of violation’ in victims, he says.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:34.919Z"
+    },
+    {
+      "title": "KCR alleges govt. okayed Centre’s proposal to install meters to farm pumpsets, flays HYDRAA",
+      "url": "https://www.thehindu.com/news/national/telangana/kcr-alleges-govt-okayed-centres-proposal-to-install-meters-to-farm-pumpsets-flays-hydraa/article70885719.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:55:30.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.4063829997007605,
+      "crawledAt": "2026-04-20T17:02:16.323Z",
+      "id": "ayqbdt",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963796138763428,
+          "index": 1,
+          "word": "KC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9906951189041138,
+          "index": 2,
+          "word": "##R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9745064377784729,
+          "index": 26,
+          "word": "H",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:35.081Z"
+    },
+    {
+      "title": "Lok Sabha prorogued; draws curtains on Budget session of Parliament",
+      "url": "https://www.deccanherald.com/india/lok-sabha-prorogued-draws-curtains-on-budget-session-of-parliament-3974813",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T16:50:28.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.2844060580897403,
+      "crawledAt": "2026-04-20T17:02:54.090Z",
+      "id": "net70w",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9931944608688354,
+          "index": 1,
+          "word": "Lok",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9852169156074524,
+          "index": 2,
+          "word": "Sabha",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:35.754Z"
+    },
+    {
+      "title": "“Would Pull My Saree, Place Hands On My Thigh”: TCS Employee Details Horror",
+      "url": "https://thelivenagpur.com/2026/04/20/would-pull-my-saree-place-hands-on-my-thigh-tcs-employee-details-horror/",
+      "source": "The Live Nagpur",
+      "source_domain": "thelivenagpur.com",
+      "source_category": "local_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T16:48:42.000Z",
+      "metaDescription": "In a shocking revelation, a former employee of Tata Consultancy Services (TCS) has come forward with…",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.3336823100407104,
+      "crawledAt": "2026-04-20T17:01:07.257Z",
+      "id": "pm97pg",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9865740537643433,
+          "index": 18,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9480504989624023,
+          "index": 19,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " A former employee of Tata Consultancy Services (TCS) has come forward with the shocking revelation. The revelation comes from a former employee.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:44.465Z"
+    },
+    {
+      "title": "Students gain hands-on experience on drone technology at outreach programme",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-gain-hands-on-experience-on-drone-technology-at-outreach-programme/article70885564.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:46:40.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.6629623797312614,
+      "crawledAt": "2026-04-20T17:02:16.414Z",
+      "id": "d9de1z",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:03:56.247Z"
+    },
+    {
+      "title": "Bribe Case : ग्रामसेवक सोपान मुसळे लाच घेताना रंगेहात जेरबंद",
+      "url": "https://pudhari.news/maharashtra/marathwada/beed/bribery-case-gram-sevak-sopan-musale-caught-red-handed-while-accepting-a-bribe-np88",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T16:45:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.2860517179123833,
+      "crawledAt": "2026-04-20T17:00:55.345Z",
+      "id": "d94qp3",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:04:04.844Z"
+    },
+    {
+      "title": "Both are actors who took the political route, but MGR-Vijay is a facile comparison",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/both-are-actors-who-took-the-political-route-but-mgr-vijay-is-a-facile-comparison/article70885630.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:39:45.000Z",
+      "metaDescription": "While MGR spent a long time in politics before he launched AIADMK, Vijay had no boots on the ground, until he formed the TVK, the political party",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.27369659819264236,
+      "crawledAt": "2026-04-20T17:02:17.619Z",
+      "id": "pauo4e",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9008076190948486,
+          "index": 11,
+          "word": "MG",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9954055547714233,
+          "index": 14,
+          "word": "Vijay",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Vijay had no boots on the ground until he formed the TVK, the political party. MGR spent a long time in politics before he launched AIADMK.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:04:49.232Z"
+    },
+    {
+      "title": "NCW to create national acid attack case registry with real time dashboards to track progress of FIRs",
+      "url": "https://www.deccanherald.com/india/ncw-to-create-national-acid-attack-case-registry-with-real-time-dashboards-to-track-progress-of-firs-3974812",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T16:39:41.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.4229683095057202,
+      "crawledAt": "2026-04-20T17:02:54.427Z",
+      "id": "4miun5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9974392056465149,
+          "index": 1,
+          "word": "NC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9954833388328552,
+          "index": 2,
+          "word": "##W",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:04:49.379Z"
+    },
+    {
+      "title": "Take back ‘disproportionate’ funds allocated to 6 wards: Mumbai BJP chief to BMC panel",
+      "url": "https://indianexpress.com/article/cities/mumbai/ameet-satam-bmc-fund-row-mumbai-allocation-controversy-10646956/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T16:38:05.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.39348210726005306,
+      "crawledAt": "2026-04-20T17:01:28.175Z",
+      "id": "gezc2m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9861986041069031,
+          "index": 18,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9745897054672241,
+          "index": 19,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9946659803390503,
+          "index": 22,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9640144109725952,
+          "index": 23,
+          "word": "##MC",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:05:12.312Z"
+    },
+    {
+      "title": "Public provident fund for children: Here's how to open PPF account, contribution limit, withdrawal rules, tax deductions",
+      "url": "https://www.livemint.com/money/personal-finance/public-provident-fund-for-children-parents-how-open-ppf-account-contribution-limit-withdrawal-rules-loans-tax-deductions-11776698663683.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T16:31:25.000Z",
+      "metaDescription": "PPF is a government-backed savings scheme with tax-exemption that parents or guardians can open for their child / minor in care, till the account holder turns 18. Here's all you need to know about the",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.40272767722040553,
+      "crawledAt": "2026-04-20T17:01:21.276Z",
+      "id": "l21nbv",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9740911722183228,
+          "index": 14,
+          "word": "PP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9337401390075684,
+          "index": 15,
+          "word": "##F",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PPF is a government-backed savings scheme with tax-exemption. Parents or guardians can open for their child and minor in care until 18.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:06:03.400Z"
+    },
+    {
+      "title": "School Assembly News Headlines : Top National, World, Sports, Education News",
+      "url": "https://www.ndtv.com/education/school-assembly-news-headlines-april-21-top-national-world-sports-education-news-11384676#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:20:12.000Z",
+      "metaDescription": "School Assembly News Headlines (April 21): Stay updated and be ready to share your thoughts in the morning with these School Assembly News Headlines.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.32397661195756616,
+      "crawledAt": "2026-04-20T17:02:30.711Z",
+      "id": "3w0lp7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9359652996063232,
+          "index": 1,
+          "word": "School",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8925167918205261,
+          "index": 2,
+          "word": "Assembly",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9556944370269775,
+          "index": 3,
+          "word": "News",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8979711532592773,
+          "index": 7,
+          "word": "Top",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8716001510620117,
+          "index": 8,
+          "word": "National",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9658085107803345,
+          "index": 10,
+          "word": "World",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8986000418663025,
+          "index": 12,
+          "word": "Sports",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9613818526268005,
+          "index": 14,
+          "word": "Education",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9304563999176025,
+          "index": 15,
+          "word": "News",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " School Assembly News Headlines: School Assembly news stories. Share your thoughts with us at CNN iReport.com.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:06:30.198Z"
+    },
+    {
+      "title": "Jack Daniel's owner eyeing shake-up? Decades-old distiller favours Pernod amid struggling US spirits market - Report",
+      "url": "https://www.livemint.com/companies/news/jack-daniels-owner-eyeing-shake-up-decades-old-distiller-favours-pernod-amid-struggling-us-spirits-market-report-11776697837312.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:18:47.000Z",
+      "metaDescription": "With the potential tie-up, Brown-Forman could reportedly have a better route to market Jack Daniel’s in China and India – where demand for whiskey is rising, given Pernod's wide distribution network",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.5148534603080004,
+      "crawledAt": "2026-04-20T17:01:58.844Z",
+      "id": "u9k1j7",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9850484728813171,
+          "index": 1,
+          "word": "Jack",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8235368728637695,
+          "index": 2,
+          "word": "Daniel",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9698772430419922,
+          "index": 21,
+          "word": "Per",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9148580431938171,
+          "index": 22,
+          "word": "##no",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.879962682723999,
+          "index": 23,
+          "word": "##d",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9901414513587952,
+          "index": 26,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Brown-Forman could have a better route to market Jack Daniel's in China and India. Demand for whiskey is rising, given Pernod's wide distribution network.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:06:40.568Z"
+    },
+    {
+      "title": "CAFE III norms: Auto component makers set for windfall as hybrid, electronics demand surges",
+      "url": "https://www.thehindubusinessline.com/news/cafe-2027-auto-component-makers-set-for-windfall-as-hybrid-electronics-demand-surges/article70862261.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:14:11.000Z",
+      "metaDescription": "As compliance costs rise from ₹18,000–26,000 per vehicle initially to as much as ₹75,000–1.1 lakh by FY32, the share of electronics, hybrid systems and efficiency technologies in overall vehicle value",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.30543284306845864,
+      "crawledAt": "2026-04-20T17:02:22.727Z",
+      "id": "ltm57i",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9325493574142456,
+          "index": 1,
+          "word": "CA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9617610573768616,
+          "index": 3,
+          "word": "##E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9792943596839905,
+          "index": 4,
+          "word": "III",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " As compliance costs rise from $18,000 to $26,000 per vehicle, the cost of compliance will rise to $1.1 million.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:06:52.692Z"
+    },
+    {
+      "title": "UK PM Starmer rejects calls to resign amid backlash over Epstein-linked Mandelson appointment",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-pm-starmer-rejects-calls-to-resign-amid-backlash-over-epstein-linked-mandelson-appointment/articleshow/130397211.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:10:55.000Z",
+      "metaDescription": "Prime Minister Keir Starmer admitted appointing Peter Mandelson as UK ambassador to Washington was a mistake, stating he wouldn't have proceeded had he known about failed security checks.  Mandelson w",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.6383104905679472,
+      "crawledAt": "2026-04-20T17:02:19.757Z",
+      "id": "3apykt",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995315074920654,
+          "index": 1,
+          "word": "UK",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9995080232620239,
+          "index": 3,
+          "word": "Star",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9800431728363037,
+          "index": 4,
+          "word": "##mer",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9919291734695435,
+          "index": 13,
+          "word": "E",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9934631586074829,
+          "index": 18,
+          "word": "Man",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Prime Minister Keir Starmer admitted appointing Peter Mandelson was a mistake. He said he would have known about failed security checks.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:07:01.109Z"
+    },
+    {
+      "title": "India tells South Korea to consider negotiating fresh free trade pact",
+      "url": "https://www.thehindubusinessline.com/economy/india-tells-korea-to-consider-negotiating-fresh-free-trade-pact/article70885296.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T16:00:16.000Z",
+      "metaDescription": "Proposal was made during talks between Commerce Minister Piyush Goyal and his South Korean counterpart Yeo Han-koo",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.2619985511377876,
+      "crawledAt": "2026-04-20T17:02:13.079Z",
+      "id": "hce39x",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998102784156799,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9997507929801941,
+          "index": 3,
+          "word": "South",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9993627071380615,
+          "index": 4,
+          "word": "Korea",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Proposal was made during talks between Commerce Minister Piyush Goyal and his South Korean counterpart Yeo Han-koo.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:07:22.802Z"
+    },
+    {
+      "title": "Illegal Sand Mining: वाळू हवीय... पण विकत नको, चोरूनच !",
+      "url": "https://agrowon.esakal.com/agro-special/solapur-sand-mining-illegal-trade-auction-failure-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T16:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 4,
+      "confidence": 0.30559046699454406,
+      "crawledAt": "2026-04-20T17:01:05.240Z",
+      "id": "2l17fx",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:07:22.955Z"
+    },
+    {
+      "title": "Goa Politics : मंत्री माविन गुदिन्होंविरोधात FIR दाखल करा : विरोधी पक्षनेते युरी आलेमांव यांची मागणी",
+      "url": "https://pudhari.news/goa/fir-demand-against-minister-mauvin-godinho-yuri-alemao-targets-goa-government-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T15:52:41.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.3378569816410349,
+      "crawledAt": "2026-04-20T17:00:55.826Z",
+      "id": "l746fr",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.8825968503952026,
+          "index": 1,
+          "word": "Goa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:07:43.033Z"
+    },
+    {
+      "title": "PNB Housing Finance posts higher profit on robust loan growth, asset quality boost",
+      "url": "https://www.thehindubusinessline.com/news/real-estate/pnb-housing-finance-posts-higher-profit-on-robust-loan-growth-asset-quality-boost/article70885635.ece",
+      "source": "The Hindu Business Line — News",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T15:51:23.000Z",
+      "metaDescription": "PNB Housing's consolidated net profit in the quarter ended March 31 stood ⁠at ₹656 crore, up from ₹550 crore a year earlier",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.32767111451363434,
+      "crawledAt": "2026-04-20T17:02:23.070Z",
+      "id": "39oizj",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9993550181388855,
+          "index": 1,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.8082686066627502,
+          "index": 2,
+          "word": "##N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.995069682598114,
+          "index": 3,
+          "word": "##B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.999200701713562,
+          "index": 4,
+          "word": "Housing",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9989043474197388,
+          "index": 5,
+          "word": "Finance",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " PNB Housing's consolidated net profit in the quarter ended March 31 stood ⁠at ₹656 crore, up from � 550 crore a year earlier.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:07:55.921Z"
+    },
+    {
+      "title": "Inclusion of an offence in FIR would not vanish efficacy of anticipatory bail: Karnataka High Court",
+      "url": "https://www.deccanherald.com/india/karnataka/inclusion-of-an-offence-in-fir-would-not-vanish-efficacy-of-anticipatory-bail-karnataka-high-court-3974731",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-20T15:45:04.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 7,
+      "confidence": 0.5684114765157245,
+      "crawledAt": "2026-04-20T17:02:55.295Z",
+      "id": "seeskp",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8486050963401794,
+          "index": 21,
+          "word": "Karnataka",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9118049740791321,
+          "index": 23,
+          "word": "Court",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:08:03.335Z"
+    },
+    {
+      "title": "Study Abroad: Top 10 Universities In Europe Based On QS Ranking 2026",
+      "url": "https://www.ndtv.com/education/study-abroad-top-10-universities-in-europe-based-on-qs-ranking-2026-11384000#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T15:32:03.000Z",
+      "metaDescription": "QS World University Rankings: The June 2026 rankings featured more than 1,500 higher education institutions from over 100 countries.",
+      "category": "education-skills",
+      "difficulty": 6,
+      "confidence": 0.256202994485122,
+      "crawledAt": "2026-04-20T17:02:31.984Z",
+      "id": "iutmtz",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9749451875686646,
+          "index": 10,
+          "word": "Europe",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9141581654548645,
+          "index": 13,
+          "word": "Q",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9651634693145752,
+          "index": 14,
+          "word": "##S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9203457832336426,
+          "index": 15,
+          "word": "Ranking",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " June 2026 rankings featured more than 1,500 higher education institutions from over 100 countries. The June 20 26 rankings featured over 1, 500 higher education schools from over100 countries.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:08:52.280Z"
+    },
+    {
+      "title": "Maximum temperature falling, humidity rising: Why IMD expect thunderstorms and rain in Pune",
+      "url": "https://indianexpress.com/article/cities/pune/max-temperature-falling-humidity-rising-imd-expect-thunderstorms-rain-pune-10646839/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T15:25:29.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5900804813101782,
+      "crawledAt": "2026-04-20T17:01:30.246Z",
+      "id": "dc1f30",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9962904453277588,
+          "index": 9,
+          "word": "I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9682971835136414,
+          "index": 10,
+          "word": "##MD",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9972943067550659,
+          "index": 18,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:09:11.575Z"
+    },
+    {
+      "title": "Rahata : राहाता बाजार समितीत डाळिंबाची आवक; वाचा भाव",
+      "url": "https://deshdoot.com/rahata-market-committee-pomegranate-and-soybeans-rate-2/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T15:18:45.000Z",
+      "metaDescription": "राहाता |तालुका प्रतिनिधी| Rahata राहाता कृषी उत्पन्न बाजार समितीत (Rahata Market Committee) सोमवारी डाळिंबाला प्रतीकिलोला सर्वाधिक 130 रुपये भाव मिळाला. राहाता बाजार समितीत डाळिंबाच्या (Pomegranate) 1",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.28622818305023656,
+      "crawledAt": "2026-04-20T17:01:39.258Z",
+      "id": "bvlwm7",
+      "entities": [],
+      "summary": " The Rahata Market Committee is based in the U.S. on the Rahata area. The committee is based on Rahata's Rahata.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:09:52.825Z"
+    },
+    {
+      "title": "Find urea alternatives, says Maharashtra Agriculture Minister as West Asia war clouds fertiliser supply",
+      "url": "https://indianexpress.com/article/cities/pune/find-urea-alternatives-says-maharashtra-agriculture-minister-as-west-asia-war-clouds-fertiliser-supply-10646857/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T15:11:33.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.2779682373721394,
+      "crawledAt": "2026-04-20T17:01:30.360Z",
+      "id": "gg6rwa",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.832449734210968,
+          "index": 7,
+          "word": "Maharashtra",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9924085736274719,
+          "index": 11,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9901455640792847,
+          "index": 12,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:10:33.066Z"
+    },
+    {
+      "title": "Agrowon Samvad: जळगाव येथे ‘ॲग्रोवन संवाद’ कार्यक्रमाचे आयोजन",
+      "url": "https://agrowon.esakal.com/agro-special/agrowon-samvad-jalgaon-farmer-event-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T15:00:00.000Z",
+      "metaDescription": "",
+      "category": "msme-industry-trade",
+      "difficulty": 5,
+      "confidence": 0.2648116060792269,
+      "crawledAt": "2026-04-20T17:01:05.608Z",
+      "id": "mas1nh",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9321215152740479,
+          "index": 1,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8991654515266418,
+          "index": 4,
+          "word": "Sam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:03.303Z"
+    },
+    {
+      "title": "Palantir backs mandatory US military draft in wartime, lists 22 reasons",
+      "url": "https://timesofindia.indiatimes.com/world/us/should-be-universal-duty-palantir-backs-mandatory-us-military-draft-in-wartime-lists-22-reasons/articleshow/130394988.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:47:45.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.8533547197936341,
+      "crawledAt": "2026-04-20T17:02:19.969Z",
+      "id": "28qy0g",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990578293800354,
+          "index": 1,
+          "word": "Pa",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9918975830078125,
+          "index": 2,
+          "word": "##lant",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9780870676040649,
+          "index": 3,
+          "word": "##ir",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8094543814659119,
+          "index": 6,
+          "word": "US",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:21.751Z"
+    },
+    {
+      "title": "Guwahati Logs Record April Downpour, Weather Office Issues Heavy Rain Alert",
+      "url": "https://www.ndtv.com/india-news/guwahati-logs-record-april-downpour-weather-office-issues-heavy-rain-alert-across-assam-11384208#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:44:19.000Z",
+      "metaDescription": "After over 24 hours of waterlogging across several parts of Assam's Guwahati, the situation may worsen, with the India Meteorological Department (IMD) issuing a fresh alert for heavy rainfall across t",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.5027264827253461,
+      "crawledAt": "2026-04-20T17:02:33.082Z",
+      "id": "ubgez9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9016917943954468,
+          "index": 1,
+          "word": "G",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9112489223480225,
+          "index": 5,
+          "word": "##i",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.989396333694458,
+          "index": 6,
+          "word": "Lo",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9872307181358337,
+          "index": 7,
+          "word": "##gs",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9356479048728943,
+          "index": 14,
+          "word": "Weather",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8595685958862305,
+          "index": 15,
+          "word": "Office",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " India Meteorological Department (IMD) issues fresh alert for heavy rainfall across several parts of Assam's Guwahati.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:41.799Z"
+    },
+    {
+      "title": "Opinion: Opinion | Lights, Camera, Sarkar",
+      "url": "https://www.ndtv.com/opinion/lights-camera-sarkar-11383612#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:41:47.000Z",
+      "metaDescription": "",
+      "category": "civic-public-service",
+      "difficulty": 5,
+      "confidence": 0.4395342530125101,
+      "crawledAt": "2026-04-20T17:02:28.530Z",
+      "id": "n0dgwq",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9440987706184387,
+          "index": 13,
+          "word": "Sa",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:51.941Z"
+    },
+    {
+      "title": "Accident News : दोन भीषण अपघातात युवकाचा जागीच तर महिलेचा उपचारादरम्यान मृत्यू",
+      "url": "https://deshdoot.com/pathardi-beed-highway-two-accident-youth-and-woman-death-pathardi/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:41:18.000Z",
+      "metaDescription": "पाथर्डी |तालुका प्रतिनिधी| Pathardi तालुक्यात रविवारी (दि.19) घडलेल्या दोन वेगवेगळ्या भीषण अपघातांमध्ये (Accident) एका युवकाचा जागीच मृत्यू झाला, तर एका महिलेचा उपचारादरम्यान मृत्यू झाल्याने परिसरात ह",
+      "category": "maharashtra-state-local",
+      "difficulty": 4,
+      "confidence": 0.3010679703961144,
+      "crawledAt": "2026-04-20T17:01:39.585Z",
+      "id": "e47r84",
+      "entities": [],
+      "summary": " The Pathardi. Pathardi has been named as Pathardi in the world's largest community of origin.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:59.534Z"
+    },
+    {
+      "title": "Police Officer Transfer : साताऱ्याचे पोलीस अधीक्षक तुषार दोषींची बदली, कोल्हापूरचे नवीन SP कोण?",
+      "url": "https://pudhari.news/maharashtra/kolhapur/maharashtra-police-officer-transfer-tushar-doshi-satara-nilotpal-kolhapur-new-sp-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T14:39:04.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 4,
+      "confidence": 0.9784290672147493,
+      "crawledAt": "2026-04-20T17:00:56.646Z",
+      "id": "kln6xm",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:11:59.707Z"
+    },
+    {
+      "title": "Tax Collected at Source: Here's how changes to TCS rates impact you — check bank charges applicable",
+      "url": "https://www.livemint.com/money/personal-finance/tcs-rates-tax-collected-at-source-how-changes-remittances-impact-you-check-icici-hdfc-bank-charges-customers-income-tax-11776689734056.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T14:32:50.000Z",
+      "metaDescription": "The Centre has TCS charges to ease tax burden on individuals. The changes are expected to give households and travelers relief. Here's how they impact you and what ICICI Bank and HDFC Bank have inform",
+      "category": "banking-credit",
+      "difficulty": 6,
+      "confidence": 0.2941194946650288,
+      "crawledAt": "2026-04-20T17:01:21.792Z",
+      "id": "qejzz3",
+      "entities": [],
+      "summary": " The Centre has TCS charges to ease tax burden on individuals. The changes are expected to give households and travelers relief.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:12:17.140Z"
+    },
+    {
+      "title": "Digital Education: ग्रामीण भागातील विद्यार्थ्यांना स्पर्धात्मक जगासाठी सक्षम करण्यावर भर : मुख्यमंत्री देवेंद्र फडणवीस",
+      "url": "https://agrowon.esakal.com/agro-special/rural-digital-education-maharashtra-fadnavis-abhi47",
+      "source": "Agrowon — agriculture (Marathi)",
+      "source_domain": "agrowon.esakal.com",
+      "source_category": "marathi",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T14:30:00.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.46540655924712065,
+      "crawledAt": "2026-04-20T17:01:05.759Z",
+      "id": "xidau5",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:12:17.333Z"
+    },
+    {
+      "title": "Delhi Excise Policy Scam | दिल्ली मद्य धोरण घोटाळा: न्यायमूर्ती स्वर्णकांता शर्मा यांचा सुनावणीतून हटण्यास नकार",
+      "url": "https://pudhari.news/national/delhi-high-court-justice-swarana-kanta-sharma-refuses-to-recuse-arvind-kejriwal-plea-rejected-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T14:20:18.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.42139411879922034,
+      "crawledAt": "2026-04-20T17:00:56.928Z",
+      "id": "gt7vrw",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9764618873596191,
+          "index": 1,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9594587087631226,
+          "index": 2,
+          "word": "Ex",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9419487118721008,
+          "index": 3,
+          "word": "##cise",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8406052589416504,
+          "index": 4,
+          "word": "Policy",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:12:35.702Z"
+    },
+    {
+      "title": "20 Convicted For Beating To Death 2 Men In Assam 8 Years Ago",
+      "url": "https://www.ndtv.com/india-news/20-convicted-for-beating-to-death-2-men-in-assam-8-years-ago-11384052#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:14:28.000Z",
+      "metaDescription": "Videos of the horrific assault on Abhijit Nath-Nilotpal Das surfaced online, triggering widespread outrage and protests across Assam",
+      "category": "legal-judiciary",
+      "difficulty": 5,
+      "confidence": 0.2584041565645517,
+      "crawledAt": "2026-04-20T17:02:33.441Z",
+      "id": "gisayq",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9952219724655151,
+          "index": 12,
+          "word": "Assam",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Videos of the horrific assault on Abhijit Nath-Nilotpal Das surfaced online, triggering widespread outrage and protests across Assam.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:13:29.508Z"
+    },
+    {
+      "title": "West Asia crisis poses risks to India's trade and macroeconomic stability: NITI Aayog report",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/west-asia-crisis-poses-risks-to-indias-trade-and-macroeconomic-stability-niti-aayog-report/articleshow/130394783.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T14:11:42.000Z",
+      "metaDescription": "Geopolitical tensions in West Asia are impacting India's trade and economy. NITI Aayog reports these tensions widen the current account deficit and pressure the exchange rate. The India-Gulf Cooperati",
+      "category": "msme-industry-trade",
+      "difficulty": 6,
+      "confidence": 0.45429584167170556,
+      "crawledAt": "2026-04-20T17:01:17.658Z",
+      "id": "lbugw1",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9978314638137817,
+          "index": 1,
+          "word": "West",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9956614971160889,
+          "index": 2,
+          "word": "Asia",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998267292976379,
+          "index": 7,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9980048537254333,
+          "index": 17,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9361165165901184,
+          "index": 18,
+          "word": "##IT",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9895230531692505,
+          "index": 19,
+          "word": "##I",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9977504014968872,
+          "index": 20,
+          "word": "A",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.985353946685791,
+          "index": 21,
+          "word": "##ay",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9844040274620056,
+          "index": 22,
+          "word": "##og",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Tensions in West Asia are impacting India's trade and economy. NITI Aayog reports these tensions widen the current account deficit and pressure the exchange rate.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:13:39.014Z"
+    },
+    {
+      "title": "Exporters’ support lift orthodox leaf prices in Coonoor tea auctions",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/exporters-support-lift-orthodox-leaf-prices-in-coonoor-tea-auctions/article70884104.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:01:50.000Z",
+      "metaDescription": "Global Tea Auctioneers said the sales percentage in leaf grades was 84% out of the offered quantity of 14,08,201 kg, while dust grades maintained 89% sales out of the offered quantity of 4,74,137 kg.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.31546328850914407,
+      "crawledAt": "2026-04-20T17:02:13.789Z",
+      "id": "vpdkqb",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.95598304271698,
+          "index": 11,
+          "word": "Co",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9760180115699768,
+          "index": 12,
+          "word": "##ono",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9255327582359314,
+          "index": 13,
+          "word": "##or",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Global Tea Auctioneers said the sales percentage in leaf grades was 84%. Dust grades maintained 89% sales out of 4,74,137 kg.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:13:49.815Z"
+    },
+    {
+      "title": "Fish waste finds new life as high-value biomedical material",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/fish-waste-finds-new-life-as-high-value-biomedical-material/article70884170.ece",
+      "source": "The Hindu Business Line — Economy",
+      "source_domain": "thehindubusinessline.com",
+      "source_category": "business",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T14:00:15.000Z",
+      "metaDescription": "Scientists at ICAR-Central Institute of Fisheries Technology (ICAR-CIFT), Kochi, have developed a patented technology that converts fish scale waste into nanofibre-based graft materials capable of acc",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.4177038172930124,
+      "crawledAt": "2026-04-20T17:02:14.004Z",
+      "id": "iqi466",
+      "entities": [],
+      "summary": " Scientists at ICAR-Central Institute of Fisheries Technology have developed a technology that converts fish scale waste into nanofibre-based graft materials.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:13:59.745Z"
+    },
+    {
+      "title": "Texas YouTuber's 'I want my country back' post goes viral, Indian-origin Dem leader says 'me too'",
+      "url": "https://timesofindia.indiatimes.com/world/us/texas-youtubers-i-want-my-country-back-post-goes-viral-indian-origin-dem-leader-says-me-too/articleshow/130393928.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T13:38:00.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.4458792068843687,
+      "crawledAt": "2026-04-20T17:02:20.446Z",
+      "id": "jmb6bk",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.998659610748291,
+          "index": 1,
+          "word": "Texas",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.995299756526947,
+          "index": 17,
+          "word": "Indian",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9919340014457703,
+          "index": 20,
+          "word": "De",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:15:07.433Z"
+    },
+    {
+      "title": "Supreme Court Rejects Umar Khalid's Bail Review Plea In 2020 Delhi Riots Case",
+      "url": "https://www.ndtv.com/india-news/supreme-court-rejects-umar-khalids-bail-review-plea-in-2020-delhi-riots-case-11383585#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T13:37:24.000Z",
+      "metaDescription": "According to the Supreme Court's rules, review petitions are considered by judges who delivered a judgment or passed an order in chambers to remedy an apparent error or a resultant grave injustice tha",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.4057282242388429,
+      "crawledAt": "2026-04-20T17:02:30.094Z",
+      "id": "18d8r1",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9983792901039124,
+          "index": 1,
+          "word": "Supreme",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9956672191619873,
+          "index": 2,
+          "word": "Court",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9882224798202515,
+          "index": 3,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9992040395736694,
+          "index": 5,
+          "word": "Um",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9991004467010498,
+          "index": 7,
+          "word": "Khalid",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9193720817565918,
+          "index": 10,
+          "word": "Bai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.818876326084137,
+          "index": 11,
+          "word": "##l",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9416019320487976,
+          "index": 12,
+          "word": "Review",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8987584114074707,
+          "index": 13,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.871839165687561,
+          "index": 17,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " review petitions are considered by judges who delivered a judgment or passed an order in chambers to remedy an apparent error or a resultant grave injustice.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:15:17.556Z"
+    },
+    {
+      "title": "RBI draft for upper layer non-banks affects CICs disproportionately, raises compliances costs",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-draft-for-upper-layer-non-banks-affects-cics-disproportionately-raises-compliances-costs/articleshow/130394099.cms",
+      "source": "Economic Times — default homepage",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T13:36:31.000Z",
+      "metaDescription": "New Reserve Bank draft on upper layer non-bank finance companies disproportionately impacts core investment companies by increasing compliance costs. Mandatory listing requirements could prove onerous",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.42002474798769746,
+      "crawledAt": "2026-04-20T17:01:15.252Z",
+      "id": "j0x67u",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981650114059448,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.948637068271637,
+          "index": 10,
+          "word": "C",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Mandatory listing requirements could prove onerous. New Reserve Bank draft on upper layer non-bank finance companies disproportionately impacts core investment companies.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:15:56.124Z"
+    },
+    {
+      "title": "Govt reviews rural schemes, supply chain woes to protect beneficiaries from Iran war impact",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-reviews-rural-schemes-supply-chain-woes-to-protect-beneficiaries-from-iran-war-impact/articleshow/130393599.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T13:26:14.000Z",
+      "metaDescription": "The Rural Development Ministry is reviewing its key schemes in response to the West Asia conflict's potential impact on global supply chains and prices. The ministry is ensuring uninterrupted employme",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.7547277589148518,
+      "crawledAt": "2026-04-20T17:01:18.357Z",
+      "id": "k42j86",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9997050166130066,
+          "index": 17,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The Rural Development Ministry is reviewing its key schemes in response to the West Asia conflict. The ministry is also reviewing its schemes to ensure the best possible employment.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:16:06.509Z"
+    },
+    {
+      "title": "Nashik TCS Case : निदा खानवर अटकेची टांगती तलवार कायम; जामीन अर्जावर ‘या’ तारखेला सुनावणी",
+      "url": "https://deshdoot.com/nashik-crime-news-hearing-on-the-bail-application-of-nida-khan-a-suspect-in-the-tcs-conversion-case-on-this-date/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-20T13:25:00.000Z",
+      "metaDescription": "नाशिकरोड | प्रतिनिधी | Nashik Road टीसीएस कंपनीमध्ये धर्मांतर प्रकरणी संशयित आरोपी असलेल्या निदा एजाज खान (Nida Khan) हिच्या जामीन अर्जावर (Bail Application) आज (सोमवारी) नाशिकरोड येथे न्यायालयात सुना",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.2787264590261555,
+      "crawledAt": "2026-04-20T17:01:40.313Z",
+      "id": "la7ava",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9977881908416748,
+          "index": 1,
+          "word": "Nash",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9593329429626465,
+          "index": 2,
+          "word": "##ik",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.983729362487793,
+          "index": 3,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9326471090316772,
+          "index": 4,
+          "word": "##CS",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Nida Khan's application for a new road in the UK was published in the summer of 2014. She said she wanted to know more about the road in her new home.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:16:16.527Z"
+    },
     {
       "title": "Gadchiroli Liquor Smuggling | दारुच्या अवैध वाहतुकीसाठी नवी शक्कल : महागड्या 'थार' कारमधून दारुची तस्करी",
       "url": "https://pudhari.news/maharashtra/vidarbha/gadchiroli/gadchiroli-police-seize-liquor-smuggled-in-mahindra-thar-etapalli-raid-as80",
@@ -39,6 +1798,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-20T13:24:15.942Z"
+    },
+    {
+      "title": "Gadchiroli Liquor Smuggling: गडचिरोलीत दारुतस्करांनी लढवली नवी शक्कल,12 लाखांच्या 'थार' कारमधून तस्करी",
+      "url": "https://pudhari.news/maharashtra/vidarbha/gadchiroli/gadchiroli-police-seize-liquor-smuggled-in-mahindra-thar-etapalli-raid-as80",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-20T13:19:10.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.37204277325936813,
+      "crawledAt": "2026-04-20T17:00:58.239Z",
+      "id": "42eqel",
+      "entities": [
+        {
+          "entity": "I-ORG",
+          "score": 0.8759638667106628,
+          "index": 3,
+          "word": "##chi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8492980599403381,
+          "index": 4,
+          "word": "##rol",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:16:26.960Z"
     },
     {
       "title": "Pune News : इंदापूर तालुक्यात खळबळ: सराफवाडीत मायलेकरने गळफास घेवून संपवलं आयुष्य",
@@ -1666,6 +3461,58 @@
       "processed_at": "2026-04-20T13:34:17.821Z"
     },
     {
+      "title": "Plane crash that wasn’t: Why Chhattisgarh officials spent hours searching the hills",
+      "url": "https://indianexpress.com/article/india/air-ambulance-crashes-in-chhattisgarh-search-on-10646217/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T11:29:45.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.32932857410926086,
+      "crawledAt": "2026-04-20T17:01:26.979Z",
+      "id": "3suz3r",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9960657358169556,
+          "index": 10,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9690426588058472,
+          "index": 11,
+          "word": "##hat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9158908724784851,
+          "index": 12,
+          "word": "##tis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9811318516731262,
+          "index": 13,
+          "word": "##garh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:16:27.608Z"
+    },
+    {
       "title": "Hyderbad Police Bust Major Cyber Fraud Network, 52 Arrested Across 9 States",
       "url": "https://www.ndtv.com/india-news/hyderbad-police-bust-major-cyber-fraud-network-52-arrested-across-9-states-11383118#publisher=newsstand",
       "source": "NDTV — India",
@@ -2088,6 +3935,50 @@
       "summary": "Maharashtra state or city-level update.",
       "language": "en",
       "processed_at": "2026-04-20T13:37:35.646Z"
+    },
+    {
+      "title": "Pune Crime Files | How ‘godman’, ‘godwoman’ are out on bail to sell property they got via fraud",
+      "url": "https://indianexpress.com/article/cities/pune/pune-crime-files-godman-godwoman-out-on-temporary-bail-to-sell-properties-and-return-money-to-duped-it-professional-10646444/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-20T10:51:57.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.2538469457205574,
+      "crawledAt": "2026-04-20T17:01:30.944Z",
+      "id": "pac35m",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9529300928115845,
+          "index": 1,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8672984838485718,
+          "index": 2,
+          "word": "Crime",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8777908682823181,
+          "index": 3,
+          "word": "Files",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-20T17:16:27.966Z"
     },
     {
       "title": "India growth resilient, markets near correction: HDFC Securities",
@@ -7946,20 +9837,20 @@
       "processed_at": "2026-04-20T02:22:26.598Z"
     }
   ],
-  "processedAt": "2026-04-20T13:41:34.392Z",
+  "processedAt": "2026-04-20T17:16:28.346Z",
   "categories": [
-    "msme-industry-trade",
-    "maharashtra-state-local",
     "jobs-recruitment",
-    "government-schemes",
     "legal-judiciary",
+    "government-schemes",
+    "maharashtra-state-local",
+    "civic-public-service",
     "education-skills",
-    "policy-regulation",
+    "msme-industry-trade",
     "banking-credit",
-    "civic-public-service"
+    "policy-regulation"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 59,
-  "dailyArticlesCount": 192,
+  "newArticlesProcessed": 45,
+  "dailyArticlesCount": 237,
   "filterDate": "2026-04-20"
 }
