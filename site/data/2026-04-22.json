@@ -1,9 +1,1237 @@
 {
-  "crawledAt": "2026-04-22T16:57:23.316Z",
+  "crawledAt": "2026-04-22T20:53:08.368Z",
   "totalSources": 75,
-  "totalArticles": 203,
+  "totalArticles": 235,
   "relevanceFilterUsed": true,
   "articles": [
+    {
+      "title": "Rediscovering Dakshina Kannada's Sudha Kadi weave",
+      "url": "https://www.deccanherald.com/india/karnataka/rediscovering-dakshina-kannadas-sudha-kadi-weave-3977342",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T20:41:31.000Z",
+      "metaDescription": "Rediscovering the Sudha Kadi weave",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.5933699514016137,
+      "crawledAt": "2026-04-22T20:53:00.931Z",
+      "id": "lubs0j",
+      "entities": [
+        {
+          "entity": "I-PER",
+          "score": 0.9558354020118713,
+          "index": 8,
+          "word": "Kannada",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9974385499954224,
+          "index": 11,
+          "word": "Su",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9166386723518372,
+          "index": 12,
+          "word": "##dha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9961875081062317,
+          "index": 13,
+          "word": "Ka",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:53:10.475Z"
+    },
+    {
+      "title": "Iran US War | Iran Seizes Ships In Hormuz: No Clarity On Talks",
+      "url": "https://www.youtube.com/watch?v=Mn3HieohLmc",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T20:30:06.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.28970266662846034,
+      "crawledAt": "2026-04-22T20:52:39.846Z",
+      "id": "7kg762",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9217331409454346,
+          "index": 1,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9049877524375916,
+          "index": 3,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9368907809257507,
+          "index": 5,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9979920387268066,
+          "index": 10,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9091952443122864,
+          "index": 11,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9959309697151184,
+          "index": 12,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:53:11.146Z"
+    },
+    {
+      "title": "India, Germany ink defence cooperation pacts",
+      "url": "https://indianexpress.com/article/india/india-germany-ink-defence-cooperation-pacts-10650954/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T20:18:08.000Z",
+      "metaDescription": "",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.3954071659643132,
+      "crawledAt": "2026-04-22T20:51:29.040Z",
+      "id": "rdt9hi",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9998514652252197,
+          "index": 1,
+          "word": "India",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9998411536216736,
+          "index": 3,
+          "word": "Germany",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:53:40.680Z"
+    },
+    {
+      "title": "When teachers struggle with English",
+      "url": "https://www.deccanherald.com/opinion/when-teachers-struggle-with-english-3977341",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T20:09:26.000Z",
+      "metaDescription": "When teachers \nstruggle with English",
+      "category": "education-skills",
+      "difficulty": 5,
+      "confidence": 0.4324997368632806,
+      "crawledAt": "2026-04-22T20:53:01.363Z",
+      "id": "umjnak",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9997143745422363,
+          "index": 5,
+          "word": "English",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:53:41.124Z"
+    },
+    {
+      "title": "US Iran War LIVE | US Iran Ceasefire Talks | Strait Of Hormuz | Iran Attacks Ships In Hormuz",
+      "url": "https://www.youtube.com/watch?v=zc2Pe4le1_w",
+      "source": "YouTube — Marathi news (sample channel)",
+      "source_domain": "youtube.com",
+      "source_category": "youtube",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T20:05:05.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.27065868697697504,
+      "crawledAt": "2026-04-22T20:52:40.094Z",
+      "id": "tjl68p",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.9546935558319092,
+          "index": 1,
+          "word": "US",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8077161312103271,
+          "index": 2,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9352670311927795,
+          "index": 3,
+          "word": "War",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8207415342330933,
+          "index": 10,
+          "word": "##ase",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9694466590881348,
+          "index": 15,
+          "word": "Strait",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9011154174804688,
+          "index": 16,
+          "word": "Of",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9902117848396301,
+          "index": 17,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9966074228286743,
+          "index": 18,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9980790615081787,
+          "index": 19,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9293029308319092,
+          "index": 21,
+          "word": "Iran",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9980340003967285,
+          "index": 26,
+          "word": "Ho",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9888231158256531,
+          "index": 27,
+          "word": "##rm",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9971801042556763,
+          "index": 28,
+          "word": "##uz",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:53:54.431Z"
+    },
+    {
+      "title": "Gujarat local polls: AAP's rise eclipses BJP as Congress' bigger worry",
+      "url": "https://www.deccanherald.com/opinion/gujarat-local-polls-aaps-rise-eclipses-bjp-as-congress-bigger-worry-3977340",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T20:04:44.000Z",
+      "metaDescription": "Gujarat local polls: AAP's rise eclipses BJP as Congress' bigger worry",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.9233271853993249,
+      "crawledAt": "2026-04-22T20:53:01.521Z",
+      "id": "wf5nev",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9996172785758972,
+          "index": 1,
+          "word": "Gujarat",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9993669986724854,
+          "index": 5,
+          "word": "AA",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9978669881820679,
+          "index": 6,
+          "word": "##P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9987580180168152,
+          "index": 12,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.971640408039093,
+          "index": 13,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9987883567810059,
+          "index": 15,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " AAP's rise eclipses BJP as Congress' bigger worry as Congress's bigger worry. AAP's increase eclipses the BJP as a bigger worry for Congress.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:54:03.162Z"
+    },
+    {
+      "title": "Elections through my rotors",
+      "url": "https://www.deccanherald.com/opinion/elections-through-my-rotors-3977343",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T20:04:33.000Z",
+      "metaDescription": "Elections through my rotors",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.27745499397555234,
+      "crawledAt": "2026-04-22T20:53:01.715Z",
+      "id": "osrypz",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:54:03.354Z"
+    },
+    {
+      "title": "Road safety through the right lens",
+      "url": "https://www.deccanherald.com/opinion/editorial/road-safety-through-the-right-lens-3977347",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T20:04:24.000Z",
+      "metaDescription": "Road safety through the right lens",
+      "category": "civic-public-service",
+      "difficulty": 4,
+      "confidence": 0.27618057878695107,
+      "crawledAt": "2026-04-22T20:53:01.900Z",
+      "id": "cns6rn",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:54:03.582Z"
+    },
+    {
+      "title": "Dana White confirms UFC will break one of its strictest rules for Trump-linked White House fight night",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/dana-white-confirms-ufc-will-break-one-of-its-strictest-rules-for-trump-linked-white-house-fight-night/articleshow/130448732.cms",
+      "source": "Times of India — India",
+      "source_domain": "timesofindia.indiatimes.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T19:32:55.000Z",
+      "metaDescription": "UFC Freedom 250 will take place on June 14, 2026, at the White House as part of US 250th independence celebrations and President Donald Trump’s 80th birthday. The seven-fight card features major title",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.33686226128670144,
+      "crawledAt": "2026-04-22T20:52:23.997Z",
+      "id": "ee5bnh",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.9997445940971375,
+          "index": 1,
+          "word": "Dana",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9996543526649475,
+          "index": 2,
+          "word": "White",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9941914081573486,
+          "index": 4,
+          "word": "UFC",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.997251033782959,
+          "index": 14,
+          "word": "Trump",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9987030029296875,
+          "index": 17,
+          "word": "White",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9984123706817627,
+          "index": 18,
+          "word": "House",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " UFC Freedom 250 will take place on June 14, 2026, at the White House. The seven-fight card features major title title title.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:54:59.489Z"
+    },
+    {
+      "title": "Programme held for children with developmental needs",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/programme-held-for-children-with-developmental-needs/article70894397.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T19:18:10.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.3537329099337448,
+      "crawledAt": "2026-04-22T20:52:09.615Z",
+      "id": "tzlbn0",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:55:49.147Z"
+    },
+    {
+      "title": "Learning takes backseat with govt lecturers entrusted with census duty in Dakshina Kannada",
+      "url": "https://www.deccanherald.com/india/karnataka/mangaluru/learning-takes-backseat-with-govt-lecturers-entrusted-with-census-duty-in-dakshina-kannada-3977482",
+      "source": "Deccan Herald",
+      "source_domain": "deccanherald.com",
+      "source_category": "national",
+      "source_priority": "low",
+      "pubDate": "2026-04-22T19:04:55.000Z",
+      "metaDescription": "",
+      "category": "education-skills",
+      "difficulty": 4,
+      "confidence": 0.8610732527115054,
+      "crawledAt": "2026-04-22T20:53:02.572Z",
+      "id": "f87ns3",
+      "entities": [],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:56:59.053Z"
+    },
+    {
+      "title": "Mahanadi tribunal gives last opportunity to Odisha, Chhattisgarh to settle river water dispute",
+      "url": "https://www.thehindu.com/news/national/odisha/mahanadi-tribunal-gives-last-opportunity-to-odisha-chhattisgarh-to-settle-river-water-dispute/article70893266.ece",
+      "source": "The Hindu — National feeder",
+      "source_domain": "thehindu.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T19:04:36.000Z",
+      "metaDescription": "The MWDT observed that no concrete proposal for settlement on any of the disputed issues was placed on record by two States",
+      "category": "legal-judiciary",
+      "difficulty": 8,
+      "confidence": 0.2781863423663816,
+      "crawledAt": "2026-04-22T20:52:10.835Z",
+      "id": "w4tpoi",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994419813156128,
+          "index": 9,
+          "word": "Odisha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9992026686668396,
+          "index": 11,
+          "word": "Ch",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.9664940237998962,
+          "index": 13,
+          "word": "##tis",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.975273847579956,
+          "index": 14,
+          "word": "##garh",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " MWDT observed that no concrete proposal for settlement on any of the disputed issues was placed on record by two States.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:57:07.614Z"
+    },
+    {
+      "title": "Crime News : युवकावर नालेगावात धारदार शस्त्राने हल्ला",
+      "url": "https://deshdoot.com/youth-attack-crime-news-ahilyanagar-3/",
+      "source": "Deshdoot — RSS",
+      "source_domain": "deshdoot.com",
+      "source_category": "local_mh",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T18:59:11.000Z",
+      "metaDescription": "अहिल्यानगर |प्रतिनिधी| Ahilyanagar शहरात नालेगाव परिसरातील जनकल्याण रक्तपेढीजवळ एका युवकावर धारदार शस्त्राने वार करण्यात आले. करण दीपक लांडे (वय 21, रा. ठाणगे मळा, नालेगाव) असे जखमी युवकाचे नाव आहे. त",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.36996442194577983,
+      "crawledAt": "2026-04-22T20:51:39.421Z",
+      "id": "2m43gk",
+      "entities": [],
+      "summary": " The Ahilyanagar is located in the city of Ahilyansagar. It is located near the city's largest city, AhilyAnagar.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:57:47.292Z"
+    },
+    {
+      "title": "'Disaster resilience must be built into infra projects,' says Economic affairs secretary Anuradha Thakur",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/disaster-resilience-must-be-built-into-infra-projects-says-economic-affairs-secretary-anuradha-thakur/articleshow/130450425.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T18:44:48.000Z",
+      "metaDescription": "Anuradha Thakur, Economic Affairs Secretary, emphasized integrating disaster resilience into infrastructure planning and funding. She stated that resilience is essential, not optional, and must be inc",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.25406375446083646,
+      "crawledAt": "2026-04-22T20:51:22.343Z",
+      "id": "ao5z15",
+      "entities": [
+        {
+          "entity": "B-PER",
+          "score": 0.999547004699707,
+          "index": 20,
+          "word": "An",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.999355673789978,
+          "index": 23,
+          "word": "T",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9956667423248291,
+          "index": 24,
+          "word": "##hak",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Anuradha Thakur, Economic Affairs Secretary, emphasized integrating disaster resilience into infrastructure planning and funding. She stated that resilience is essential, not optional, and must be inc incurable.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:08.423Z"
+    },
+    {
+      "title": "Sluggish wheat procurement in Madhya Pradesh drags down India’s Central pool sourcing by 16%",
+      "url": "https://indianexpress.com/article/india/sluggish-wheat-procurement-in-madhya-pradesh-drags-down-indias-central-pool-sourcing-by-16-10650892/",
+      "source": "Indian Express — India",
+      "source_domain": "indianexpress.com",
+      "source_category": "national",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T18:43:35.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.35849794900258736,
+      "crawledAt": "2026-04-22T20:51:29.247Z",
+      "id": "fv85r3",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9994973540306091,
+          "index": 9,
+          "word": "Madhya",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-LOC",
+          "score": 0.999299943447113,
+          "index": 10,
+          "word": "Pradesh",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.9994856119155884,
+          "index": 14,
+          "word": "India",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:08.565Z"
+    },
+    {
+      "title": "Finance Ministry plans to broaden Actuaries Act scope beyond insurance, pensions",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/finance-ministry-plans-to-broaden-actuaries-act-scope-beyond-insurance-pensions/articleshow/130450301.cms",
+      "source": "Economic Times — Economy",
+      "source_domain": "economictimes.indiatimes.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T18:42:27.000Z",
+      "metaDescription": "The finance ministry is set to update the Actuaries Act, 2006. This will expand actuarial science to include data science and risk management. A new framework for regulating actuarial firms will also ",
+      "category": "government-schemes",
+      "difficulty": 8,
+      "confidence": 0.9766809419140786,
+      "crawledAt": "2026-04-22T20:51:22.563Z",
+      "id": "fy5xbe",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9963856339454651,
+          "index": 1,
+          "word": "Finance",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9507127404212952,
+          "index": 2,
+          "word": "Ministry",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.992592453956604,
+          "index": 7,
+          "word": "Act",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9604470133781433,
+          "index": 8,
+          "word": "##ua",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9945441484451294,
+          "index": 9,
+          "word": "##ries",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9959413409233093,
+          "index": 10,
+          "word": "Act",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The finance ministry is set to update the Actuaries Act, 2006. This will expand actuarial science to include data science and risk management.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:19.055Z"
+    },
+    {
+      "title": "Gadoli encounter: Court cites self-defence, procedural lapses for acquittal of 5 cops",
+      "url": "https://indianexpress.com/article/cities/mumbai/gadoli-encounter-court-cites-self-defence-procedural-lapses-for-acquittal-of-5-cops-10650890/",
+      "source": "Indian Express — Mumbai",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T18:41:46.000Z",
+      "metaDescription": "",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.8748829190693461,
+      "crawledAt": "2026-04-22T20:51:31.024Z",
+      "id": "axkhg9",
+      "entities": [],
+      "summary": "Legal or legislative development.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:19.217Z"
+    },
+    {
+      "title": "Exclusive-Thoma Bravo nears agreement to turn software firm Medallia over to creditors, source says",
+      "url": "https://www.livemint.com/companies/exclusivethoma-bravo-nears-agreement-to-turn-software-firm-medallia-over-to-creditors-source-says-11776882773777.html",
+      "source": "Livemint — Companies",
+      "source_domain": "livemint.com",
+      "source_category": "msme",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T18:32:53.000Z",
+      "metaDescription": "THOMABRAVO-MEDALLIA:Exclusive-Thoma Bravo nears agreement to turn software firm Medallia over to creditors, source says",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.3283947221921221,
+      "crawledAt": "2026-04-22T20:51:57.342Z",
+      "id": "4pu824",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8758538365364075,
+          "index": 4,
+          "word": "Thom",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9953523278236389,
+          "index": 14,
+          "word": "Medal",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9866095781326294,
+          "index": 15,
+          "word": "##lia",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Source: Source says Medallia has agreed to turn Medalla over to creditors. Source says source says Medalia has been in talks with creditors.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:46.813Z"
+    },
+    {
+      "title": "RBI In Talks With Banks To Assess Risks Posed By Anthropic's Mythos: Report",
+      "url": "https://www.ndtv.com/world-news/rbi-in-talks-with-banks-to-assess-risks-posed-by-anthropics-mythos-report-11395315#publisher=newsstand",
+      "source": "NDTV — Top stories",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T18:32:27.000Z",
+      "metaDescription": "RBI officials have, over the past fortnight, held consultations on Mythos-related risks with counterparts in the US Federal Reserve.",
+      "category": "banking-credit",
+      "difficulty": 5,
+      "confidence": 0.9563361810790106,
+      "crawledAt": "2026-04-22T20:52:28.853Z",
+      "id": "jouym8",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9981944561004639,
+          "index": 1,
+          "word": "RBI",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " RBI officials have held consultations on Mythos-related risks with counterparts in the US Federal Reserve. Over the past fortnight, officials have also held consultations with counterparts with counterparts.",
+      "language": "en",
+      "processed_at": "2026-04-22T20:59:56.751Z"
+    },
+    {
+      "title": "माढा तालुक्यात ‘एक्साईज’च्या अधिकाऱ्यास ढाब्यावर बेदम मारहाण, अंमलदारही जखमी! 'राज्यात सगळीकडे ढाब्यांवर मद्यविक्री, तरी आम्हीच दिसतो का' म्हणून मारहाण",
+      "url": "https://www.esakal.com/maharashtra/in-madha-taluka-an-excise-officer-was-brutally-beaten-up-at-a-dhaba-the-clerk-was-also-injured-he-was-beaten-up-saying-liquor-is-sold-at-dhabas-everywhere-in-the-state-but-we-are-the-only-ones-who-see-it",
+      "source": "eSakal — stories (Marathi)",
+      "source_domain": "esakal.com",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-22T18:25:00.000Z",
+      "metaDescription": "माढा तालुक्यात ‘एक्साईज’च्या अधिकाऱ्यास ढाब्यावर बेदम मारहाण, अंमलदारही जखमी! 'राज्यात सगळीकडे ढाब्यांवर मद्यविक्री, तरी आम्हीच दिसतो का' म्हणून मारहाण",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.30638797155131936,
+      "crawledAt": "2026-04-22T20:50:56.495Z",
+      "id": "i856xm",
+      "entities": [],
+      "summary": " ‘‘’s’ ‘.’t’ '’d’",
+      "language": "en",
+      "processed_at": "2026-04-22T21:00:27.716Z"
+    },
+    {
+      "title": "'Fish Politics' To Infiltrators: NDTV Exclusive With Trinamool's Shashi Panja",
+      "url": "https://www.ndtv.com/india-news/2026-west-bengal-elections-fish-politics-to-infiltrators-ndtv-exclusive-with-trinamools-shashi-panja-11395221#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T18:06:46.000Z",
+      "metaDescription": "Bengal is set to vote in two phases -- April 23 and 29 -- with both parties intensifying efforts in what is expected to be a closely fought contest, particularly in South Bengal, where the TMC has so ",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.369581114144175,
+      "crawledAt": "2026-04-22T20:52:30.849Z",
+      "id": "xo0hta",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.998870313167572,
+          "index": 11,
+          "word": "N",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9377297163009644,
+          "index": 12,
+          "word": "##D",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9969786405563354,
+          "index": 13,
+          "word": "##TV",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9984428286552429,
+          "index": 17,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9967678189277649,
+          "index": 18,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9754427075386047,
+          "index": 19,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9977946281433105,
+          "index": 22,
+          "word": "S",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9799513816833496,
+          "index": 23,
+          "word": "##hashi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9867209196090698,
+          "index": 24,
+          "word": "Pan",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.8455324769020081,
+          "index": 25,
+          "word": "##ja",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Bengal is set to vote in two phases -- April 23 and 29 -- with both parties intensifying efforts in what is expected to be a closely fought contest.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:00:51.677Z"
+    },
+    {
+      "title": "Senior Citizen Savings Scheme vs Fixed Deposits: Which gives better interest rates over five-year investment period?",
+      "url": "https://www.livemint.com/money/personal-finance/senior-citizen-savings-scheme-scss-8-2-pc-fixed-deposit-7-better-interest-rate-5-yr-investment-sbi-hdfc-bank-icici-axis-11776872775879.html",
+      "source": "Livemint — Money",
+      "source_domain": "livemint.com",
+      "source_category": "business",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T17:35:32.000Z",
+      "metaDescription": "Among the safest investment tools in India, bank deposits and the government's Senior Citizen Savings Scheme (SCSS) are the preferred choice for retired investors seeking steady payouts and guaranteed",
+      "category": "banking-credit",
+      "difficulty": 4,
+      "confidence": 0.28331642994070033,
+      "crawledAt": "2026-04-22T20:51:18.376Z",
+      "id": "l4y7j1",
+      "entities": [],
+      "summary": " The government's Senior Citizen Savings Scheme (SCSS) is preferred choice for retired investors seeking steady payouts and guaranteed payouts.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:01:18.001Z"
+    },
+    {
+      "title": "Mumbai Pune Expressway mega block : मोठी बातमी! पुणे-मुंबई एक्सप्रेसवेवर वाहतूक बंद, गुरुवारी आणि शुक्रवारी 'मेगाब्लॉक'",
+      "url": "https://pudhari.news/maharashtra/pune/mumbai-pune-expressway-mega-block-traffic-closed-thursday-friday-rg84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-22T17:21:06.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 5,
+      "confidence": 0.5665799883490621,
+      "crawledAt": "2026-04-22T20:50:57.801Z",
+      "id": "f0vfl5",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.8633050918579102,
+          "index": 1,
+          "word": "Mumbai",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9532784223556519,
+          "index": 2,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:01:28.548Z"
+    },
+    {
+      "title": "Heart Attack and Bypass Surgery | हृदयविकाराचा धोका आणि बायपास शस्त्रक्रिया",
+      "url": "https://pudhari.news/features/arogya/heart-disease-risk-and-bypass-surgery-ap84",
+      "source": "Pudhari — feed (Marathi)",
+      "source_domain": "pudhari.news",
+      "source_category": "marathi",
+      "source_priority": "highest",
+      "pubDate": "2026-04-22T17:17:33.000Z",
+      "metaDescription": "Heart Attack and Bypass Surgery | हृदयविकाराचा धोका आणि बायपास शस्त्रक्रिया",
+      "category": "legal-judiciary",
+      "difficulty": 6,
+      "confidence": 0.31699227593851054,
+      "crawledAt": "2026-04-22T20:50:57.987Z",
+      "id": "hlfxj0",
+      "entities": [
+        {
+          "entity": "B-MISC",
+          "score": 0.8995199799537659,
+          "index": 1,
+          "word": "Heart",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9769675731658936,
+          "index": 2,
+          "word": "Attack",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.984771192073822,
+          "index": 4,
+          "word": "By",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9710789322853088,
+          "index": 5,
+          "word": "##pass",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.8896592855453491,
+          "index": 6,
+          "word": "Surgery",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Heart Attack and Bypass Surgery. Heart Attack. Heart attack and ByPass Surgery. \"Heart Attack and bypass Surgery\"",
+      "language": "en",
+      "processed_at": "2026-04-22T21:01:43.983Z"
+    },
+    {
+      "title": "Enforce 'No PUC, No Fuel' Rule Strictly: Delhi Chief Minister Rekha Gupta",
+      "url": "https://www.ndtv.com/india-news/enforce-no-puc-no-fuel-rule-strictly-delhi-chief-minister-rekha-gupta-11395004#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T17:14:11.000Z",
+      "metaDescription": "Delhi Chief Minister Rekha Gupta on Wednesday directed officials to strictly enforce the 'No PUC, no fuel' rule in the national capital to curb air pollution.",
+      "category": "policy-regulation",
+      "difficulty": 6,
+      "confidence": 0.42165742957990754,
+      "crawledAt": "2026-04-22T20:52:31.236Z",
+      "id": "ids122",
+      "entities": [
+        {
+          "entity": "B-LOC",
+          "score": 0.9995145201683044,
+          "index": 16,
+          "word": "Delhi",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9990694522857666,
+          "index": 19,
+          "word": "Re",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-PER",
+          "score": 0.9946898221969604,
+          "index": 20,
+          "word": "##kha",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-PER",
+          "score": 0.9995324611663818,
+          "index": 21,
+          "word": "Gupta",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Delhi Chief Minister Rekha Gupta directed officials to strictly enforce the 'No PUC, no fuel' rule in the national capital.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:02:07.291Z"
+    },
+    {
+      "title": "Air Force Jets Conduct Precision Drills On UP's Purvanchal Expressway",
+      "url": "https://www.ndtv.com/india-news/air-force-jets-conduct-precision-drills-on-ups-purvanchal-expressway-11394741#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T16:50:19.000Z",
+      "metaDescription": "A diverse fleet of aircraft, including Jaguar, Mirage-2000, Sukhoi-30 MKI, C-295 and AN-32, alongside Mi-17 V5 helicopter, took part in the exercise.",
+      "category": "jobs-recruitment",
+      "difficulty": 6,
+      "confidence": 0.30805312642799404,
+      "crawledAt": "2026-04-22T20:52:31.653Z",
+      "id": "fvyna",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.999043881893158,
+          "index": 1,
+          "word": "Air",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9990951418876648,
+          "index": 2,
+          "word": "Force",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9982926249504089,
+          "index": 3,
+          "word": "Jets",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9825730919837952,
+          "index": 12,
+          "word": "UP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.8115379810333252,
+          "index": 15,
+          "word": "P",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9054936766624451,
+          "index": 19,
+          "word": "Expressway",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " Jaguar, Mirage-2000, Sukhoi-30 MKI, C-295 and AN-32 took part in the exercise.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:02:42.863Z"
+    },
+    {
+      "title": "BJP Issues Show-Cause Notice To MLA Over 'Daddy' Remark, Threats To Cops",
+      "url": "https://www.ndtv.com/india-news/bjp-issues-show-cause-notice-to-mla-pritam-lodhi-over-daddy-remark-threats-to-cops-11394895#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T16:48:38.000Z",
+      "metaDescription": "The action comes after Lodhi's explosive remarks targeting Karera SDOP Ayush Jakhar triggered outrage across political and administrative circles.",
+      "category": "government-schemes",
+      "difficulty": 5,
+      "confidence": 0.25623683719185064,
+      "crawledAt": "2026-04-22T20:52:31.848Z",
+      "id": "pp165e",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9970096349716187,
+          "index": 1,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9730117321014404,
+          "index": 2,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The action comes after Lodhi's explosive remarks targeting Karera's Ayush Jakhar. The remarks triggered outrage across political and administrative circles.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:02:50.480Z"
+    },
     {
       "title": "Nagpur blast case: Court refuses bail to SBL officials, flags major safety lapses",
       "url": "https://indianexpress.com/article/cities/mumbai/nagpur-blast-case-court-refuses-bail-to-sbl-officials-flags-major-safety-lapses-10650828/",
@@ -169,6 +1397,66 @@
       "processed_at": "2026-04-22T16:58:06.535Z"
     },
     {
+      "title": "Amendment to Women Reservation Bill: BJP-Congress tussle in Parliament reaches streets of Pune",
+      "url": "https://indianexpress.com/article/cities/pune/bjp-congress-tussle-pune-women-reservation-bill-amendment-delimitation-maharashtra-seats-10650798/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T16:28:40.000Z",
+      "metaDescription": "",
+      "category": "maharashtra-state-local",
+      "difficulty": 6,
+      "confidence": 0.4169109544562088,
+      "crawledAt": "2026-04-22T20:51:26.834Z",
+      "id": "bbw2lj",
+      "entities": [
+        {
+          "entity": "I-MISC",
+          "score": 0.8676230907440186,
+          "index": 4,
+          "word": "Reservation",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9935120344161987,
+          "index": 7,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.8095125555992126,
+          "index": 8,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9976411461830139,
+          "index": 10,
+          "word": "Congress",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-LOC",
+          "score": 0.995248019695282,
+          "index": 19,
+          "word": "Pune",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Maharashtra state or city-level update.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:02:59.395Z"
+    },
+    {
       "title": "Tamil Nadu election 2026: Chengam constituency residents demand regular water supply for irrigation, job creation",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-demand-regular-water-supply-for-irrigation-job-creation-in-chengam/article70889246.ece",
       "source": "The Hindu — National feeder",
@@ -271,6 +1559,42 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-22T16:59:00.642Z"
+    },
+    {
+      "title": "Serial matrimonial swindler who posed as ISRO scientist in police custody",
+      "url": "https://indianexpress.com/article/cities/pune/fake-isro-scientist-matrimonial-fraud-adarsh-mhatre-arrested-pune-police-10650783/",
+      "source": "Indian Express — Pune",
+      "source_domain": "indianexpress.com",
+      "source_category": "state_mh",
+      "source_priority": "high",
+      "pubDate": "2026-04-22T16:19:17.000Z",
+      "metaDescription": "",
+      "category": "jobs-recruitment",
+      "difficulty": 5,
+      "confidence": 0.2921093683316955,
+      "crawledAt": "2026-04-22T20:51:27.061Z",
+      "id": "lj4rn9",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9990928173065186,
+          "index": 13,
+          "word": "IS",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9909511804580688,
+          "index": 14,
+          "word": "##RO",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": "Public interest update for the MTM community digest.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:02:59.725Z"
     },
     {
       "title": "It’s an idea whose time has come: Oil Ministry on higher ethanol blending",
@@ -379,6 +1703,25 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-22T17:00:01.254Z"
+    },
+    {
+      "title": "Man Can't Be Made To Pay Maintenance For Child Not Biologically His: Top Court",
+      "url": "https://www.ndtv.com/india-news/not-obliged-to-provide-child-maintenance-if-not-biological-father-top-court-11394490#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T16:10:04.000Z",
+      "metaDescription": "The bench of Justices Sanjay Karol and N Koteshwar Singh said this will hold even if the child is born after the man's marriage to her mother. But for this rule to apply, it has to be proved that the ",
+      "category": "legal-judiciary",
+      "difficulty": 4,
+      "confidence": 0.6877402997751675,
+      "crawledAt": "2026-04-22T20:52:32.533Z",
+      "id": "quziz8",
+      "entities": [],
+      "summary": " The bench of Justices Sanjay Karol and N Koteshwar Singh said this will hold even if the child is born after the man's marriage to her mother.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:03:20.716Z"
     },
     {
       "title": "Medical device industry calls for discussion on product mark-ups",
@@ -534,6 +1877,114 @@
       "summary": "Public interest update for the MTM community digest.",
       "language": "en",
       "processed_at": "2026-04-22T17:01:40.086Z"
+    },
+    {
+      "title": "Analysis: How BJP Is Countering Trinamool's Rhetoric With Muted Campaign",
+      "url": "https://www.ndtv.com/india-news/analysis-how-bjp-is-countering-trinamools-rhetoric-with-muted-campaign-11394650#publisher=newsstand",
+      "source": "NDTV — India",
+      "source_domain": "ndtv.com",
+      "source_category": "national",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T15:57:22.000Z",
+      "metaDescription": "The BJP has turned its campaign to local issues rather than mounting an attack on Chief Minister Mamata Banerjee.",
+      "category": "government-schemes",
+      "difficulty": 6,
+      "confidence": 0.304901359294804,
+      "crawledAt": "2026-04-22T20:52:33.117Z",
+      "id": "e9w0j7",
+      "entities": [
+        {
+          "entity": "B-ORG",
+          "score": 0.9992506504058838,
+          "index": 4,
+          "word": "B",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9960678815841675,
+          "index": 5,
+          "word": "##JP",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-ORG",
+          "score": 0.9975706934928894,
+          "index": 9,
+          "word": "Tri",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.9975067973136902,
+          "index": 10,
+          "word": "##nam",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-ORG",
+          "score": 0.982172429561615,
+          "index": 11,
+          "word": "##ool",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "B-MISC",
+          "score": 0.9675325155258179,
+          "index": 14,
+          "word": "R",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9278005957603455,
+          "index": 17,
+          "word": "##ic",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9933247566223145,
+          "index": 18,
+          "word": "With",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9812416434288025,
+          "index": 19,
+          "word": "Mu",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9769400954246521,
+          "index": 20,
+          "word": "##ted",
+          "start": null,
+          "end": null
+        },
+        {
+          "entity": "I-MISC",
+          "score": 0.9332587122917175,
+          "index": 21,
+          "word": "Campaign",
+          "start": null,
+          "end": null
+        }
+      ],
+      "summary": " The BJP has turned its campaign to local issues rather than attacking Chief Minister Mamata Banerjee. The party has been criticised for its anti-government policies.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:03:46.410Z"
     },
     {
       "title": "New online gaming rules: Mandatory registration only for money games",
@@ -729,6 +2180,25 @@
       "summary": "Legal or legislative development.",
       "language": "en",
       "processed_at": "2026-04-22T17:02:18.599Z"
+    },
+    {
+      "title": "Govt notifies new online gaming rules to boost to esports",
+      "url": "https://yourstory.com/2026/04/govt-notifies-new-online-gaming-rules-to-boost-to-esports",
+      "source": "YourStory — startups",
+      "source_domain": "yourstory.com",
+      "source_category": "startup",
+      "source_priority": "medium",
+      "pubDate": "2026-04-22T15:30:29.000Z",
+      "metaDescription": "The new regulations provide clarity on what constitutes non-money online games, while the ban on online money games continues.",
+      "category": "policy-regulation",
+      "difficulty": 4,
+      "confidence": 0.33720506896598484,
+      "crawledAt": "2026-04-22T20:52:44.996Z",
+      "id": "pbe0es",
+      "entities": [],
+      "summary": " The new regulations provide clarity on what constitutes non-money games. The ban on online money games continues to apply.",
+      "language": "en",
+      "processed_at": "2026-04-22T21:04:01.930Z"
     },
     {
       "title": "PMB Connect: How an app aims to be Punjab’s one-stop digital platform for agricultural community",
@@ -8626,21 +10096,21 @@
       "processed_at": "2026-04-22T02:19:54.504Z"
     }
   ],
-  "processedAt": "2026-04-22T17:15:40.402Z",
+  "processedAt": "2026-04-22T21:04:22.596Z",
   "categories": [
     "legal-judiciary",
+    "government-schemes",
+    "education-skills",
+    "maharashtra-state-local",
+    "civic-public-service",
     "policy-regulation",
     "jobs-recruitment",
-    "maharashtra-state-local",
-    "government-schemes",
-    "msme-industry-trade",
-    "education-skills",
-    "civic-public-service",
     "banking-credit",
+    "msme-industry-trade",
     "tax-compliance-gst"
   ],
   "processingMethod": "ai-powered",
-  "newArticlesProcessed": 37,
-  "dailyArticlesCount": 203,
+  "newArticlesProcessed": 32,
+  "dailyArticlesCount": 235,
   "filterDate": "2026-04-22"
 }
