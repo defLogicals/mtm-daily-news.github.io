@@ -47,9 +47,9 @@ async function isDigestRelevantAI(title, description = '') {
     const text = `${title} ${description}`.substring(0, 500);
     
     const binaryCategories = [
-      'News useful for India business policy government jobs education taxes or Maharashtra',
-      'Pure entertainment sports celebrity gossip or lifestyle without economic or policy angle',
-      'Unrelated memes games fiction or foreign celebrity gossip only'
+      'News about Maharashtra state Marathi language or culture or clearly affects Maharashtra readers jobs education local civic law farming',
+      'Gossip entertainment sports IPL celebrity movies web series recipes horoscope without Maharashtra civic angle',
+      'Other states Tamil Nadu Karnataka Kerala Bengal Delhi news or foreign news not tied to India Maharashtra'
     ];
     
     const binaryResult = await relevanceClassifier(text, binaryCategories);
@@ -61,13 +61,13 @@ async function isDigestRelevantAI(title, description = '') {
     
     if (isRelevant) {
       const specificCategories = [
-        'Maharashtra Mumbai Pune state and local governance',
-        'MSME small business industry credit and startups',
-        'Government schemes subsidies and welfare programs',
-        'Jobs recruitment exams and career announcements',
-        'Education admissions scholarships and skills',
-        'Tax GST banking RBI regulation and compliance',
-        'National parliament courts laws and legal updates'
+        'Maharashtra districts Mumbai Pune Nagpur civic governance and local news',
+        'Marathi language literature culture festivals heritage',
+        'Jobs recruitment MPSC exams and careers for Maharashtra students',
+        'Education schools colleges universities skills in Maharashtra',
+        'Laws bills courts high court policies affecting Maharashtra residents',
+        'Government schemes welfare water power disasters for Maharashtra villages and cities',
+        'Agriculture sugarcane cotton farmers rural Maharashtra cooperatives'
       ];
       
       const specificResult = await relevanceClassifier(text, specificCategories);
@@ -153,50 +153,92 @@ function isDigestRelatedItem(item) {
     return false;
   }
   
-  const keywords = [
-    'maharashtra', 'mumbai', 'pune', 'nagpur', 'nashik', 'aurangabad', 'thane',
-    'msme', 'udyam', 'sme', 'startup', 'gst', 'income tax', 'tax ', ' rbi', 'sebi',
-    'scheme', 'subsidy', 'tender', 'recruitment', 'vacancy', 'job ', 'jobs ', 'exam ',
-    'admission', 'scholarship', 'university', 'skill ', 'policy', 'cabinet', 'parliament',
-    'bill ', 'ordinance', 'high court', 'supreme court', 'minister', 'government',
-    'notification', 'circular', 'loan ', 'credit ', 'bank ', 'economy', 'budget',
-    'export', 'import', 'industry', 'factory', 'midc', 'midc', 'fiscal', 'fdi',
-    'regulation', 'compliance', 'employees', 'labour', 'labor', 'wage', 'pension',
-    'farmers', 'agriculture', 'power sector', 'infrastructure'
+  const mhPlaces = [
+    'maharashtra', 'mumbai', 'pune', 'nagpur', 'nashik', 'aurangabad', 'sambhajinagar', 'thane',
+    'kalyan', 'navi mumbai', 'vasai', 'palghar', 'kolhapur', 'solapur', 'amravati', 'akola',
+    'latur', 'beed', 'jalgaon', 'dhule', 'ahmednagar', 'chandrapur', 'gadchiroli', 'ratnagiri',
+    'sindhudurg', 'raigad', 'sangli', 'satara', 'vidarbha', 'marathwada', 'konkan', 'mantralaya',
+    'bmc', 'marathi', 'maratha', 'mpsc', 'midc', 'sugar belt', 'sahyadri'
   ];
-  
-  return keywords.some(keyword => text.includes(keyword));
+  const civic = [
+    'scheme', 'subsidy', 'tender', 'recruitment', 'vacancy', 'exam ', 'admission',
+    'high court', 'bombay high court', 'minister', 'mantralaya', 'zila parishad',
+    'gram panchayat', 'cooperative', 'irrigation', 'dam ', 'metro ', 'msrtc'
+  ];
+  const k = [...mhPlaces, ...civic];
+  return k.some(keyword => text.includes(keyword));
+}
+
+function matchesMaharashtraReaderInterest(titleLower) {
+  const mh = [
+    'maharashtra', 'mumbai', 'pune', 'nagpur', 'nashik', 'aurangabad', 'chhatrapati', 'sambhajinagar',
+    'thane', 'kalyan', 'navi mumbai', 'vasai', 'palghar', 'kolhapur', 'solapur', 'amravati', 'akola',
+    'latur', 'beed', 'jalgaon', 'dhule', 'nandurbar', 'ahmednagar', 'chandrapur', 'gadchiroli',
+    'ratnagiri', 'sindhudurg', 'raigad', 'raigarh', 'sangli', 'satara', 'yavatmal', 'washim',
+    'buldhana', 'hingoli', 'parbhani', 'nanded', 'wardha', 'bhandara', 'gondia', 'osmanabad',
+    'dharashiv', 'vidarbha', 'marathwada', 'konkan', 'kokan', 'mantralaya', 'bmc', 'mmrda',
+    'msrtc', 'mpsc', 'marathi', 'maratha', 'western maharashtra', 'desh', 'swarajya'
+  ];
+  if (mh.some(x => titleLower.includes(x))) return true;
+  const examCareer = [
+    'mpsc', 'maharashtra board', 'ssc ', 'hsc ', 'state board', 'cap exam', 'mahacet'
+  ];
+  return examCareer.some(x => titleLower.includes(x));
+}
+
+function otherStateNoise(titleLower) {
+  const noise = [
+    'tamil nadu', 'karnataka ', 'kerala ', 'west bengal', 'telangana ', 'andhra',
+    'bangalore', 'chennai', 'kolkata ', 'hyderabad ', 'gujarat assembly', 'punjab ',
+    'assam ', 'bihar ', 'odisha ', 'uttarkhand', 'uttar pradesh assembly'
+  ];
+  return noise.some(n => titleLower.includes(n));
 }
 
 function isDigestRelevantTitle(title, source) {
   const src = source.toLowerCase();
-  const trusted = [
-    'pib', 'rbi', 'prs', 'dd news', 'lokmat', 'esakal', 'pudhari', 'tarun bharat',
-    'nagpur today', 'live nagpur', 'punekar', 'mumbai live', 'navakal', 'deshdoot',
-    'dainik ekmat', 'nagar live', 'jalgaon', 'beed reporter', 'news18',
-    'times now marathi', 'tak.live', 'agrowon',
-    'freshersvoice', 'pagalguy', 'yourstory', 'inc42', 'reddit', 'pib india', 'aaple sarkar'
+  const trustedMarathiMh = [
+    'lokmat', 'esakal', 'pudhari', 'tarun bharat', 'news18', 'times now marathi', 'tak.live',
+    'agrowon', 'nagpur today', 'live nagpur', 'punekar', 'mumbai live', 'navakal', 'deshdoot',
+    'dainik ekmat', 'nagar live', 'jalgaon', 'beed reporter', 'aaple sarkar', 'maayboli',
+    'misalpav', 'marathi srushti', 'lokmat times', 'reddit', 'zee news marathi',
+    'oneindia marathi', 'gadgets360 marathi', 'medium — tag', 'medium'
   ];
-  if (trusted.some(t => src.includes(t))) {
+  if (trustedMarathiMh.some(t => src.includes(t))) {
     return true;
   }
+  if (src.includes('youtube') && (src.includes('marathi') || src.includes('pib'))) {
+    // PIB YouTube still filtered by title for MH relevance below
+    if (src.includes('marathi')) return true;
+  }
+  if (src.includes('indian express') && (src.includes('mumbai') || src.includes('pune'))) {
+    return true;
+  }
+  if (src.includes('times of india') && src.includes('mumbai')) {
+    return true;
+  }
+
   const titleLower = title.toLowerCase();
-  const keywords = [
-    'maharashtra', 'mumbai ', 'pune', 'nagpur',
-    'msme', 'udyam', 'sme ', 'startup', 'gst', 'income tax', 'tax ', 'rbi', 'sebi',
-    'scheme', 'subsidy', 'tender', 'recruitment', 'vacancy', 'job ', 'jobs ', 'exam ',
-    'admission', 'scholarship', 'policy', 'cabinet', 'parliament',
-    'bill ', 'court', 'minister', 'government', 'notification', 'loan ', ' bank',
-    'economy', 'budget', 'export', 'industry', 'regulation', 'compliance',
-    'employees', 'labour', 'labor', 'wage', 'pension', 'india ', 'indian ',
-    'education', 'university', 'college', 'skill india', 'skill development'
+  if (otherStateNoise(titleLower) && !matchesMaharashtraReaderInterest(titleLower)) {
+    return false;
+  }
+  if (matchesMaharashtraReaderInterest(titleLower)) {
+    return true;
+  }
+  // National wires (PIB, DD, PRS): keep only if headline ties to MH or all-India law readers care
+  const nationalHooks = [
+    'maharashtra', 'mumbai', 'pune', 'nagpur', 'marathi', 'bombay high court', 'marathwada', 'vidarbha'
   ];
-  return keywords.some(k => titleLower.includes(k));
+  if ((src.includes('pib') || src.includes('dd news') || src.includes('prs')) &&
+      nationalHooks.some(h => titleLower.includes(h))) {
+    return true;
+  }
+  return false;
 }
 
 // Main crawl function
 async function crawlAllSources() {
-  console.log('📰 Starting MTM digest crawl...');
+  console.log('📰 Starting Marathi Maharashtra digest crawl...');
   
   // Initialize zero-shot relevance filter
   const relevanceFilterReady = await initializeRelevanceFilter();
@@ -343,16 +385,20 @@ async function crawlFeed(source, useRelevanceFilter = false, stats = null) {
         const basicDigest = isDigestRelevantTitle(title, source.name);
         
         if (source.category === 'jobs' || source.category === 'education') {
+          const tl = title.toLowerCase();
           const broad = [
             'job', 'exam', 'result', 'admission', 'recruit', 'vacancy', 'course',
             'scholarship', 'university', 'college', 'skill', 'career', 'trainee'
           ];
-          const broadHit = broad.some(k => title.toLowerCase().includes(k.trim()));
-          isRelevant = basicDigest || broadHit;
+          const broadHit = broad.some(k => tl.includes(k.trim()));
+          const examAllIndia = ['mpsc', 'upsc', 'ssc ', 'rrb ', 'ibps', 'gate ', 'jee ', 'neet', 'cat ']
+            .some(k => tl.includes(k.trim()));
+          isRelevant = basicDigest || (broadHit && (matchesMaharashtraReaderInterest(tl) || examAllIndia));
         } else if (source.category === 'reddit') {
           const rkeys = [
             'job', 'hiring', 'recruit', 'vacancy', 'exam', 'government', 'policy', 'scheme',
-            'mumbai', 'pune', 'maharashtra', 'thane', 'nagpur', 'nashik', 'msme', 'tax', 'metro', 'bmc'
+            'mumbai', 'pune', 'maharashtra', 'thane', 'nagpur', 'nashik', 'metro', 'bmc',
+            'vidarbha', 'marathwada', 'konkan', 'marathi', 'mpsc', 'mantralaya'
           ];
           isRelevant = basicDigest || rkeys.some(k => title.toLowerCase().includes(k));
         } else {

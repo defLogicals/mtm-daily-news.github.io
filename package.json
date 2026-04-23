@@ -1,7 +1,7 @@
 {
   "name": "mtm-daily-news",
   "version": "2.5.0",
-  "description": "MTM community digest: Maharashtra-focused RSS, local LLM tags, static JSON + site for the MTM app",
+  "description": "MTM Community Feed",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "dev": ".venv/bin/python -m http.server 8000 --directory site --bind 0.0.0.0",
     "test": "node scripts/crawl.js && node scripts/process-clean.js && node scripts/build-site.js"
   },
-  "keywords": ["mtm", "maharashtra", "msme", "rss", "digest", "github-pages"],
+  "keywords": ["MTM", "Community", "Feed"],
   "author": "MTM / Deflogicals",
   "license": "MIT",
   "dependencies": {

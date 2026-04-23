@@ -223,12 +223,12 @@ async function buildSite(selectedDate = null) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MTM Samuday Digest — policy, business & opportunities</title>
-  <meta name="description" content="MTM digest: ${articles.length} curated items for Maharashtra MSME, students & job seekers. Updated ${new Date(crawledAt).toLocaleDateString()}.">
+  <title>MTM Community Feed</title>
+  <meta name="description" content="Marathi Maharashtra digest: ${articles.length} curated items for Marathi-speaking readers in Maharashtra—local news, jobs, education, law, and culture. Updated ${new Date(crawledAt).toLocaleDateString()}.">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="MTM Samuday Digest">
-  <meta property="og:description" content="Curated RSS digest from ${uniqueSourceCount}+ Indian policy & business sources for the MTM app community">
+  <meta property="og:title" content="Marathi Maharashtra Digest">
+  <meta property="og:description" content="Curated RSS for Marathi-speaking Maharashtra: local news, jobs, exams, schemes, law, and culture (${uniqueSourceCount}+ sources)">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://mtm-daily-news.github.io">
   
@@ -282,7 +282,7 @@ async function buildSite(selectedDate = null) {
           </svg>
         </div>
         <div class="brand-text">
-          <div class="brand-title">MTM Samuday Digest</div>
+          <div class="brand-title">Marathi Maharashtra Digest</div>
           <div class="brand-subtitle brand-subtitle-full">Updates for Maharashtra — MSME, jobs, education & policy • ${articles.length}+ items</div>
           <div class="brand-subtitle brand-subtitle-medium">${articles.length}+ digest items</div>
           <div class="brand-subtitle brand-subtitle-short">${articles.length}+ stories</div>
@@ -438,7 +438,7 @@ async function buildSite(selectedDate = null) {
         <div class="mobile-context-section">
           <div class="mobile-context-card">
             <div class="context-header">
-              <h1>MTM Samuday Digest</h1>
+              <h1>Marathi Maharashtra Digest</h1>
               <p class="context-subtitle">From ${uniqueSourceCount}+ external sources • For manual QA same as the mobile JSON feed</p>
             </div>
             
@@ -541,7 +541,7 @@ async function buildSite(selectedDate = null) {
    <footer class="site-footer">
      <div class="container">
        <p class="mb-0 text-center">
-         © MTM digest • Information only, not legal advice • 
+         © Marathi Maharashtra digest • Information only, not legal advice • 
          <a href="https://github.com/deflogicals/mtm-daily-news.github.io" target="_blank" rel="noopener" class="footer-link">
            Source on GitHub
          </a>

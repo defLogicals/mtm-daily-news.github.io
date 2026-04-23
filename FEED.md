@@ -1,4 +1,6 @@
-# MTM app feed (static JSON)
+# Marathi Maharashtra app feed (static JSON)
+
+This project builds a **Marathi Maharashtra digest**: news, jobs, exams, law and policy that matters to **Marathi-speaking readers in Maharashtra** (local, cultural, and civic focus). Pan-India English feeds are intentionally minimal; national items (e.g. PIB, DD, PRS) are kept only when crawl-time filters show Maharashtra or Marathi relevance.
 
 After each GitHub Actions run or local `npm test`, the site under `site/` is deployed to GitHub Pages.
 
@@ -36,15 +38,15 @@ Disclaimer: discovery only; not legal, tax, or career advice.
 
 ## Sources configuration (`sources.json`)
 
-- **`sources`**: primary English + Marathi + national feeds (see file for full list).
-- **`medium_blogs`**, **`article_sources`** (e.g. Reddit), **`youtube_channels`**, **`newsletters`**, **`developer_blogs`**, **`academic_sources`**, **`job_opportunity`**: merged into the same crawl as `sources` (shape: `name`, `url`, `category`, `priority`).
+- **`sources`**: Marathi + Maharashtra regional outlets, limited city-scoped English (Mumbai/Pune), and a small set of national legal/policy RSS (PIB, DD, PRS) filtered at crawl time for MH relevance.
+- **`medium_blogs`**, **`article_sources`** (Reddit: MH cities only), **`youtube_channels`**, **`newsletters`** (optional), **`developer_blogs`** (optional), **`academic_sources`**, **`job_opportunity`**: merged into the same crawl as `sources` (shape: `name`, `url`, `category`, `priority`).
 - **`priority`**: `highest` (Marathi + core discussion feeds) → `high` → `medium` → `low`. Crawl order follows this so Marathi-heavy feeds run first in each batch.
 
 ## Jobs & LinkedIn
 
 - **LinkedIn** does not offer a stable, public RSS for job searches or company updates that fits this repo’s RSS-only crawler. To use LinkedIn you would need their **official API** (partnership / compliance) or a separate backend—not something we can add as a feed URL here.
-- **Job portals**: Where an RSS exists, it is included (e.g. ET Jobs, Freshersvoice, Pagalguy). **Indeed** and some others often return **403/404 to automated clients**; if a URL fails in Actions, replace it in `sources.json` or use another portal’s feed.
+- **Job portals**: Where an RSS exists, it is included (e.g. ET Jobs, Freshersvoice, Pagalguy). Items are filtered toward Maharashtra relevance or widely taken exams (MPSC, SSC, etc.). **Indeed** and some others often return **403/404 to automated clients**; if a URL fails in Actions, replace it in `sources.json` or use another portal’s feed.
 
 ## Marathi & local
 
-- Marathi titles are filtered mainly by the **relevance classifier** and trusted-source rules; keyword fallbacks are Latin-script oriented, so keep important Marathi outlets in `sources.json` and rely on the model for noise control.
+- Titles are filtered with a **Maharashtra / Marathi reader** relevance model plus keyword fallbacks (Latin transliterations and place names). Trusted Marathi and MH-local sources skip the strict title gate; PIB/DD and other national feeds require MH hooks in the headline or description keyword path.

@@ -161,15 +161,15 @@ function updatePageMetadata(selectedDate) {
   // Update meta description
   const metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) {
-    const baseDesc = `MTM digest: ${articleCount} items from ${sourceCount}+ sources (policy, jobs, MSME, Maharashtra).`;
+    const baseDesc = `Marathi Maharashtra digest: ${articleCount} items from ${sourceCount}+ sources (local news, jobs, education, law, culture).`;
     const dateDesc = isAll ? 'All articles' : `Updated ${shortDateText}`;
     metaDesc.setAttribute('content', `${baseDesc} ${dateDesc}.`);
   }
   
   // Update page title
   const title = isAll 
-    ? 'MTM Samuday Digest — policy, business & opportunities'
-    : `MTM Samuday Digest — ${dateText}`;
+    ? 'Marathi Maharashtra Digest — news, jobs & civic life'
+    : `Marathi Maharashtra Digest — ${dateText}`;
   document.title = title;
   
   // Update all brand subtitle variants

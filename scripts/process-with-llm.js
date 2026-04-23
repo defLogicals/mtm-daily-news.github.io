@@ -53,18 +53,16 @@ process.stderr.write = function(chunk, encoding, fd) {
   return originalStderrWrite.call(process.stderr, chunk, encoding, fd);
 };
 
-// Categories for MTM digest (Maharashtra, MSME, jobs, policy)
+// Zero-shot labels for Marathi Maharashtra digest (stored as article.category)
 const categories = [
-  'maharashtra-state-local',
-  'msme-industry-trade',
-  'government-schemes',
-  'jobs-recruitment',
-  'education-skills',
-  'tax-compliance-gst',
-  'banking-credit',
-  'policy-regulation',
-  'legal-judiciary',
-  'civic-public-service'
+  'maharashtra-local-civic',
+  'marathi-language-culture',
+  'education-careers-mh',
+  'jobs-exams-mh',
+  'law-policy-india-mh',
+  'schemes-welfare-mh',
+  'agriculture-rural-mh',
+  'livelihood-economy-mh'
 ];
 
 let classifier, summarizer, ner;
@@ -101,80 +99,93 @@ async function initializeModels() {
   }
 }
 
-// Rule-based category classification as fallback
+// Rule-based category classification as fallback (aligned with `categories`)
 function classifyCategory(title, source) {
   const titleLower = title.toLowerCase();
   const sourceLower = source.toLowerCase();
-  
-  if (titleLower.match(/\b(high court|supreme court|ordinance|petition|verdict|bail)\b/) ||
+
+  const mhInTitle =
+    /\b(maharashtra|mumbai|pune|nagpur|nashik|thane|vidarbha|marathwada|konkan|marathi|maratha|bmc|mantralaya|midc)\b/
+      .test(titleLower);
+  const mhSource =
+    sourceLower.includes('lokmat') || sourceLower.includes('esakal') || sourceLower.includes('pudhari') ||
+    sourceLower.includes('tarun bharat') || sourceLower.includes('agrowon') || sourceLower.includes('mumbai') ||
+    sourceLower.includes('pune') || sourceLower.includes('nagpur') || sourceLower.includes('maharashtra') ||
+    sourceLower.includes('aaple') || sourceLower.includes('nashik') || sourceLower.includes('vidarbha') ||
+    sourceLower.includes('marathi') || sourceLower.includes('local') || sourceLower.includes('nagar live');
+
+  if (titleLower.match(/\b(sahitya|संस्कृती|वाड्मय|गाणे|सण|utsav|festival|folk|literature)\b/) ||
+      titleLower.match(/\b(marathi language|marathi news|culture poem)\b/) ||
+      sourceLower.includes('maayboli') || sourceLower.includes('misalpav') || sourceLower.includes('marathi srushti')) {
+    return { category: 'marathi-language-culture', confidence: 0.86 };
+  }
+
+  if (titleLower.match(/\b(sugarcane|कापूस|पेरणी|पाऊस|shower|hail|crop|farm|कृषि|orchard|irrigation)\b/) ||
+      sourceLower.includes('agrowon')) {
+    return { category: 'agriculture-rural-mh', confidence: 0.84 };
+  }
+
+  if (titleLower.match(/\b(recruitment|vacancy|mpsc|exam date|admit card|notification|bharti)\b/) ||
+      sourceLower.includes('jobs') || sourceLower.includes('freshers') || sourceLower.includes('pagalguy')) {
+    return { category: 'jobs-exams-mh', confidence: 0.86 };
+  }
+
+  if (titleLower.match(/\b(admission|scholarship|board exam|university|college|education|ssc |hsc |upsc|mpsc)\b/) ||
+      sourceLower.includes('education') || (sourceLower.includes('medium') && sourceLower.includes('mpsc'))) {
+    return { category: 'education-careers-mh', confidence: 0.84 };
+  }
+
+  if (titleLower.match(/\b(scheme|subsidy|welfare|grant|ration card|ayushman|housing scheme)\b/) ||
+      sourceLower.includes('aaple sarkar')) {
+    return { category: 'schemes-welfare-mh', confidence: 0.84 };
+  }
+
+  if (titleLower.match(/\b(high court|supreme court|ordinance|petition|verdict|bail|parliament|cabinet)\b/) ||
+      titleLower.match(/\bbill\b/) || titleLower.match(/\bact\b/) ||
       sourceLower.includes('prs')) {
-    return { category: 'legal-judiciary', confidence: 0.88 };
+    const c = mhInTitle || mhSource || sourceLower.includes('prs') ? 0.86 : 0.62;
+    return { category: 'law-policy-india-mh', confidence: c };
   }
-  
-  if (titleLower.match(/\b(recruitment|vacancy|ssc|upsc|exam date|admit card|notification)\b/) ||
-      sourceLower.includes('jobs')) {
-    return { category: 'jobs-recruitment', confidence: 0.88 };
+
+  if (sourceLower.includes('pib') || sourceLower.includes('dd news')) {
+    if (mhInTitle || mhSource || titleLower.match(/\b(minister|cabinet|parliament|governor|president visit maharashtra)\b/)) {
+      return { category: 'law-policy-india-mh', confidence: 0.74 };
+    }
   }
-  
-  if (titleLower.match(/\b(admission|scholarship|skill|university|board exam|ugc|education)\b/) ||
-      sourceLower.includes('education')) {
-    return { category: 'education-skills', confidence: 0.85 };
+
+  if (titleLower.match(/\b(price|market|exports|industry|factory|udyam|startup|bank loan|credit|gst)\b/) &&
+      (mhInTitle || mhSource)) {
+    return { category: 'livelihood-economy-mh', confidence: 0.78 };
   }
-  
-  if (titleLower.match(/\b(maharashtra|mumbai|pune|thane|nagpur|bmc|mantralaya|shiv sena|ncp)\b/) ||
-      sourceLower.includes('mumbai') || sourceLower.includes('pune') || sourceLower.includes('state_mh')) {
-    return { category: 'maharashtra-state-local', confidence: 0.85 };
+
+  if (mhInTitle ||
+      titleLower.match(/\b(mumbai|pune|nagpur|nashik|thane|kalyan|metro |nmmc|zila|panchayat|smart city)\b/) ||
+      sourceLower.includes('mumbai') || sourceLower.includes('pune') || sourceLower.includes('nagpur') ||
+      sourceLower.includes('state_mh') || sourceLower.includes('local')) {
+    return { category: 'maharashtra-local-civic', confidence: 0.84 };
   }
-  
-  if (titleLower.match(/\b(gst|income tax|audit|compliance|itr|duty)\b/)) {
-    return { category: 'tax-compliance-gst', confidence: 0.85 };
-  }
-  
-  if (titleLower.match(/\b(rbi|repo rate|credit|npas|bank loan|nbfc|interest rate)\b/) ||
-      sourceLower.includes('rbi')) {
-    return { category: 'banking-credit', confidence: 0.85 };
-  }
-  
-  if (titleLower.match(/\b(msme|udyam|startup|sme|industry|manufacturing|export|midc)\b/) ||
-      sourceLower.includes('companies')) {
-    return { category: 'msme-industry-trade', confidence: 0.82 };
-  }
-  
-  if (titleLower.match(/\b(scheme|subsidy|pm-?kisan|ayushman|mgnrega|welfare|grant)\b/)) {
-    return { category: 'government-schemes', confidence: 0.84 };
-  }
-  
-  if (titleLower.match(/\b(power outage|water supply|disaster|relief|health alert|weather warning)\b/)) {
-    return { category: 'civic-public-service', confidence: 0.78 };
-  }
-  
-  if (titleLower.match(/\b(cabinet|ministry|policy|parliament|bill |ordinance|notification|circular)\b/) ||
-      sourceLower.includes('pib')) {
-    return { category: 'policy-regulation', confidence: 0.8 };
-  }
-  
-  return { category: 'policy-regulation', confidence: 0.55 };
+
+  return { category: 'maharashtra-local-civic', confidence: 0.52 };
 }
 
 function extractEntities(title) {
   const entities = [];
   const orgs = [
-    'RBI', 'SEBI', 'GST Council', 'Ministry of Finance', 'Ministry of MSME',
-    'Maharashtra', 'Mumbai', 'Pune', 'Nagpur', 'State Bank of India', 'SBI',
-    'NABARD', 'SIDBI', 'UIDAI', 'EPFO', 'ESIC', 'NHAI', 'NHM', 'PIB'
+    'Maharashtra', 'Mumbai', 'Pune', 'Nagpur', 'Nashik', 'Thane', 'BMC', 'Mantralaya',
+    'Bombay High Court', 'MPSC', 'PIB', 'NABARD', 'MSRTC', 'MMRDA', 'MIDC', 'Zilla Parishad'
   ];
   orgs.forEach(org => {
     if (title.toLowerCase().includes(org.toLowerCase())) {
       entities.push({ text: org, label: 'ORG' });
     }
   });
-  const schemes = ['GST', 'Udyam', 'MSME', 'PM-KISAN', 'Ayushman', 'MUDRA', 'Stand Up India'];
+  const schemes = ['Ayushman', 'PM-KISAN', 'PM-Awas', 'NREGS'];
   schemes.forEach(s => {
     if (title.toLowerCase().includes(s.toLowerCase())) {
       entities.push({ text: s, label: 'MISC' });
     }
   });
-  const tags = ['recruitment', 'tender', 'policy', 'budget', 'court', 'exam'];
+  const tags = ['recruitment', 'tender', 'policy', 'court', 'exam', 'मराठी'];
   tags.forEach(tag => {
     if (title.toLowerCase().includes(tag)) {
       entities.push({ text: tag, label: 'TECH' });
@@ -253,22 +264,25 @@ async function generateSummary(title, metaDescription, source, useAI = false) {
 
 function createTopicBasedSummary(title) {
   const titleLower = title.toLowerCase();
-  if (titleLower.match(/\b(recruitment|vacancy|exam|ssc|upsc|admit)\b/)) {
-    return 'Update on jobs, recruitment, or competitive exams relevant to readers.';
+  if (titleLower.match(/\b(recruitment|vacancy|exam|mpsc|ssc|upsc|admit)\b/)) {
+    return 'Jobs, recruitment, or exam update for Maharashtra and Marathi-speaking readers.';
   }
-  if (titleLower.match(/\b(scheme|subsidy|welfare|grant|ministry)\b/)) {
-    return 'Government scheme, welfare, or policy announcement.';
+  if (titleLower.match(/\b(scheme|subsidy|welfare|grant|aaple|panchayat)\b/)) {
+    return 'Welfare scheme or civic programme relevant to Maharashtra.';
   }
-  if (titleLower.match(/\b(rbi|repo|gst|tax|bank|credit)\b/)) {
-    return 'Banking, tax, or regulatory update for businesses and households.';
+  if (titleLower.match(/\b(sugar|crop|farm|rain|hail|irrigation)\b/)) {
+    return 'Agriculture or rural Maharashtra update.';
   }
-  if (titleLower.match(/\b(maharashtra|mumbai|pune|thane)\b/)) {
-    return 'Maharashtra state or city-level update.';
+  if (titleLower.match(/\b(maharashtra|mumbai|pune|nagpur|vidarbha|marathwada|konkan)\b/)) {
+    return 'Maharashtra local or regional news.';
   }
-  if (titleLower.match(/\b(court|ordinance|bill|parliament)\b/)) {
-    return 'Legal or legislative development.';
+  if (titleLower.match(/\b(court|ordinance|bill|high court|parliament)\b/)) {
+    return 'Law or policy news with relevance for state readers.';
   }
-  return 'Public interest update for the MTM community digest.';
+  if (titleLower.match(/\b(marathi|साहित्य|culture|language)\b/)) {
+    return 'Marathi language or cultural note.';
+  }
+  return 'Update curated for the Marathi Maharashtra digest.';
 }
 
 // Main processing function
